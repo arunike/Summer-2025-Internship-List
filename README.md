@@ -48,5 +48,5 @@ This repo provides information about various software engineer related internshi
 
 ## Contributing
 
-If you would like to contribute to this repo, please follow the [contributing guideline]((https://github.com/arunike/Summer-2025-Internship-List/blob/main/CONTRIBUTING.md)) to submit a **issue** with any additional internship opportunities you may have come across. Your contributions are greatly appreciated!
+If you would like to contribute to this repo, please follow the [contributing guideline](https://github.com/arunike/Summer-2025-Internship-List/blob/main/CONTRIBUTING.md) to submit a **issue** with any additional internship opportunities you may have come across. Your contributions are greatly appreciated!
 
