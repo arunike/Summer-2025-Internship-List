@@ -45,8 +45,9 @@ This repo provides information about various software engineer related internshi
 |DRW|Software Developer Intern||Chicago, IL|Open✅|07/08/2024|[Apply Here](https://drw.com/work-at-drw/listings/software-developer-intern-2909276)|
 |PDT Partners|Software Engineering Intern|68 - 86|New York, NY|Open✅|07/09/2024|[Apply Here](https://boards.greenhouse.io/pdtpartners/jobs/4423823)|
 |Caterpillar|Digital and Analytics Intern|22.60 - 40.70||Open✅|07/09/2024|[Apply Here](https://careers.caterpillar.com/en/jobs/job/r0000264456-2025-summer-corporate-intern-digital-and-analytics/)|
+|L3Harris|Software Engineering 1 Intern||Los Angeles, CA|Open✅|07/13/2024|[Apply Here](https://careers.l3harris.com/job/canoga-park/intern-software-engineering-1/4832/67443054544)|
 
 ## Contributing
 
-If you would like to contribute to this repo, please follow the [contributing guideline](https://github.com/arunike/Summer-2025-Internship-List/blob/main/CONTRIBUTING.md) to submit a **issue** with any additional internship opportunities you may have come across. Your contributions are greatly appreciated!
+If you would like to contribute to this repo, please follow the [contributing guideline]((https://github.com/arunike/Summer-2025-Internship-List/blob/main/CONTRIBUTING.md)) to submit a **issue** with any additional internship opportunities you may have come across. Your contributions are greatly appreciated!
 
