@@ -12,6 +12,8 @@ This repo provides information about various software engineer related internshi
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|-------|-------|
 |Tiktok|Intern|45 - 60||Open✅|07/17/2024|[Apply Here](https://careers.tiktok.com/position?keywords=&category=&location=&project=7322364514224687370&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)|
+|Leidos|Software Engineer Intern|25.36 - 42.23|Vista, CA|Open✅|07/17/2024|[Apply Here](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Software-Engineer-Intern_R-00139462)|
+|Wells Fargo|Technology Summer Intern - Early Careers (Software or Data Engineer)|48.08 - 60.10||Open🛂✅|07/17/2024|[Apply Here](https://www.wellsfargojobs.com/en/jobs/r-385829/2025-technology-summer-internship-early-careers-software-or-data-engineer)|
 |Akuna Capital|Software Engineer Intern, C++||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6080090)|
 |↳|Software Engineer Intern, Python||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6037985)|
 |↳|Software Engineer Intern, Data Engineering||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6069872)|
