@@ -7,14 +7,20 @@ This repo provides information about various software engineer related internshi
 
 🛂 - No Sponsorship
 
+Blank in the "Hourly Pay ($)" column indicates that the pay rate is not provided.
+
+Blank in the "Location" column indicates that there is mulitple location.
+
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|-------|-------|
 |Tiktok|Intern|45 - 60||Open✅|07/17/2024|[Apply Here](https://careers.tiktok.com/position?keywords=&category=&location=&project=7322364514224687370&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)|
 |Leidos|Software Engineer Intern|25.36 - 42.23|Vista, CA|Open✅|07/17/2024|[Apply Here](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Software-Engineer-Intern_R-00139462)|
-|Wells Fargo|Technology Summer Intern - Early Careers (Software or Data Engineer)|48.08 - 60.10||Open🛂✅|07/17/2024|[Apply Here](https://www.wellsfargojobs.com/en/jobs/r-385829/2025-technology-summer-internship-early-careers-software-or-data-engineer)|
-|Akuna Capital|Software Engineer Intern, C++||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6080090)|
+|Wells Fargo|Technology Summer Intern - Early Careers (Software or Data Engineer)|48.08 - 60.10||Open🛂✅|07/17/2024|[Apply Here](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2025-Technology-Summer-Internship---Early-Careers--Software-or-Data-Engineer-_R-385829)|
+|Akuna Capital|Performance Engineer Intern||Chicago, IL|Open✅|07/17/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=5744527)|
+|↳|Quantitative Development Intern||Chicago, IL|Open✅|07/17/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=5744527)|
+|↳|Software Engineer Intern, C++||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6080090)|
 |↳|Software Engineer Intern, Python||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6037985)|
 |↳|Software Engineer Intern, Data Engineering||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6069872)|
 |IMC|Software Engineer Intern||Chicago, IL|Open✅|07/15/2024|[Apply Here](https://boards.greenhouse.io/imc/jobs/4347765101)|
@@ -32,7 +38,7 @@ This repo provides information about various software engineer related internshi
 |↳|Software Engineer Intern|62.5|New York, NY|Open✅|07/01/2024|[Apply Here](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d)|
 |JP Morgan|Software Engineer Intern|||Open🛂✅|07/01/2024|[Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527407)|
 |↳|Software Engineer Intern (Code for Good)|||Open🛂✅|07/01/2024|[Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527899/?utm_medium=jobshare)|
-|PwC|Products & Technology Intern|||Open🛂✅|06/26/2024|[Apply Here](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Start-Internship-Summer-2025---Products---Technology_535273WD-1?source=US_ENT_Careers&utm_source=Simplify&ref=Simplify)|
+|PwC|Products & Technology Intern|||Closed🔒|06/26/2024||
 |D. E. Shaw|Quantitative Analyst Intern|131.25|New York, NY|Open✅|06/25/2024|[Apply Here](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2025-5134)|
 |Apple|Machine Learning / AI Intern|||Open✅|06/24/2024|[Apply Here](https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships)|
 |Google|Software Engineering Intern, BS|47 - 61||Closed🔒|06/18/2024||
