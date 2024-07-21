@@ -9,7 +9,7 @@ This repo provides information about various software engineer related internshi
 
 Blank in the "Hourly Pay ($)" column indicates that the pay rate is not provided.
 
-Blank in the "Location" column indicates that there is mulitple location.
+Blank in the "Location" column indicates that there is mulitple locations or the location is unknown.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
