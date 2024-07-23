@@ -15,8 +15,11 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|-------|-------|
+|Antimetal|Engineering Intern|50|New York, NY|Open✅|07/23/2024|[Apply Here](https://jobs.ashbyhq.com/antimetal/a9081c17-93b4-4db9-a1d2-0d608d53de0c)|
+|MachineFi Lab|Developer Relations Intern||Remote|Open✅|07/23/2024|[Apply Here](https://jobs.lever.co/machinefilab/8009f812-9a24-49d5-beb4-9f22a60db006)|
+|Databento|Software Engineer Intern||Remote|Open✅|07/19/2024|[Apply Here](https://boards.greenhouse.io/databento/jobs/4374815)|
 |Tiktok|Intern|45 - 60||Open✅|07/17/2024|[Apply Here](https://careers.tiktok.com/position?keywords=&category=&location=&project=7322364514224687370&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)|
-|Leidos|Software Engineer Intern|25.36 - 42.23|Vista, CA|Open✅|07/17/2024|[Apply Here](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Software-Engineer-Intern_R-00139462)|
+|Leidos|Software Engineer Intern|25.36 - 42.23|Vista, CA|Closed🔒|07/17/2024||
 |Wells Fargo|Technology Summer Intern - Early Careers (Software or Data Engineer)|48.08 - 60.10||Open🛂✅|07/17/2024|[Apply Here](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2025-Technology-Summer-Internship---Early-Careers--Software-or-Data-Engineer-_R-385829)|
 |Akuna Capital|Performance Engineer Intern||Chicago, IL|Open✅|07/17/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=5744527)|
 |↳|Quantitative Development Intern||Chicago, IL|Open✅|07/17/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=5744527)|
@@ -26,7 +29,7 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 |IMC|Software Engineer Intern||Chicago, IL|Open✅|07/15/2024|[Apply Here](https://boards.greenhouse.io/imc/jobs/4347765101)|
 |L3Harris|Software Engineering 1 Intern||Los Angeles, CA|Open✅|07/13/2024|[Apply Here](https://careers.l3harris.com/job/canoga-park/intern-software-engineering-1/4832/67443054544)|
 |PDT Partners|Software Engineering Intern|68 - 86|New York, NY|Open✅|07/09/2024|[Apply Here](https://boards.greenhouse.io/pdtpartners/jobs/4423823)|
-|Caterpillar|Digital and Analytics Intern|22.60 - 40.70||Open✅|07/09/2024|[Apply Here](https://careers.caterpillar.com/en/jobs/job/r0000264456-2025-summer-corporate-intern-digital-and-analytics/)|
+|Caterpillar|Digital and Analytics Intern|22.60 - 40.70||Closed🔒|07/09/2024||
 |DRW|User-Interface Engineer Intern||Chicago, IL|Open✅|07/08/2024|[Apply Here](https://drw.com/work-at-drw/listings/user-interface-ui-engineer-intern-2909233)|
 |↳|Software Developer Intern||Chicago, IL|Open✅|07/08/2024|[Apply Here](https://drw.com/work-at-drw/listings/software-developer-intern-2909276)|
 |Optiver|Software Engineer Intern||Chicago, IL|Open✅|07/05/2024|[Apply Here](https://optiver.com/working-at-optiver/career-opportunities/7325586002/)|
@@ -41,6 +44,7 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 |PwC|Products & Technology Intern|||Closed🔒|06/26/2024||
 |D. E. Shaw|Quantitative Analyst Intern|131.25|New York, NY|Open✅|06/25/2024|[Apply Here](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2025-5134)|
 |Apple|Machine Learning / AI Intern|||Open✅|06/24/2024|[Apply Here](https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships)|
+|↳|Software Engineer Intern|||Open✅|06/24/2024|[Apply Here](https://jobs.apple.com/en-us/details/200554359/software-engineering-internships?team=STDNT)|
 |Google|Software Engineering Intern, BS|47 - 61||Closed🔒|06/18/2024||
 |↳|Software Engineering Intern, MS|49 - 63||Closed🔒|06/18/2024||
 |Morgan Stanley|Technology Summer Analyst Program|36 - 57|New York, NY|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17297)|
@@ -48,7 +52,7 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 |BOA|Global Technology Summer Analyst Program|||Open✅|06/15/2024|[Apply Here](https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html)|
 |Capstone|Software Engineering Intern|28 - 32|New York, NY|Open✅|06/15/2024|[Apply Here](https://www.capstoneco.com/careers/2025-summer-internship-software-engineering-2/?gh_jid=7470795002)|
 |Radix Trading|Quantitative Technologist Intern, C++||Chicago, IL|Open✅|06/07/2024|[Apply Here](https://boards.greenhouse.io/radixuniversity/jobs/7463231002)|
-|D. E. Shaw|Systems: Engineering Intern|100 - 118.75|New York, NY|Open✅|05/30/2024|[Apply Here](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2025-5141)|
+|D. E. Shaw|Systems: Engineering Intern|100 - 131.25|New York, NY|Open✅|05/30/2024|[Apply Here](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2025-5141)|
 |↳|Software Developer Intern|131.25|New York, NY|Open✅|05/30/2024|[Apply Here](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137)|
 |BlackRock|Summer Intern Program|43 - 56||Open✅|05/23/2024|[Apply Here](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB)|
 |Global Atlantic Financial Group|Global Atlantic Summer Intern Program||New York, NY|Open✅|05/23/2024|[Apply Here](https://boards.greenhouse.io/gainternships/jobs/5594014)|
