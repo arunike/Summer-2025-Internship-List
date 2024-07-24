@@ -15,10 +15,12 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|-------|-------|
+|Quantiq Partners|Software Developer Intern||Austin, TX|Open✅|07/24/2024|[Apply Here](https://quantiqpartners.zohorecruit.com/forms/1965216ed406321a2f6e355156f0e94ea7405c37b4ef00a027ca731b06e9be8d)|
 |Antimetal|Engineering Intern|50|New York, NY|Open✅|07/23/2024|[Apply Here](https://jobs.ashbyhq.com/antimetal/a9081c17-93b4-4db9-a1d2-0d608d53de0c)|
 |MachineFi Lab|Developer Relations Intern||Remote|Open✅|07/23/2024|[Apply Here](https://jobs.lever.co/machinefilab/8009f812-9a24-49d5-beb4-9f22a60db006)|
 |T. Rowe Price|Global Technology, Software Engineering Intern|||Open🛂✅|07/23/2024|[Apply Here](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2025-Global-Technology---Software-Engineering-Internship-Program_72424)|
 |Databento|Software Engineer Intern||Remote|Open✅|07/19/2024|[Apply Here](https://boards.greenhouse.io/databento/jobs/4374815)|
+|IXL Learning|Software Engineer Intern|29 - 46|San Mateo, CA|Open✅|07/19/2024|[Apply Here](https://www.ixl.com/company/careers?gh_jid=7535493002)|
 |Tiktok|Intern|45 - 60||Open✅|07/17/2024|[Apply Here](https://careers.tiktok.com/position?keywords=&category=&location=&project=7322364514224687370&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)|
 |Leidos|Software Engineer Intern|25.36 - 42.23|Vista, CA|Closed🔒|07/17/2024||
 |Wells Fargo|Technology Summer Intern - Early Careers (Software or Data Engineer)|48.08 - 60.10||Open🛂✅|07/17/2024|[Apply Here](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2025-Technology-Summer-Internship---Early-Careers--Software-or-Data-Engineer-_R-385829)|
@@ -50,6 +52,7 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 |↳|Software Engineering Intern, MS|49 - 63||Closed🔒|06/18/2024||
 |Morgan Stanley|Technology Summer Analyst Program|36 - 57|New York, NY|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17297)|
 |↳|Technology Summer Analyst Program||Boston, MA|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17133)|
+|Axiom Space|Software Application Engineering Intern||Houston, TX|Open✅|06/16/2024|[Apply Here](https://axiomspace.bamboohr.com/careers/939)|
 |BOA|Global Technology Summer Analyst Program|||Open✅|06/15/2024|[Apply Here](https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html)|
 |Capstone|Software Engineering Intern|28 - 32|New York, NY|Open✅|06/15/2024|[Apply Here](https://www.capstoneco.com/careers/2025-summer-internship-software-engineering-2/?gh_jid=7470795002)|
 |Radix Trading|Quantitative Technologist Intern, C++||Chicago, IL|Open✅|06/07/2024|[Apply Here](https://boards.greenhouse.io/radixuniversity/jobs/7463231002)|
@@ -64,6 +67,7 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 |Cranium|AI/ML Engineer Intern|25 - 30|Short Hills, NJ|Open✅|05/19/2024|[Apply Here](https://www.linkedin.com/jobs/view/3925803158/?alternateChannel=search&refId=srsX6lCATotkwX3Ji42syA%3D%3D&trackingId=6R1y0H7JM2g1bbpYkTDEIQ%3D%3D)|
 |SIG|Software Engineering Intern||Bala Cynwyd, PA|Open✅|05/19/2024|[Apply Here](https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025)|
 |Goldman Sachs|Summer Analyst Program, Technology|||Waiting to be Open⏱️|05/19/2024|[Apply Here](https://www.goldmansachs.com/careers/students/programs/americas/2025-summer-analyst-program.html)|Technology sector will opens between July 1st to August 15
+|Epic|Software Developer Intern||Verona, WI|Open🛂✅|05/19/2024|[Apply Here](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624)|
 |BNP Paribas|Summer Analyst Intern, Technology||Jersey City, NJ|Open✅|05/19/2024|[Apply Here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/brand-7/candidate/so/pm/1/pl/2/opp/900/en-GB?site=group.bnpparibas&campaignReal=0&src=CWS-15640&offerID=900&domainID=174&entityID=94)|
 |Salesforce|Futureforce Tech Equality Summit, Summer Intern|43 - 52||Closed🔒|05/19/2024||
 
