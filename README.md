@@ -17,6 +17,7 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 |-----------|-------------|------------------|------------|----------|--------------|-------|-------|
 |Antimetal|Engineering Intern|50|New York, NY|Open✅|07/23/2024|[Apply Here](https://jobs.ashbyhq.com/antimetal/a9081c17-93b4-4db9-a1d2-0d608d53de0c)|
 |MachineFi Lab|Developer Relations Intern||Remote|Open✅|07/23/2024|[Apply Here](https://jobs.lever.co/machinefilab/8009f812-9a24-49d5-beb4-9f22a60db006)|
+|T. Rowe Price|Global Technology, Software Engineering Intern|||Open🛂✅|07/23/2024|[Apply Here](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2025-Global-Technology---Software-Engineering-Internship-Program_72424)|
 |Databento|Software Engineer Intern||Remote|Open✅|07/19/2024|[Apply Here](https://boards.greenhouse.io/databento/jobs/4374815)|
 |Tiktok|Intern|45 - 60||Open✅|07/17/2024|[Apply Here](https://careers.tiktok.com/position?keywords=&category=&location=&project=7322364514224687370&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)|
 |Leidos|Software Engineer Intern|25.36 - 42.23|Vista, CA|Closed🔒|07/17/2024||
