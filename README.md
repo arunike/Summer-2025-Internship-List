@@ -20,7 +20,7 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 |↳|Data Engineering Intern|||Open✅|07/27/2024|[Apply Here](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2025-_R859)|
 |↳|Front Office IT Developer Intern|||Open✅|07/27/2024|[Apply Here](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Front-Office-IT-Developer-Internship--Summer-2025-_R858)|
 |Quantiq Partners|Software Developer Intern||Austin, TX|Open✅|07/24/2024|[Apply Here](https://quantiqpartners.zohorecruit.com/forms/1965216ed406321a2f6e355156f0e94ea7405c37b4ef00a027ca731b06e9be8d)|
-|T. Rowe Price|Global Technology, Software Engineering Intern|||Open🛂✅|07/23/2024|[Apply Here](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2025-Global-Technology---Software-Engineering-Internship-Program_72424)|
+|T. Rowe Price|Global Technology, Software Engineering Intern|||Closed🔒|07/23/2024||
 |Databento|Software Engineer Intern||Remote|Open✅|07/19/2024|[Apply Here](https://boards.greenhouse.io/databento/jobs/4374815)|
 |IXL Learning|Software Engineer Intern|29 - 46|San Mateo, CA|Open✅|07/19/2024|[Apply Here](https://www.ixl.com/company/careers?gh_jid=7535493002)|
 |Tiktok|Intern|45 - 60||Open✅|07/17/2024|[Apply Here](https://careers.tiktok.com/position?keywords=&category=&location=&project=7322364514224687370&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)|
@@ -56,7 +56,7 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 |↳|Technology Summer Analyst Program||Boston, MA|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17133)|
 |Axiom Space|Software Application Engineering Intern||Houston, TX|Open✅|06/16/2024|[Apply Here](https://axiomspace.bamboohr.com/careers/939)|
 |BOA|Global Technology Summer Analyst Program|||Open✅|06/15/2024|[Apply Here](https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html)|
-|Capstone|Software Engineering Intern|28 - 32|New York, NY|Open✅|06/15/2024|[Apply Here](https://www.capstoneco.com/careers/2025-summer-internship-software-engineering-2/?gh_jid=7470795002)|
+|Capstone|Software Engineering Intern|28 - 32|New York, NY|Closed🔒|06/15/2024||
 |Radix Trading|Quantitative Technologist Intern, C++||Chicago, IL|Open✅|06/07/2024|[Apply Here](https://boards.greenhouse.io/radixuniversity/jobs/7463231002)|
 |D. E. Shaw|Systems: Engineering Intern|100 - 131.25|New York, NY|Open✅|05/30/2024|[Apply Here](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2025-5141)|
 |↳|Software Developer Intern|131.25|New York, NY|Open✅|05/30/2024|[Apply Here](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137)|
