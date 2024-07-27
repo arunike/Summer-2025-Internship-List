@@ -15,6 +15,7 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|-------|-------|
+|Sensata|Software Engineer Intern||Attleboro, MA|Open✅|07/27/2024|[Apply Here](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Software-Engineer-Intern---Summer-2025_IRC93689)|
 |Quantiq Partners|Software Developer Intern||Austin, TX|Open✅|07/24/2024|[Apply Here](https://quantiqpartners.zohorecruit.com/forms/1965216ed406321a2f6e355156f0e94ea7405c37b4ef00a027ca731b06e9be8d)|
 |Antimetal|Engineering Intern|50|New York, NY|Open✅|07/23/2024|[Apply Here](https://jobs.ashbyhq.com/antimetal/a9081c17-93b4-4db9-a1d2-0d608d53de0c)|
 |MachineFi Lab|Developer Relations Intern||Remote|Open✅|07/23/2024|[Apply Here](https://jobs.lever.co/machinefilab/8009f812-9a24-49d5-beb4-9f22a60db006)|
