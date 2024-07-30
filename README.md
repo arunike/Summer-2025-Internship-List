@@ -15,10 +15,12 @@ Blank in the "Location" column indicates that there is mulitple locations or the
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|-------|-------|
+|Virtu|Developer Intern|100 - 125||Open✅|07/30/2024|[Apply Here](https://job-boards.greenhouse.io/virtu/jobs/7520504002)|
+|Marshall Wace|Technology Intern|65.10 - 78.13|New York, NY|Open✅|07/30/2024|[Apply Here](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7501415002?gh_src=6df8b42e2us)|
 |Sensata|Software Engineer Intern||Attleboro, MA|Open✅|07/27/2024|[Apply Here](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Software-Engineer-Intern---Summer-2025_IRC93689)|
 |Castleton Commodities International|Data Science Machine Learning Intern||Stamford, CT|Open✅|07/27/2024|[Apply Here](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2025-_R855)|
 |↳|Data Engineering Intern|||Open✅|07/27/2024|[Apply Here](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2025-_R859)|
-|↳|Front Office IT Developer Intern|||Open✅|07/27/2024|[Apply Here](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Front-Office-IT-Developer-Internship--Summer-2025-_R858)|
+|↳|Front Office IT Developer Intern||Houston, TX|Open✅|07/27/2024|[Apply Here](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Front-Office-IT-Developer-Internship--Summer-2025-_R858)|
 |Quantiq Partners|Software Developer Intern||Austin, TX|Open✅|07/24/2024|[Apply Here](https://quantiqpartners.zohorecruit.com/forms/1965216ed406321a2f6e355156f0e94ea7405c37b4ef00a027ca731b06e9be8d)|
 |T. Rowe Price|Global Technology, Software Engineering Intern|||Closed🔒|07/23/2024||
 |Databento|Software Engineer Intern||Remote|Open✅|07/19/2024|[Apply Here](https://boards.greenhouse.io/databento/jobs/4374815)|
