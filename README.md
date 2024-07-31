@@ -15,6 +15,8 @@ Blank in the "Location" column indicates that there is multiple locations or the
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Motorola Solutions|Android Platform Software Engineering Intern||Schaumburg, IL|Open🛂✅|07/31/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Android-Platform-Software-Engineering-Intern---Summer-2025_R48957)|Sponsorship is only avaliable to Graduate Students|
+|Johnson & Johnson|Technology Intern|24.75 - $33|<details><summary>8 locations<br><br><b></summary>Raritan, NJ<br>New Brunswick, NJ<br>Cambridge, MA<br>Jacksonville, FL<br>Titusville, NJ<br>Spring House, PA<br>Bridgewater, NJ<br>Palm Beach Gardens, FL</details><b>|Open🛂✅|07/31/2024|[Apply Here](https://jobs.jnj.com/en/jobs/2406199309w/technology-intern-2025-summer-jjt-intern/)||
 |Virtu|Developer Intern|100 - 125|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>New York, NY</details><b>|Open✅|07/30/2024|[Apply Here](https://job-boards.greenhouse.io/virtu/jobs/7520504002)||
 |Marshall Wace|Technology Intern|65.10 - 78.13|New York, NY|Open✅|07/30/2024|[Apply Here](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7501415002?gh_src=6df8b42e2us)||
 |Sensata|Software Engineer Intern||Attleboro, MA|Open✅|07/27/2024|[Apply Here](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Software-Engineer-Intern---Summer-2025_IRC93689)||
@@ -34,7 +36,7 @@ Blank in the "Location" column indicates that there is multiple locations or the
 |↳|Software Engineer Intern, Python||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6037985)||
 |↳|Software Engineer Intern, Data Engineering||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6069872)||
 |IMC|Software Engineer Intern||Chicago, IL|Open✅|07/15/2024|[Apply Here](https://boards.greenhouse.io/imc/jobs/4347765101)||
-|L3Harris|Software Engineering 1 Intern||Los Angeles, CA|Open✅|07/13/2024|[Apply Here](https://careers.l3harris.com/job/canoga-park/intern-software-engineering-1/4832/67443054544)||
+|L3Harris|Software Engineering 1 Intern||Closed|Open✅|07/13/2024|[Apply Here](https://careers.l3harris.com/job/canoga-park/intern-software-engineering-1/4832/67443054544)||
 |PDT Partners|Software Engineering Intern|68 - 86|New York, NY|Open✅|07/09/2024|[Apply Here](https://boards.greenhouse.io/pdtpartners/jobs/4423823)||
 |Caterpillar|Digital and Analytics Intern|22.60 - 40.70|<details><summary>3 locations<br><br><b></summary>Chicago, IL<br>Peoria, IL<br>Irving, TX</details><b>|Closed🔒|07/09/2024|||
 |DRW|User-Interface Engineer Intern||Chicago, IL|Open✅|07/08/2024|[Apply Here](https://drw.com/work-at-drw/listings/user-interface-ui-engineer-intern-2909233)||
