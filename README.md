@@ -15,6 +15,7 @@ Blank in the "Location" column indicates that there is multiple locations or the
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Prudential Financial|Technology & Data, Software Engineering Intern|36 - 38|Newark, NJ|Open🛂✅|08/02/2024|[Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2025-Technology---Data--Software-Engineering-Internship-Program_R-118126)||
 |Confluent|Software Engineering Intern||Austin, TX|Open✅|08/01/2024|[Apply Here](https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern)||
 |Talos|Software Engineering Intern||New York, NY|Open✅|08/01/2024|[Apply Here](https://jobs.ashbyhq.com/Talos-Trading/4967dc6d-b589-447f-ba9e-671fb0e638ee?utm_source=m3V7QAqQJV)||
 |Sentry|Software Engineering Intern|53.13|San Francisco, CA|Open🛂✅|08/01/2024|[Apply Here](https://boards.greenhouse.io/sentry/jobs/6145556#app)||
