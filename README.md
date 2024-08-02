@@ -16,6 +16,11 @@ Blank in the "Location" column indicates that there is multiple locations or the
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
 |Prudential Financial|Technology & Data, Software Engineering Intern|36 - 38|Newark, NJ|Open🛂✅|08/02/2024|[Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2025-Technology---Data--Software-Engineering-Internship-Program_R-118126)||
+|Codeium|Software Engineering Intern|43.75 - 68.75|Mountain View, CA|Open✅|08/02/2024|[Apply Here](https://codeium.com/careers/58e309a8-5451-466a-b34d-4ea44b60e1e4)||
+|Five Rings|Software Developer Intern|143.75|New York, NY|Open✅|08/02/2024|[Apply Here](https://job-boards.greenhouse.io/fiveringsllc/jobs/4090996008)||
+|Ramp|Software Developer Intern, Backend|60|New York, NY|Open✅|08/02/2024|[Apply Here](https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539)||
+|HPR|Software Engineering Intern||Needham, MA|Open✅|08/02/2024|[Apply Here](https://job-boards.greenhouse.io/hyannisportresearch/jobs/6038522003)||
+|Capital One|Data Analyst Intern||<details><summary>2 locations<br><br><b></summary>McLean, VA<br>Richmond, VA</details><b>|Open🛂✅|08/02/2024|[Apply Here](https://job-boards.greenhouse.io/hyannisportresearch/jobs/6038522003)||
 |Confluent|Software Engineering Intern||Austin, TX|Open✅|08/01/2024|[Apply Here](https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern)||
 |Talos|Software Engineering Intern||New York, NY|Open✅|08/01/2024|[Apply Here](https://jobs.ashbyhq.com/Talos-Trading/4967dc6d-b589-447f-ba9e-671fb0e638ee?utm_source=m3V7QAqQJV)||
 |Sentry|Software Engineering Intern|53.13|San Francisco, CA|Open🛂✅|08/01/2024|[Apply Here](https://boards.greenhouse.io/sentry/jobs/6145556#app)||
@@ -72,7 +77,7 @@ Blank in the "Location" column indicates that there is multiple locations or the
 |Global Atlantic Financial Group|Global Atlantic Summer Intern Program||New York, NY|Open✅|05/23/2024|[Apply Here](https://boards.greenhouse.io/gainternships/jobs/5594014)||
 |Point72|Quantitative Developer Intern|125 - 156|New York, NY|Open✅|05/23/2024|[Apply Here](https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293)||
 |CTC|Software Engineer Intern||Chicago, IL|Closed🔒|05/23/2024|||
-|Ventas|Software Engineer Intern||Chicago, IL|Closed🔒|05/23/2024|||
+|Ventas|Software Engineer Intern||Chicago, IL|Open✅|05/23/2024|[Apply Here](https://ventas.wd1.myworkdayjobs.com/VTR_NonPublic/job/IL---Chicago/Intern--Software-Engineering--Summer-2025-_R0001113-2)||
 |Walmart|Software Engineer II Intern||Bentonville, AR|Closed🔒|05/19/2024|||
 |Cranium|AI/ML Engineer Intern|25 - 30|Short Hills, NJ|Open✅|05/19/2024|[Apply Here](https://www.linkedin.com/jobs/view/3925803158/?alternateChannel=search&refId=srsX6lCATotkwX3Ji42syA%3D%3D&trackingId=6R1y0H7JM2g1bbpYkTDEIQ%3D%3D)||
 |SIG|Software Engineering Intern||Bala Cynwyd, PA|Open✅|05/19/2024|[Apply Here](https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025)||
