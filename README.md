@@ -40,7 +40,7 @@ Blank in the "Location" column indicates that there is multiple locations or the
 |↳|Software Engineer Intern, Python||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6037985)||
 |↳|Software Engineer Intern, Data Engineering||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6069872)||
 |IMC|Software Engineer Intern||Chicago, IL|Open✅|07/15/2024|[Apply Here](https://boards.greenhouse.io/imc/jobs/4347765101)||
-|L3Harris|Software Engineering 1 Intern||Closed|Open✅|07/13/2024|[Apply Here](https://careers.l3harris.com/job/canoga-park/intern-software-engineering-1/4832/67443054544)||
+|L3Harris|Software Engineering 1 Intern||Los Angeles, CA|Closed🔒|07/13/2024|||
 |PDT Partners|Software Engineering Intern|68 - 86|New York, NY|Open✅|07/09/2024|[Apply Here](https://boards.greenhouse.io/pdtpartners/jobs/4423823)||
 |Caterpillar|Digital and Analytics Intern|22.60 - 40.70|<details><summary>3 locations<br><br><b></summary>Chicago, IL<br>Peoria, IL<br>Irving, TX</details><b>|Closed🔒|07/09/2024|||
 |DRW|User-Interface Engineer Intern||Chicago, IL|Open✅|07/08/2024|[Apply Here](https://drw.com/work-at-drw/listings/user-interface-ui-engineer-intern-2909233)||
@@ -62,7 +62,7 @@ Blank in the "Location" column indicates that there is multiple locations or the
 |↳|Software Engineering Intern, MS|49 - 63|<details><summary>28 locations<br><br><b></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Ryleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>Sunnyvale, CA<br>Washington, DC</details><b>|Closed🔒|06/18/2024|||
 |Morgan Stanley|Technology Summer Analyst Program|36 - 57|New York, NY|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17297)||
 |↳|Technology Summer Analyst Program||Boston, MA|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17133)||
-|Axiom Space|Software Application Engineering Intern||Houston, TX|Open✅|06/16/2024|[Apply Here](https://axiomspace.bamboohr.com/careers/939)||
+|Axiom Space|Software Application Engineering Intern||Houston, TX|Closed🔒|06/16/2024|||
 |BOA|Global Technology Summer Analyst Program||<details><summary>8 locations<br><br><b></summary>Charlotte, NC<br>Chicago, IL<br>Dallas, TX<br>Denver, CO<br>New York, NY<br>Pennington, NJ<br>Richmond, VA<br>Washington, DC</details><b>|Open✅|06/15/2024|[Apply Here](https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html)||
 |Capstone|Software Engineering Intern|28 - 32|New York, NY|Closed🔒|06/15/2024|||
 |Radix Trading|Quantitative Technologist Intern, C++||Chicago, IL|Open✅|06/07/2024|[Apply Here](https://boards.greenhouse.io/radixuniversity/jobs/7463231002)||
