@@ -15,8 +15,9 @@ Blank in the "Location" column indicates that there is multiple locations or the
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
-|Confluence|Software Engineering Intern||Austin, TX|Open✅|08/01/2024|[Apply Here](https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern)||
+|Confluent|Software Engineering Intern||Austin, TX|Open✅|08/01/2024|[Apply Here](https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern)||
 |Talos|Software Engineering Intern||New York, NY|Open✅|08/01/2024|[Apply Here](https://jobs.ashbyhq.com/Talos-Trading/4967dc6d-b589-447f-ba9e-671fb0e638ee?utm_source=m3V7QAqQJV)||
+|Sentry|Software Engineering Intern|53.13|San Francisco, CA|Open🛂✅|08/01/2024|[Apply Here](https://boards.greenhouse.io/sentry/jobs/6145556#app)||
 |Motorola Solutions|Android Platform Software Engineering Intern||Schaumburg, IL|Open🛂✅|07/31/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Android-Platform-Software-Engineering-Intern---Summer-2025_R48957)|Sponsorship is only avaliable to Graduate Students|
 |Johnson & Johnson|Technology Intern|24.75 - $33|<details><summary>8 locations<br><br><b></summary>Raritan, NJ<br>New Brunswick, NJ<br>Cambridge, MA<br>Jacksonville, FL<br>Titusville, NJ<br>Spring House, PA<br>Bridgewater, NJ<br>Palm Beach Gardens, FL</details><b>|Open🛂✅|07/31/2024|[Apply Here](https://jobs.jnj.com/en/jobs/2406199309w/technology-intern-2025-summer-jjt-intern/)||
 |Virtu|Developer Intern|100 - 125|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>New York, NY</details><b>|Open✅|07/30/2024|[Apply Here](https://job-boards.greenhouse.io/virtu/jobs/7520504002)||
