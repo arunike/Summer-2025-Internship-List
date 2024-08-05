@@ -1,7 +1,7 @@
 
 # Internship Opportunities (inspired by Pitt CSC & Simplify Repo)
 
-This repo provides information about various software engineer related internship opportunities. Below is a detailed table listing the available positions, including company details, job titles, pay rates, locations, application statuses, dates added, and direct links to the application.
+This repo provides information about various software engineer related internship opportunities for summer 2025. Below is a detailed table listing the available positions, including company details, job titles, pay rates, locations, application statuses, dates added, and direct links to the job application.
 
 ## Internship Positions
 
@@ -9,16 +9,26 @@ This repo provides information about various software engineer related internshi
 
 Blank in the "Hourly Pay ($)" column indicates that the pay rate is not provided.
 
-Blank in the "Location" column indicates that there is multiple locations or the location is unknown.
+Blank in the "Location" column indicates the location is unknown.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Wells Fargo| Analytics and Data Intern|40.87|<details><summary>6 locations<br><br><b></summary>Charlotte, NC<br>Chandler, AZ<br>Dallas, TX<br>Minneapolis, MN<br>West Des Moines, IA<br>Chandler, AZ</details><b>|Open🛂✅|08/05/2024|[Apply Here](https://www.wellsfargojobs.com/en/jobs/r-387245/2025-analytics-and-data-summer-internship-early-careers/?jClickId=9f57cdfe-7cbf-4631-a52b-876557e95c93&publisher=Linkedin%20Flat%20bid)||
+|Capital One|Technology Early Intern||McLean, VA|Open🛂✅|08/05/2024|[Apply Here](https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Technology-Early-Internship-Program---Summer-2025_R189734-1?redirect=%252FCapital_One%252Fjob%252FMcLean-VA%252FDesign-Development-Internship-Program---Summer-2025_R189647-1%252Fapply)||
+|↳|Technology Intern|72.92 - 77.60|<details><summary>3 locations<br><br><b></summary>McLean, VA<br>Richmond, VA<br>Plano, TX</details><b>|Open🛂✅|08/05/2024|[Apply Here](https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2025_R189727-1?redirect=/Capital_One/job/McLean-VA/Design-Development-Internship-Program---Summer-2025_R189647-1/apply&workerSubType=a12c70bf789e10572aab83c4780919ad)||
+|↳|Current Master's - Data Science Intern|77.60 - 88.29|<details><summary>7 locations<br><br><b></summary>McLean, VA<br>Cambridge, MA<br>Richmond, VA<br>Chicago, IL<br>Plano, TX<br>San Francisco, CA<br>New York, NY</details><b>|Open🛂✅|08/05/2024|[Apply Here](https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Current-Master-s---Data-Science-Internship---Summer-2025_R189634-1?redirect=%252FCapital_One%252Fjob%252FMcLean-VA%252FDesign-Development-Internship-Program---Summer-2025_R189647-1%252Fapply)||
+|ForeFlight|Software Engineer Intern||Austin, TX|Open✅|08/05/2024|[Apply Here](https://recruiting2.ultipro.com/FOR1029FREF/JobBoard/96ee3e38-47f2-48cc-95d1-5eef02c27844/OpportunityDetail?opportunityId=947c1c49-546e-460f-bf50-34268467f457&postingId=bbadde5c-967a-4a53-8ca4-f62eedc39a2c)||
+|BNY Mellon|Developer Intern - Engineering||<details><summary>4 locations<br><br><b></summary>Pittsburgh, PA<br>Jersey City, NJ<br>New York, NY<br>Lake Mary, FL</details><b>|Open✅|08/05/2024|[Apply Here](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/57957/?keyword=internship&lastSelectedFacet=TITLES&mode=location&selectedTitlesFacet=CAPG)||
+|↳|Data Science Intern - Engineering||<details><summary>4 locations<br><br><b></summary>Pittsburgh, PA<br>Jersey City, NJ<br>New York, NY<br>Lake Mary, FL</details><b>|Open✅|08/05/2024|[Apply Here](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/57958/?keyword=internship&lastSelectedFacet=TITLES&mode=location&selectedTitlesFacet=CAPG)||
 |Origami Risk|Software Engineering Intern|26.25|Chicago, IL|Open✅|08/03/2024|[Apply Here](https://careers-origamirisk.icims.com/jobs/3345/software-engineering-intern/job)||
 |↳|Business Systems Analyst Intern|26.25|Chicago, IL|Open✅|08/03/2024|[Apply Here](https://careers-origamirisk.icims.com/jobs/3344/business-systems-analyst-intern/job)||
-|PepsiCo|Commerce Data & Technology Intern|21.50 - 40.19|New York, NY|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/main/jobs/316094?lang=en-us&iisn=linkedin)||
-|↳|eCommerce Data Science Intern|21.50 - 40.19|New York, NY|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/main/jobs/316093?lang=en-us&iisn=linkedin)||
+|PepsiCo|Commerce Data & Technology Intern|21.50 - 40.19|New York, NY|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/internshipsprograms/jobs/316094?lang=en-us&previousLocale=en-US)||
+|↳|eCommerce Data Science Intern|21.50 - 40.19|New York, NY|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/internshipsprograms/jobs/316093?lang=en-us&previousLocale=en-US)||
+|↳|Technology Data & Analytics, Data Engineer & Data Science Intern|21.50 - 54|<details><summary>2 locations<br><br><b></summary>Purchase, NY<br>Plano, TX</details><b>|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/internshipsprograms/jobs/315336?lang=en-us&previousLocale=en-US)||
+|↳|Technology Software Development & Engineering Intern|21.50 - 54|<details><summary>2 locations<br><br><b></summary>Purchase, NY<br>Plano, TX</details><b>|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/internshipsprograms/jobs/315338?lang=en-us&previousLocale=en-US)||
+|↳|Technology Product Delivery Intern|21.50 - 54|Purchase, NY|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/internshipsprograms/jobs/315339?lang=en-us&previousLocale=en-US)||
 |Prudential Financial|Technology & Data, Software Engineering Intern|36 - 38|Newark, NJ|Open🛂✅|08/02/2024|[Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2025-Technology---Data--Software-Engineering-Internship-Program_R-118126)||
 |Codeium|Software Engineering Intern|43.75 - 68.75|Mountain View, CA|Open✅|08/02/2024|[Apply Here](https://codeium.com/careers/58e309a8-5451-466a-b34d-4ea44b60e1e4)||
 |Five Rings|Software Developer Intern|143.75|New York, NY|Open✅|08/02/2024|[Apply Here](https://job-boards.greenhouse.io/fiveringsllc/jobs/4090996008)||
@@ -43,7 +53,7 @@ Blank in the "Location" column indicates that there is multiple locations or the
 |IXL Learning|Software Engineer Intern|29 - 46|San Mateo, CA|Open✅|07/19/2024|[Apply Here](https://www.ixl.com/company/careers?gh_jid=7535493002)||
 |Tiktok|Intern|45 - 60||Open✅|07/17/2024|[Apply Here](https://careers.tiktok.com/position?keywords=&category=&location=&project=7322364514224687370&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)||
 |Leidos|Software Engineer Intern|25.36 - 42.23|Vista, CA|Closed🔒|07/17/2024|||
-|Wells Fargo|Technology Summer Intern - Early Careers (Software or Data Engineer)|48.08 - 60.10|<details><summary>8 locations<br><br><b></summary>Charlotte, NC<br>Chandler, AZ<br>Phoenix, AZ<br>Summit, NJ<br>Irving, TX<br>Addison. TX<br>Minneapolis, MN<br>Saint Louis, MO</details><b>|Open🛂✅|07/17/2024|[Apply Here](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2025-Technology-Summer-Internship---Early-Careers--Software-or-Data-Engineer-_R-385829)||
+|Wells Fargo|Technology Intern (Software or Data Engineer)|48.08 - 60.10|<details><summary>8 locations<br><br><b></summary>Charlotte, NC<br>Chandler, AZ<br>Phoenix, AZ<br>Summit, NJ<br>Irving, TX<br>Addison. TX<br>Minneapolis, MN<br>Saint Louis, MO</details><b>|Open🛂✅|07/17/2024|[Apply Here](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2025-Technology-Summer-Internship---Early-Careers--Software-or-Data-Engineer-_R-385829)||
 |Akuna Capital|Performance Engineer Intern||Chicago, IL|Open✅|07/17/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=5744527)||
 |↳|Quantitative Development Intern||Chicago, IL|Open✅|07/17/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=5744527)||
 |↳|Software Engineer Intern, C++||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6080090)||
@@ -70,16 +80,16 @@ Blank in the "Location" column indicates that there is multiple locations or the
 |↳|Software Engineer Intern|||Open✅|06/24/2024|[Apply Here](https://jobs.apple.com/en-us/details/200554359/software-engineering-internships?team=STDNT)||
 |Google|Software Engineering Intern, BS|47 - 61|<details><summary>28 locations<br><br><b></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Ryleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>Sunnyvale, CA<br>Washington, DC</details><b>|Closed🔒|06/18/2024|||
 |↳|Software Engineering Intern, MS|49 - 63|<details><summary>28 locations<br><br><b></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Ryleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>Sunnyvale, CA<br>Washington, DC</details><b>|Closed🔒|06/18/2024|||
-|Morgan Stanley|Technology Summer Analyst Program|36 - 57|New York, NY|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17297)||
-|↳|Technology Summer Analyst Program||Boston, MA|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17133)||
+|Morgan Stanley|Technology Analyst Program|36 - 57|New York, NY|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17297)||
+|↳|Technology Analyst Program||Boston, MA|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17133)||
 |Axiom Space|Software Application Engineering Intern||Houston, TX|Closed🔒|06/16/2024|||
-|BOA|Global Technology Summer Analyst Program||<details><summary>8 locations<br><br><b></summary>Charlotte, NC<br>Chicago, IL<br>Dallas, TX<br>Denver, CO<br>New York, NY<br>Pennington, NJ<br>Richmond, VA<br>Washington, DC</details><b>|Open✅|06/15/2024|[Apply Here](https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html)||
+|BOA|Global Technology Analyst Program||<details><summary>8 locations<br><br><b></summary>Charlotte, NC<br>Chicago, IL<br>Dallas, TX<br>Denver, CO<br>New York, NY<br>Pennington, NJ<br>Richmond, VA<br>Washington, DC</details><b>|Open✅|06/15/2024|[Apply Here](https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html)||
 |Capstone|Software Engineering Intern|28 - 32|New York, NY|Closed🔒|06/15/2024|||
 |Radix Trading|Quantitative Technologist Intern, C++||Chicago, IL|Open✅|06/07/2024|[Apply Here](https://boards.greenhouse.io/radixuniversity/jobs/7463231002)||
 |D. E. Shaw|Systems: Engineering Intern|100 - 131.25|New York, NY|Open✅|05/30/2024|[Apply Here](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2025-5141)||
 |↳|Software Developer Intern|131.25|New York, NY|Open✅|05/30/2024|[Apply Here](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137)||
 |BlackRock|Summer Intern Program|43 - 56||Open✅|05/23/2024|[Apply Here](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB)||
-|Global Atlantic Financial Group|Global Atlantic Summer Intern Program||New York, NY|Open✅|05/23/2024|[Apply Here](https://boards.greenhouse.io/gainternships/jobs/5594014)||
+|Global Atlantic Financial Group|Global Atlantic Intern Program||New York, NY|Open✅|05/23/2024|[Apply Here](https://boards.greenhouse.io/gainternships/jobs/5594014)||
 |Point72|Quantitative Developer Intern|125 - 156|New York, NY|Open✅|05/23/2024|[Apply Here](https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293)||
 |CTC|Software Engineer Intern||Chicago, IL|Closed🔒|05/23/2024|||
 |Ventas|Software Engineer Intern||Chicago, IL|Open✅|05/23/2024|[Apply Here](https://ventas.wd1.myworkdayjobs.com/VTR_NonPublic/job/IL---Chicago/Intern--Software-Engineering--Summer-2025-_R0001113-2)||
@@ -89,7 +99,7 @@ Blank in the "Location" column indicates that there is multiple locations or the
 |Goldman Sachs|Summer Analyst Program, Technology|||Waiting to be Open⏱️|05/19/2024|[Apply Here](https://www.goldmansachs.com/careers/students/programs/americas/2025-summer-analyst-program.html)|Technology sector will opens between July 1st to August 15|
 |Epic|Software Developer Intern||Verona, WI|Open🛂✅|05/19/2024|[Apply Here](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624)||
 |BNP Paribas|Summer Analyst Intern, Technology||Jersey City, NJ|Open✅|05/19/2024|[Apply Here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/brand-7/candidate/so/pm/1/pl/2/opp/900/en-GB?site=group.bnpparibas&campaignReal=0&src=CWS-15640&offerID=900&domainID=174&entityID=94)||
-|Salesforce|Futureforce Tech Equality Summit, Summer Intern|43 - 52||Closed🔒|05/19/2024|||
+|Salesforce|Futureforce Tech Equality Summit, Intern|43 - 52||Closed🔒|05/19/2024|||
 
 [⬆️ Back to Top ⬆️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#internship-positions)
 
