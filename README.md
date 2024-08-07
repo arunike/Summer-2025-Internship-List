@@ -15,6 +15,7 @@ Blank in the "Location" column indicates the location is unknown.
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Airwallex|Software Engineer Intern|54 - 57|San Francisco, CA|Open✅|08/07/2024|[Apply Here](https://careers.airwallex.com/job/ea995984-1069-405c-87b8-f69b823fb6aa/2025-26-software-engineer-intern-program/)||
 |Arrowstreet Capital|Quantitative Developer Intern||Boston, MA|Open✅|08/06/2024|[Apply Here](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2025_R1117)||
 |Salesforce|Software Engineer Intern|46 - 58|<details><summary>8 locations<br><br><b></summary>San Francisco, CA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Bellevue, WA<br>Dallas, TX<br>Atlanta, GA<br>Indianapolis, IN</details><b>|Open✅|08/06/2024|[Apply Here](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-2)||
 |Intel|Software Development Intern - Undergraduate|20.83 - 56.25|<details><summary>2 locations<br><br><b></summary>Hillsboro, OG<br>Santa Clara, CA</details><b>|Open✅|08/06/2024|[Apply Here](https://jobs.intel.com/en/job/-/-/599/66869441312)||
