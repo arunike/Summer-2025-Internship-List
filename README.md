@@ -15,6 +15,13 @@ Blank in the "Location" column indicates the location is unknown.
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Belvedere Trading|Software Engineer Intern|48 - 60|Chicago, IL|Open✅|08/09/2024|[Apply Here](https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8)||
+|Jump Trading|Web Dev / UI Software Engineer Intern||Chicago, IL|Open✅|08/09/2024|[Apply Here](https://boards.greenhouse.io/embed/job_app?token=6165570)||
+|↳|FPGA Engineer Intern||Chicago, IL|Open✅|08/09/2024|[Apply Here](https://www.jumptrading.com/careers/6165578/)||
+|↳|Software Engineer Intern||Chicago, IL|Open✅|08/09/2024|[Apply Here](https://www.jumptrading.com/careers/6165360/)||
+|↳|TechOps Engineer Intern||Chicago, IL|Open✅|08/09/2024|[Apply Here](https://www.jumptrading.com/careers/5626016/)||
+|Eaton|Engineering Technology Intern, Software|22.15 - 37.50|<details><summary>6 locations<br><br><b></summary>Raleigh, NC<br>Franksville, WI<br>Menomonee Falls, WI<br>Moon Township, PA<br>Peachtree City, GA<br>Southfield, MI</details><b>|Open✅|08/08/2024|[Apply Here](https://eaton.eightfold.ai/careers/job/687218974969?domain=eaton.com)||
+|Ambarella|Software Engineer Intern||Santa Clara, CA|Open✅|08/08/2024|[Apply Here](https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10648)||
 |Airwallex|Software Engineer Intern|54 - 57|San Francisco, CA|Open✅|08/07/2024|[Apply Here](https://careers.airwallex.com/job/ea995984-1069-405c-87b8-f69b823fb6aa/2025-26-software-engineer-intern-program/)||
 |Arrowstreet Capital|Quantitative Developer Intern||Boston, MA|Open✅|08/06/2024|[Apply Here](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2025_R1117)||
 |Salesforce|Software Engineer Intern|46 - 58|<details><summary>8 locations<br><br><b></summary>San Francisco, CA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Bellevue, WA<br>Dallas, TX<br>Atlanta, GA<br>Indianapolis, IN</details><b>|Open✅|08/06/2024|[Apply Here](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-2)||
