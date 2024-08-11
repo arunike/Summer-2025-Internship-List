@@ -15,6 +15,9 @@ Blank in the "Location" column indicates the location is unknown.
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Neuralink|Software Engineer Intern|31.5|Austin, TX|Open✅|08/11/2024|[Apply Here](https://boards.greenhouse.io/neuralink/jobs/6084031003)||
+|↳|Software Engineer Intern|35|Freemont, CA|Open✅|08/11/2024|[Apply Here](https://boards.greenhouse.io/neuralink/jobs/60839900033)||
+|Oshkosh|Data Engineer Intern, Advanced Analytics||Oshkosh, WI|Open✅|08/11/2024|[Apply Here](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern---Advanced-Analytics_R30731)||
 |US Bank|Engineering Intern||Hopkins, MN|Open✅|08/10/2024|[Apply Here](https://careers.usbank.com/global/en/job/UBNAGLOBAL20240015891EXTERNALENGLOBAL/2025-Engineering-Summer-Intern)||
 |Cargill|Software Engineering Intern|24 - 34|Atlanta, GA|Open✅|08/10/2024|[Apply Here](https://careers.cargill.com/en/job/-/-/23251/68562383440)||
 |Qualcomm|Software Engineering Intern|17 - 98|San Diego, CA|Open✅|08/10/2024|[Apply Here](https://careers.qualcomm.com/careers/job/446700989850?domain=qualcomm.com)||
