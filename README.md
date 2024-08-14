@@ -15,10 +15,18 @@ Blank in the "Location" column indicates the location is unknown.
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Boeing|Information Technology & Data Analytics, and Digital Aviation Solutions Intern|22.39 - 34.45||Open✅|08/14/2024|[Apply Here](https://jobs.boeing.com/job/everett/boeing-summer-2025-internship-program-paid-information-technology-it-and-data-analytics-da-and-digi/185/68664477488)||
+|↳|Engineering Intern|22.39 - 45.83||Open✅|08/14/2024|[Apply Here](https://jobs.boeing.com/job/everett/boeing-summer-2025-internship-program-paid-information-technology-it-and-data-analytics-da-and-digi/185/68664477488)||
+|PayPal|Software Engineer Intern|22 - 55|<details><summary>6 locations<br><br><b></summary>San Jose, CA<br>Chicago, IL<br>Omaha, NE<br>Scottsdale, AZ<br>New York, NY<br>Austin, TX</details><b>|Open✅|08/14/2024|[Apply Here](https://paypal.eightfold.ai/careers/job/274902335251)||
+|Martin|Software Engineering Intern||Chambersburg, PA|Open✅|08/14/2024|[Apply Here](https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=MARTFAMO&cws=37&rid=4486)||
+|Delta|IT - Enterprise Technology Intern||Atlanta, GA|Open✅|08/14/2024|[Apply Here](https://delta.avature.net/en_US/careers/JobDetail?jobId=25672)||
+|↳|IT - Reliability Architecture and Infrastructure Services Intern||Atlanta, GA|Open✅|08/14/2024|[Apply Here](https://delta.avature.net/en_US/careers/JobDetail?jobId=25671)||
+|Phillips 66|Information Technology Intern||<details><summary>2 locations<br><br><b></summary>Houston, TX<br>Bartlesville, OK</details><b>|Open🛂✅|08/14/2024|[Apply Here](https://careers.phillips66.com/job/Houston-2025-University-Intern-Information-Technology-TX-77042/1201805500/?feedId=401600&utm_campaign=customer_DEA)||
 |Vestmark|Software Engineer Intern||Wakefield, MA|Open✅|08/13/2024|[Apply Here](https://boards.greenhouse.io/vestmark/jobs/6074962)||
 |Microsoft|Software Engineer Intern, Fullstack|34.12 - 66.75|Redmond, WA|Open✅|08/13/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/job/1751922/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond)||
 |Ambarella|Software Architecture Engineer Intern||Santa Clara, CA|Open✅|08/13/2024|[Apply Here](https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10650/?source=Indeed.com)||
 |Geico|Software Development Intern|25.32 - $49.13|Remote|Open🛂✅|08/13/2024|[Apply Here](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Software-Development-Intern_R0051950)||
+|Deutsche Bank|Technology, Data and Innovation Intern|52|New York, NY|Open✅|08/13/2024|[Apply Here](https://db.recsolu.com/external/requisitions/VmI8oJ7arBnp_7TFnL_zRw)||
 |Neuralink|Software Engineer Intern|31.5|Austin, TX|Open✅|08/11/2024|[Apply Here](https://boards.greenhouse.io/neuralink/jobs/6084031003)||
 |↳|Software Engineer Intern|35|Freemont, CA|Open✅|08/11/2024|[Apply Here](https://boards.greenhouse.io/neuralink/jobs/60839900033)||
 |Oshkosh|Data Engineer Intern, Advanced Analytics||Oshkosh, WI|Open✅|08/11/2024|[Apply Here](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern---Advanced-Analytics_R30731)||
