@@ -6,6 +6,7 @@ This repo provides information about various software engineer related internshi
 ## Internship Positions
 
 🛂 - No Sponsorship
+🇺🇸 - Require Citizenship
 
 Blank in the "Hourly Pay ($)" column indicates that the pay rate is not provided.
 
@@ -15,6 +16,12 @@ Blank in the "Location" column indicates the location is unknown.
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Duolingo|Software Engineer Intern|50 - 52|Pittsburgh, PA|Open✅|08/15/2024|[Apply Here](https://job-boards.greenhouse.io/duolingouniversityrecruitment/jobs/7582859002)||
+|Macquarie|Technology Intern||Houston, TX|Open✅|08/15/2024|[Apply Here](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=11703#)||
+|Northrop Grumman|College Technical Intern||Beavercreek, OH|Open🇺🇸✅|08/15/2024|[Apply Here](https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/Ohio/Beavercreek/R10167313/2025-college-technical-intern-beavercreek-oh?code=JB-17946&rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=288254&rx_job=R10167313)||
+|Figure|Full-Stack Engineer Intern||Sunnyvale, CA|Open✅|08/15/2024|[Apply Here](https://job-boards.greenhouse.io/figureai/jobs/4393829006)||
+|GE Healthcare|Information Technology Development Intern||Remote|Open✅|08/15/2024|[Apply Here](Information Technology Development Program - Internship)||
+|ABB|Engineering Intern|20 - 34||Open✅|08/15/2024|[Apply Here](https://careers.abb/us/en/job/92871477?utm_source=)||
 |Boeing|Information Technology & Data Analytics, and Digital Aviation Solutions Intern|22.39 - 34.45||Open✅|08/14/2024|[Apply Here](https://jobs.boeing.com/job/everett/boeing-summer-2025-internship-program-paid-information-technology-it-and-data-analytics-da-and-digi/185/68664477488)||
 |↳|Engineering Intern|22.39 - 45.83||Open✅|08/14/2024|[Apply Here](https://jobs.boeing.com/job/everett/boeing-summer-2025-internship-program-paid-information-technology-it-and-data-analytics-da-and-digi/185/68664477488)||
 |PayPal|Software Engineer Intern|22 - 55|<details><summary>6 locations<br><br><b></summary>San Jose, CA<br>Chicago, IL<br>Omaha, NE<br>Scottsdale, AZ<br>New York, NY<br>Austin, TX</details><b>|Open✅|08/14/2024|[Apply Here](https://paypal.eightfold.ai/careers/job/274902335251)||
@@ -22,6 +29,7 @@ Blank in the "Location" column indicates the location is unknown.
 |Delta|IT - Enterprise Technology Intern||Atlanta, GA|Open✅|08/14/2024|[Apply Here](https://delta.avature.net/en_US/careers/JobDetail?jobId=25672)||
 |↳|IT - Reliability Architecture and Infrastructure Services Intern||Atlanta, GA|Open✅|08/14/2024|[Apply Here](https://delta.avature.net/en_US/careers/JobDetail?jobId=25671)||
 |Phillips 66|Information Technology Intern||<details><summary>2 locations<br><br><b></summary>Houston, TX<br>Bartlesville, OK</details><b>|Open🛂✅|08/14/2024|[Apply Here](https://careers.phillips66.com/job/Houston-2025-University-Intern-Information-Technology-TX-77042/1201805500/?feedId=401600&utm_campaign=customer_DEA)||
+|Fidelity|Advanced Data Analytics Intern||Boston, MA|Open✅|08/14/2024|[Apply Here](https://jobs.fidelity.com/jobs/JobDetail/)||
 |Vestmark|Software Engineer Intern||Wakefield, MA|Open✅|08/13/2024|[Apply Here](https://boards.greenhouse.io/vestmark/jobs/6074962)||
 |Microsoft|Software Engineer Intern, Fullstack|34.12 - 66.75|Redmond, WA|Open✅|08/13/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/job/1751922/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond)||
 |Ambarella|Software Architecture Engineer Intern||Santa Clara, CA|Open✅|08/13/2024|[Apply Here](https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10650/?source=Indeed.com)||
