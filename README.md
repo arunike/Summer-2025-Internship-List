@@ -14,10 +14,29 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
+There are total of **168** internship positions listed. **17** new positions were added today.
+
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Barclays|Electronic Trading Associate Intern|78.12|New York, NY|Open✅|08/19/2024|[Apply Here](https://search.jobs.barclays/job/-/-/13015/68828535184?src=JB-12160&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed#anchor-description)||
+|↳|Quantitative Analytics Associate Intern|78.12|New York, NY|Open✅|08/19/2024|[Apply Here](https://search.jobs.barclays/job/new-york/quantitative-analytics-associate-summer-internship-program-2025-new-york/13015/68828535536#anchor-description)||
+|MUFG|Information Technology Summer Analyst|35|<details><summary>2 locations<br><br><b></summary>Jersey City, NJ<br>New York, NY</details><b>|Open✅|08/19/2024|[Apply Here](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Jersey-City-NJ/XMLNAME-2025-Summer-Analyst-Program--Information-Technology---NYC-NJ_10066573-WD)||
+|↳|Information Technology Summer Analyst|30|Tampa, FL|Open✅|08/19/2024|[Apply Here](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Tampa-FL/XMLNAME-2025-Summer-Analyst-Program--Information-Technology---Tampa--FL_10066572-WD?Country=bc33aa3152ec42d4995f4791a106ed09)||
+|↳|Information Technology Summer Analyst|30|Tempe, AZ|Open✅|08/19/2024|[Apply Here](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/Tempe-AZ/XMLNAME-2025-Summer-Analyst-Program--Information-Technology---Tempe--AZ_10066569-WD?Country=bc33aa3152ec42d4995f4791a106ed09)||
+|Stoke Space|Software Intern|31.25 - 40.62|Kent, WA|Open✅|08/19/2024|[Apply Here](https://www.stokespace.com/careers/current-openings/?gh_jid=5258722004)||
+|Hudl|Software Engineer Intern|30 - 34|Lincoln, NE|Open✅|08/19/2024|[Apply Here](https://boards.greenhouse.io/hudl/jobs/6176329)||
+|CTC|Software Engineer Intern||Chicago, IL|Open✅|08/19/2024|[Apply Here](https://www.chicagotrading.com/posting?req=4462727005&campus=1)||
+|↳|Software Engineer Intern||New York, NY|Open✅|08/19/2024|[Apply Here](https://www.chicagotrading.com/posting?req=4462729005&campus=1)||
+|Point72|Data Engineer Intern, Proprietary Research|67.7 - 80.72|New York, NY|Open✅|08/19/2024|[Apply Here](https://job-boards.greenhouse.io/point72/jobs/7600132002)||
+|↳|Data Scientist Intern, Proprietary Research|65.1 - 78.12|New York, NY|Open✅|08/19/2024|[Apply Here](https://job-boards.greenhouse.io/point72/jobs/7600241002)||
+|Fannie Mae|Technology Program Intern|41.5|Reston, VA|Open🛂✅|08/19/2024|[Apply Here](https://job-boards.greenhouse.io/point72/jobs/7600241002)||
+|↳|Technology Program Intern|41.5|Plano, TX|Open🛂✅|08/19/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000007300395)||
+|↳|Technology Program Intern|41.5|Washington, D.C.|Open🛂✅|08/19/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000007300305)||
+|↳|Cybersecurity Program Intern|41.5|Plano, TX|Open🛂✅|08/19/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000007301805-campus-cybersecurity-program-intern-flexible-hybrid-)||
+|↳|Cybersecurity Program Intern|41.5|Reston, VA|Open🛂✅|08/19/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000007301705-campus-cybersecurity-program-intern-flexible-hybrid-)||
+|↳|Cybersecurity Program Intern|41.5|Washington, D.C.|Open🛂✅|08/19/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000007300566-campus-cybersecurity-program-intern-flexible-hybrid-)||
 |CACI|Software Engineering Intern|20.78 - 41.61|Lisle, IL|Open✅|08/17/2024|[Apply Here](https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2025_300424-1)||
 |Bristol Myers Squibb|Digital Accelerator Program Intern||Princeton, NJ|Open✅|08/17/2024|[Apply Here](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/DigITal-Accelerator-Program-Internship---Summer-2025_R1584488)||
 |Cisco|Software Engineer I Intern|20 - 40|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Richardson, TX<br>Atlanta, GA</details><b>|Open✅|08/17/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1427387?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+careers)||
@@ -161,7 +180,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |BlackRock|Summer Intern Program|43 - 56||Open✅|05/23/2024|[Apply Here](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB)||
 |Global Atlantic Financial Group|Global Atlantic Intern Program||New York, NY|Open✅|05/23/2024|[Apply Here](https://boards.greenhouse.io/gainternships/jobs/5594014)||
 |Point72|Quantitative Developer Intern|125 - 156|New York, NY|Open✅|05/23/2024|[Apply Here](https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293)||
-|CTC|Software Engineer Intern||Chicago, IL|Closed🔒|05/23/2024|||
 |Ventas|Software Engineer Intern||Chicago, IL|Open✅|05/23/2024|[Apply Here](https://ventas.wd1.myworkdayjobs.com/VTR_NonPublic/job/IL---Chicago/Intern--Software-Engineering--Summer-2025-_R0001113-2)||
 |Walmart|Software Engineer II Intern||Bentonville, AR|Closed🔒|05/19/2024|||
 |Cranium|AI/ML Engineer Intern|25 - 30|Short Hills, NJ|Open✅|05/19/2024|[Apply Here](https://www.linkedin.com/jobs/view/3925803158/?alternateChannel=search&refId=srsX6lCATotkwX3Ji42syA%3D%3D&trackingId=6R1y0H7JM2g1bbpYkTDEIQ%3D%3D)||
