@@ -14,12 +14,29 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **168** internship positions listed. **17** new positions were added today.
+There are total of **184** internship positions listed. **17** new positions were added today.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Figma|Software Engineer Intern|51.06|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/figma/jobs/5232157004)||
+|Verkada|Software Engineer Intern, Frontend|55 - 65|San Mateo, CA|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4477761007?gh_src=cda0ce657us)||
+|↳|Android Engineering Intern|55 - 65|San Mateo, CA|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4483442007)||
+|↳|iOS Engineering Intern|55 - 65|San Mateo, CA|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4484581007)||
+|↳|Software Engineering Intern, Backend|55 - 65|San Mateo, CA|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4477721007)||
+|Gallo|IT Programmer Analyst Intern|26 - 28|Modesto, CA|Open✅|08/20/2024|[Apply Here](https://careers.gallo.com/job/Modesto-IT-Programmer-Analyst-Internship-2025-CA-95354/1204132000/?feedId=147400)||
+|Abode|Software Engineer Intern|38 - 51|<details><summary>5 locations<br><br><b></summary>San Jose, CA<br>San Francisco, CA<br>Lehi, UT<br>Seattle, WA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://careers.adobe.com/us/en/job/ADOBUSR147746EXTERNALENUS/2025-Intern-Software-Engineer)||
+|↳|Machine Learning Engineer Intern|45 - 55|<details><summary>6 locations<br><br><b></summary>San Jose, CA<br>Austin, TX<br>San Francisco, CA<br>Lehi, UT<br>Seattle, WA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://careers.adobe.com/us/en/job/R147906/2025-Intern-Machine-Learning-Engineer)|Graduate Students Only|
+|Qualcomm|Software Engineering Intern|17 - 98|<details><summary>6 locations<br><br><b></summary>San Diego, CA<br>Irvine, CA<br>Santa Clara, CA<br>Boxborough, MA<br>Austin, TX<br>Bridgewater, NJ</details><b>|Open✅|08/20/2024|[Apply Here](https://careers.qualcomm.com/careers/job/446701190200)||
+|↳|Machine Learning & Artificial Intelligence Engineering Intern|17 - 98|San Diego, CA|Open✅|08/20/2024|[Apply Here](https://careers.qualcomm.com/careers/job/446701026300)||
+|↳|Multimedia Engineering Intern|17 - 98|San Diego, CA|Open✅|08/20/2024|[Apply Here](https://careers.qualcomm.com/careers/job/446701027592)||
+|↳|Information Technology Intern|17 - 98|San Diego, CA|Open✅|08/20/2024|[Apply Here](https://careers.qualcomm.com/careers/job/446701027888)||
+|↳|IT Engineering Intern|17 - 98|San Diego, CA|Open✅|08/20/2024|[Apply Here](https://careers.qualcomm.com/careers/job/446701027782)||
+|↳|Cybersecurity Intern|17 - 98|San Diego, CA|Open✅|08/20/2024|[Apply Here](https://careers.qualcomm.com/careers/job/446701027885)||
+|↳|Automotive Engineering Intern|17 - 98|San Diego, CA|Open✅|08/20/2024|[Apply Here](https://careers.qualcomm.com/careers/job/446701026691)||
+|↳|Wireless Systems Engineering Intern|17 - 98|<details><summary>4 locations<br><br><b></summary>San Diego, CA<br>Santa Clara, CA<br>Boxborough, MA<br>Bridgewater, NJ</details><b>|Open✅|08/20/2024|[Apply Here](https://careers.qualcomm.com/careers/job/446701026972)||
+|↳|Security Engineering Intern|17 - 98|San Diego, CA|Open✅|08/20/2024|[Apply Here](https://careers.qualcomm.com/careers/job/44670102808)||
 |Barclays|Electronic Trading Associate Intern|78.12|New York, NY|Open✅|08/19/2024|[Apply Here](https://search.jobs.barclays/job/-/-/13015/68828535184?src=JB-12160&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed#anchor-description)||
 |↳|Quantitative Analytics Associate Intern|78.12|New York, NY|Open✅|08/19/2024|[Apply Here](https://search.jobs.barclays/job/new-york/quantitative-analytics-associate-summer-internship-program-2025-new-york/13015/68828535536#anchor-description)||
 |MUFG|Information Technology Summer Analyst|35|<details><summary>2 locations<br><br><b></summary>Jersey City, NJ<br>New York, NY</details><b>|Open✅|08/19/2024|[Apply Here](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Jersey-City-NJ/XMLNAME-2025-Summer-Analyst-Program--Information-Technology---NYC-NJ_10066573-WD)||
@@ -37,10 +54,10 @@ There are total of **168** internship positions listed. **17** new positions wer
 |↳|Cybersecurity Program Intern|41.5|Plano, TX|Open🛂✅|08/19/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000007301805-campus-cybersecurity-program-intern-flexible-hybrid-)||
 |↳|Cybersecurity Program Intern|41.5|Reston, VA|Open🛂✅|08/19/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000007301705-campus-cybersecurity-program-intern-flexible-hybrid-)||
 |↳|Cybersecurity Program Intern|41.5|Washington, D.C.|Open🛂✅|08/19/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000007300566-campus-cybersecurity-program-intern-flexible-hybrid-)||
-|CACI|Software Engineering Intern|20.78 - 41.61|Lisle, IL|Open✅|08/17/2024|[Apply Here](https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2025_300424-1)||
+|CACI|Software Engineering Intern|20.78 - 41.61|Lisle, IL|Closed🔒|08/17/2024|||
 |Bristol Myers Squibb|Digital Accelerator Program Intern||Princeton, NJ|Open✅|08/17/2024|[Apply Here](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/DigITal-Accelerator-Program-Internship---Summer-2025_R1584488)||
 |Cisco|Software Engineer I Intern|20 - 40|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Richardson, TX<br>Atlanta, GA</details><b>|Open✅|08/17/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1427387?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+careers)||
-|↳|Software Engineer II Intern|22.91 - 67.7|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Hillsboro, OG</details><b>|Open✅|08/17/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1426829?user=1)||
+|↳|Software Engineer II Intern|22.91 - 67.7|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Hillsboro, OG</details><b>|Open✅|08/17/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1426829?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+careers)||
 |CCC Intelligent|Software Engineer and MLOps Intern|20 - 43|Chicago, IL|Open✅|08/17/2024|[Apply Here](https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/Software-Engineer-and-MLOps-Internship_0013376)||
 |Grainger|Software Engineer Intern||Chicago, IL|Open🛂✅|08/17/2024|[Apply Here](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1203361600/?feedId=286800)||
 |Kohler|Software Engineering Intern, Kohler Ventures||Palo Alto, CA|Open✅|08/17/2024|[Apply Here](https://kohler.csod.com/ux/ats/careersite/16/home/requisition/63255?c=kohler&lang=en-US&src=JB-10021)||
@@ -58,7 +75,7 @@ There are total of **168** internship positions listed. **17** new positions wer
 |Delta|IT - Enterprise Technology Intern||Atlanta, GA|Open✅|08/14/2024|[Apply Here](https://delta.avature.net/en_US/careers/JobDetail?jobId=25672)||
 |↳|IT - Reliability Architecture and Infrastructure Services Intern||Atlanta, GA|Open✅|08/14/2024|[Apply Here](https://delta.avature.net/en_US/careers/JobDetail?jobId=25671)||
 |Phillips 66|Information Technology Intern||<details><summary>2 locations<br><br><b></summary>Houston, TX<br>Bartlesville, OK</details><b>|Open🛂✅|08/14/2024|[Apply Here](https://careers.phillips66.com/job/Houston-2025-University-Intern-Information-Technology-TX-77042/1201805500/?feedId=401600&utm_campaign=customer_DEA)||
-|Fidelity|Advanced Data Analytics Intern||Boston, MA|Closed🔒|08/14/2024|||
+|Fidelity|Advanced Data Analytics Intern||Boston, MA|Closed🔒|08/14/2024||Graduate Students Only|
 |Vestmark|Software Engineer Intern||Wakefield, MA|Closed🔒|08/13/2024|||
 |Microsoft|Software Engineer Intern, Fullstack|34.12 - 66.75|Redmond, WA|Open✅|08/13/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/job/1751922/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond)||
 |Ambarella|Software Architecture Engineer Intern||Santa Clara, CA|Open✅|08/13/2024|[Apply Here](https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10650/?source=Indeed.com)||
@@ -69,8 +86,7 @@ There are total of **168** internship positions listed. **17** new positions wer
 |Oshkosh|Data Engineer Intern, Advanced Analytics||Oshkosh, WI|Open✅|08/11/2024|[Apply Here](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern---Advanced-Analytics_R30731)||
 |US Bank|Engineering Intern||Hopkins, MN|Open✅|08/10/2024|[Apply Here](https://careers.usbank.com/global/en/job/UBNAGLOBAL20240015891EXTERNALENGLOBAL/2025-Engineering-Summer-Intern)||
 |Cargill|Software Engineering Intern|24 - 34|Atlanta, GA|Open✅|08/10/2024|[Apply Here](https://careers.cargill.com/en/job/-/-/23251/68562383440)||
-|Qualcomm|Software Engineering Intern|17 - 98|San Diego, CA|Closed🔒|08/10/2024|||
-|↳|Embedded Engineering Intern|17 - 98|San Diego, CA|Open✅|08/10/2024|[Apply Here](https://careers.qualcomm.com/careers/job?domain=qualcomm.com&pid=446700989859&domain=qualcomm.com&sort_by=relevance&job_index=0)||
+|Qualcomm|Embedded Engineering Intern|17 - 98|<details><summary>2 locations<br><br><b></summary>San Diego, CA<br>Santa Clara, CA</details><b>|Open✅|08/10/2024|[Apply Here](https://careers.qualcomm.com/careers/job?domain=qualcomm.com&pid=446700989859&domain=qualcomm.com&sort_by=relevance&job_index=0)||
 |Belvedere Trading|Software Engineer Intern|48 - 60|Chicago, IL|Open✅|08/09/2024|[Apply Here](https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8)||
 |Jump Trading|Web Dev / UI Software Engineer Intern||Chicago, IL|Open✅|08/09/2024|[Apply Here](https://boards.greenhouse.io/embed/job_app?token=6165570)||
 |↳|FPGA Engineer Intern||Chicago, IL|Open✅|08/09/2024|[Apply Here](https://www.jumptrading.com/careers/6165578/?gh_jid=6165578)||
@@ -101,7 +117,7 @@ There are total of **168** internship positions listed. **17** new positions wer
 |↳|Software Engineer Intern, Defense Tech|62.5|Palo Alto, CA|Open✅|08/06/2024|[Apply Here](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d)||
 |↳|Software Engineer Intern, Defense Tech|62.5|New York, NY|Open✅|08/06/2024|[Apply Here](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e)||
 |Wells Fargo| Analytics and Data Intern|40.87|<details><summary>6 locations<br><br><b></summary>Charlotte, NC<br>Chandler, AZ<br>Dallas, TX<br>Minneapolis, MN<br>West Des Moines, IA<br>Chandler, AZ</details><b>|Open🛂✅|08/05/2024|[Apply Here](https://www.wellsfargojobs.com/en/jobs/r-387245/2025-analytics-and-data-summer-internship-early-careers/?jClickId=9f57cdfe-7cbf-4631-a52b-876557e95c93&publisher=Linkedin%20Flat%20bid)||
-|Capital One|Technology Early Intern||McLean, VA|Closed🔒|08/05/2024|||
+|Capital One|Technology Early Intern||McLean, VA|Closed🔒|08/05/2024||Exclusive for incoming Junior Students|
 |↳|Technology Intern|72.92 - 77.60|<details><summary>3 locations<br><br><b></summary>McLean, VA<br>Richmond, VA<br>Plano, TX</details><b>|Closed🔒|08/05/2024|||
 |↳|Current Master's - Data Science Intern|77.60 - 88.29|<details><summary>7 locations<br><br><b></summary>McLean, VA<br>Cambridge, MA<br>Richmond, VA<br>Chicago, IL<br>Plano, TX<br>San Francisco, CA<br>New York, NY</details><b>|Open🛂✅|08/05/2024|[Apply Here](https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Current-Master-s---Data-Science-Internship---Summer-2025_R189634-1?redirect=%252FCapital_One%252Fjob%252FMcLean-VA%252FDesign-Development-Internship-Program---Summer-2025_R189647-1%252Fapply)||
 |ForeFlight|Software Engineer Intern||Austin, TX|Closed🔒|08/05/2024|||
@@ -172,7 +188,7 @@ There are total of **168** internship positions listed. **17** new positions wer
 |Morgan Stanley|Technology Analyst Program|36 - 57|New York, NY|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17297)||
 |↳|Technology Analyst Program||Boston, MA|Open✅|06/17/2024|[Apply Here](https://morganstanley.tal.net/vx/candidate/apply/17133)||
 |Axiom Space|Software Application Engineering Intern||Houston, TX|Closed🔒|06/16/2024|||
-|BOA|Global Technology Analyst Program||<details><summary>10 locations<br><br><b></summary>Addison, Texas<br>Charlotte, NC<br>Chicago, IL<br>Denver, CO<br>Jersey City, NJ<br>New York, NY<br>Pennington, NJ<br>Plano, TX<br>Richmond, VA<br>Washington, D.C.</details><b>|Open✅|06/15/2024|[Apply Here](https://careers.bankofamerica.com/en-us/students/job-detail/11482/global-technology-summer-analyst-program-2025-multiple-locations)||
+|BOA|Global Technology Analyst Program||<details><summary>10 locations<br><br><b></summary>Addison, TX<br>Charlotte, NC<br>Chicago, IL<br>Denver, CO<br>Jersey City, NJ<br>New York, NY<br>Pennington, NJ<br>Plano, TX<br>Richmond, VA<br>Washington, D.C.</details><b>|Open✅|06/15/2024|[Apply Here](https://careers.bankofamerica.com/en-us/students/job-detail/11482/global-technology-summer-analyst-program-2025-multiple-locations)||
 |Capstone|Software Engineering Intern|28 - 32|New York, NY|Closed🔒|06/15/2024|||
 |Radix Trading|Quantitative Technologist Intern, C++||Chicago, IL|Open✅|06/07/2024|[Apply Here](https://boards.greenhouse.io/radixuniversity/jobs/7463231002)||
 |D. E. Shaw|Systems: Engineering Intern|100 - 131.25|New York, NY|Open✅|05/30/2024|[Apply Here](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2025-5141)||
