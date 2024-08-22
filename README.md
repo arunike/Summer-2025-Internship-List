@@ -15,12 +15,19 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **193** internship positions listed. **8** new positions were added today.
+There are total of **200** internship positions listed. **7** new positions were added today.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Amadeus|Software Engineer Intern||Irving, TX|Open✅|08/22/2024|[Apply Here](https://amadeus.wd3.myworkdayjobs.com/jobs/job/Irving-Texas/Software-Engineer-Intern_R22298)||
+|Gecko Robotics|Software Engineer Intern||Boston, MA|Open✅|08/22/2024|[Apply Here](https://www.geckorobotics.com/careers?ashby_jid=324af8fa-cab0-47b2-908c-f26fbd54d668#open-positions)||
+|↳|Embedded Engineer Intern||Pittsburgh, PA|Open✅|08/22/2024|[Apply Here](https://www.geckorobotics.com/careers?ashby_jid=23c70fb7-0cf2-4d16-b081-aa2286f09c53#open-positions)||
+|↳|Field Software Engineer Intern||Pittsburgh, PA|Open✅|08/22/2024|[Apply Here](https://www.geckorobotics.com/careers?ashby_jid=f4fc0a1d-5ecc-45f9-a186-616052a7928e#open-positions)||
+|C Spire|Software Developer Internship||Ridgeland, MS|Open✅|08/22/2024|[Apply Here](https://careers-cspire.icims.com/jobs/11017/job?mobile=false&width=1555&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)||
+|Freddie Mac|Technology Intern|32|McLean, VA|Open✅|08/22/2024|[Apply Here](https://careers.freddiemac.com/us/en/job/JR13564/Technology-Intern-Summer-2025-Hybrid-3-Days-in-Office)||
+|Keysight|R&D Software Engineer Intern|36 - 45|Calabasas, CA|Open✅|08/22/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44086/job)||
 |Microsoft|Software Engineer Intern, Fullstack|44 - 72.75|Mountain View, CA|Open✅|08/21/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1755483)||
 |↳|Software Engineer Intern, Fullstack|34.12 - 66.75|Lehi, UT|Open✅|08/21/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1755487)||
 |↳|Software Engineer Intern, Fullstack|34.12 - 66.75|Cambridge, MA|Open✅|08/21/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1755486)||
