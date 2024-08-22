@@ -6,6 +6,7 @@ This repo provides information about various software engineer related internshi
 ## Internship Positions
 
 🛂 - No Sponsorship
+
 🇺🇸 - Require Citizenship
 
 A blank in the "Hourly Pay ($)" column indicates that the pay rate is not provided, and some listed pay is an estimate range.
@@ -14,13 +15,22 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **184** internship positions listed. **17** new positions were added today.
+There are total of **193** internship positions listed. **8** new positions were added today.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Microsoft|Software Engineer Intern, Fullstack|44 - 72.75|Mountain View, CA|Open✅|08/21/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1755483/?utm_source=Job Share&utm_campaign=Copy-job-share)||
+|↳|Software Engineer Intern, Fullstack|34.12 - 66.75|Lehi, UT|Open✅|08/21/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1755487/?utm_source=Job Share&utm_campaign=Copy-job-share)||
+|↳|Software Engineer Intern, Fullstack|34.12 - 66.75|Cambridge, MA|Open✅|08/21/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1755486/?utm_source=Job Share&utm_campaign=Copy-job-share)||
+|↳|Software Engineer Intern, Fullstack|34.12 - 66.75|Atlanta, GA|Open✅|08/21/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1755485/?utm_source=Job Share&utm_campaign=Copy-job-share)||
+|Hudson River Trading|Software Engineering Intern|120|New York, NY|Open✅|08/21/2024|[Apply Here](https://www.hudsonrivertrading.com/careers/job/?gh_jid=6139035&req_id=482)||
+|Motorola Solutions|Google Applications Developer Intern|22 - 26|New York, NY|Open✅|08/21/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/New-York-US-Offsite/Google-Applications-Developer-Internship--Summer-2025-_R49034)||
+|Accenture|Technology Development Intern|28.9 - 55.05|Washington, D.C.|Open✅|08/21/2024|[Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4392377006)||
+|Amex|Campus Undergraduate - Technology Software Engineer Intern|24.05 - 63|New York, NY|Open✅|08/21/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24562584?utm_source=test123&utm_medium=campaign123&domain=aexp.com&src=JB-10780&utm_source=Indeed&utm_medium=organic)||
 |Figma|Software Engineer Intern|51.06|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/figma/jobs/5232157004)||
+|↳|Data Scientist||<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/figma/jobs/5227937004)||
 |Verkada|Software Engineer Intern, Frontend|55 - 65|San Mateo, CA|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4477761007?gh_src=cda0ce657us)||
 |↳|Android Engineering Intern|55 - 65|San Mateo, CA|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4483442007)||
 |↳|iOS Engineering Intern|55 - 65|San Mateo, CA|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4484581007)||
@@ -77,7 +87,7 @@ There are total of **184** internship positions listed. **17** new positions wer
 |Phillips 66|Information Technology Intern||<details><summary>2 locations<br><br><b></summary>Houston, TX<br>Bartlesville, OK</details><b>|Open🛂✅|08/14/2024|[Apply Here](https://careers.phillips66.com/job/Houston-2025-University-Intern-Information-Technology-TX-77042/1201805500/?feedId=401600&utm_campaign=customer_DEA)||
 |Fidelity|Advanced Data Analytics Intern||Boston, MA|Closed🔒|08/14/2024||Graduate Students Only|
 |Vestmark|Software Engineer Intern||Wakefield, MA|Closed🔒|08/13/2024|||
-|Microsoft|Software Engineer Intern, Fullstack|34.12 - 66.75|Redmond, WA|Open✅|08/13/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/job/1751922/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond)||
+|Microsoft|Software Engineer Intern, Fullstack|34.12 - 66.75|Redmond, WA|Open✅|08/13/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1751922/?utm_source=Job Share&utm_campaign=Copy-job-share)||
 |Ambarella|Software Architecture Engineer Intern||Santa Clara, CA|Open✅|08/13/2024|[Apply Here](https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10650/?source=Indeed.com)||
 |Geico|Software Development Intern|25.32 - $49.13|Remote|Open🛂✅|08/13/2024|[Apply Here](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Software-Development-Intern_R0051950)||
 |Deutsche Bank|Technology, Data and Innovation Intern|52|New York, NY|Open✅|08/13/2024|[Apply Here](https://db.recsolu.com/external/requisitions/VmI8oJ7arBnp_7TFnL_zRw)||
