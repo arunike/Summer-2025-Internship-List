@@ -15,12 +15,15 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **222** internship positions listed. **10** new positions were added today.
+There are total of **223** internship positions listed. **10** new positions were added today.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Micron|Software Developer Intern|36.16 - 46.16|San Jose, CA|Open✅|08/25/2024|[Apply Here](https://careers.micron.com/careers/job/24611237?utm_source=indeed&domain=micron.com)||
+|Nextdoor|Software Engineer Intern|48.75|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://about.nextdoor.com/careers-list/?gh_jid=6202946)||
+|↳|Data Science Intern|43.33|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://about.nextdoor.com/careers-list/?gh_jid=6202940)||
 |Chamberlain Group|myQ Front End Engineer Intern, Android or iOS||Oak Brook, IL|Open🛂✅|08/24/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Intern--myQ-Front-End-Engineer--Android-or-iOS---Summer-2025-_JR27800)||
 |↳|Test Automation Intern, Engineering||Elmhurst, IL|Open🛂✅|08/24/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Intern--Engineering---Test-Automation--Summer-2025-_JR27862)||
 |Stripe|Software Engineer Intern|64.32|<details><summary>3 locations<br><br><b></summary>Seattle, WA<br>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://stripe.com/jobs/listing/software-engineer-intern/6142753)||
@@ -35,8 +38,6 @@ There are total of **222** internship positions listed. **10** new positions wer
 |Leidos|Software Engineer Intern|25.35 - 42.22|Arlington, VA|Open🇺🇸✅|08/23/2024|[Apply Here](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Summer-2025_R-00142184)||
 |DriveTime|Data Analytics Intern||<details><summary>2 locations<br><br><b></summary>Tempe, AZ<br>Dallas, TX</details><b>|Open🛂✅|08/23/2024|[Apply Here](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Analytics-Intern--Summer-2025-_R9141)||
 |Salesforce|Systems Engineer Intern|46 - 65|<details><summary>6 locations<br><br><b></summary>Bellevue, WA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Cambridge, MA<br>San Francisco, CA</details><b>|Open✅|08/23/2024|[Apply Here](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Systems-Engineer_JR263187-1?utm_medium=jobboard&source=LinkedIn_Jobs)||
-|Movework|Machine Learning Engineer Intern, Conversational Search||Mountain View, CA|Open✅|08/23/2024|[Apply Here](https://www.moveworks.com/us/en/company/careers/position?utm_medium=jobboard&gh_jid=7064988002)||
-|↳|Machine Learning Engineer Intern - NLU & ML Infra||Mountain View, CA|Open✅|08/23/2024|[Apply Here](https://www.moveworks.com/us/en/company/careers/position?utm_medium=jobboard&gh_jid=7066228002)||
 |Blockhouse|Full Stack Developer Intern||Remote|Open✅|08/23/2024|[Apply Here](https://jobs.ashbyhq.com/blockhouse/7aa1e910-8646-4a53-b993-1902d890b749?utm_source=EplkJDJ31Y&utm_medium=jobboard)||
 |Workiva|Machine Learning Engineering Intern|40|Remote|Open🛂✅|08/23/2024|[Apply Here](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/USA---Remote/Intern---Machine-Learning-Engineering_R8718-1?workerSubType=831d1538442f014d2d2badf7c52a6e07)||
 |↳|Data Science Intern|40|Remote|Open🛂✅|08/23/2024|[Apply Here](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Intern---Data-Science_R8720?workerSubType=831d1538442f014d2d2badf7c52a6e07)||

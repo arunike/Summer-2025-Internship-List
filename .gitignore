@@ -1,5 +1,5 @@
 internList_script.py
 jobs.json
 last_run_date.txt
-open_jobs_links.json
-openLinks.py
+check_jobs_links.json
+checkLinks.py
