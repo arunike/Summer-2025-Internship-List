@@ -15,7 +15,7 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **223** internship positions listed. **10** new positions were added today.
+There are total of **236** internship positions listed. **16** new positions were added today.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
@@ -24,6 +24,19 @@ There are total of **223** internship positions listed. **10** new positions wer
 |Micron|Software Developer Intern|36.16 - 46.16|San Jose, CA|Open✅|08/25/2024|[Apply Here](https://careers.micron.com/careers/job/24611237?utm_source=indeed&domain=micron.com)||
 |Nextdoor|Software Engineer Intern|48.75|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://about.nextdoor.com/careers-list/?gh_jid=6202946)||
 |↳|Data Science Intern|43.33|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://about.nextdoor.com/careers-list/?gh_jid=6202940)||
+|Fannie Mae|Data Science Intern, Analytics and Modeling Program|41.5|Plano, TX|Open🛂✅|08/25/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000008992215)||
+|↳|Data Science Intern, Analytics and Modeling Program|41.5|Washington, D.C.|Open🛂✅|08/25/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000008991374)||
+|↳|Data Science Intern, Analytics and Modeling Program|41.5|Reston, VA|Open🛂✅|08/25/2024|[Apply Here](https://jobs.smartrecruiters.com/FannieMae/744000008992045)||
+|Semgrep|Software Engineer Intern, Program Analysis|60|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://job-boards.greenhouse.io/semgrep/jobs/4489641007)||
+|↳|Software Engineer Intern, Cloud Platform|60|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://job-boards.greenhouse.io/semgrep/jobs/4489659007)||
+|American Express|Campus Undergraduate - Technology Software Engineer Intern|24.05 - 63|Phoinex, AZ|Open✅|08/25/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24674562)||
+|↳|Campus Undergraduate - Technology Information Security Intern|24.05 - 63|Phoinex, AZ|Open✅|08/25/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24562589)||
+|↳|Campus Undergraduate - Technology Information Security Intern|24.05 - 63|Sunrise, FL|Open✅|08/25/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24674562)||
+|Microsoft|Data Science Intern|34.12 - 66.75|Redmond, WA|Open✅|08/25/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1748409)||
+|Amazon|Systems Development Engineer Intern|42.88 - 97.45|Seattle, WA|Open✅|08/25/2024|[Apply Here](https://amazon.jobs/en/jobs/2739024/systems-development-engineer-summer-internship-2025-us)||
+|↳|Security Engineer Intern|60.34 - 102.31|Seattle, WA|Open✅|08/25/2024|[Apply Here](https://amazon.jobs/en/jobs/2738657/security-engineer-summer-internship-2025-us)||
+|↳|Quality Assurance Engineer Intern|36.39 - 88.03|Seattle, WA|Open✅|08/25/2024|[Apply Here](https://amazon.jobs/en/jobs/2736987/quality-assurance-engineer-summer-internship-2025-us)||
+|↳|Programmer Analyst Intern|29.9 - 76.88|Seattle, WA|Open✅|08/25/2024|[Apply Here](https://amazon.jobs/en/jobs/2730152/programmer-analyst-summer-internship-2025-us)||
 |Chamberlain Group|myQ Front End Engineer Intern, Android or iOS||Oak Brook, IL|Open🛂✅|08/24/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Intern--myQ-Front-End-Engineer--Android-or-iOS---Summer-2025-_JR27800)||
 |↳|Test Automation Intern, Engineering||Elmhurst, IL|Open🛂✅|08/24/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Intern--Engineering---Test-Automation--Summer-2025-_JR27862)||
 |Stripe|Software Engineer Intern|64.32|<details><summary>3 locations<br><br><b></summary>Seattle, WA<br>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://stripe.com/jobs/listing/software-engineer-intern/6142753)||
@@ -59,7 +72,7 @@ There are total of **223** internship positions listed. **10** new positions wer
 |Hudson River Trading|Software Engineering Intern|120|New York, NY|Open✅|08/21/2024|[Apply Here](https://www.hudsonrivertrading.com/careers/job/?gh_jid=6139035&req_id=482)||
 |Motorola Solutions|Google Applications Developer Intern|22 - 26|New York, NY|Open✅|08/21/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/New-York-US-Offsite/Google-Applications-Developer-Internship--Summer-2025-_R49034)||
 |Accenture|Technology Development Intern|28.9 - 55.05|Washington, D.C.|Open✅|08/21/2024|[Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4392377006)||
-|Amex|Campus Undergraduate - Technology Software Engineer Intern|24.05 - 63|New York, NY|Open✅|08/21/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24562584?utm_source=test123&utm_medium=campaign123&domain=aexp.com&src=JB-10780&utm_source=Indeed&utm_medium=organic)||
+|American Express|Campus Undergraduate - Technology Software Engineer Intern|24.05 - 63|New York, NY|Open✅|08/21/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24562584?utm_source=test123&utm_medium=campaign123&domain=aexp.com&src=JB-10780&utm_source=Indeed&utm_medium=organic)||
 |Figma|Software Engineer Intern|51.06|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/figma/jobs/5232157004)||
 |↳|Data Scientist||<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/figma/jobs/5227937004)||
 |Verkada|Software Engineer Intern, Frontend|55 - 65|San Mateo, CA|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/verkada/jobs/4477761007?gh_src=cda0ce657us)||
