@@ -15,12 +15,14 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **236** internship positions listed. **16** new positions were added today.
+There are total of **238** internship positions listed. **2** new positions were added today.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|DV Energy|Software Engineer Intern|25 - 40|New York, NY|Open✅|08/26/2024|[Apply Here](https://boards.greenhouse.io/dvtrading/jobs/4443921005)||
+|Thomson Reuters|Software Engineer Intern||Eagan, MN|Open✅|08/26/2024|[Apply Here](https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ181909EXTERNALENUS/Software-Engineering-Intern-Summer-2025)||
 |Micron|Software Developer Intern|36.16 - 46.16|San Jose, CA|Open✅|08/25/2024|[Apply Here](https://careers.micron.com/careers/job/24611237?utm_source=indeed&domain=micron.com)||
 |Nextdoor|Software Engineer Intern|48.75|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://about.nextdoor.com/careers-list/?gh_jid=6202946)||
 |↳|Data Science Intern|43.33|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://about.nextdoor.com/careers-list/?gh_jid=6202940)||
