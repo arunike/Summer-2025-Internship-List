@@ -15,14 +15,20 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **238** internship positions listed. **2** new positions were added today.
+There are total of **244** internship positions listed. **5** new positions were added today.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Truist|Technology and Innovation Intern||<details><summary>2 locations<br><br><b></summary>Charlotte, NC<br>Atlanta, GA</details><b>|Open🛂✅|08/27/2024|[Apply Here](https://careers.truist.com/us/en/job/R0092584)||
+|Mathworks|Engineering Development Group Intern||Natick, MA|Open✅|08/27/2024|[Apply Here](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?source=19813&s_eid=Rci_19813)||
+|Chamberlain Group|myQ Middleware Intern||Oak Brook, IL|Open🛂✅|08/27/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Intern--myQ-Middleware--Summer-2025-_JR27801)||
+|↳|BI Developer for myQ DevOps Intern||Oak Brook, IL|Open🛂✅|08/27/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Oak-Brook-IL/Intern--BI-Developer-for-myQ-DevOps--Summer-2025-_JR27863?q=intern)||
+|AeroVironment|Software Engineering Intern||<details><summary>9 locations<br><br><b></summary>Simi Valley, CA<br>Lawrence, KS<br>Minneapolis, MN<br>Huntsville, AL<br>Arlington, VA<br>Moorpark, CA<br>Melbourne, FL<br>Petaluma, CA<br>San Diego, CA</details><b>|Open✅|08/27/2024|[Apply Here](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/XMLNAME-2025-Summer-Internship---Software-Engineering_4871)||
 |DV Energy|Software Engineer Intern|25 - 40|New York, NY|Open✅|08/26/2024|[Apply Here](https://boards.greenhouse.io/dvtrading/jobs/4443921005)||
 |Thomson Reuters|Software Engineer Intern||Eagan, MN|Open✅|08/26/2024|[Apply Here](https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ181909EXTERNALENUS/Software-Engineering-Intern-Summer-2025)||
+|Dow|Information Systems/Information Technology Intern||<details><summary>2 locations<br><br><b></summary>Midland, MI<br>Houston, TX</details><b>|Open✅|08/26/2024|[Apply Here](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2024-2025-Campus-Internship---Information-Systems-Information-Technology_R2050597)||
 |Micron|Software Developer Intern|36.16 - 46.16|San Jose, CA|Open✅|08/25/2024|[Apply Here](https://careers.micron.com/careers/job/24611237?utm_source=indeed&domain=micron.com)||
 |Nextdoor|Software Engineer Intern|48.75|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://about.nextdoor.com/careers-list/?gh_jid=6202946)||
 |↳|Data Science Intern|43.33|San Francisco, CA|Open✅|08/25/2024|[Apply Here](https://about.nextdoor.com/careers-list/?gh_jid=6202940)||
