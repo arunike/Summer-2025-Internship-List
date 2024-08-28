@@ -15,7 +15,7 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **262** internship positions listed. **19** new positions were added today.
+There are total of **263** internship positions listed. **20** new positions were added today.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
@@ -39,7 +39,8 @@ There are total of **262** internship positions listed. **19** new positions wer
 |Electronic Arts|Software Engineer Intern|24 - 38|<details><summary>4 locations<br><br><b></summary>Redwood City, CA<br>Orlando, FL<br>Austin, TX<br>Seattle, WA</details><b>|Open✅|08/28/2024|[Apply Here](https://ea.gr8people.com/jobs/185566/software-engineer-intern)||
 |Vectra|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Remote</details><b>|Open✅|08/28/2024|[Apply Here](https://boards.greenhouse.io/vectranetworks/jobs/6142052gh_src=cdacc7d01us)||
 |Trimble|Software Engineer Intern||<details><summary>6 locations<br><br><b></summary>Westminster, CO<br>Knoxville, TN<br>Portland, OR<br>Dayton, OH<br>Princeton, NJ<br>Sunnyvale, CA</details><b>|Open🛂✅|08/28/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R45675)||
-|Keysight|Software Engineer Intern||Austin, TX|Closed🔒|08/28/2024|||
+|Keysight|Software Engineer Intern||Austin, TX|Open✅|08/28/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44258?lang=en-us)||
+|↳|AI/ML Engineer Intern||Santa Rosa, CA|Open✅|08/28/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44259?lang=en-us)||
 |Truist|Technology and Innovation Intern||<details><summary>2 locations<br><br><b></summary>Charlotte, NC<br>Atlanta, GA</details><b>|Open🛂✅|08/27/2024|[Apply Here](https://careers.truist.com/us/en/job/R0092584)||
 |Mathworks|Engineering Development Group Intern||Natick, MA|Open✅|08/27/2024|[Apply Here](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?source=19813&s_eid=Rci_19813)||
 |Chamberlain Group|myQ Middleware Intern||Oak Brook, IL|Closed🔒|08/27/2024|||
