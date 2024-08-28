@@ -40,7 +40,7 @@ There are total of **263** internship positions listed. **20** new positions wer
 |Vectra|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Remote</details><b>|Open✅|08/28/2024|[Apply Here](https://boards.greenhouse.io/vectranetworks/jobs/6142052gh_src=cdacc7d01us)||
 |Trimble|Software Engineer Intern||<details><summary>6 locations<br><br><b></summary>Westminster, CO<br>Knoxville, TN<br>Portland, OR<br>Dayton, OH<br>Princeton, NJ<br>Sunnyvale, CA</details><b>|Open🛂✅|08/28/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R45675)||
 |Keysight|Software Engineer Intern||Austin, TX|Open✅|08/28/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44258?lang=en-us)||
-|↳|AI/ML Engineer Intern||Santa Rosa, CA|Open✅|08/28/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44259?lang=en-us)||
+|↳|AI/ML Engineer Intern|36.80 - 48.13|Santa Rosa, CA|Open✅|08/28/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44103/job)||
 |Truist|Technology and Innovation Intern||<details><summary>2 locations<br><br><b></summary>Charlotte, NC<br>Atlanta, GA</details><b>|Open🛂✅|08/27/2024|[Apply Here](https://careers.truist.com/us/en/job/R0092584)||
 |Mathworks|Engineering Development Group Intern||Natick, MA|Open✅|08/27/2024|[Apply Here](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?source=19813&s_eid=Rci_19813)||
 |Chamberlain Group|myQ Middleware Intern||Oak Brook, IL|Closed🔒|08/27/2024|||
