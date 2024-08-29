@@ -15,12 +15,38 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **263** internship positions listed. **20** new positions were added today.
+There are total of **289** internship positions listed. **26** new positions were added today.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Ericsson|Software Developer Intern||Plano, TX|Open🛂✅|08/29/2024|[Apply Here](https://jobs.ericsson.com/careers/job/563121760620475?domain=ericsson.com)||
+|UPS|Technology Group Intern||Parsippany, NJ|Open✅|08/29/2024|[Apply Here](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/UPS-Technology-Group-Summer-2025-Internship---NJ_R24029212)||
+|Numerade|Data Scientist Intern||San Bruno, CA|Open✅|08/29/2024|[Apply Here](https://site1-blog.numerade.com/careers/?gh_jid=5283710004)||
+|Reinventing Geospatial|Software Engineer Intern||Fairfax, VA|Open🇺🇸✅|08/29/2024|[Apply Here](https://jobs.lever.co/rgi/72f108b1-274a-4d59-a74f-28bc7a6051af)||
+|Nvdia|Software Engineering Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Software-Engineering_JR1986535)||
+|↳|Deep Learning Computer Architecture Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Deep-Learning-Computer-Architecture_JR1986533)||
+|↳|Systems Software Engineering Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Systems-Software-Engineering_JR1986534)||
+|↳|Artificial Intelligence and Deep Learning Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Artificial-Intelligence-and-Deep-Learning_JR1986536)||
+|Bae Systems|Software Engineering Intern|25.32 - 34.20|San Diego, CA|Open🇺🇸✅|08/29/2024|[Apply Here](https://jobs.baesystems.com/global/en/job/BAE1US104872BREXTERNAL/Software-Engineering-Intern-Summer-2025)||
+|Qorvo|Software Engineering Intern|35.1 - 45.63|San Jose, CA|Open🛂✅|08/29/2024|[Apply Here](https://careers.qorvo.com/job/Software-Engineering-Intern-CA/1207468600/)||
+|JP Morgan|IoT/Ubicomp Summer Associate|70.31 - 80.72|<details><summary>2 locations<br><br><b></summary>New York, NY<br>Jersey City, NJ</details><b>|Open✅|08/29/2024|[Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210548060?utm_medium=jobboard&utm_campaign=Default%20Campaign&utm_content=2025%20IoT/Ubicomp%20Summer%20Associate&utm_term=210548060)|Graduate Students Only|
+|TD Bank|Software Engineer Intern|39.9|New York, NY|Open🛂✅|08/29/2024|[Apply Here](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2025-Summer-Analyst---Software-Engineer_R_1366115?codes=TD103)||
+|Oracle|Software Engineer Intern, OCI|18.99 - 53|Seattle, WA|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255998?src=JB-10145)||
+|↳|Software Engineer Intern, OCI|18.99 - 53|Austin, TX|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256005/?keyword=internship&mode=location)||
+|↳|Software Engineer Intern, OCI|18.99 - 53|Nashville, TN|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256006/?keyword=internship&mode=location)||
+|↳|Software Engineer Intern, OCI|18.99 - 53|Santa Clara, CA|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256000/?keyword=internship&mode=location)||
+|↳|Software Engineer Intern, Fusion Applications Development|18.99 - 53|<details><summary>3 locations<br><br><b></summary>Redwood City, CA<br>Pleasanton, CA<br>Santa Clara, CA</details><b>|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255786)||
+|↳|Software Engineer Intern, Database Technologies|18.99 - 53||Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255983/?keyword=internship&mode=location)||
+|↳|Software Engineer Intern, Corporate Architecture|18.99 - 53||Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255793/?keyword=internship&mode=location)||
+|↳|Software Engineer Intern, Analytics Cloud|18.99 - 53||Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255982/?keyword=internship&mode=location)||
+|↳|Software Engineer Intern, Global Industries|18.99 - 53||Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256011/?keyword=internship&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000149325)||
+|John Hancock|Software Engineering Intern||Boston, MA|Open🛂✅|08/29/2024|[Apply Here](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/John-Hancock-Software-Engineering-Summer-Internship-Program-2025_JR24081349)||
+|MangoDB|Software Engineering Intern||New York, NY|Open✅|08/29/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/09e1dc0b/apply)||
+|Epic Games|Capture Technician Intern||Cary, NC|Open✅|08/29/2024|[Apply Here](https://boards.greenhouse.io/embed/job_app?token=5267671004)||
+|John Deere|Software Engineering Intern, IT||Moline, IL|Open🛂✅|08/29/2024|[Apply Here](https://careers.deere.com/careers/job/137463726881)||
+|Greif|Data Engineering Intern||<details><summary>2 locations<br><br><b></summary>Delaware, OH<br>Remote</details><b>|Open🛂✅|08/29/2024|[Apply Here](https://greif.wd5.myworkdayjobs.com/Greif/job/Delaware-OH-Greif-Pkwy/Summer-2025-Data-Engineering-Intern_028133)||
 |Cisco|Full Stack Intern, Meraki|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Open🛂✅|08/28/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Intern-FY25-Summer-2025-Meraki/1427972)||
 |↳|Firmware Features Intern, Meraki|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Open🛂✅|08/28/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Firmware-Features-Intern-FY25-Summer-2025-Meraki/1427976)||
 |↳|Test Automation/QA Intern|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Open🛂✅|08/28/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Test-Automation-QA-Intern-FY25-Summer-2025/1427979)||
