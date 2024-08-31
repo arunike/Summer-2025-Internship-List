@@ -1,5 +1,12 @@
+## Python Files
 internList_script.py
-jobs.json
-last_run_date.txt
-check_jobs_links.json
+internByState_script.py
 checkLinks.py
+
+## JSON Files
+internPosition.json
+checkPositionLinks.json
+internPositions.json
+
+## Text Files
+last_run_date.txt
