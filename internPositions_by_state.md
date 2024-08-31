@@ -15,8 +15,52 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are a total of **41** states listed. **24** new positions were added today (08/31/2024).
+There are a total of **40** states listed. **24** new positions were added today (08/31/2024).
 
+## Jump to State
+
+- [AR](#jobs-in-ar)
+- [NJ](#jobs-in-nj)
+- [PA](#jobs-in-pa)
+- [NY](#jobs-in-ny)
+- [UT](#jobs-in-ut)
+- [TX](#jobs-in-tx)
+- [WI](#jobs-in-wi)
+- [IL](#jobs-in-il)
+- [NC](#jobs-in-nc)
+- [CO](#jobs-in-co)
+- [VA](#jobs-in-va)
+- [D.C.](#jobs-in-d.c.)
+- [MA](#jobs-in-ma)
+- [CA](#jobs-in-ca)
+- [GA](#jobs-in-ga)
+- [WA](#jobs-in-wa)
+- [OR](#jobs-in-or)
+- [OH](#jobs-in-oh)
+- [FL](#jobs-in-fl)
+- [DE](#jobs-in-de)
+- [AZ](#jobs-in-az)
+- [MN](#jobs-in-mn)
+- [MO](#jobs-in-mo)
+- [Remote](#jobs-in-remote)
+- [MD](#jobs-in-md)
+- [CT](#jobs-in-ct)
+- [IA](#jobs-in-ia)
+- [MI](#jobs-in-mi)
+- [IN](#jobs-in-in)
+- [TN](#jobs-in-tn)
+- [OG](#jobs-in-og)
+- [AL](#jobs-in-al)
+- [SC](#jobs-in-sc)
+- [OK](#jobs-in-ok)
+- [NM](#jobs-in-nm)
+- [LA](#jobs-in-la)
+- [NE](#jobs-in-ne)
+- [MS](#jobs-in-ms)
+- [KS](#jobs-in-ks)
+- [ID](#jobs-in-id)
+
+[⬇️ Jump to bottom ⬇️](#contributing)
 
 ## Jobs in AR
 
@@ -187,7 +231,7 @@ There are a total of **41** states listed. **24** new positions were added today
 | Optiver                             | Software Engineer Intern                                                       | Austin, TX      | Open     | 07/05/2024   | [Apply Here](https://optiver.com/working-at-optiver/career-opportunities/7498434002/)                                                                                                                                                                                       |                  |                        |
 | Caterpillar                         | Digital and Analytics Intern                                                   | Irving, TX      | Closed   | 07/09/2024   |                                                                                                                                                                                                                                                                             | 22.60 - 40.70    |                        |
 | Wells Fargo                         | Technology Intern (Software or Data Engineer)                                  | Irving, TX      | Open🛂   | 07/17/2024   | [Apply Here](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/XMLNAME-2025-Technology-Summer-Internship---Early-Careers--Software-or-Data-Engineer-_R-385829)                                                                                           | 48.08 - 60.10    |                        |
-| Wells Fargo                         | Technology Intern (Software or Data Engineer)                                  | Addison. TX     | Open🛂   | 07/17/2024   | [Apply Here](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/XMLNAME-2025-Technology-Summer-Internship---Early-Careers--Software-or-Data-Engineer-_R-385829)                                                                                           | 48.08 - 60.10    |                        |
+| Wells Fargo                         | Technology Intern (Software or Data Engineer)                                  | Addison, TX     | Open🛂   | 07/17/2024   | [Apply Here](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/XMLNAME-2025-Technology-Summer-Internship---Early-Careers--Software-or-Data-Engineer-_R-385829)                                                                                           | 48.08 - 60.10    |                        |
 | Quantiq Partners                    | Software Developer Intern                                                      | Austin, TX      | Open     | 07/24/2024   | [Apply Here](https://quantiqpartners.zohorecruit.com/forms/1965216ed406321a2f6e355156f0e94ea7405c37b4ef00a027ca731b06e9be8d)                                                                                                                                                |                  |                        |
 | Castleton Commodities International | Front Office IT Developer Intern                                               | Houston, TX     | Open     | 07/27/2024   | [Apply Here](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Front-Office-IT-Developer-Internship--Summer-2025-_R858)                                                                                                                                 |                  |                        |
 | Virtu                               | Developer Intern                                                               | Austin, TX      | Open     | 07/30/2024   | [Apply Here](https://job-boards.greenhouse.io/virtu/jobs/7520504002)                                                                                                                                                                                                        | 100 - 125        |                        |
@@ -730,12 +774,6 @@ There are a total of **41** states listed. **24** new positions were added today
 | American Express | Campus Undergraduate - Technology Information Security Intern                  | Phoinex, AZ    | Open     | 08/25/2024   | [Apply Here](https://aexp.eightfold.ai/careers/job/24562589)                                                                                                                                                         | 24.05 - 63       |         |
 | IBM              | Back End Developer Intern                                                      | Tucson, AZ     | Open     | 08/30/2024   | [Apply Here](https://careers.ibm.com/job/20939608/back-end-developer-intern-2025-remote)                                                                                                                             | 27.56 - 50.53    |         |
 
-## Jobs in Addison. TX
-
-| Company     | Job Title                                     | Location    | Status   | Date Added   | Application_Link                                                                                                                                                                  | Hourly Pay ($)   | Notes   |
-|:------------|:----------------------------------------------|:------------|:---------|:-------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------|:--------|
-| Wells Fargo | Technology Intern (Software or Data Engineer) | Addison. TX | Open🛂   | 07/17/2024   | [Apply Here](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/XMLNAME-2025-Technology-Summer-Internship---Early-Careers--Software-or-Data-Engineer-_R-385829) | 48.08 - 60.10    |         |
-
 ## Jobs in MN
 
 | Company                | Job Title                                     | Location        | Status   | Date Added   | Application_Link                                                                                                                                                                                     | Hourly Pay ($)   | Notes   |
@@ -928,6 +966,7 @@ There are a total of **41** states listed. **24** new positions were added today
 | Oracle       | Software Engineer Intern, Global Industries      | Unknown    | Open     | 08/29/2024   | [Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256011/?keyword=internship&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000149325) | 18.99 - 53       |         |
 | Estee Lauder | Information Technology Intern                    | Unknown    | Open     | 08/30/2024   | [Apply Here](https://jobs.elcompanies.com/estee-lauder-companies/jobs/2410822?lang=en-us)                                                                                                                      | 20 - 30          |         |
 
+[⬆️ Back to Top ⬆️](#internship-opportunities-by-state)
 
 ## Contributing
 
