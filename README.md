@@ -17,7 +17,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 There are total of **317** internship positions listed. **4** new positions were added today (08/31/2024).
 
-If you prefer to view the positions sorted by state, check out the [Internship Opportunities by State](https://github.com/arunike/Summer-2025-Internship-List/blob/main/jobs_by_state.md) page.
+If you prefer to view the positions sorted by state, check out the [Internship Opportunities by State](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_state.md) page.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
 
