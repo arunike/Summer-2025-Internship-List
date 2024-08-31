@@ -15,7 +15,7 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are a total of **40** states listed. **24** new positions were added today (08/31/2024).
+There are a total of **39** states listed. **24** new positions were added today (08/31/2024).
 
 ## Jump to State
 
@@ -49,7 +49,6 @@ There are a total of **40** states listed. **24** new positions were added today
 - [MI](#jobs-in-mi)
 - [IN](#jobs-in-in)
 - [TN](#jobs-in-tn)
-- [OG](#jobs-in-og)
 - [AL](#jobs-in-al)
 - [SC](#jobs-in-sc)
 - [OK](#jobs-in-ok)
@@ -700,13 +699,15 @@ There are a total of **40** states listed. **24** new positions were added today
 
 ## Jobs in OR
 
-| Company   | Job Title                                 | Location      | Status   | Date Added   | Application_Link                                                                                                              | Hourly Pay ($)   | Notes   |
-|:----------|:------------------------------------------|:--------------|:---------|:-------------|:------------------------------------------------------------------------------------------------------------------------------|:-----------------|:--------|
-| Google    | Software Engineering Intern, BS           | Portland, OR  | Closed   | 06/18/2024   |                                                                                                                               | 47 - 61          |         |
-| Google    | Software Engineering Intern, MS           | Portland, OR  | Closed   | 06/18/2024   |                                                                                                                               | 49 - 63          |         |
-| Boeing    | Engineering Intern                        | Portland, OR  | Open     | 08/14/2024   | [Apply Here](https://jobs.boeing.com/job/seattle/boeing-summer-2025-internship-program-paid-engineering/185/68678923232)      | 22.39 - 45.83    |         |
-| Intel     | Information Technology Intern - Bachelors | Hillsboro, OR | Open     | 08/24/2024   | [Apply Here](https://jobs.intel.com/en/job/-/-/599/69046621360)                                                               | 20.83 - 56.25    |         |
-| Trimble   | Software Engineer Intern                  | Portland, OR  | Open🛂   | 08/28/2024   | [Apply Here](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R45675) |                  |         |
+| Company   | Job Title                                   | Location      | Status   | Date Added   | Application_Link                                                                                                              | Hourly Pay ($)   | Notes   |
+|:----------|:--------------------------------------------|:--------------|:---------|:-------------|:------------------------------------------------------------------------------------------------------------------------------|:-----------------|:--------|
+| Google    | Software Engineering Intern, BS             | Portland, OR  | Closed   | 06/18/2024   |                                                                                                                               | 47 - 61          |         |
+| Google    | Software Engineering Intern, MS             | Portland, OR  | Closed   | 06/18/2024   |                                                                                                                               | 49 - 63          |         |
+| Intel     | Software Development Intern - Undergraduate | Hillsboro, OR | Closed   | 08/06/2024   |                                                                                                                               | 20.83 - 56.25    |         |
+| Boeing    | Engineering Intern                          | Portland, OR  | Open     | 08/14/2024   | [Apply Here](https://jobs.boeing.com/job/seattle/boeing-summer-2025-internship-program-paid-engineering/185/68678923232)      | 22.39 - 45.83    |         |
+| Cisco     | Software Engineer II Intern                 | Hillsboro, OR | Open     | 08/17/2024   | [Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1426829)                     | 22.91 - 67.7     |         |
+| Intel     | Information Technology Intern - Bachelors   | Hillsboro, OR | Open     | 08/24/2024   | [Apply Here](https://jobs.intel.com/en/job/-/-/599/69046621360)                                                               | 20.83 - 56.25    |         |
+| Trimble   | Software Engineer Intern                    | Portland, OR  | Open🛂   | 08/28/2024   | [Apply Here](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R45675) |                  |         |
 
 ## Jobs in OH
 
@@ -876,13 +877,6 @@ There are a total of **40** states listed. **24** new positions were added today
 | Trimble   | Software Engineer Intern            | Knoxville, TN | Open🛂   | 08/28/2024   | [Apply Here](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R45675)               |                  |         |
 | Oracle    | Software Engineer Intern, OCI       | Nashville, TN | Open     | 08/29/2024   | [Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256006/?keyword=internship&mode=location) | 18.99 - 53       |         |
 
-## Jobs in OG
-
-| Company   | Job Title                                   | Location      | Status   | Date Added   | Application_Link                                                                                          | Hourly Pay ($)   | Notes   |
-|:----------|:--------------------------------------------|:--------------|:---------|:-------------|:----------------------------------------------------------------------------------------------------------|:-----------------|:--------|
-| Intel     | Software Development Intern - Undergraduate | Hillsboro, OG | Closed   | 08/06/2024   |                                                                                                           | 20.83 - 56.25    |         |
-| Cisco     | Software Engineer II Intern                 | Hillsboro, OG | Open     | 08/17/2024   | [Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1426829) | 22.91 - 67.7     |         |
-
 ## Jobs in AL
 
 | Company       | Job Title                                                                      | Location       | Status   | Date Added   | Application_Link                                                                                                                                                      | Hourly Pay ($)   | Notes   |
@@ -966,7 +960,7 @@ There are a total of **40** states listed. **24** new positions were added today
 | Oracle       | Software Engineer Intern, Global Industries      | Unknown    | Open     | 08/29/2024   | [Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256011/?keyword=internship&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000149325) | 18.99 - 53       |         |
 | Estee Lauder | Information Technology Intern                    | Unknown    | Open     | 08/30/2024   | [Apply Here](https://jobs.elcompanies.com/estee-lauder-companies/jobs/2410822?lang=en-us)                                                                                                                      | 20 - 30          |         |
 
-[⬆️ Back to Top ⬆️](#internship-opportunities-by-state)
+[⬆️ Back to Top ⬆️](#jump-to-state)
 
 ## Contributing
 

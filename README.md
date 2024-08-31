@@ -19,7 +19,7 @@ There are total of **317** internship positions listed. **4** new positions were
 
 If you prefer to view the positions sorted by state, check out the [Internship Opportunities by State](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_state.md) page.
 
-[⬇️ Jump to bottom ⬇️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#contributing)
+[⬇️ Jump to bottom ⬇️](#contributing)
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
@@ -101,7 +101,7 @@ If you prefer to view the positions sorted by state, check out the [Internship O
 |↳|Test Automation/QA Intern|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Open🛂✅|08/28/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Test-Automation-QA-Intern-FY25-Summer-2025/1427979)||
 |↳|Site Reliability Intern|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Open🛂✅|08/28/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Intern-FY25-Summer-2025-Meraki/1427978)||
 |↳|Software Engineer I Intern|20 - 40|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Richardson, TX<br>Atlanta, GA</details><b>|Open✅|08/17/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1427387)||
-|↳|Software Engineer II Intern|22.91 - 67.7|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Hillsboro, OG</details><b>|Open✅|08/17/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1426829)||
+|↳|Software Engineer II Intern|22.91 - 67.7|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Hillsboro, OR</details><b>|Open✅|08/17/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1426829)||
 |CGI|Software Developer Intern|18 - 24|Lafayette, LA|Open✅|08/28/2024|[Apply Here](https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J0824-1757&lang=1)||
 |Equifax|Site Reliability Engineer Intern (J00160958)||St. Louis, MO|Open✅|08/28/2024|[Apply Here](https://careers.equifax.com/en/jobs/j00160958/site-reliability-engineer-intern/)||
 |↳|Site Reliability Engineer Intern (J00160957)||St. Louis, MO|Open✅|08/28/2024|[Apply Here](https://careers.equifax.com/en/jobs/j00160957/site-reliability-engineer-intern/)||
@@ -155,7 +155,7 @@ If you prefer to view the positions sorted by state, check out the [Internship O
 |Stripe|Software Engineer Intern|64.32|<details><summary>3 locations<br><br><b></summary>Seattle, WA<br>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://stripe.com/jobs/listing/software-engineer-intern/6142753)||
 |Air Products|IT / Digital Technology Intern||Allentown, PA|Open✅|08/24/2024|[Apply Here](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/SUMMER-INTERN---CO-OP---IT---Digital-Technology--2025-_JR-2024-12559)||
 |Intel|Information Technology Intern - Bachelors|20.83 - 56.25|<details><summary>5 locations<br><br><b></summary>Hillsboro, OR<br>Phoenix, AZ<br>Folsm, CA<br>San Diego, CA<br>Santa Clara, CA</details><b>|Open✅|08/24/2024|[Apply Here](https://jobs.intel.com/en/job/-/-/599/69046621360)||
-|↳|Software Development Intern - Undergraduate|20.83 - 56.25|<details><summary>2 locations<br><br><b></summary>Hillsboro, OG<br>Santa Clara, CA</details><b>|Closed🔒|08/06/2024|||
+|↳|Software Development Intern - Undergraduate|20.83 - 56.25|<details><summary>2 locations<br><br><b></summary>Hillsboro, OR<br>Santa Clara, CA</details><b>|Closed🔒|08/06/2024|||
 |Robinhood|Software Engineering Intern, Android|48|<details><summary>2 locations<br><br><b></summary>Menlo Park, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/ed7f6d91/details?tl=8250d832&from_page=tracking_link)||
 |↳|Software Engineering Intern, iOS|48|<details><summary>2 locations<br><br><b></summary>Menlo Park, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/61af82f4/details?tl=2e7d41fa&from_page=tracking_link)||
 |↳|Software Engineering Intern, Backend|48|<details><summary>2 locations<br><br><b></summary>Menlo Park, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/7f7f6e26/details?tl=12ed1517&from_page=tracking_link)||
@@ -341,7 +341,7 @@ If you prefer to view the positions sorted by state, check out the [Internship O
 |Epic|Software Developer Intern||Verona, WI|Open🛂✅|05/19/2024|[Apply Here](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624)||
 |BNP Paribas|Summer Analyst Intern, Technology||Jersey City, NJ|Open✅|05/19/2024|[Apply Here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/brand-7/candidate/so/pm/1/pl/2/opp/900/en-GB?site=group.bnpparibas&campaignReal=0&src=CWS-15640&offerID=900&domainID=174&entityID=94)||
 
-[⬆️ Back to Top ⬆️](https://github.com/arunike/Summer-2025-Internship-List?tab=readme-ov-file#internship-positions)
+[⬆️ Back to Top ⬆️](#internship-positions)
 
 ## Contributing
 
