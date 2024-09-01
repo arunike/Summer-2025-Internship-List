@@ -1,12 +1,11 @@
 ## Python Files
 internList_script.py
 internByState_script.py
-checkLinks.py
+checkPosition.py
 
 ## JSON Files
-internPosition.json
-checkPositionLinks.json
-internPositions.json
+intern_positions.json
+check_position.json
 
 ## Text Files
 last_run_date.txt
