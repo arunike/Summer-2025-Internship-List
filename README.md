@@ -15,7 +15,7 @@ Blank in the "Location" column indicates the location is unknown.
 
 Drop a ⭐ on the repo if this list helped you! Your support encourages me to continue maintaining this repo. Contributions are welcome! 🎉
 
-There are total of **326** internship positions listed. **8** new positions were added today (09/01/2024).
+There are total of **332** internship positions listed. **7** new positions were added today (09/02/2024).
 
 If you prefer to view the positions sorted by state, check out the [Internship Opportunities by State](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_state.md) page.
 
@@ -23,6 +23,15 @@ If you prefer to view the positions sorted by state, check out the [Internship O
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Intel|Information Technology Intern - Graduate|32.81 - 86.45|<details><summary>5 locations<br><br><b></summary>Hillsboro, OR<br>Phoenix, AZ<br>Folsm, CA<br>San Diego, CA<br>Santa Clara, CA</details><b>|Open✅|09/02/2024|[Apply Here](https://jobs.intel.com/en/job/-/-/599/66869441312)||
+|↳|Information Technology Intern - Bachelors|20.83 - 56.25|<details><summary>5 locations<br><br><b></summary>Hillsboro, OR<br>Phoenix, AZ<br>Folsm, CA<br>San Diego, CA<br>Santa Clara, CA</details><b>|Open✅|08/24/2024|[Apply Here](https://jobs.intel.com/en/job/-/-/599/69046621360)||
+|↳|Software Development Intern - Undergraduate|20.83 - 56.25|<details><summary>2 locations<br><br><b></summary>Hillsboro, OR<br>Santa Clara, CA</details><b>|Closed🔒|08/06/2024|||
+|UBS|Technology Intern|48.08 - 50.48|<details><summary>2 locations<br><br><b></summary>Weehawken, NJ<br>New York, NY</details><b>|Open✅|09/02/2024|[Apply Here](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=305740&siteid=5131&partnerid=25008&PageType=JobDetails#jobDetails=305740_5131)||
+|84.51°|Data Scientist Intern||<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Chicago, IL</details><b>|Open✅|09/02/2024|[Apply Here](https://job-boards.greenhouse.io/8451university/jobs/7579511002)||
+|↳|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Chicago, IL</details><b>|Open✅|09/02/2024|[Apply Here](https://job-boards.greenhouse.io/8451university/jobs/7579605002)||
+|Textron Systems|Information Technology Intern||New Orleans, LA|Open✅|09/02/2024|[Apply Here](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?src=SNS-102&job=1384906)||
+|↳|Information Technology Intern||Hunt Valley, MD|Open✅|09/02/2024|[Apply Here](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?src=SNS-102&job=1384686)||
+|Whatnot|Software Engineer Intern||<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Los Angeles, CA<br>New York, NY</details><b>|Open✅|09/02/2024|[Apply Here](https://job-boards.greenhouse.io/whatnot/jobs/5247639004)||
 |Siemens|Software Developer Intern, Grid Software|31 - 35|Minnetonka, MN|Open🛂✅|09/01/2024|[Apply Here](https://jobs.siemens.com/careers/job/563156120579876)||
 |Watershed|Software Engineer Intern||San Francisco, CA|Open✅|09/01/2024|[Apply Here](https://watershed.com/careers/4096445004-software-engineer-intern)||
 |Santanders|Data & Analytics Intern|43.33|Boston, MA|Open✅|09/01/2024|[Apply Here](https://www.santandercareers.com/job/-/-/1771/69366865184)||
@@ -162,9 +171,6 @@ If you prefer to view the positions sorted by state, check out the [Internship O
 |↳|Software Engineer Intern, Fullstack|34.12 - 66.75|Redmond, WA|Open✅|08/13/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1751922)||
 |Stripe|Software Engineer Intern|64.32|<details><summary>3 locations<br><br><b></summary>Seattle, WA<br>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://stripe.com/jobs/listing/software-engineer-intern/6142753)||
 |Air Products|IT / Digital Technology Intern||Allentown, PA|Open✅|08/24/2024|[Apply Here](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/SUMMER-INTERN---CO-OP---IT---Digital-Technology--2025-_JR-2024-12559)||
-|Intel|Information Technology Intern - Bachelors|20.83 - 56.25|<details><summary>5 locations<br><br><b></summary>Hillsboro, OR<br>Phoenix, AZ<br>Folsm, CA<br>San Diego, CA<br>Santa Clara, CA</details><b>|Open✅|08/24/2024|[Apply Here](https://jobs.intel.com/en/job/-/-/599/69046621360)||
-|↳|Software Development Intern - Undergraduate|20.83 - 56.25|<details><summary>2 locations<br><br><b></summary>Hillsboro, OR<br>Santa Clara, CA</details><b>|Closed🔒|08/06/2024|||
-|↳|Information Technology Intern - Graduate|32.81 - 86.45|<details><summary>5 locations<br><br><b></summary>Hillsboro, OR<br>Phoenix, AZ<br>Folsm, CA<br>San Diego, CA<br>Santa Clara, CA</details><b>|Open✅|08/06/2024|[Apply Here](https://jobs.intel.com/en/job/-/-/599/66869441312)||
 |Robinhood|Software Engineering Intern, Android|48|<details><summary>2 locations<br><br><b></summary>Menlo Park, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/ed7f6d91/details?tl=8250d832&from_page=tracking_link)||
 |↳|Software Engineering Intern, iOS|48|<details><summary>2 locations<br><br><b></summary>Menlo Park, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/61af82f4/details?tl=2e7d41fa&from_page=tracking_link)||
 |↳|Software Engineering Intern, Backend|48|<details><summary>2 locations<br><br><b></summary>Menlo Park, CA<br>New York, NY</details><b>|Open✅|08/24/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/7f7f6e26/details?tl=12ed1517&from_page=tracking_link)||
