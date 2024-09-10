@@ -3,10 +3,14 @@ internList_script.py
 internByState_script.py
 internByStatus_script.py
 checkPosition.py
+checkDuplicate.py
 
 ## JSON Files
 intern_positions.json
 check_position.json
+
+## Markdown Files
+duplicate_entries.md
 
 ## Text Files
 last_run_date.txt
