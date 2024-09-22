@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 09/21/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 09/22/2024.
 
 ## Internship Positions
 
-There are total of **1023 (898 open & 125 closed)** internship positions listed. **18** new positions were added today.
+There are total of **1025 (900 open & 125 closed)** internship positions listed. **2** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Bristol Myers Squibb|Data Science Intern||Princeton, NJ|Open✅|09/22/2024|[Apply Here](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Summer-2025---Data-Science-Internship_R1585740)||
+|↳|Hydrogen-Deuterium Exchange Data Analysis Intern||Princeton, NJ|Open✅|09/22/2024|[Apply Here](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Summer-2025---Hydrogen-Deuterium-Exchange-data-analysis-Internship_R1585747)||
+|↳|Digital Accelerator Program Intern||Princeton, NJ|Open✅|08/17/2024|[Apply Here](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/DigITal-Accelerator-Program-Internship---Summer-2025_R1584488)||
 |Jahnel Group|Associate Software Engineer Intern||Schenectady, NY|Open✅|09/21/2024|[Apply Here](https://www.jahnelgroup.com/apply.html?gh_jid=4102298007)||
 |Exelon|Intern|||Open✅|09/21/2024|[Apply Here](https://jobs.exeloncorp.com/search/intern/jobs)||
 |Atlassian|Software Engineer Intern|42 - 58|<details><summary>2 locations<br><br><b></summary>Mountain View, CA<br>Remote</details><b>|Open✅|09/21/2024|[Apply Here](https://www.atlassian.com/company/careers/details/14983)||
@@ -942,7 +945,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Hudl|Software Engineer Intern|30 - 34|Lincoln, NE|Open✅|08/19/2024|[Apply Here](https://boards.greenhouse.io/hudl/jobs/6176329)||
 |CTC|Software Engineer Intern||Chicago, IL|Open✅|08/19/2024|[Apply Here](https://www.chicagotrading.com/posting?req=4462727005&campus=1)||
 |↳|Software Engineer Intern||New York, NY|Open✅|08/19/2024|[Apply Here](https://www.chicagotrading.com/posting?req=4462729005&campus=1)||
-|Bristol Myers Squibb|Digital Accelerator Program Intern||Princeton, NJ|Open✅|08/17/2024|[Apply Here](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/DigITal-Accelerator-Program-Internship---Summer-2025_R1584488)||
 |Grainger|Software Engineer Intern||Chicago, IL|Open🛂|08/17/2024|[Apply Here](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1203361600/?feedId=286800)||
 |Kohler|Software Engineering Intern, Kohler Ventures||Palo Alto, CA|Open✅|08/17/2024|[Apply Here](https://kohler.csod.com/ux/ats/careersite/16/home/requisition/63255?c=kohler&lang=en-US&src=JB-10021)||
 |Sony|Junior Web Front End Developer Intern|20 - 28|San Diego, CA|Closed🔒|08/17/2024|||
