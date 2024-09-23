@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 09/22/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 09/23/2024.
 
 ## Internship Positions
 
-There are total of **1025 (900 open & 125 closed)** internship positions listed. **2** new positions were added today.
+There are total of **1035 (910 open & 125 closed)** internship positions listed. **10** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,23 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Cox|Software Engineering Intern|23.17 - 34.81|Atlanta, GA|Open✅|09/23/2024|[Apply Here](https://jobs.coxenterprises.com/en/jobs/job/r202449635-cloud-engineering-intern-summer-2025)||
+|↳|Software Engineering Intern|23.17 - 34.81|<details><summary>4 locations<br><br><b></summary>Atlanta, GA<br>Draper, UT<br>Burlington, VT<br>Irvine, CA</details><b>|Open✅|09/06/2024|[Apply Here](https://jobs.coxenterprises.com/en/jobs/job/r202449383-software-engineering-intern-summer-2025)||
+|OpenAI|Software Engineer Internship, Applied Emerging Talent|60|San Francisco, CA|Open✅|09/23/2024|[Apply Here](https://jobs.ashbyhq.com/openai/6d1b3df9-b086-4e9f-8568-434c5493a00b)||
+|The Home Depot|Software Engineer Intern|27 - 40|Remote|Open✅|09/23/2024|[Apply Here](https://careers.homedepot.com/job/21053876/2025-summer-software-engineer-intern-remote-remote/)||
+|SAIC|Software Engineer Intern|20 - 30|Omaha, NE|Open🇺🇸|09/23/2024|[Apply Here](https://jobs.saic.com/jobs/14956578-software-engineer-intern)||
+|Expedia Group|Software Development Engineering Intern|41 - 51|<details><summary>3 locations<br><br><b></summary>Seattle, WA<br>Austin, TX<br>Chicago, IL</details><b>|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Software-Development-Engineering-Intern---2025---Seattle--Austin--Chicago_R-91173)||
+|↳|Machine Learning Scientist Intern - PhD|56|Seattle, WA|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-Intern---PhD---2025---Seattle_R-91178)||
+|↳|Data Science Intern, Analytics|33 - 45|Seattle, WA|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Data-Science--Analytics-Intern---2025---Seattle_R-91182)||
+|↳|Mobile Engineering Intern|41 - 51|<details><summary>2 locations<br><br><b></summary>Seattle, WA<br>Chicago, IL</details><b>|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Mobile-Engineering-Intern---2025---Seattle--Chicago_R-91175)||
+|↳|Machine Learning Scientist Intern - Masters|50|Seattle, WA|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-Intern---Masters---2025---Seattle_R-91177)||
+|Duolingo|Software Engineer Intern, Thrive|43 - 45|Pittsburgh, PA|Open✅|09/23/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7636988002)||
+|↳|Data Scientist Intern|50 - 52|Pittsburgh, PA|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7642838002)||
+|↳|Data Scientist Intern|50 - 52|New York, NY|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7643898002)||
+|↳|Data Scientist Intern - PhD or Masters|50 - 52|Pittsburgh, PA|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7643892002)||
+|↳|Data Scientist Intern - PhD or Masters|50 - 52|New York, NY|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7643899002)||
+|↳|AI Research, Intern - PhD|63 - 65|Philadelphia, PA|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7628836002)||
+|↳|Software Engineer Intern|50 - 52|Pittsburgh, PA|Closed🔒|09/03/2024|||
 |Bristol Myers Squibb|Data Science Intern||Princeton, NJ|Open✅|09/22/2024|[Apply Here](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Summer-2025---Data-Science-Internship_R1585740)||
 |↳|Hydrogen-Deuterium Exchange Data Analysis Intern||Princeton, NJ|Open✅|09/22/2024|[Apply Here](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Summer-2025---Hydrogen-Deuterium-Exchange-data-analysis-Internship_R1585747)||
 |↳|Digital Accelerator Program Intern||Princeton, NJ|Open✅|08/17/2024|[Apply Here](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/DigITal-Accelerator-Program-Internship---Summer-2025_R1584488)||
@@ -69,8 +86,8 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Emc Insuarance|Release Engineering Intern||Remote|Open✅|09/20/2024|[Apply Here](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa---Work-From-Home/Release-Engineering-Intern_R5551)||
 |Dassult Systemes|Software QA Engineer Intern|22 - 40|Waltham, MA|Open✅|09/20/2024|[Apply Here](https://www.3ds.com/careers/jobs/internship-software-qa-engineer-541103?src=JB-10122)||
 |Thrivent|Software Devleoper Intern|25 - 28|Remote|Open✅|09/20/2024|[Apply Here](https://careers.thrivent.com/jobs/40181/software-developer-intern-summer-2025/)||
-|↳|IT Application Engineer Intern, Investments|27 - 30|Minneapolis, MN|Open✅|09/20/2024|[Apply Here](https://careers.thrivent.com/jobs/40179/it-application-engineer-intern-investments-summer-2025/)||
-|↳|Data Analyst Intern, Investments|24 - 27|Minneapolis, MN|Open✅|09/20/2024|[Apply Here](https://careers.thrivent.com/jobs/40180/data-analyst-intern-investments-summer-2025/)||
+|↳|IT Application Engineer Intern, Investments|24 - 27|Minneapolis, MN|Open✅|09/20/2024|[Apply Here](https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2025_REQ-40179)||
+|↳|Data Analyst Intern, Investments|24 - 27|Minneapolis, MN|Open✅|09/20/2024|[Apply Here](https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/Data-Analyst-Intern--Investments---Summer-2025_REQ-40180)||
 |Zions Bank|Frontend Software Engineer Intern, Full Stack||Midvale, UT|Open🛂|09/20/2024|[Apply Here](https://zionsbancorp.referrals.selectminds.com/default2261/jobs/intern-frontend-full-stack-software-engineer-20177)||
 |Zions Bankcorporation|Software Engineer Intern||Midvale, UT|Open🛂|09/20/2024|[Apply Here](https://zionsbancorp.referrals.selectminds.com/ZionsBancorporationCareers/jobs/intern-software-engineer-20169)||
 |Wayfair|Machine Learning Intern||Boston, MA|Open✅|09/20/2024|[Apply Here](https://www.wayfair.com/careers/job/machine-learning-intern--summer-----/7626208002)|PhD Only|
@@ -90,12 +107,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Microchip|Engineering Intern, Firmware, OS Drivers, SW Tools||Houston, TX|Open✅|09/20/2024|[Apply Here](https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware--OS-Drivers--SW-Tools-_R2252-24)||
 |Gannett Fleming|Application Development Intern|18 - 25|Richmond, VA|Open✅|09/20/2024|[Apply Here](https://careers-geodecisions.icims.com/jobs/11311/job)||
 |AQR Capital Management|Quantitative Research Development Summer Analyst||Greenwich, CT|Open✅|09/20/2024|[Apply Here](https://careers.aqr.com/jobs/research/greenwich-ct/2025-quantitative-research-development-summer-analyst/6269811?gh_jid=6269811#/)||
-|Duolingo|Data Scientist Intern|50 - 52|Pittsburgh, PA|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7642838002)||
-|↳|Data Scientist Intern|50 - 52|New York, NY|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7643898002)||
-|↳|Data Scientist Intern - PhD or Masters|50 - 52|Pittsburgh, PA|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7643892002)||
-|↳|Data Scientist Intern - PhD or Masters|50 - 52|New York, NY|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7643899002)||
-|↳|AI Research, Intern - PhD|63 - 65|Philadelphia, PA|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7628836002)||
-|↳|Software Engineer Intern|50 - 52|Pittsburgh, PA|Closed🔒|09/03/2024|||
 |Motorola Solutions|Software Engineer Intern||Plantation, FL|Open🇺🇸|09/19/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineer-Intern---Summer-2025_R50157)||
 |↳|Supply Chain Data Analytics Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Schaumburg, IL</details><b>|Open✅|09/17/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analytics-Internship-2025_R49655)||
 |↳|Software Development Intern||Remote|Open✅|09/17/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Florida-Remote-Work/Software-Development-Intern---2025-Internship_R49986)||
@@ -669,7 +680,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Capture Technician Intern||Cary, NC|Open✅|08/29/2024|[Apply Here](https://boards.greenhouse.io/embed/job_app?token=5267671004)||
 |DriveTime|Data Science Intern||<details><summary>2 locations<br><br><b></summary>Tempe, AZ<br>Dallas, TX</details><b>|Open✅|09/06/2024|[Apply Here](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2025-_R9320)||
 |↳|Data Analytics Intern||<details><summary>2 locations<br><br><b></summary>Tempe, AZ<br>Dallas, TX</details><b>|Closed🔒|08/23/2024|||
-|Cox|Software Engineering Intern|23.17 - 34.81|<details><summary>4 locations<br><br><b></summary>Atlanta, GA<br>Draper, UT<br>Burlington, VT<br>Irvine, CA</details><b>|Open✅|09/06/2024|[Apply Here](https://jobs.coxenterprises.com/en/jobs/job/r202449383-software-engineering-intern-summer-2025)||
 |Genesis Therapeutics|Software Engineer Intern||Burlingame, CA|Open✅|09/06/2024|[Apply Here](https://jobs.lever.co/genesistherapeutics/d13c7dea-6c8c-4741-9220-a6dd6300a175)||
 |Appian|Software Engineering Intern||McLean, VA|Open✅|09/06/2024|[Apply Here](https://boards.greenhouse.io/appian/jobs/6236838)||
 |Earnin|Machine Learning Intern|30|Palo Alto, CA|Closed🔒|09/06/2024|||
