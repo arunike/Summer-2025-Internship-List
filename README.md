@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 10/06/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 10/07/2024.
 
 ## Internship Positions
 
-There are total of **1370 (1059 open & 311 closed)** internship positions listed. **11** new positions were added today.
+There are total of **1384 (1073 open & 311 closed)** internship positions listed. **14** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,24 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Siemens|Software Engineering Intern|25 - 30|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Buffalo Grove, IL</details><b>|Open✅|10/07/2024|[Apply Here](https://jobs.siemens.com/careers/job/563156121257878)||
+|↳|R&D Software Engineering Intern, Rail Infrastructure|22 - 26|Louiseville, KY|Closed🔒|09/16/2024|||
+|↳|Onboard Software Engineering Intern, Rail Infrastructure|22 - 26|Munhall, PA|Closed🔒|09/16/2024|||
+|↳|Data Analysis Intern, Customer Service|22 - 26|New Castle, DE|Open🛂|09/16/2024|[Apply Here](https://jobs.siemens.com/careers/job/563156120571878)||
+|↳|Software Developer Intern, Grid Software|31 - 35|Minnetonka, MN|Open🛂|09/01/2024|[Apply Here](https://jobs.siemens.com/careers/job/563156120579876)||
+|Parsons|Software Developer Intern|21.44 - 37.55|<details><summary>2 locations<br><br><b></summary>Denver, CO<br>Colorado Springs, CO</details><b>|Open✅|10/07/2024|[Apply Here](https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---CO-Denver/Software-Developer-Intern--Summer-2025-_R159339)||
+|Axos|Software Engineering Intern|24 - 25|San Diego, CA|Open✅|10/07/2024|[Apply Here](https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR1459)||
+|Wacker|Production Development Engineer Intern||Eddyville, IA|Open🛂|10/07/2024|[Apply Here](https://jobs.wacker.com/job/Eddyville-Production-Development-Engineer-Intern-IA/1128127001/)||
+|Usage AI|Software Engineer Intern, Automation|25|New York, NY|Open✅|10/07/2024|[Apply Here](https://www.linkedin.com/jobs/view/4043225538/)||
+|Disney|Software Engineering Intern, Disney Entertainment and ESPN Technology|40|<details><summary>3 locations<br><br><b></summary>Santa Monica, CA<br>Burbank, CA<br>Glendale, CA</details><b>|Open✅|10/07/2024|[Apply Here](https://jobs.disneycareers.com/job/santa-monica/disney-entertainment-and-espn-technology-software-engineering-intern-socal-summer-2025/391/70894276816)||
+|↳|Machine Learning Engineer Intern, Disney Entertainment and ESPN Technology|40|<details><summary>2 locations<br><br><b></summary>Santa Monica, CA<br>Seattle, WA</details><b>|Open✅|10/07/2024|[Apply Here](https://jobs.disneycareers.com/job/santa-monica/disney-entertainment-and-espn-technology-machine-learning-engineer-intern-summer-2025/391/70894275632)||
+|↳|Technology Intern, Lucasfilm|30 - 45|San Francisco, CA|Open✅|10/07/2024|[Apply Here](https://jobs.disneycareers.com/job/san-francisco/lucasfilm-technology-intern-summer-2025/391/70894269248)||
+|↳|Technology Intern, Walt Disney Animation Studios|30 - 45|Burbank, CA|Open✅|10/07/2024|[Apply Here](https://jobs.disneycareers.com/job/burbank/walt-disney-animation-studios-technology-intern-summer-2025/391/70894268240)||
+|↳|Technology Intern, The Walt Disney Studios|30 - 45|Burbank, CA|Open✅|10/07/2024|[Apply Here](https://jobs.disneycareers.com/job/burbank/the-walt-disney-studios-technology-intern-summer-2025/391/708942681760)||
+|↳|Software Engineering Intern, Disney Entertainment and ESPN Technology|30 - 45|Bristol, CT|Open✅|10/07/2024|[Apply Here](https://jobs.disneycareers.com/job/bristol/disney-entertainment-and-espn-technology-software-engineering-intern-bristol-ct-summer-2025/391/70889089312)||
+|↳|Data Analyst Intern, Enterprise Technology||<details><summary>2 locations<br><br><b></summary>Orlando, FL<br>Burbank, CA</details><b>|Open✅|10/07/2024|[Apply Here](https://jobs.disneycareers.com/job/orlando/enterprise-technology-data-analyst-intern-summer-2025/391/70889088688)||
+|↳|Software Engineering Intern, Enterprise Technology||<details><summary>2 locations<br><br><b></summary>Orlando, FL<br>Burbank, CA</details><b>|Open✅|10/07/2024|[Apply Here](https://jobs.disneycareers.com/job/orlando/enterprise-technology-software-engineering-intern-summer-2025/391/70889087472)||
+|↳|Software Engineering Intern, Disney Experiences||Orlando, FL|Open✅|10/07/2024|[Apply Here](https://jobs.disneycareers.com/job/orlando/disney-experiences-software-engineering-intern-summer-2025/391/70889085584)||
 |Motorola Solutions|IT Data Analytics Intern||Chicago, IL|Open🛂|10/06/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/IT-Data-Analytics---2025-Summer-Internship--IL-Hybrid-_R50462)|Sponsorship is only avaliable to Graduate Students|
 |↳|Test Engineering Intern||Chicago, IL|Open🛂|09/30/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Test-Engineering-Internship-2025_R49680)||
 |↳|Software Engineer Intern||Plantation, FL|Open🇺🇸|09/19/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineer-Intern---Summer-2025_R50157)||
@@ -69,7 +87,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Network Engineer Intern|26 - 43|Denver, CO|Open✅|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335078/Intern-Network-Engineer-Summer-2025)||
 |Grant Thornton|Cybersecurity and Privacy Intern Intern|25 - 30|San Francisco, CA|Open✅|10/06/2024|[Apply Here](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/111177)||
 |↳|Technology Modernization Associate||Dallas, TX|Open✅|09/14/2024|[Apply Here](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/111218)||
-|Comcast|AI-Driven Software Development Intern|32|West Chester, PA|Open✅|10/06/2024|[Apply Here](https://jobs.comcast.com/job/west-chester/comcast-ai-driven-software-development-intern/45483/70239974992)||
+|Comcast|AI-Driven Software Development Intern|32|West Chester, PA|Open🛂|10/06/2024|[Apply Here](https://jobs.comcast.com/job/west-chester/comcast-ai-driven-software-development-intern/45483/70239974992)||
 |↳|Comcast Software Engineer Intern|32|Sunnyvale, CA|Open✅|09/15/2024|[Apply Here](https://jobs.comcast.com/job/-/-/45483/69906112976)||
 |↳|Technology Intern - Undergrad|32|<details><summary>4 locations<br><br><b></summary>Philadelphia, PA<br>New York, NY<br>Unversal City, CA<br>Orlando, FL</details><b>|Closed🔒|09/10/2024|||
 |↳|Cybersecurity Intern - Undergrad|32|Philadelphia, PA|Closed🔒|09/10/2024|||
@@ -743,10 +761,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Valeo|Machine Learning Software Engineer Intern|23.4 - 29.9|San Mateo, CA|Open✅|09/16/2024|[Apply Here](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Machine-Learning-Software-Engineer-Intern--Summer-2025-_REQ2024044586)||
 |Tanium|Software Engineering Intern||Durham, NC|Open✅|09/16/2024|[Apply Here](https://www.tanium.com/careers/6187797)||
 |↳|Software Engineering Intern||Addison, TX|Open✅|09/16/2024|[Apply Here](https://www.tanium.com/careers/internship/6208649/)||
-|Siemens|R&D Software Engineering Intern, Rail Infrastructure|22 - 26|Louiseville, KY|Closed🔒|09/16/2024|||
-|↳|Onboard Software Engineering Intern, Rail Infrastructure|22 - 26|Munhall, PA|Closed🔒|09/16/2024|||
-|↳|Data Analysis Intern, Customer Service|22 - 26|New Castle, DE|Open🛂|09/16/2024|[Apply Here](https://jobs.siemens.com/careers/job/563156120571878)||
-|↳|Software Developer Intern, Grid Software|31 - 35|Minnetonka, MN|Open🛂|09/01/2024|[Apply Here](https://jobs.siemens.com/careers/job/563156120579876)||
 |Playground|Software Engineer Intern|45 - 60|New York, NY|Open✅|09/16/2024|[Apply Here](https://app.dover.com/apply/Playground/96774945-7637-4834-adb5-29e1edef1179/?rs=76643084)||
 |Noah Medical|Software Engineer Intern|24 - 31|San Carlos, CA|Open✅|09/16/2024|[Apply Here](https://boards.greenhouse.io/noahmedical/jobs/4126024008)||
 |Citizens|Software Engineer Intern, Enterprise Technology & Security||<details><summary>4 locations<br><br><b></summary>Johnson, RI<br>Iselin, NJ<br>Phoenix, AZ<br>Westwood, MA</details><b>|Closed🔒|09/16/2024|||
