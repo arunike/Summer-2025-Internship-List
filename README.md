@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 10/12/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 10/13/2024.
 
 ## Internship Positions
 
-There are total of **1536 (1103 open & 433 closed)** internship positions listed. **33** new positions were added today.
+There are total of **1539 (1106 open & 433 closed)** internship positions listed. **3** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Staples|Java Developer Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/java-developer-intern-june-2025-hybrid/44412/71136539232)||
+|↳|Salesforce Developer Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/salesforce-developer-intern-june-202-hybrid/44412/71136535392)||
+|↳|Data Engineering Intern Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/data-engineering-intern-june-2025-hybrid/44412/71085375392)||
+|↳|Software Engineer Intern||Framingham, MA|Open✅|09/15/2024|[Apply Here](https://careers.staples.com/en/job/framingham/software-engineer-intern-hybrid-june-2025/44412/69911530592)||
 |Visa|Data Storage Intern|26 - 31|Highlands Ranch, CO|Open✅|10/12/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF78364R)||
 |↳|Systems Engineer Intern|26 - 31|Highlands Ranch, CO|Open✅|10/12/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF78383E)||
 |↳|Software Engineer Intern|26 - 31|Miami, FL|Open✅|10/12/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF78384F)||
@@ -961,7 +965,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Security Engineer Intern, IT|19 - 55|Foster City, CA|Open✅|09/10/2024|[Apply Here](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---IT--Security-Engineer_R0042296?q=intern)||
 |↳|Innovation, Digital, and External Partnerships Intern, IT|19 - 55|Foster City, CA|Open✅|09/10/2024|[Apply Here](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Innovation--Digital--and-External-Partnerships_R0042288)||
 |↳|Data & Analytics Intern, Supply Chain & Manufacturing|19 - 55|Foster City, CA|Open✅|09/06/2024|[Apply Here](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT--Data---Analytics---PDM--Supply-Chain---Manufacturing-_R0042294)||
-|Staples|Software Engineer Intern||Framingham, MA|Open🛂|09/15/2024|[Apply Here](https://careers.staples.com/en/job/-/-/44412/69911530592)||
 |CACI|Software Engineering Intern|20.78 - 41.61|Devner, CO|Open🛂|09/15/2024|[Apply Here](https://careers.caci.com/global/en/job/301413/Software-Engineering-Intern-Summer-2025)||
 |↳|Software Engineering Intern|20.78 - 41.61|Austin, TX|Closed🔒|09/15/2024|||
 |↳|Software Test Engineering Intern|20.78 - 41.61|Austin, TX|Closed🔒|09/15/2024|||
