@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 10/18/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 10/19/2024.
 
 ## Internship Positions
 
-There are total of **1640 (1016 open & 624 closed)** internship positions listed. **26** new positions were added today.
+There are total of **1655 (1031 open & 624 closed)** internship positions listed. **15** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,40 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Atlassian|Site Reliability Engineer Intern|42 - 58|Mountain View, CA|Open✅|10/19/2024|[Apply Here](https://www.atlassian.com/company/careers/details/15435)||
+|↳|Software Engineer Intern|42 - 58|<details><summary>2 locations<br><br><b></summary>Mountain View, CA<br>Remote</details><b>|Open✅|09/21/2024|[Apply Here](https://www.atlassian.com/company/careers/details/14983)||
+|Sigma Computing|Software Engineering Intern|30 - 35|San Francisco, CA|Open✅|10/19/2024|[Apply Here](https://job-boards.greenhouse.io/sigmacomputing/jobs/6086991003)||
+|The New York Times|Data Analyst Intern Intern|40|New York, NY|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/thenewyorktimes/jobs/4487948005)||
+|↳|Android Engineering Intern|40|New York, NY|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/thenewyorktimes/jobs/4486833005)||
+|↳|iOS Engineering Intern|40|New York, NY|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/thenewyorktimes/jobs/4486822005)||
+|↳|Backend Engineering Intern|40|New York, NY|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/thenewyorktimes/jobs/4486222005)||
+|↳|Frontend Engineering Intern|40|New York, NY|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/thenewyorktimes/jobs/4486206005)||
+|↳|Full-Stack Engineering Intern|40|New York, NY|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/thenewyorktimes/jobs/4483963005)||
+|↳|Interactive News Intern|40|New York, NY|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/thenewyorktimes/jobs/4487855005)||
+|Schneider|Software Engineer Intern||Green Bay, WI|Open✅|10/19/2024|[Apply Here](https://schneiderjobs.com/search-office-jobs/details/242680)||
+|↳|Data Science and Engineering Intern||Green Bay, WI|Open✅|10/19/2024|[Apply Here](https://schneiderjobs.com/search-office-jobs/details/242620)|Graduate Students Only|
+|↳|Data Science Intern||Green Bay, WI|Open✅|10/19/2024|[Apply Here](https://schneiderjobs.com/search-office-jobs/details/242621)||
+|Pure Storage|Software Engineer Intern|53.12 - 62.5|Santa Clara, CA|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/purestorage/jobs/6280293)||
+|Leidos|Database Development and Administration Intern|25.35 - 42.22|Bowie, MD|Open✅|10/19/2024|[Apply Here](https://careers.leidos.com/jobs/15056766-database-development-and-administration-intern)||
+|↳|Software Engineer Intern|23.35 - 44.22|Tucson, AZ|Open✅|10/15/2024|[Apply Here](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer-Intern_R-00145578)||
+|↳|Software Engineer Intern|23.35 - 42.22|Gaithersburg, MD|Closed🔒|10/05/2024|||
+|↳|Software Engineer Intern|23.35 - 42.22|Scott Air Force Base, IL|Closed🔒|10/05/2024|||
+|↳|Software Engineer Intern|23.35 - 42.22|Arlington, VA|Closed🔒|10/05/2024|||
+|↳|Embedded Software Engineer Intern|23.35 - 42.22|San Diego, CA|Open🇺🇸|10/05/2024|[Apply Here](https://careers.leidos.com/jobs/15002564-embedded-software-engineer-intern)||
+|↳|Software Engineer Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
+|↳|Data Science Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|Arlington, VA|Closed🔒|08/23/2024|||
+|IBM|Open Source Software Developer Intern|37.12 - 68.06|RTP, NC|Open✅|10/19/2024|[Apply Here](https://careers.ibm.com/job/21168792/open-source-software-developer-intern-2025-research-triangle-park-nc/)||
+|↳|Front End Developer Intern|37.12 - 68.06|<details><summary>2 locations<br><br><b></summary>Tucson, AZ<br>Rochester, NY</details><b>|Open✅|10/16/2024|[Apply Here](https://careers.ibm.com/job/21086670/front-end-developer-intern-2025-tucson-az)||
+|↳|Software Developer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>Yorktown Heights, NY<br>San Jose, CA<br>Cambridge, MA<br>Albany, NY</details><b>|Open✅|09/18/2024|[Apply Here](https://careers.ibm.com/job/21035338/software-developer-intern-2025-remote/)||
+|↳|Cloud Engineer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>Yorktown Heights, NY<br>San Jose, CA<br>Cambridge, MA<br>Albany, NY</details><b>|Open✅|09/18/2024|[Apply Here](https://careers.ibm.com/job/21035341/cloud-engineer-intern-2025-remote/)||
+|↳|Network Services Automation Engineer & Technician Intern|34.37 - 63.02|<details><summary>4 locations<br><br><b></summary>Yorktown Heights, NY<br>San Jose, CA<br>Cambridge, MA<br>Albany, NY</details><b>|Open✅|09/18/2024|[Apply Here](https://careers.ibm.com/job/21035339/network-services-automation-engineer-technician-intern-2025-remote/)||
+|↳|Back-End / QA Developer Intern|37.12 - 68.06|Houston, TX|Open✅|09/15/2024|[Apply Here](https://careers.ibm.com/job/20954180/back-end-qa-developer-intern-2025-houston-tx)||
+|↳|Software Developer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>Lowell, MA<br>Poughkeepsie, NY<br>Austin, TX</details><b>|Open✅|09/06/2024|[Apply Here](https://careers.ibm.com/job/20978143/software-developer-intern-2025-remote)||
+|↳|Associate Data Scientist Intern|40.62 - 74.47|<details><summary>3 locations<br><br><b></summary>New York, NY<br>Washington, D.C.<br>Sandy Spring, GA</details><b>|Closed🔒|08/30/2024|||
+|↳|Federal Data Engineer Intern|22.87 - 41.93|Reston, VA|Open🇺🇸|08/30/2024|[Apply Here](https://careers.ibm.com/job/20942919/federal-data-engineer-intern-reston-va)||
+|↳|Federal Developer Intern|27.56 - 50.53|Washington, D.C.|Open🇺🇸|08/30/2024|[Apply Here](https://careers.ibm.com/job/20942917/federal-developer-intern-washington-dc)||
+|↳|Back End Developer Intern|27.56 - 50.53|<details><summary>5 locations<br><br><b></summary>RTP, NC<br>Tucson, AZ<br>Rochester, NY<br>Poughkeepsie, NY<br>Austin, TX</details><b>|Closed🔒|08/30/2024|||
 |Riverlane|Quantum Computing Intern||Cambridge, MA|Open✅|10/18/2024|[Apply Here](https://apply.workable.com/riverlane/j/FF7AFED814/)|Graduate Students Only|
 |Encore Global|IT Application Development Intern||Schiller Park , IL|Open✅|10/18/2024|[Apply Here](https://jobs.encoreglobal.com/en/job/schiller-park/it-application-development-intern-summer-2025/6228/71375993808)||
 |↳|Data Analyst Intern||Schiller Park , IL|Open✅|10/18/2024|[Apply Here](https://jobs.encoreglobal.com/en/job/schiller-park/data-analyst-intern-summer-2025/6228/71376030544)||
@@ -189,16 +223,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Information Security Analyst Intern|26 - 36|Atlanta, GA|Open✅|10/16/2024|[Apply Here](https://jobs.dolby.com/careers/job/25543030)||
 |↳|Audio Software Engineer Full Stack Intern|48 - 55|San Francisco, CA|Open✅|10/16/2024|[Apply Here](https://jobs.dolby.com/careers/job/25268412)|Graduate Students Only|
 |↳|Audio Software Intern, Embedded|48 - 55|San Francisco, CA|Open✅|10/16/2024|[Apply Here](https://jobs.dolby.com/careers/job/25268411)|Graduate Students Only|
-|IBM|Front End Developer Intern|37.12 - 68.06|<details><summary>2 locations<br><br><b></summary>Tucson, AZ<br>Rochester, NY</details><b>|Open✅|10/16/2024|[Apply Here](https://careers.ibm.com/job/21086670/front-end-developer-intern-2025-tucson-az)||
-|↳|Software Developer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>Yorktown Heights, NY<br>San Jose, CA<br>Cambridge, MA<br>Albany, NY</details><b>|Open✅|09/18/2024|[Apply Here](https://careers.ibm.com/job/21035338/software-developer-intern-2025-remote/)||
-|↳|Cloud Engineer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>Yorktown Heights, NY<br>San Jose, CA<br>Cambridge, MA<br>Albany, NY</details><b>|Open✅|09/18/2024|[Apply Here](https://careers.ibm.com/job/21035341/cloud-engineer-intern-2025-remote/)||
-|↳|Network Services Automation Engineer & Technician Intern|34.37 - 63.02|<details><summary>4 locations<br><br><b></summary>Yorktown Heights, NY<br>San Jose, CA<br>Cambridge, MA<br>Albany, NY</details><b>|Open✅|09/18/2024|[Apply Here](https://careers.ibm.com/job/21035339/network-services-automation-engineer-technician-intern-2025-remote/)||
-|↳|Back-End / QA Developer Intern|37.12 - 68.06|Houston, TX|Open✅|09/15/2024|[Apply Here](https://careers.ibm.com/job/20954180/back-end-qa-developer-intern-2025-houston-tx)||
-|↳|Software Developer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>Lowell, MA<br>Poughkeepsie, NY<br>Austin, TX</details><b>|Open✅|09/06/2024|[Apply Here](https://careers.ibm.com/job/20978143/software-developer-intern-2025-remote)||
-|↳|Associate Data Scientist Intern|40.62 - 74.47|<details><summary>3 locations<br><br><b></summary>New York, NY<br>Washington, D.C.<br>Sandy Spring, GA</details><b>|Closed🔒|08/30/2024|||
-|↳|Federal Data Engineer Intern|22.87 - 41.93|Reston, VA|Open🇺🇸|08/30/2024|[Apply Here](https://careers.ibm.com/job/20942919/federal-data-engineer-intern-reston-va)||
-|↳|Federal Developer Intern|27.56 - 50.53|Washington, D.C.|Open🇺🇸|08/30/2024|[Apply Here](https://careers.ibm.com/job/20942917/federal-developer-intern-washington-dc)||
-|↳|Back End Developer Intern|27.56 - 50.53|<details><summary>5 locations<br><br><b></summary>RTP, NC<br>Tucson, AZ<br>Rochester, NY<br>Poughkeepsie, NY<br>Austin, TX</details><b>|Closed🔒|08/30/2024|||
 |Ensemble Health Partners|Software Engineering Intern||<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Remote</details><b>|Open✅|10/15/2024|[Apply Here](https://ensemblehp.wd5.myworkdayjobs.com/en-US/EnsembleHealthPartnersCareers/job/Software-Engineering-Internship_R025502)||
 |↳|Engineering Intern||Remote|Open✅|10/15/2024|[Apply Here](https://ensemblehp.wd5.myworkdayjobs.com/en-US/EnsembleHealthPartnersCareers/job/Data-Engineering-Internship_R025500)||
 |↳|Cybersecurity Intern|||Open✅|10/15/2024|[Apply Here](https://ensemblehp.wd5.myworkdayjobs.com/en-US/EnsembleHealthPartnersCareers/job/Cybersecurity-Intern_R025524)||
@@ -209,14 +233,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|myQ Middleware Intern||Oak Brook, IL|Closed🔒|08/27/2024|||
 |↳|BI Developer Intern, myQ DevOps||Oak Brook, IL|Closed🔒|08/27/2024|||
 |↳|myQ Front End Engineer Intern, Android or iOS||Oak Brook, IL|Closed🔒|08/24/2024|||
-|Leidos|Software Engineer Intern|23.35 - 44.22|Tucson, AZ|Open✅|10/15/2024|[Apply Here](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer-Intern_R-00145578)||
-|↳|Software Engineer Intern|23.35 - 42.22|Gaithersburg, MD|Closed🔒|10/05/2024|||
-|↳|Software Engineer Intern|23.35 - 42.22|Scott Air Force Base, IL|Closed🔒|10/05/2024|||
-|↳|Software Engineer Intern|23.35 - 42.22|Arlington, VA|Closed🔒|10/05/2024|||
-|↳|Embedded Software Engineer Intern|23.35 - 42.22|San Diego, CA|Open🇺🇸|10/05/2024|[Apply Here](https://careers.leidos.com/jobs/15002564-embedded-software-engineer-intern)||
-|↳|Software Engineer Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
-|↳|Data Science Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|Arlington, VA|Closed🔒|08/23/2024|||
 |Nelnet|Software Engineer Intern, Application Security|18 - 26|<details><summary>3 locations<br><br><b></summary>Lincoln, NE<br>Madison, WI<br>Centennial, CO</details><b>|Open✅|10/15/2024|[Apply Here](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Madison-WI/Intern---Software-Engineer---Application-Security---Summer-2025_R20147)||
 |↳|Software Engineer Intern|18 - 24|<details><summary>3 locations<br><br><b></summary>Lincoln, NE<br>Madison, WI<br>Centennial, CO</details><b>|Closed🔒|09/26/2024|||
 |HCSC|Analytics Intern|17.5 - 36.76|Richardson, TX|Open🛂|10/15/2024|[Apply Here](https://careers.hcsc.com/job/richardson/university-relations-analytics-intern/43046/71260364032)||
@@ -898,7 +914,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Hydrogen-Deuterium Exchange Data Analysis Intern||Princeton, NJ|Closed🔒|09/22/2024|||
 |↳|Digital Accelerator Program Intern||Princeton, NJ|Closed🔒|08/17/2024|||
 |Jahnel Group|Associate Software Engineer Intern||Schenectady, NY|Open✅|09/21/2024|[Apply Here](https://www.jahnelgroup.com/apply.html?gh_jid=4102298007)||
-|Atlassian|Software Engineer Intern|42 - 58|<details><summary>2 locations<br><br><b></summary>Mountain View, CA<br>Remote</details><b>|Open✅|09/21/2024|[Apply Here](https://www.atlassian.com/company/careers/details/14983)||
 |Holland America Line|Software Engineering Intern|25 - 45|Seattle, WA|Open✅|09/21/2024|[Apply Here](https://jobs.carnivalcorp.com/job/seattle/2025-internship-software-engineering/8858/70202497472#job-details-section)||
 |Altruist|Software Engineering Intern||Los Angeles, CA|Open✅|09/21/2024|[Apply Here](https://altruist.com/join-altruist/?gh_jid=5329402004)||
 |Steely|Software Engineering Intern||Reston, VA|Open🇺🇸|09/21/2024|[Apply Here](https://careers-steely.icims.com/jobs/1618/software-engineering-internship-%28summer-2025%29/job)||
