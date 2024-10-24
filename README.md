@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 10/23/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 10/24/2024.
 
 ## Internship Positions
 
-There are total of **1696 (920 open & 776 closed)** internship positions listed. **28** new positions were added today.
+There are total of **1705 (929 open & 776 closed)** internship positions listed. **9** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,32 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|NetApp|Software Engineer Intern||<details><summary>5 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Boulder, CO<br>Witchita, KS<br>Cranberry, PA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/san-jose/intern-software-engineer/27600/71710315840)||
+|↳|Software Engineer Intern||<details><summary>4 locations<br><br><b></summary>RTP, NC<br>New York, NY<br>San Jose, CA<br>Vienna, VA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400)||
+|↳|Software Engineer Intern||RTP, NC|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-information-technology/27600/71710316816)||
+|Staples|Software Engineer Intern||Framingham, MA|Open✅|10/24/2024|[Apply Here](https://careers.staples.com/en/job/framingham/software-engineer-intern-june-2025-hybrid/44412/71693915760)||
+|↳|Java Developer Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/java-developer-intern-june-2025-hybrid/44412/71136539232)||
+|↳|Salesforce Developer Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/salesforce-developer-intern-june-202-hybrid/44412/71136535392)||
+|↳|Data Engineering Intern Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/data-engineering-intern-june-2025-hybrid/44412/71085375392)||
+|↳|Software Engineer Intern, Technology/Engineering||Framingham, MA|Open✅|09/15/2024|[Apply Here](https://careers.staples.com/en/job/framingham/software-engineer-intern-hybrid-june-2025/44412/69911530592)||
+|Trihydro|Software Developer Intern||<details><summary>2 locations<br><br><b></summary>Fort Collins, CO<br>Laramie, WY</details><b>|Open✅|10/24/2024|[Apply Here](https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/1036/0)||
+|Pega|Software Engineer Intern, Orion||Waltham, MA|Open✅|10/24/2024|[Apply Here](https://www.pega.com/about/careers/21105/software-engineer-summer-intern-orion)||
+|↳|Software Engineering Intern, Customer Decision Hub||Waltham, MA|Closed🔒|10/01/2024|||
+|↳|Software Engineer Summer Intern, Shared User Services||Waltham, MA|Open✅|09/17/2024|[Apply Here](https://www.pega.com/about/careers/21002/software-engineer-summer-intern-shared-user-services?)||
+|↳|Software Engineer Intern, UI||Waltham, MA|Closed🔒|09/12/2024|||
+|↳|Platform Engineering Summer Intern||Waltham, MA|Open✅|09/07/2024|[Apply Here](https://www.pega.com/about/careers/20994/platform-engineering-summer-intern)||
+|↳|Software Engineer Intern, Infinity Platform||Waltham, MA|Closed🔒|09/05/2024|||
+|T-Mobile|Software Development Intern, Automation|20 - 40|Bellevue, WA|Open✅|10/24/2024|[Apply Here](https://careers.t-mobile.com/summer-2025-software-development-automation-internship/job/0E2FEEA42AF0E724B43FCFF5597255A1)||
+|↳|Software Engineer Intern|20 - 40|<details><summary>2 locations<br><br><b></summary>Atlanta, GA<br>Overland Park, KS</details><b>|Closed🔒|10/17/2024|||
+|↳|Software Intern|20 - 40|Bellevue, WA|Closed🔒|10/17/2024|||
+|↳|IT Software Engineering Intern|20 - 40|Bellevue, WA|Closed🔒|10/16/2024|||
+|↳|Software Engineering Intern|20 - 40|Bellevue, WA|Closed🔒|10/05/2024|||
+|↳|Software Development Intern, T-Mobile Tuesdays|20 - 40|Bellevue, WA|Closed🔒|10/05/2024|||
+|↳|Machine Learning & AI Intern|20 - 40|Coppell, TX|Closed🔒|10/05/2024|||
+|↳|Information Systems Analyst Intern|20 - 40|Overland Park, KS|Closed🔒|10/05/2024|||
+|↳|Software Engineer Intern, Platform Delivery and Automation|20 - 40|<details><summary>2 locations<br><br><b></summary>Bothell, WA<br>Overland Park, KS</details><b>|Closed🔒|10/02/2024|||
+|Crane Aerospace & Electronics|Software Engineering Intern|24 - 27.5|Lynnwood, WA|Open✅|10/24/2024|[Apply Here](https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=CRANEAE&cws=54&rid=15544)||
+|↳|Software Engineering Intern|24 - 27.5|Burbank, CA|Open✅|10/24/2024|[Apply Here](https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=CRANEAE&cws=54&rid=15532)||
 |Parafin|Software Engineer Intern|55 - 60|San Francisco, CA|Open✅|10/23/2024|[Apply Here](https://jobs.ashbyhq.com/parafin/a39ec055-fcf9-45be-8822-0bcb78c592a4)||
 |MACOM|Software Intern||Hamilton Township, NJ|Open✅|10/23/2024|[Apply Here](https://macomtech.csod.com/ux/ats/careersite/4/home/requisition/2576)||
 |Innovative Defense Technologies|Systems Engineer Intern||<details><summary>2 locations<br><br><b></summary>Arlington, VA<br>Mount Laurel, NJ</details><b>|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/oi3Gufwf)||
@@ -249,14 +275,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern, UHF SATCOM|21, 66|Carlsbad, CA|Closed🔒|09/25/2024|||
 |↳|Software Engineering Intern, GSN Comsat Labs|21, 66|Independence, OH|Closed🔒|09/25/2024|||
 |Taboola|Frontend Engineer Intern|35|Los Angeles, CA|Closed🔒|10/17/2024|||
-|T-Mobile|Software Engineer Intern|20 - 40|<details><summary>2 locations<br><br><b></summary>Atlanta, GA<br>Overland Park, KS</details><b>|Closed🔒|10/17/2024|||
-|↳|Software Intern|20 - 40|Bellevue, WA|Closed🔒|10/17/2024|||
-|↳|IT Software Engineering Intern|20 - 40|Bellevue, WA|Closed🔒|10/16/2024|||
-|↳|Software Engineering Intern|20 - 40|Bellevue, WA|Closed🔒|10/05/2024|||
-|↳|Software Development Intern, T-Mobile Tuesdays|20 - 40|Bellevue, WA|Closed🔒|10/05/2024|||
-|↳|Machine Learning & AI Intern|20 - 40|Coppell, TX|Closed🔒|10/05/2024|||
-|↳|Information Systems Analyst Intern|20 - 40|Overland Park, KS|Closed🔒|10/05/2024|||
-|↳|Software Engineer Intern, Platform Delivery and Automation|20 - 40|<details><summary>2 locations<br><br><b></summary>Bothell, WA<br>Overland Park, KS</details><b>|Closed🔒|10/02/2024|||
 |Kiewit Technology Group|Software Engineer Intern||Omaha, NE|Closed🔒|10/17/2024|||
 |HP|Software Developer Intern, Imaging and Print|31 - 37|<details><summary>2 locations<br><br><b></summary>Vancouver, WA<br>Boise, ID</details><b>|Open🛂|10/17/2024|[Apply Here](https://apply.hp.com/careers/job/24883679)||
 |↳|Digital and Transformation Software Intern|32.55 - 36.75|Spring, TX|Open✅|09/08/2024|[Apply Here](https://apply.hp.com/careers/job/24758398)||
@@ -380,10 +398,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Network Engineer Intern|26 - 43|Denver, CO|Open✅|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335078/Intern-Network-Engineer-Summer-2025)||
 |Mach Indurstries|Software Engineering Intern||Huntington Beach, CA|Open🛂|10/14/2024|[Apply Here](https://jobs.ashbyhq.com/mach/ae1694b8-509d-4ce3-84eb-0a4ccab4870e)||
 |Snyk|Engineering Intern||Boston, MA|Open✅|10/14/2024|[Apply Here](https://boards.greenhouse.io/snyk/jobs/7682064002)||
-|Staples|Java Developer Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/java-developer-intern-june-2025-hybrid/44412/71136539232)||
-|↳|Salesforce Developer Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/salesforce-developer-intern-june-202-hybrid/44412/71136535392)||
-|↳|Data Engineering Intern Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/data-engineering-intern-june-2025-hybrid/44412/71085375392)||
-|↳|Software Engineer Intern||Framingham, MA|Open✅|09/15/2024|[Apply Here](https://careers.staples.com/en/job/framingham/software-engineer-intern-hybrid-june-2025/44412/69911530592)||
 |Visa|Data Storage Intern|26 - 31|Highlands Ranch, CO|Open✅|10/12/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF78364R)||
 |↳|Systems Engineer Intern|26 - 31|Highlands Ranch, CO|Open✅|10/12/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF78383E)||
 |↳|Software Engineer Intern|26 - 31|Miami, FL|Open✅|10/12/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF78384F)||
@@ -753,11 +767,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern, Firmware|17 - 28.5|Pullman, WA|Closed🔒|10/02/2024|||
 |Worldcoin|Software Engineer Intern||San Francisco, CA|Closed🔒|10/02/2024|||
 |Harmonia|Software/Data Engineering Intern||McLean, VA|Open✅|10/02/2024|[Apply Here](https://www.harmonia.com/job-openings/job-application/?gh_jid=6228985003)||
-|Pega|Software Engineering Intern, Customer Decision Hub||Waltham, MA|Closed🔒|10/01/2024|||
-|↳|Software Engineer Summer Intern, Shared User Services||Waltham, MA|Open✅|09/17/2024|[Apply Here](https://www.pega.com/about/careers/21002/software-engineer-summer-intern-shared-user-services?)||
-|↳|Software Engineer Intern, UI||Waltham, MA|Closed🔒|09/12/2024|||
-|↳|Platform Engineering Summer Intern||Waltham, MA|Open✅|09/07/2024|[Apply Here](https://www.pega.com/about/careers/20994/platform-engineering-summer-intern)||
-|↳|Software Engineer Intern, Infinity Platform||Waltham, MA|Closed🔒|09/05/2024|||
 |NICE|DevOps Intern||Richardson, TX|Closed🔒|10/01/2024|||
 |Google|Student Researcher Summer, BS/MS||<details><summary>18 locations<br><br><b></summary>Mountain View, CA<br>Ann Arbor, MI<br>Austin, TX<br>Cambridge, MA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Princeton, NJ<br>Pittsburgh, PA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>Sunnyvale, CA<br>Washington, D.C.</details><b>|Open✅|10/01/2024|[Apply Here](https://www.google.com/about/careers/applications/jobs/results/141568859843764934-student-researcher-bsms-wintersummer-2025)||
 |↳|STEP Intern - Second Year Bachelor's Student||<details><summary>29 locations<br><br><b></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Bellevue, WA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Raleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>South San Francisco, CA<br>Washington, D.C.</details><b>|Open✅|10/01/2024|[Apply Here](https://www.google.com/about/careers/applications/jobs/results/118497704278926022-step-intern-second-year-bachelors-student-summer-2025)||
