@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 10/24/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 10/25/2024.
 
 ## Internship Positions
 
-There are total of **1705 (929 open & 776 closed)** internship positions listed. **9** new positions were added today.
+There are total of **1736 (960 open & 776 closed)** internship positions listed. **30** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,55 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Woodward|SWE Engineering Intern|21.7 - 30.07|<details><summary>4 locations<br><br><b></summary>Niles, IL<br>Santa Clarita, CA<br>Fort Collins, CO<br>Rockford, IL</details><b>|Open✅|10/25/2024|[Apply Here](https://woodward.wd5.myworkdayjobs.com/en-US/woodward/job/Niles-IL-US/SWE-Engineering-Internship-Summer-2025_JR103767)||
+|Visat|Software Engineer Intern, Tactical Communication Solutions|21 - 66|Carlsbad, CA|Open✅|10/25/2024|[Apply Here](https://careers.viasat.com/jobs/3653/job)||
+|↳|Software Engineer Intern, Automation Services|21 - 66|Carlsbad, CA|Closed🔒|10/17/2024|||
+|↳|Machine Learning Engineer Intern|21 - 66|Carlsbad, CA|Closed🔒|10/04/2024|||
+|↳|Software Engineering Intern, UHF SATCOM|21, 66|Carlsbad, CA|Closed🔒|09/25/2024|||
+|↳|Software Engineering Intern, GSN Comsat Labs|21, 66|Independence, OH|Closed🔒|09/25/2024|||
+|Versana|Tech Intern||New York, NY|Open✅|10/25/2024|[Apply Here](https://jobs.lever.co/Versana/43b3895d-66e7-4737-9929-8c3e166e21fb)||
+|Marvell|Software Engineer Intern - Bachelor's/ Master's|30 - 60|Santa Clara, CA|Open✅|10/25/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Software-Engineer-Intern---Bachelor-s-Master-s-degree_2402130)||
+|↳|Application Engineering Intern - Masters|26 - 52|Santa Clara, CA|Open✅|10/25/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Masters_2401785)||
+|↳|Field Application Engineering Intern - Bachelor|22 - 43|Santa Clara, CA|Open✅|09/25/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Field-Application-Engineering-Intern---Bachelor-s-Degree_2401846)||
+|↳|Application Engineering Intern - Bachelors|25 - 49|Santa Clara, CA|Open✅|09/24/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelors_2401784)||
+|↳|Product Engineer Intern - Bachelors|22 - 44|Santa Clara, CA|Open✅|09/13/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Bachelors_2401898)||
+|↳|Firmware Engineer Intern - Bachelors|28 - 54|Westlake Village, CA|Closed🔒|09/13/2024|||
+|Solidigm|SSD Firmware Development Intern - Undergraduate||Rancho Cordova, CA|Open✅|10/25/2024|[Apply Here](https://jobs.smartrecruiters.com/Solidigm/744000022574662)||
+|↳|SSD Validation Development Intern - Undergraduate||Rancho Cordova, CA|Open✅|10/25/2024|[Apply Here](https://www.smartrecruiters.com/Solidigm/744000020506067-ssd-validation-development-undergrad-intern)||
+|↳|SSD Firmware Engineer Intern||Longmont, CO|Open✅|10/25/2024|[Apply Here](https://www.smartrecruiters.com/Solidigm/744000020050937-ssd-firmware-engineer-intern)||
+|↳|Customer Tools Software Engineering Intern - Undergraduate||Rancho Cordova, CA|Open✅|10/12/2024|[Apply Here](https://www.smartrecruiters.com/Solidigm/744000019969713-customer-tools-software-engineering-undergraduate-intern)||
+|↳|SSD Firmware Development Intern - Undergraduate||Longmont, CO|Open✅|10/12/2024|[Apply Here](https://www.smartrecruiters.com/Solidigm/744000019959294-ssd-firmware-development-undergraduate-intern)||
+|CoreLogic|Customer Success Data Analyst Intern|19.63 - 27.08||Open✅|10/25/2024|[Apply Here](https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/United-States/Intern---Customer-Success-Data-Analyst_REQ15702)||
+|Arrive Logistics|Data Engineering Intern||Austin, TX|Open✅|10/25/2024|[Apply Here](https://www.arrivelogistics.com/job/data-engineering-intern/)||
+|Chatham Financial|Business Quantitative Analyst Intern||Kennett Square, PA|Open✅|10/25/2024|[Apply Here](https://www.chathamfinancial.com/careers/jobs/2025-business-quantitative-analyst-internship-6342330)||
+|↳|Quantitative Analyst Intern||Kennett Square, PA|Open✅|10/25/2024|[Apply Here](https://www.chathamfinancial.com/careers/jobs/2025-quantitative-analyst-internship-6209887)||
+|Art of Problem Solving|Software Engineering Intern|30 - 35|San Diego, CA|Open✅|10/25/2024|[Apply Here](https://artofproblemsolving.com/careers/job/6233441003_software_engineering_intern_summer_2025_)||
+|Dexcom|Mobile Developer Engineering Intern I|22 - 29|Remote|Open✅|10/25/2024|[Apply Here](https://careers.dexcom.com/careers/job/25731508)||
+|↳|Mobile Developer Engineering Intern I|22 - 29|San Diego, CA|Open✅|10/25/2024|[Apply Here](https://careers.dexcom.com/careers/job/25731088)||
+|↳|Software Developer Engineering Intern I|22 - 29|San Diego, CA|Open✅|10/25/2024|[Apply Here](https://careers.dexcom.com/careers/job/25730841)||
+|↳|SW Test Development Engineering Intern II|22 - 29|Remote|Open✅|10/25/2024|[Apply Here](https://careers.dexcom.com/careers/job/25729735)|Graduate Students Only|
+|↳|Test Engineering and Data Analysis Intern II||Remote|Open✅|10/25/2024|[Apply Here](https://careers.dexcom.com/careers/job/25731338)|Graduate Students Only|
+|Hexagon|Front End Development Intern||North Kingstown, RI|Open✅|10/25/2024|[Apply Here](https://careers-manufacturing.hexagon.com/job/North-Kingstown-Front-End-Development-Intern-RI/1232-en_GB)||
+|T-Mobile|Business Analyst Intern, Full Stack Developer|20 - 40|Bellevue, WA|Open🛂|10/25/2024|[Apply Here](https://careers.t-mobile.com/summer-2025-business-analyst-full-stack-developer-internship/job/1509A100D2F95A86B30A118915994995)||
+|↳|IT Associate Engineer Intern, Software|20 - 40|<details><summary>2 locations<br><br><b></summary>Overland Park, KS<br>Fresico, TX</details><b>|Open🛂|10/25/2024|[Apply Here](https://careers.t-mobile.com/summer-2025-it-associate-engineer-software-intern/job/8424530F495D24DE92D95EA4D90A2B83)||
+|↳|Software Development Intern, Automation|20 - 40|Bellevue, WA|Open✅|10/24/2024|[Apply Here](https://careers.t-mobile.com/summer-2025-software-development-automation-internship/job/0E2FEEA42AF0E724B43FCFF5597255A1)||
+|↳|Software Engineer Intern|20 - 40|<details><summary>2 locations<br><br><b></summary>Atlanta, GA<br>Overland Park, KS</details><b>|Closed🔒|10/17/2024|||
+|↳|Software Intern|20 - 40|Bellevue, WA|Closed🔒|10/17/2024|||
+|↳|IT Software Engineering Intern|20 - 40|Bellevue, WA|Closed🔒|10/16/2024|||
+|↳|Software Engineering Intern|20 - 40|Bellevue, WA|Closed🔒|10/05/2024|||
+|↳|Software Development Intern, T-Mobile Tuesdays|20 - 40|Bellevue, WA|Closed🔒|10/05/2024|||
+|↳|Machine Learning & AI Intern|20 - 40|Coppell, TX|Closed🔒|10/05/2024|||
+|↳|Information Systems Analyst Intern|20 - 40|Overland Park, KS|Closed🔒|10/05/2024|||
+|↳|Software Engineer Intern, Platform Delivery and Automation|20 - 40|<details><summary>2 locations<br><br><b></summary>Bothell, WA<br>Overland Park, KS</details><b>|Closed🔒|10/02/2024|||
+|Parry Labs|Embedded Software Engineering Intern||Columbia, MD|Open✅|10/25/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=af82a54b-ec37-4427-bf0e-6e7f353babc8&ccId=9201267560603_3&lang=en_US&jobId=927518&jwId=9201267560603_1)||
+|↳|Software Quality Engineering Intern||Huntsville, AL|Open✅|10/25/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=af82a54b-ec37-4427-bf0e-6e7f353babc8&ccId=9201267560603_3&lang=en_US&jobId=927341&jwId=9201267560603_1)||
+|↳|Software Test Engineering Intern||Dallas, TX|Open✅|10/25/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=af82a54b-ec37-4427-bf0e-6e7f353babc8&ccId=9201267560603_3&lang=en_US&jobId=927279&jwId=9201267560603_1)||
+|↳|Software Test Engineering Intern||Huntsville, AL|Open✅|10/25/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=af82a54b-ec37-4427-bf0e-6e7f353babc8&ccId=9201267560603_3&lang=en_US&jobId=927278&jwId=9201267560603_1)||
+|↳|Software Engineering Intern||Dallas, TX|Open✅|10/25/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=af82a54b-ec37-4427-bf0e-6e7f353babc8&ccId=9201267560603_3&lang=en_US&jobId=927258&jwId=9201267560603_1)||
+|↳|Software Engineering Intern||Huntsville, AL|Open✅|10/25/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=af82a54b-ec37-4427-bf0e-6e7f353babc8&ccId=9201267560603_3&lang=en_US&jobId=927239&jwId=9201267560603_1)||
+|Western Digital|DevOps Intern, Engineering|23 - 33|Roseville, CA|Open✅|10/25/2024|[Apply Here](https://jobs.smartrecruiters.com/WesternDigital/744000022565387-engineering-intern-devops-summer-2025-no-relocation-provided)||
+|↳|Software Engineering Intern, System Testing||Roseville, CA|Open✅|10/25/2024|[Apply Here](https://jobs.smartrecruiters.com/WesternDigital/744000022554765-summer-2025-software-engineering-intern-system-testing-no-relocation-assistance-provided)||
+|↳|Software Engineer Intern, System Testing||Rochester, MN|Open✅|10/25/2024|[Apply Here](https://jobs.smartrecruiters.com/WesternDigital/744000022565418-summer-2025-software-engineer-intern-system-test)||
 |NetApp|Software Engineer Intern||<details><summary>5 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Boulder, CO<br>Witchita, KS<br>Cranberry, PA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/san-jose/intern-software-engineer/27600/71710315840)||
 |↳|Software Engineer Intern||<details><summary>4 locations<br><br><b></summary>RTP, NC<br>New York, NY<br>San Jose, CA<br>Vienna, VA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400)||
 |↳|Software Engineer Intern||RTP, NC|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-information-technology/27600/71710316816)||
@@ -46,15 +95,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern, UI||Waltham, MA|Closed🔒|09/12/2024|||
 |↳|Platform Engineering Summer Intern||Waltham, MA|Open✅|09/07/2024|[Apply Here](https://www.pega.com/about/careers/20994/platform-engineering-summer-intern)||
 |↳|Software Engineer Intern, Infinity Platform||Waltham, MA|Closed🔒|09/05/2024|||
-|T-Mobile|Software Development Intern, Automation|20 - 40|Bellevue, WA|Open✅|10/24/2024|[Apply Here](https://careers.t-mobile.com/summer-2025-software-development-automation-internship/job/0E2FEEA42AF0E724B43FCFF5597255A1)||
-|↳|Software Engineer Intern|20 - 40|<details><summary>2 locations<br><br><b></summary>Atlanta, GA<br>Overland Park, KS</details><b>|Closed🔒|10/17/2024|||
-|↳|Software Intern|20 - 40|Bellevue, WA|Closed🔒|10/17/2024|||
-|↳|IT Software Engineering Intern|20 - 40|Bellevue, WA|Closed🔒|10/16/2024|||
-|↳|Software Engineering Intern|20 - 40|Bellevue, WA|Closed🔒|10/05/2024|||
-|↳|Software Development Intern, T-Mobile Tuesdays|20 - 40|Bellevue, WA|Closed🔒|10/05/2024|||
-|↳|Machine Learning & AI Intern|20 - 40|Coppell, TX|Closed🔒|10/05/2024|||
-|↳|Information Systems Analyst Intern|20 - 40|Overland Park, KS|Closed🔒|10/05/2024|||
-|↳|Software Engineer Intern, Platform Delivery and Automation|20 - 40|<details><summary>2 locations<br><br><b></summary>Bothell, WA<br>Overland Park, KS</details><b>|Closed🔒|10/02/2024|||
 |Crane Aerospace & Electronics|Software Engineering Intern|24 - 27.5|Lynnwood, WA|Open✅|10/24/2024|[Apply Here](https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=CRANEAE&cws=54&rid=15544)||
 |↳|Software Engineering Intern|24 - 27.5|Burbank, CA|Open✅|10/24/2024|[Apply Here](https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=CRANEAE&cws=54&rid=15532)||
 |Parafin|Software Engineer Intern|55 - 60|San Francisco, CA|Open✅|10/23/2024|[Apply Here](https://jobs.ashbyhq.com/parafin/a39ec055-fcf9-45be-8822-0bcb78c592a4)||
@@ -270,10 +310,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Computer Vision Intern||Santa Clara, CA|Open✅|10/17/2024|[Apply Here](https://job-boards.greenhouse.io/xpengmotors/jobs/7634935002)|PhD Only|
 |↳|Machine Learning Engineer Intern||Santa Clara, CA|Open✅|10/17/2024|[Apply Here](https://job-boards.greenhouse.io/xpengmotors/jobs/7627107002)|Graduate Students Only|
 |↳|Machine Learning System Engineer Intern||Santa Clara, CA|Open✅|10/17/2024|[Apply Here](https://job-boards.greenhouse.io/xpengmotors/jobs/7435494002)|Graduate Students Only|
-|Visat|Software Engineer Intern, Automation Services|21 - 66|Carlsbad, CA|Closed🔒|10/17/2024|||
-|↳|Machine Learning Engineer Intern|21 - 66|Carlsbad, CA|Closed🔒|10/04/2024|||
-|↳|Software Engineering Intern, UHF SATCOM|21, 66|Carlsbad, CA|Closed🔒|09/25/2024|||
-|↳|Software Engineering Intern, GSN Comsat Labs|21, 66|Independence, OH|Closed🔒|09/25/2024|||
 |Taboola|Frontend Engineer Intern|35|Los Angeles, CA|Closed🔒|10/17/2024|||
 |Kiewit Technology Group|Software Engineer Intern||Omaha, NE|Closed🔒|10/17/2024|||
 |HP|Software Developer Intern, Imaging and Print|31 - 37|<details><summary>2 locations<br><br><b></summary>Vancouver, WA<br>Boise, ID</details><b>|Open🛂|10/17/2024|[Apply Here](https://apply.hp.com/careers/job/24883679)||
@@ -409,7 +445,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern||Bellevue, WA|Closed🔒|09/17/2024|||
 |↳|Software Engineer Intern||Ashburn, VA|Closed🔒|09/17/2024|||
 |↳|Software Engineer Intern||Highlands Ranch, CO|Closed🔒|09/17/2024|||
-|Solidigm|Customer Tools Software Engineering Intern - Undergraduate||Rancho Cordova, CA|Open✅|10/12/2024|[Apply Here](https://www.smartrecruiters.com/Solidigm/744000019969713-customer-tools-software-engineering-undergraduate-intern)||
 |Smith+Nephew|Robotics Firmware Engineering Intern||Pittsburgh, PA|Open✅|10/12/2024|[Apply Here](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Robotics-Firmware-Engineering-Intern--Pittsburgh--PA-_R78221)||
 |↳|AI CoE Data Science Intern||Pittsburgh, PA|Open✅|10/12/2024|[Apply Here](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/AI-CoE-Data-Science-Intern--Pittsburgh--PA-_R78093)||
 |↳|R&D Intern, Software/Electrical||Andover, MA|Open✅|10/12/2024|[Apply Here](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/R-D-Intern---Software-Electrical--Andover--MA-_R77976)||
@@ -895,10 +930,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Audio Machine Learning Intern||<details><summary>2 locations<br><br><b></summary>Framingham, MA<br>Remote</details><b>|Closed🔒|09/16/2024|||
 |Rippling|Software Engineer Intern|58.5|<details><summary>2 locations<br><br><b></summary>New York, NY<br>San Francisco, CA</details><b>|Closed🔒|09/25/2024|||
 |↳|Data Science Intern||San Francisco, CA|Closed🔒|09/24/2024|||
-|Marvell|Field Application Engineering Intern - Bachelor|22 - 43|Santa Clara, CA|Open✅|09/25/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Field-Application-Engineering-Intern---Bachelor-s-Degree_2401846)||
-|↳|Application Engineering Intern - Bachelors|25 - 49|Santa Clara, CA|Open✅|09/24/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelors_2401784)||
-|↳|Product Engineer Intern - Bachelors|22 - 44|Santa Clara, CA|Open✅|09/13/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Bachelors_2401898)||
-|↳|Firmware Engineer Intern - Bachelors|28 - 54|Westlake Village, CA|Closed🔒|09/13/2024|||
 |K2 Space|Software Engineering Intern|30 - 40|Los Angeles, CA|Closed🔒|09/25/2024|||
 |Wispr Flow|Software Engineering Intern|40.62 - 53.12|San Francisco, CA|Closed🔒|09/25/2024|||
 |Athena Health|Software Engineering Intern||Boston, MA|Closed🔒|09/25/2024|||
