@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 10/30/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 10/31/2024.
 
 ## Internship Positions
 
-There are total of **1837 (1073 open & 764 closed)** internship positions listed. **31** new positions were added today.
+There are total of **1869 (878 open & 991 closed)** internship positions listed. **34** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,97 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|X|Engineering Intern|40 - 48|<details><summary>2 locations<br><br><b></summary>Palo Alto, CA<br>New York, NY</details><b>|Open✅|10/31/2024|[Apply Here](https://twitter.wd5.myworkdayjobs.com/X/job/Palo-Alto-CA/Engineering-Intern_R100794)||
+|Waymo|SWE Simulation Intern - BS/MS|48.08 - 50.48|Mountain View, CA|Open✅|10/31/2024|[Apply Here](https://careers.withwaymo.com/jobs/2025-intern-bs-ms-swe-simulation-mountain-view-california-united-states)||
+|↳|Full-Stack Software Engineer Intern, ML Infra|52 - 55|Mountain View, CA|Closed🔒|10/18/2024|||
+|↳|Full-Stack Software Engineer, Labeling Platform Intern|52.08 - 54.68|Mountain View, CA|Closed🔒|10/11/2024|||
+|↳|Waymo Commercialization Intern, TaaS|52.08 - 54.68|Mountain View, CA|Closed🔒|10/06/2024|||
+|↳|Fleet Infrastructure Intern, Commercialization|52.08 - 54.68|<details><summary>2 locations<br><br><b></summary>Mountain View, CA<br>San Francisco, CA</details><b>|Open✅|10/04/2024|[Apply Here](https://careers.withwaymo.com/jobs/2025-summer-intern-waymo-commercialization-fleet-infrastructure-san-francisco-california-united-states-mountain-view)||
+|Federal Reserve System|Information Technology Services Intern||Dallas, TX|Open🛂|10/31/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/Summer-2025-Intern---Information-Technology-Services_R-0000026614)||
+|↳|Software Engineering Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Computer-Science-and-Software-Engineering_R-0000026848)||
+|↳|Information Security Intern||Atlanta, GA|Open✅|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Intern-Program---Information-Security-Intern_R-0000026463)||
+|↳|Information Technology Intern||Cleveland, OH|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Information-Technology-Intern---Summer-2025_R-0000026093-1)||
+|↳|Cloud Engineering Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Cloud-Engineering_R-0000026849)||
+|↳|Technical Intern|22|Richmond, VA|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2025-Technical-Internship_R-0000025554)||
+|↳|Data Science and Business Analytics Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2024-Intern-Data-Science-and-Business-Analytics_R-0000026847)||
+|↳|Cybersecurity and Information Security Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Cybersecurity-and-Information-Security_R-0000026842)||
+|↳|Data Science or Computer Science Intern - PhD||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Data-Science-and-Business-Analytics_R-0000026854)||
+|↳|Networking and Computer Engineering Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Networking-and-Computer-Engineering_R-0000026851)||
+|↳|Information and Library Science Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern---Information-and-Library-Science_R-0000026856-1)||
+|↳|Financial Data Intern||Atlanta, GA|Open✅|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Internship-Program---Financial-Data-Intern_R-0000026623)||
+|↳|Software Developer Intern|20 - 22|St. Louis, MO|Closed🔒|10/26/2024|||
+|↳|Technology Intern - Sophomore|34|New York, NY|Closed🔒|09/10/2024|||
+|↳|Software Engineer Intern - TechEdge Program|21|Kansas City, MO|Closed🔒|09/10/2024|||
+|Northrop Grumman|Software Engineer Intern, FSW/SIM|25.25 - 38.5|Boulder, CO|Open🇺🇸|10/31/2024|[Apply Here](https://www.northropgrumman.com/jobs/administrative-services/intern/united-states-of-america/virginia/dulles/r10175780/2025-software-engineer-intern-fswsim-dulles-va)||
+|↳|Systems/Software Intern|25.25 - 38.5|Boulder, CO|Open🇺🇸|10/26/2024|[Apply Here](https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/Colorado/Boulder/R10173225/2025-systemssoftware-intern-boulder-co)||
+|↳|Systems/Software Intern|24.25 - 36.75|Huntsville, AL|Closed🔒|10/26/2024|||
+|↳|Cyber Software Engineer Intern|18.5 - 36.5|<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Beavercreek, OH</details><b>|Open🇺🇸|10/26/2024|[Apply Here](https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/Ohio/Cincinnati/R10173772/2025-cyber-software-engineer-intern-cincinnati-oh)||
+|↳|Embedded Software Engineer Intern|17.5 - 40|Charlottesville, VA|Closed🔒|09/21/2024|||
+|↳|Systems Engineer Intern|22.25 - 38.5|Redondo Beach, CA|Closed🔒|09/21/2024|||
+|↳|Systems Engineer Intern|21.75 - 33.25|Gilbert, AZ|Closed🔒|09/21/2024|||
+|Motorola Solutions|Tableau Data Scientist Intern||Chicago, IL|Open🛂|10/31/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Tableau-Data-Scientist-Intern---Summer-2025_R51321)||
+|↳|Software Engineer Intern, Critical Communication Networks||<details><summary>2 locations<br><br><b></summary>Schaumburg, IL<br>Chicago, IL</details><b>|Closed🔒|10/08/2024|||
+|↳|IT Data Analytics Intern||Chicago, IL|Closed🔒|10/06/2024||Sponsorship is only avaliable to Graduate Students|
+|↳|Test Engineering Intern||Chicago, IL|Open🛂|09/30/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Test-Engineering-Internship-2025_R49680)||
+|↳|Software Engineer Intern||Plantation, FL|Open🇺🇸|09/19/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineer-Intern---Summer-2025_R50157)||
+|↳|Supply Chain Data Analytics Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Schaumburg, IL</details><b>|Closed🔒|09/17/2024|||
+|↳|Software Development Intern||Remote|Closed🔒|09/17/2024|||
+|↳|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Schaumburg, IL<br>Chicago, IL</details><b>|Closed🔒|09/17/2024|||
+|↳|Android Applications Developer Intern||Chicago, IL|Closed🔒|09/06/2024|||
+|↳|Google Applications Developer Intern|22 - 26|New York, NY|Closed🔒|08/21/2024|||
+|↳|Android Platform Software Engineering Intern||Schaumburg, IL|Closed🔒|07/31/2024||Sponsorship is only avaliable to Graduate Students|
+|CrowdStrike|Sales Excellence Data Analytics Intern||Remote|Open✅|10/31/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote-TX/Sales-Excellence-Data-Analytics-Intern---Summer-2025--Texas--Remote-_R20687-1)||
+|↳|Sales Excellence Data Quality Intern||Remote|Open✅|10/31/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-TX/Sales-Excellence-Data-Quality-Intern---Summer-2025--Texas--Remote-_R20686)||
+|↳|Internal Tools Developer Intern|38 - 45|Remote|Closed🔒|10/03/2024|||
+|Adobe|Software Engineer Intern|45 - 55|San Jose, CA|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R149385/2025-Intern-Software-Engineer)||
+|↳|Software Engineer Intern|45 - 55|<details><summary>2 locations<br><br><b></summary>San Jose, CA<br>San Francisco, CA</details><b>|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R149384/2025-Intern-Software-Engineer)||
+|↳|Machine Learning Engineer Intern|45 - 55|Seattle, WA|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R149563/2025-Intern-Machine-Learning-Engineer)|Graduate Students Only|
+|↳|Machine Learning Engineer Intern|45 - 55|San Jose, CA|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R149342/2025-Intern-Machine-Learning-Engineer)|Graduate Students Only|
+|↳|Machine Learning Engineer Intern|45 - 55|<details><summary>2 locations<br><br><b></summary>San Jose, CA<br>San Francisco, CA</details><b>|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R149343/2025-Intern-Machine-Learning-Engineer)|Graduate Students Only|
+|↳|Machine Learning Engineer Intern|45 - 55|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>San Jose, CA</details><b>|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R149564/2025-Intern-Machine-Learning-Engineer)|Graduate Students Only|
+|↳|Software Development Engineer Intern|45 - 55|New York, NY|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R150388/2025-Intern-Software-Development-Engineer)||
+|↳|Cyber Security Intern, Security Engineer|38 - 51|Remote|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148773/2025-Cyber-Security-Intern-Security-Engineer)||
+|↳|Data Scientist Intern, Firefly|45 - 55|San Jose, CA|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148111/2025-Intern-Data-Scientist-Firefly)||
+|↳|Finance Data Scientist Intern|45 - 55|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>San Jose, CA</details><b>|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148742/2025-Intern-Finance-Data-Scientist)||
+|↳|AI/ML Intern, Research (Firefly)|45 - 61|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>Seattle, WA<br>San Francisco, CA</details><b>|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R149007/2025-AI-ML-Intern-Research-Firefly)|Graduate Students Only|
+|↳|Engineer/Architect Intern|38 - 51|San Jose, CA|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148750/2025-Intern-Engineer-Architect)||
+|↳|Cyber Security Intern, FedRAMP Security Compliance|38 - 51|<details><summary>3 locations<br><br><b></summary>Seattle, WA<br>New York, NY<br>San Jose, CA</details><b>|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148774/2025-Cyber-Security-Intern-FedRAMP-Security-Compliance)||
+|↳|Software Development Engineer Intern|45 - 55|<details><summary>2 locations<br><br><b></summary>San Jose, CA<br>San Francisco, CA</details><b>|Open✅|10/31/2024|[Apply Here](https://careers.adobe.com/us/en/job/R149868/2025-Intern-Software-Development-Engineer)||
+|↳|Machine Learning Engineer Intern, AI/ML|45 - 61|Seattle, WA|Open✅|10/05/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148714/2025-Intern-Machine-Learning-Engineer-AI-ML)|Graduate Students Only|
+|↳|Machine Learning Engineer Intern, AI/ML|45 - 61|San Jose, CA|Open✅|10/05/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148715/2025-Intern-Machine-Learning-Engineer-AI-ML)|Graduate Students Only|
+|↳|Machine Learning Engineer Intern, CV/ML|45 - 61|Seattle, WA|Open✅|10/05/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148716/2025-Intern-Machine-Learning-Engineer-CV-ML)|Graduate Students Only|
+|↳|Software Engineer Intern|38 - 51|Seattle, WA|Open✅|08/20/2024|[Apply Here](https://careers.adobe.com/us/en/job/R149380/2025-Intern-Software-Engineer)||
+|↳|Machine Learning Engineer Intern|45 - 55|<details><summary>6 locations<br><br><b></summary>San Jose, CA<br>Austin, TX<br>San Francisco, CA<br>Lehi, UT<br>Seattle, WA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://careers.adobe.com/us/en/job/R147906/2025-Intern-Machine-Learning-Engineer)|Graduate Students Only|
+|Anduril Industries|Embedded Haskell Developer Intern||Costa Mesa, CA|Open🇺🇸|10/31/2024|[Apply Here](https://job-boards.greenhouse.io/andurilindustries/jobs/4552467007)||
+|↳|Software Engineering Intern||<details><summary>5 locations<br><br><b></summary>Costa Mesa, CA<br>Atlanta, GA<br>Seattle, WA<br>Boston, MA<br>Reston, VA</details><b>|Closed🔒|09/11/2024|||
+|↳|Firmware Engineer Intern||Costa Mesa, CA|Open🇺🇸|09/11/2024|[Apply Here](https://job-boards.greenhouse.io/andurilindustries/jobs/4512362007)||
+|General Motors|Software Engineering Intern, DPE Customer Onboarding Platform - PhD||<details><summary>6 locations<br><br><b></summary>Atlanta, GA<br>Austin, TX<br>Detroit, MI<br>Milford, MI<br>Mountain View, CA<br>Warren, MI</details><b>|Open✅|10/31/2024|[Apply Here](https://search-careers.gm.com/en/jobs/jr-202419376/2025-summer-intern-dpe-customer-onboarding-platform-software-engineering-phd-students/)||
+|↳|Software Engineering Intern, DPE Engineering Efficiencies - MS|33.75 - 42.5|<details><summary>6 locations<br><br><b></summary>Atlanta, GA<br>Austin, TX<br>Detroit, MI<br>Milford, MI<br>Mountain View, CA<br>Warren, MI</details><b>|Open🛂|10/31/2024|[Apply Here](https://search-careers.gm.com/en/jobs/jr-202419375/2025-summer-intern-dpe-engineering-efficiencies-software-engineering-ms-students/)||
+|↳|Software Engineer Intern, GM Commercial Software|45 - 55.62|Mountain View, CA|Open🛂|10/31/2024|[Apply Here](https://search-careers.gm.com/en/jobs/jr-202420380/2025-summer-intern-software-engineer-gm-commercial-software/)||
+|↳|Software Developer Intern, Strategy & Innovation|27.5 - 42.5|<details><summary>6 locations<br><br><b></summary>Remote<br>Atlanta, GA<br>Austin, TX<br>Detroit, MI<br>Warren, MI<br>Milford, MI</details><b>|Closed🔒|09/20/2024|||
+|VSP Vision|Software Engineer Intern, Eyefinity Dynamic Team (Java)|26.5 - 36.5|Remote|Open✅|10/31/2024|[Apply Here](https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer---Eyefinity_R-6748)||
+|↳|Software Engineer Intern, Eyefinity Clearinghouse Engineering and Cloud Operations|26.5 - 36.5|Remote|Open✅|10/31/2024|[Apply Here](https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer---Eyefinity_R-6709)||
+|↳|Software Engineer Intern, Eyefinity Practice Management Engineering Insurance Domain|26.5 - 36.5|Remote|Open✅|10/31/2024|[Apply Here](https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer---Eyefinity_R-6732)||
+|↳|Software Engineer Intern, Eyefinity Dynamic Team|26.5 - 36.5|Remote|Open✅|10/31/2024|[Apply Here](https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer---Eyefinity_R-6733)||
+|↳|Software Engineer Intern, Dynamic Team|26.5 - 36.5|Remote|Open✅|10/31/2024|[Apply Here](https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-6713)||
+|↳|Software Engineer Intern, Automation Platform|26.5 - 36.5|Remote|Open✅|10/31/2024|[Apply Here](https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-6701)||
+|↳|Workplace Application & Integration Services Intern|26.5 - 36.5|Remote|Open✅|10/31/2024|[Apply Here](https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Workplace-Application---Integration-Services_R-6684)||
+|↳|Technology Innovation Analyst Intern|26.5 - 36.5|Remote|Open✅|10/31/2024|[Apply Here](https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Technology-Innovation-Analyst_R-6622)||
+|Pinterst|IT Software Engineering Intern|46.87 - 56.25|Remote|Open✅|10/31/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6319488/it-software-engineering-intern-usa)||
+|↳|IT Data Engineer Intern|46.87 - 56.25|Remote|Open✅|10/11/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6319528/it-data-engineer-intern-usa)||
+|↳|IT Systems Engineering Intern|46.87 - 62.5|Remote|Open✅|10/11/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6319532/it-systems-engineering-intern-usa)||
+|↳|Data Science Intern - Masters|62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6236999/data-science-internship-masters-only-usa/?gh_jid=6236999)||
+|↳|Machine Learning Intern - PhD|68.75|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6214291/phd-machine-learning-internship-2025-usa/?gh_jid=6214291)||
+|↳|Mobile Engineer Intern|46.87 - 62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6213897/mobile-engineer-intern-2025-usa/?gh_jid=6213897)||
+|↳|Machine Learning Intern - Masters|62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6214264/masters-machine-learning-internship-2025-usa/?gh_jid=6214264)||
+|↳|Software Engineering Intern|46.87 - 62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6210381/software-engineering-intern-2025-usa/?gh_jid=6210381)||
+|↳|Software Engineering Intern - Masters|46.87 - 62.5|Palo Alto, CA|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6231024/masters-software-engineering-intern-2025-palo-alto/?gh_jid=6231024)||
+|↳|Data Science Intern - PhD|68.75|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6237099/data-science-internship-phd-only-usa/?gh_jid=6237099)||
+|↳|Mobile Engineer Intern - Masters|46.87 - 62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6256306/masters-mobile-engineer-intern-2025-usa/?gh_jid=6256306)||
+|↳|Software Engineering Intern|46.87 - 62.5|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Palo Alto, CA<br>Seattle, WA</details><b>|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6219433/software-engineering-intern-2025-san-francisco-palo-alto-seattle/?gh_jid=6219433)||
+|↳|Mobile Engineer Intern|46.87 - 62.5|San Francisco, CA|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6256269/mobile-engineer-intern-2025-san-francisco/?gh_jid=6256269)||
+|↳|Software Engineer Intern - Masters|46.87 - 62.5|Remote|Closed🔒|09/18/2024|||
+|↳|Mobile Engineer Intern|46.87 - 62.5|San Francisco, CA|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6256269/mobile-engineer-intern-2025-san-francisco)||
 |Rockwell Automation|Innovation Platform Software Engineer Intern||Milwaukee, WI|Open🛂|10/30/2024|[Apply Here](https://jobs.rockwellautomation.com/job/21214258/intern-innovation-platform-software-engineer-milwaukee-wi/)||
 |↳|Information Technology Intern||Milwaukee, WI|Open🛂|10/30/2024|[Apply Here](https://jobs.rockwellautomation.com/job/20963734/intern-information-technology/)||
 |Stifel|Technology Product Development Developer Intern||St. Louis, MO|Open✅|10/30/2024|[Apply Here](https://careers-stifel.icims.com/jobs/5129/technology-product-development-developer-intern--summer-2025/job)||
@@ -53,9 +144,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Web Optimization Intern||Boston, MA|Open✅|10/30/2024|[Apply Here](https://careers.ptc.com/careers/job/137463857699)||
 |↳|Arena Application Software Engineering Intern||San Mateo, CA|Closed🔒|10/16/2024|||
 |↳|R&D Software Engineering Intern||Boston, MA|Open✅|10/16/2024|[Apply Here](https://careers.ptc.com/careers/job/137464508988)||
-|Verizon|Texas Southern Site Reliability Engineer Intern||Irving, TX|Open✅|10/30/2024|[Apply Here](https://mycareer.verizon.com/jobs/r-1054271/texas-southern-site-reliability-engineer-summer-2025-internship)||
-|↳|AI/ML Engineering Intern||Ashburn, VA|Open🛂|10/22/2024|[Apply Here](https://mycareer.verizon.com/jobs/r-1052498/ai-ml-engineering-summer-internship-2025)||
-|↳|Cyber Security Intern||<details><summary>3 locations<br><br><b></summary>Basking Ridge, NJ<br>Irving, TX<br>Temple Terrace, FL</details><b>|Closed🔒|10/12/2024|||
 |MIchaels|Security Engineering Intern||Irving, TX|Open✅|10/30/2024|[Apply Here](https://michaels.wd5.myworkdayjobs.com/en-US/External/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Security-Engineering-Intern_R00270603)||
 |↳|Software Operations Intern||Irving, TX|Open✅|10/30/2024|[Apply Here](https://michaels.wd5.myworkdayjobs.com/en-US/External/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Intern---Software-Operations_R00270894)||
 |↳|Infrastructure Engineering Intern||Irving, TX|Open✅|10/30/2024|[Apply Here](https://michaels.wd5.myworkdayjobs.com/en-US/External/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Intern---Infrastructure-Engineering_R00270974)||
@@ -101,9 +189,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Full Stack Engineer Intern, Computer Vision Products||Palo Alto, CA|Open✅|09/05/2024|[Apply Here](https://matroid.breezy.hr/p/79e27f665d2b-full-stack-engineer-intern-for-computer-vision-products-summer-2025)||
 |Jellyfish|Data Science Co-op||Remote|Open🛂|10/26/2024|[Apply Here](https://jobs.ashbyhq.com/jellyfish/76919978-8ded-44c4-9134-3e476e57cc25)||
 |T-Mobile|Machine Learning Engineer Intern|20 - 40|Bellevue, WA|Open✅|10/26/2024|[Apply Here](https://careers.t-mobile.com/summer-2025-machine-learning-engineer-internship/job/903A0C64566D1055822DBBE19BCAE032)|Graduate Students Only|
-|↳|Business Analyst Intern, Full Stack Developer|20 - 40|Bellevue, WA|Open🛂|10/25/2024|[Apply Here](https://careers.t-mobile.com/summer-2025-business-analyst-full-stack-developer-internship/job/1509A100D2F95A86B30A118915994995)||
-|↳|IT Associate Engineer Intern, Software|20 - 40|<details><summary>2 locations<br><br><b></summary>Overland Park, KS<br>Fresico, TX</details><b>|Open🛂|10/25/2024|[Apply Here](https://careers.t-mobile.com/summer-2025-it-associate-engineer-software-intern/job/8424530F495D24DE92D95EA4D90A2B83)||
-|↳|Software Development Intern, Automation|20 - 40|Bellevue, WA|Open✅|10/24/2024|[Apply Here](https://careers.t-mobile.com/summer-2025-software-development-automation-internship/job/0E2FEEA42AF0E724B43FCFF5597255A1)||
+|↳|Business Analyst Intern, Full Stack Developer|20 - 40|Bellevue, WA|Closed🔒|10/25/2024|||
+|↳|IT Associate Engineer Intern, Software|20 - 40|<details><summary>2 locations<br><br><b></summary>Overland Park, KS<br>Fresico, TX</details><b>|Closed🔒|10/25/2024|||
+|↳|Software Development Intern, Automation|20 - 40|Bellevue, WA|Closed🔒|10/24/2024|||
 |↳|Software Engineer Intern|20 - 40|<details><summary>2 locations<br><br><b></summary>Atlanta, GA<br>Overland Park, KS</details><b>|Closed🔒|10/17/2024|||
 |↳|Software Intern|20 - 40|Bellevue, WA|Closed🔒|10/17/2024|||
 |↳|IT Software Engineering Intern|20 - 40|Bellevue, WA|Closed🔒|10/16/2024|||
@@ -117,70 +205,52 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Analytics Intern||De Soto, KS|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38517)||
 |↳|IT Intern||Bridgeton, MO|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38640)||
 |↳|AI Research Engineer Intern||De Soto, KS|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38521)||
-|Lam Research|Software Development Intern|28 - 38|Remote|Open✅|10/26/2024|[Apply Here](https://careers.lamresearch.com/job/Fremont-Software-Development-Intern-CA-94538/1227279800/)||
+|Lam Research|Software Development Intern|28 - 38|Remote|Closed🔒|10/26/2024|||
 |↳|Software Quality Assurance Engineering Intern|28 - 38|Waltham, MA|Open✅|10/26/2024|[Apply Here](https://careers.lamresearch.com/job/Waltham-Software-Quality-Assurance-Engineering-Intern-MA/1227072400/)||
 |Vizient|Software Engineering Intern|24|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Cape Girardeau, MO</details><b>|Open✅|10/26/2024|[Apply Here](https://careers.vizientinc.com/careers/job/446702425823)||
 |↳|Software Engineering Intern|24|Chicago, IL|Open✅|10/26/2024|[Apply Here](https://careers.vizientinc.com/careers/job/446702405284)|Graduate Students Only|
-|USAA|CFO Intern, Data||<details><summary>2 locations<br><br><b></summary>San Antonio, TX<br>Charlotte, NC</details><b>|Open✅|10/26/2024|[Apply Here](https://www.usaajobs.com/job/san-antonio/cfo-intern-data/1207/70643881616)||
+|USAA|CFO Intern, Data||<details><summary>2 locations<br><br><b></summary>San Antonio, TX<br>Charlotte, NC</details><b>|Closed🔒|10/26/2024|||
 |↳|IT Intern|22 - 34|<details><summary>3 locations<br><br><b></summary>San Antonio, TX<br>Plano, TX<br>Phoenix, AZ</details><b>|Open✅|10/26/2024|[Apply Here](https://www.usaajobs.com/job/san-antonio/it-intern/1207/69121871856)||
-|Sanofi|Veeva and Appian COE Intern||Bridgewater, NJ|Open✅|10/26/2024|[Apply Here](https://jobs.sanofi.com/en/job/bridgewater/summer-2025-intern-veeva-and-appian-coe/2649/17965947840)||
+|Sanofi|Veeva and Appian COE Intern||Bridgewater, NJ|Closed🔒|10/26/2024|||
 |Merck|US Companion Animal Data Analytics Intern|20.62 - 54.94|Rahway, NJ|Open✅|10/26/2024|[Apply Here](https://jobs.merck.com/us/en/job/R309212/2025-University-Recruiting-US-Companion-Animal-Data-Analytics-Intern)||
-|↳|Data, AI, and Genome Sciences Intern, AI/ML|20.62 - 54.94|<details><summary>2 locations<br><br><b></summary>Cambridge, MA<br>Remote</details><b>|Open✅|10/26/2024|[Apply Here](https://jobs.merck.com/us/en/job/R311674/2025-University-Recruiting-Data-AI-and-Genome-Sciences-DAGS-AI-ML-Intern)||
-|↳|Research Quality Intern, Technology QA|20.62 - 54.94|<details><summary>2 locations<br><br><b></summary>West Point, PA<br>Rahway, NJ</details><b>|Open🛂|10/26/2024|[Apply Here](https://jobs.merck.com/us/en/job/R311625/2025-University-Recruiting-Research-Quality-Technology-QA-Intern)||
-|↳|Global Clinical Data Integration Intern|20.62 - 54.94|Rahway, NJ|Open🛂|10/26/2024|[Apply Here](https://jobs.merck.com/us/en/job/R315007/2025-University-Recruiting-Global-Clinical-Data-Integration-Intern)||
-|↳|Data Automation & Translation Intern|20.62 - 54.94|Lower Gwynedd Township, PA|Open🛂|10/26/2024|[Apply Here](https://jobs.merck.com/us/en/job/R310296/2025-University-Recruiting-Data-Automation-Translation-Intern)||
-|↳|IT Emerging Talent Intern|20.62 - 54.94|<details><summary>3 locations<br><br><b></summary>Rahway, NJ<br>West Point, PA<br>Austin, TX</details><b>|Open🇺🇸|09/08/2024|[Apply Here](https://jobs.merck.com/us/en/job/R307208/2025-University-Recruiting-IT-Emerging-Talent-Summer-Intern-Program)||
+|↳|Data, AI, and Genome Sciences Intern, AI/ML|20.62 - 54.94|<details><summary>2 locations<br><br><b></summary>Cambridge, MA<br>Remote</details><b>|Closed🔒|10/26/2024|||
+|↳|Research Quality Intern, Technology QA|20.62 - 54.94|<details><summary>2 locations<br><br><b></summary>West Point, PA<br>Rahway, NJ</details><b>|Closed🔒|10/26/2024|||
+|↳|Global Clinical Data Integration Intern|20.62 - 54.94|Rahway, NJ|Closed🔒|10/26/2024|||
+|↳|Data Automation & Translation Intern|20.62 - 54.94|Lower Gwynedd Township, PA|Closed🔒|10/26/2024|||
+|↳|IT Emerging Talent Intern|20.62 - 54.94|<details><summary>3 locations<br><br><b></summary>Rahway, NJ<br>West Point, PA<br>Austin, TX</details><b>|Closed🔒|09/08/2024|||
 |Medline|ITSM Developer Intern||Libertyville, IL|Open✅|10/26/2024|[Apply Here](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Libertyville-Illinois/IT-Business-Systems-Intern--Problem-Management----Summer-2025_R2404947)||
 |LexisNexis|Technology Intern||Alpharetta, GA|Open✅|10/26/2024|[Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Risk-Solutions-Technology-Intern_R84037)||
 |↳|Data Analytics Intern||Alpharetta, GA|Open✅|10/26/2024|[Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Analytics-Intern_R83890)|Graduate Students Only|
 |↳|Data Science Intern, Insurance||Alpharetta, GA|Open✅|10/26/2024|[Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Science-Intern--Insurance_R83811)|Graduate Students Only|
 |↳|Healthcare Data Science Intern||Alpharetta, GA|Open✅|10/26/2024|[Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Healthcare-Data-Science-Intern_R84099-1)||
 |↳|Gen AI Data Science Intern||Alpharetta, GA|Open✅|10/26/2024|[Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Science-Intern_R84091)|Graduate Students Only|
-|JM Family|Data Analyst Intern||Deerfield Beach, FL|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Data-Analyst_JR103033-1)||
-|↳|Data Analytics Intern||Deerfield Beach, FL|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Data-Analytics_JR103051)||
-|↳|Data Engineering Intern||Deerfield Beach, FL|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Data-Engineering_JR102982)||
+|JM Family|Data Analyst Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
+|↳|Data Analytics Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
+|↳|Data Engineering Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
 |↳|Technology Initiatives Intern||St. Louis, MO|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Missouri---St-Louis/Intern--Technology-Initiatives_JR102991)||
-|↳|Developer Analyst Intern||Deerfield Beach, FL|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Developer-Analyst_JR103009)||
+|↳|Developer Analyst Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
 |↳|Automation Analyst Intern||Deerfield Beach, FL|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Automation-Analyst_JR102955)||
-|↳|Data Engineering Intern||Deerfield Beach, FL|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Data-Engineering_JR102985)|Graduate Students Only|
-|↳|IT Delivery Intern||Deerfield Beach, FL|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--IT-Delivery_JR103026)||
-|Federal Reserve System|Software Engineering Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Computer-Science-and-Software-Engineering_R-0000026848)||
-|↳|Information Security Intern||Atlanta, GA|Open✅|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Intern-Program---Information-Security-Intern_R-0000026463)||
-|↳|Information Technology Intern||Cleveland, OH|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Information-Technology-Intern---Summer-2025_R-0000026093-1)||
-|↳|Cloud Engineering Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Cloud-Engineering_R-0000026849)||
-|↳|Technical Intern|22|Richmond, VA|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2025-Technical-Internship_R-0000025554)||
-|↳|Data Science and Business Analytics Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2024-Intern-Data-Science-and-Business-Analytics_R-0000026847)||
-|↳|Cybersecurity and Information Security Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Cybersecurity-and-Information-Security_R-0000026842)||
-|↳|Data Science or Computer Science Intern - PhD||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Data-Science-and-Business-Analytics_R-0000026854)||
-|↳|Networking and Computer Engineering Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Networking-and-Computer-Engineering_R-0000026851)||
-|↳|Information and Library Science Intern||Chicago, IL|Open🛂|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern---Information-and-Library-Science_R-0000026856-1)||
-|↳|Financial Data Intern||Atlanta, GA|Open✅|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Internship-Program---Financial-Data-Intern_R-0000026623)||
-|↳|Software Developer Intern|20 - 22|St. Louis, MO|Open✅|10/26/2024|[Apply Here](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/St-Louis-MO/Software-Developer-Intern_R-0000026317)||
-|Snowflake|Software Engineer Intern, AI/ML|45 - 55|San Mateo, CA|Open✅|10/26/2024|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUS5F707492E8E743A19B3A611452C72C27EXTERNALENUS60D05248D4C54FB5AED5B6F549DA97B7/Software-Engineer-Intern-AI-ML-Summer-2025)||
-|↳|Software Engineer Intern, AI/ML|45 - 55|Bellevue, WA|Open✅|10/26/2024|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUS5F707492E8E743A19B3A611452C72C27EXTERNALENUS198A72F5AEF34CA9A7BB460CCE25D46D/Software-Engineer-Intern-AI-ML-Summer-2025)||
-|↳|Software Engineer Intern, Database Engineering|45 - 55|San Mateo, CA|Open✅|10/26/2024|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUSAEF1E85D07BE43FEA8066CBEBB9E6A99EXTERNALENUS2BBA63F57F4944D6993ED3111A082E69/Software-Engineer-Intern-Database-Engineering-Summer-2025)||
-|↳|Software Engineer Intern, Database Engineering|45 - 55|Bellevue, WA|Open✅|10/26/2024|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUSAEF1E85D07BE43FEA8066CBEBB9E6A99EXTERNALENUS3377623AEF974EAFABF5C29180040540/Software-Engineer-Intern-Database-Engineering-Summer-2025)||
-|↳|Software Engineer Intern, Infrastucture Automation|45 - 55|San Mateo, CA|Open✅|10/26/2024|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUSA1457938A2BC40889F566E0C5989F171EXTERNALENUSAE5B6C6CE1654BB78FFDAB14BA72D983/Software-Engineer-Intern-Infrastructure-Automation-Summer-2025)||
-|↳|Software Engineer Intern, Infrastucture Automation|45 - 55|Bellevue, WA|Open✅|10/26/2024|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUSA1457938A2BC40889F566E0C5989F171EXTERNALENUS4A121D877AC542308D0F9CD9E1493A08/Software-Engineer-Intern-Infrastructure-Automation-Summer-2025)||
-|↳|Software Engineer Intern, Core Engineering|45 - 55|San Mateo, CA|Open✅|10/26/2024|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUS3DB7A5C205CA450D9BB2ABEEE2143697EXTERNALENUS6B9EADD4D00A46AB812FA9DFCE661FED/Software-Engineer-Intern-Core-Engineering-Summer-2025)||
-|↳|Software Engineer Intern, Core Engineering|45 - 55|Bellevue, WA|Open✅|10/26/2024|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUS3DB7A5C205CA450D9BB2ABEEE2143697EXTERNALENUS7B22DD319D5B46F58B3FA27BE052FC06/Software-Engineer-Intern-Core-Engineering-Summer-2025)||
-|Northrop Grumman|Systems/Software Intern|25.25 - 38.5|Boulder, CO|Open🇺🇸|10/26/2024|[Apply Here](https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/Colorado/Boulder/R10173225/2025-systemssoftware-intern-boulder-co)||
-|↳|Systems/Software Intern|24.25 - 36.75|Huntsville, AL|Open🇺🇸|10/26/2024|[Apply Here](https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/Alabama/Huntsville/R10173232/2025-systemssoftware-intern-huntsville-al)||
-|↳|Cyber Software Engineer Intern|18.5 - 36.5|<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Beavercreek, OH</details><b>|Open🇺🇸|10/26/2024|[Apply Here](https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/Ohio/Cincinnati/R10173772/2025-cyber-software-engineer-intern-cincinnati-oh)||
-|↳|Embedded Software Engineer Intern|17.5 - 40|Charlottesville, VA|Closed🔒|09/21/2024|||
-|↳|Systems Engineer Intern|22.25 - 38.5|Redondo Beach, CA|Closed🔒|09/21/2024|||
-|↳|Systems Engineer Intern|21.75 - 33.25|Gilbert, AZ|Closed🔒|09/21/2024|||
-|Woodward|SWE Engineering Intern|21.7 - 30.07|<details><summary>4 locations<br><br><b></summary>Niles, IL<br>Santa Clarita, CA<br>Fort Collins, CO<br>Rockford, IL</details><b>|Open✅|10/25/2024|[Apply Here](https://woodward.wd5.myworkdayjobs.com/en-US/woodward/job/Niles-IL-US/SWE-Engineering-Internship-Summer-2025_JR103767)||
-|Visat|Software Engineer Intern, Tactical Communication Solutions|21 - 66|Carlsbad, CA|Open✅|10/25/2024|[Apply Here](https://careers.viasat.com/jobs/3653/job)||
+|↳|Data Engineering Intern||Deerfield Beach, FL|Closed🔒|10/26/2024||Graduate Students Only|
+|↳|IT Delivery Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
+|Snowflake|Software Engineer Intern, AI/ML|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, AI/ML|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, Database Engineering|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, Database Engineering|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, Infrastucture Automation|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, Infrastucture Automation|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, Core Engineering|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, Core Engineering|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
+|Woodward|SWE Engineering Intern|21.7 - 30.07|<details><summary>4 locations<br><br><b></summary>Niles, IL<br>Santa Clarita, CA<br>Fort Collins, CO<br>Rockford, IL</details><b>|Closed🔒|10/25/2024|||
+|Visat|Software Engineer Intern, Tactical Communication Solutions|21 - 66|Carlsbad, CA|Closed🔒|10/25/2024|||
 |↳|Software Engineer Intern, Automation Services|21 - 66|Carlsbad, CA|Closed🔒|10/17/2024|||
 |↳|Machine Learning Engineer Intern|21 - 66|Carlsbad, CA|Closed🔒|10/04/2024|||
 |↳|Software Engineering Intern, UHF SATCOM|21, 66|Carlsbad, CA|Closed🔒|09/25/2024|||
 |↳|Software Engineering Intern, GSN Comsat Labs|21, 66|Independence, OH|Closed🔒|09/25/2024|||
-|Versana|Tech Intern||New York, NY|Open✅|10/25/2024|[Apply Here](https://jobs.lever.co/Versana/43b3895d-66e7-4737-9929-8c3e166e21fb)||
-|Marvell|Software Engineer Intern - Bachelor's/ Master's|30 - 60|Santa Clara, CA|Open✅|10/25/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Software-Engineer-Intern---Bachelor-s-Master-s-degree_2402130)||
+|Versana|Tech Intern||New York, NY|Closed🔒|10/25/2024|||
+|Marvell|Software Engineer Intern - Bachelor's/ Master's|30 - 60|Santa Clara, CA|Closed🔒|10/25/2024|||
 |↳|Application Engineering Intern - Masters|26 - 52|Santa Clara, CA|Open✅|10/25/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Masters_2401785)||
 |↳|Field Application Engineering Intern - Bachelor|22 - 43|Santa Clara, CA|Open✅|09/25/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Field-Application-Engineering-Intern---Bachelor-s-Degree_2401846)||
-|↳|Application Engineering Intern - Bachelors|25 - 49|Santa Clara, CA|Open✅|09/24/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelors_2401784)||
+|↳|Application Engineering Intern - Bachelors|25 - 49|Santa Clara, CA|Closed🔒|09/24/2024|||
 |↳|Product Engineer Intern - Bachelors|22 - 44|Santa Clara, CA|Open✅|09/13/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Bachelors_2401898)||
 |↳|Firmware Engineer Intern - Bachelors|28 - 54|Westlake Village, CA|Closed🔒|09/13/2024|||
 |Solidigm|SSD Firmware Development Intern - Undergraduate||Rancho Cordova, CA|Open✅|10/25/2024|[Apply Here](https://jobs.smartrecruiters.com/Solidigm/744000022574662)||
@@ -188,8 +258,8 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|SSD Firmware Engineer Intern||Longmont, CO|Open✅|10/25/2024|[Apply Here](https://www.smartrecruiters.com/Solidigm/744000020050937-ssd-firmware-engineer-intern)||
 |↳|Customer Tools Software Engineering Intern - Undergraduate||Rancho Cordova, CA|Open✅|10/12/2024|[Apply Here](https://www.smartrecruiters.com/Solidigm/744000019969713-customer-tools-software-engineering-undergraduate-intern)||
 |↳|SSD Firmware Development Intern - Undergraduate||Longmont, CO|Open✅|10/12/2024|[Apply Here](https://www.smartrecruiters.com/Solidigm/744000019959294-ssd-firmware-development-undergraduate-intern)||
-|CoreLogic|Customer Success Data Analyst Intern|19.63 - 27.08||Open✅|10/25/2024|[Apply Here](https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/United-States/Intern---Customer-Success-Data-Analyst_REQ15702)||
-|Arrive Logistics|Data Engineering Intern||Austin, TX|Open✅|10/25/2024|[Apply Here](https://www.arrivelogistics.com/job/data-engineering-intern/)||
+|CoreLogic|Customer Success Data Analyst Intern|19.63 - 27.08||Closed🔒|10/25/2024|||
+|Arrive Logistics|Data Engineering Intern||Austin, TX|Closed🔒|10/25/2024|||
 |Chatham Financial|Business Quantitative Analyst Intern||Kennett Square, PA|Open✅|10/25/2024|[Apply Here](https://www.chathamfinancial.com/careers/jobs/2025-business-quantitative-analyst-internship-6342330)||
 |↳|Quantitative Analyst Intern||Kennett Square, PA|Open✅|10/25/2024|[Apply Here](https://www.chathamfinancial.com/careers/jobs/2025-quantitative-analyst-internship-6209887)||
 |Art of Problem Solving|Software Engineering Intern|30 - 35|San Diego, CA|Open✅|10/25/2024|[Apply Here](https://artofproblemsolving.com/careers/job/6233441003_software_engineering_intern_summer_2025_)||
@@ -198,7 +268,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Developer Engineering Intern I|22 - 29|San Diego, CA|Open✅|10/25/2024|[Apply Here](https://careers.dexcom.com/careers/job/25730841)||
 |↳|SW Test Development Engineering Intern II|22 - 29|Remote|Open✅|10/25/2024|[Apply Here](https://careers.dexcom.com/careers/job/25729735)|Graduate Students Only|
 |↳|Test Engineering and Data Analysis Intern II||Remote|Open✅|10/25/2024|[Apply Here](https://careers.dexcom.com/careers/job/25731338)|Graduate Students Only|
-|Hexagon|Front End Development Intern||North Kingstown, RI|Open✅|10/25/2024|[Apply Here](https://careers-manufacturing.hexagon.com/job/North-Kingstown-Front-End-Development-Intern-RI/1232-en_GB)||
+|Hexagon|Front End Development Intern||North Kingstown, RI|Closed🔒|10/25/2024|||
 |Parry Labs|Embedded Software Engineering Intern||Columbia, MD|Open✅|10/25/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=af82a54b-ec37-4427-bf0e-6e7f353babc8&ccId=9201267560603_3&lang=en_US&jobId=927518&jwId=9201267560603_1)||
 |↳|Software Quality Engineering Intern||Huntsville, AL|Open✅|10/25/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=af82a54b-ec37-4427-bf0e-6e7f353babc8&ccId=9201267560603_3&lang=en_US&jobId=927341&jwId=9201267560603_1)||
 |↳|Software Test Engineering Intern||Dallas, TX|Open✅|10/25/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=af82a54b-ec37-4427-bf0e-6e7f353babc8&ccId=9201267560603_3&lang=en_US&jobId=927279&jwId=9201267560603_1)||
@@ -211,9 +281,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |NetApp|Software Engineer Intern||<details><summary>5 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Boulder, CO<br>Witchita, KS<br>Cranberry, PA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/san-jose/intern-software-engineer/27600/71710315840)||
 |↳|Software Engineer Intern||<details><summary>4 locations<br><br><b></summary>RTP, NC<br>New York, NY<br>San Jose, CA<br>Vienna, VA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400)||
 |↳|Software Engineer Intern||RTP, NC|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-information-technology/27600/71710316816)||
-|Staples|Software Engineer Intern||Framingham, MA|Open✅|10/24/2024|[Apply Here](https://careers.staples.com/en/job/framingham/software-engineer-intern-june-2025-hybrid/44412/71693915760)||
-|↳|Java Developer Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/java-developer-intern-june-2025-hybrid/44412/71136539232)||
-|↳|Salesforce Developer Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/salesforce-developer-intern-june-202-hybrid/44412/71136535392)||
+|Staples|Software Engineer Intern||Framingham, MA|Closed🔒|10/24/2024|||
+|↳|Java Developer Intern||Framingham, MA|Closed🔒|10/13/2024|||
+|↳|Salesforce Developer Intern||Framingham, MA|Closed🔒|10/13/2024|||
 |↳|Data Engineering Intern Intern||Framingham, MA|Open✅|10/13/2024|[Apply Here](https://careers.staples.com/en/job/framingham/data-engineering-intern-june-2025-hybrid/44412/71085375392)||
 |↳|Software Engineer Intern, Technology/Engineering||Framingham, MA|Open✅|09/15/2024|[Apply Here](https://careers.staples.com/en/job/framingham/software-engineer-intern-hybrid-june-2025/44412/69911530592)||
 |Trihydro|Software Developer Intern||<details><summary>2 locations<br><br><b></summary>Fort Collins, CO<br>Laramie, WY</details><b>|Open✅|10/24/2024|[Apply Here](https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/1036/0)||
@@ -223,35 +293,35 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern, UI||Waltham, MA|Closed🔒|09/12/2024|||
 |↳|Platform Engineering Summer Intern||Waltham, MA|Open✅|09/07/2024|[Apply Here](https://www.pega.com/about/careers/20994/platform-engineering-summer-intern)||
 |↳|Software Engineer Intern, Infinity Platform||Waltham, MA|Closed🔒|09/05/2024|||
-|Crane Aerospace & Electronics|Software Engineering Intern|24 - 27.5|Lynnwood, WA|Open✅|10/24/2024|[Apply Here](https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=CRANEAE&cws=54&rid=15544)||
-|↳|Software Engineering Intern|24 - 27.5|Burbank, CA|Open✅|10/24/2024|[Apply Here](https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=CRANEAE&cws=54&rid=15532)||
+|Crane Aerospace & Electronics|Software Engineering Intern|24 - 27.5|Lynnwood, WA|Closed🔒|10/24/2024|||
+|↳|Software Engineering Intern|24 - 27.5|Burbank, CA|Closed🔒|10/24/2024|||
 |Parafin|Software Engineer Intern|55 - 60|San Francisco, CA|Open✅|10/23/2024|[Apply Here](https://jobs.ashbyhq.com/parafin/a39ec055-fcf9-45be-8822-0bcb78c592a4)||
 |MACOM|Software Intern||Hamilton Township, NJ|Open✅|10/23/2024|[Apply Here](https://macomtech.csod.com/ux/ats/careersite/4/home/requisition/2576)||
 |Innovative Defense Technologies|Systems Engineer Intern||<details><summary>2 locations<br><br><b></summary>Arlington, VA<br>Mount Laurel, NJ</details><b>|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/oi3Gufwf)||
 |↳|Software Systems Engineer Intern||Mount Laurel, NJ|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/ogBGufwL)||
-|↳|Software Engineer Intern JR-667||<details><summary>2 locations<br><br><b></summary>Arlington, VA<br>Mount Laurel, NJ</details><b>|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/oslCufwD)||
-|↳|Software Engineer Intern JR-669||<details><summary>2 locations<br><br><b></summary>Mount Laurel, NJ<br>Arlington, VA</details><b>|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/oXECufwr)||
-|↳|Software Engineer Intern JR-680||<details><summary>2 locations<br><br><b></summary>Mount Laurel, NJ<br>Arlington, VA</details><b>|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/oQ2GufwM)||
+|↳|Software Engineer Intern JR-667||<details><summary>2 locations<br><br><b></summary>Arlington, VA<br>Mount Laurel, NJ</details><b>|Closed🔒|10/23/2024|||
+|↳|Software Engineer Intern JR-669||<details><summary>2 locations<br><br><b></summary>Mount Laurel, NJ<br>Arlington, VA</details><b>|Closed🔒|10/23/2024|||
+|↳|Software Engineer Intern JR-680||<details><summary>2 locations<br><br><b></summary>Mount Laurel, NJ<br>Arlington, VA</details><b>|Closed🔒|10/23/2024|||
 |↳|Software Engineer Intern JR-682||<details><summary>2 locations<br><br><b></summary>Mount Laurel, NJ<br>Arlington, VA</details><b>|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/odmGufwt)||
 |↳|Model Based System Engineer Intern||<details><summary>2 locations<br><br><b></summary>Mount Laurel, NJ<br>Arlington, VA</details><b>|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/oJECufwd)||
-|↳|Information Technology Support Intern||Arlington, VA|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/ojLCufwU)||
-|↳|Information Systems Security Intern|28 - 34|<details><summary>4 locations<br><br><b></summary>Arlington, VA<br>Fall River, MA<br>Mount Laurel, NJ<br>San Diego, CA</details><b>|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/ob5Hufwb)||
+|↳|Information Technology Support Intern||Arlington, VA|Closed🔒|10/23/2024|||
+|↳|Information Systems Security Intern|28 - 34|<details><summary>4 locations<br><br><b></summary>Arlington, VA<br>Fall River, MA<br>Mount Laurel, NJ<br>San Diego, CA</details><b>|Closed🔒|10/23/2024|||
 |↳|DevSecOps Intern||Mount Laurel, NJ|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/ojFFufwR)||
-|↳|Artificial Intelligence Intern||<details><summary>2 locations<br><br><b></summary>Arlington, VA<br>Mount Laurel, NJ</details><b>|Open🇺🇸|10/23/2024|[Apply Here](https://jobs.jobvite.com/idtus/job/omhCufwt)||
-|General Dynamics - Mission Systems|Software Engineering Intern|23.65 - 29.45|Dedham, MA|Open✅|10/23/2024|[Apply Here](https://careers-gdms.icims.com/jobs/64274/job)||
+|↳|Artificial Intelligence Intern||<details><summary>2 locations<br><br><b></summary>Arlington, VA<br>Mount Laurel, NJ</details><b>|Closed🔒|10/23/2024|||
+|General Dynamics - Mission Systems|Software Engineering Intern|23.65 - 29.45|Dedham, MA|Closed🔒|10/23/2024|||
 |↳|Software Engineering Intern|22.3 - 25.26|Bloomington, MN|Closed🔒|09/17/2024|||
 |↳|Software Engineering Intern|23.65 - 29.45|Dedham, MA|Open🇺🇸|09/12/2024|[Apply Here](https://careers-gdms.icims.com/jobs/63934/job)||
 |Emerson|Software Development Intern||Round Rock, TX|Open✅|10/23/2024|[Apply Here](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24007839)||
 |↳|Software Engineering Intern||Austin, TX|Open✅|10/23/2024|[Apply Here](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24010984)||
 |↳|Process Automation Engineer Intern||Houston, TX|Closed🔒|09/08/2024|||
-|Consumers Credit Union|Software Development Intern||Kalamazoo, MI|Open✅|10/23/2024|[Apply Here](https://jobs.jobvite.com/careers/consumerscu/job/o9SHufwW)||
+|Consumers Credit Union|Software Development Intern||Kalamazoo, MI|Closed🔒|10/23/2024|||
 |AQR|Software Engineering Summer Analyst, Enterprise Engineering||Greenwich, CT|Open✅|10/23/2024|[Apply Here](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2025-software-engineering-summer-analyst-enterprise-engineering/6345613)||
-|PayPal|RPA Developer Intern|22 - 44|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Scottsdale, AZ</details><b>|Open✅|10/23/2024|[Apply Here](https://paypal.eightfold.ai/careers/job/274903248291)||
-|↳|Information Security Intern|21 - 55|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Scottsdale, AZ</details><b>|Open✅|10/23/2024|[Apply Here](https://paypal.eightfold.ai/careers/job/274903641880)||
-|↳|Machine Learning Scientist Intern - PhD|21 - 55|San Jose, CA|Open✅|10/23/2024|[Apply Here](https://paypal.eightfold.ai/careers/job/274903611144)||
-|↳|Global Technical Support Intern|22 - 55|<details><summary>2 locations<br><br><b></summary>Scottsdale, AZ<br>Omaha, NE</details><b>|Open✅|10/23/2024|[Apply Here](https://paypal.eightfold.ai/careers/job/274903611142)||
-|↳|DevOps Software Engineer Intern|22 - 55|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>Scottsdale, AZ<br>Chicago, IL</details><b>|Open✅|10/22/2024|[Apply Here](https://paypal.eightfold.ai/careers/job/274903611133)||
-|↳|Machine Learning Intern Intern|21 - 55|San Jose, CA|Open✅|10/22/2024|[Apply Here](https://paypal.eightfold.ai/careers/job/274903611151)||
+|PayPal|RPA Developer Intern|22 - 44|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Scottsdale, AZ</details><b>|Closed🔒|10/23/2024|||
+|↳|Information Security Intern|21 - 55|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Scottsdale, AZ</details><b>|Closed🔒|10/23/2024|||
+|↳|Machine Learning Scientist Intern - PhD|21 - 55|San Jose, CA|Closed🔒|10/23/2024|||
+|↳|Global Technical Support Intern|22 - 55|<details><summary>2 locations<br><br><b></summary>Scottsdale, AZ<br>Omaha, NE</details><b>|Closed🔒|10/23/2024|||
+|↳|DevOps Software Engineer Intern|22 - 55|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>Scottsdale, AZ<br>Chicago, IL</details><b>|Closed🔒|10/22/2024|||
+|↳|Machine Learning Intern Intern|21 - 55|San Jose, CA|Closed🔒|10/22/2024|||
 |↳|Frontend Software Engineer Intern|22 - 55|<details><summary>6 locations<br><br><b></summary>San Jose, CA<br>Chicago, IL<br>Omaha, NE<br>Scottsdale, AZ<br>New York, NY<br>Austin, TX</details><b>|Closed🔒|09/25/2024|||
 |↳|Mobile Software Engineer Intern|22 - 55|<details><summary>6 locations<br><br><b></summary>San Jose, CA<br>Chicago, IL<br>Omaha, NE<br>Scottsdale, AZ<br>New York, NY<br>Austin, TX</details><b>|Closed🔒|09/25/2024|||
 |↳|Full Stack Software Engineer Intern|22 - 55|<details><summary>6 locations<br><br><b></summary>San Jose, CA<br>Chicago, IL<br>Omaha, NE<br>Scottsdale, AZ<br>New York, NY<br>Austin, TX</details><b>|Closed🔒|09/25/2024|||
@@ -263,7 +333,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Test Engineering Intern||Greensboro, NC|Open🛂|08/30/2024|[Apply Here](https://careers.qorvo.com/job/Test-Engineering-Intern-NC/1206981500/?from=email&refid=20537781400&utm_source=J2WEmail&source=2&eid=180100-202448291148-27560704500&locale=en_US)||
 |↳|Product Engineering Intern||Greensboro, NC|Open🛂|08/30/2024|[Apply Here](https://careers.qorvo.com/job/Product-Engineering-Intern-NC/1207236300/?from=email&refid=20537781400&utm_source=J2WEmail&source=2&eid=180100-202448291148-27560704500&locale=en_US)||
 |↳|Software Chacterization Engineering Intern||Greensboro, NC|Closed🔒|08/30/2024|||
-|↳|Test Engineering Intern||San Jose, CA|Open🛂|08/30/2024|[Apply Here](https://careers.qorvo.com/job/Test-Engineering-Intern-CA/1207796100/?from=email&refid=20537781400&utm_source=J2WEmail&source=2&eid=180100-202448291148-27560704500&locale=en_US)||
+|↳|Test Engineering Intern||San Jose, CA|Closed🔒|08/30/2024|||
 |↳|Software Engineering Intern|35.1 - 45.63|San Jose, CA|Closed🔒|08/29/2024|||
 |RTX|Software Developer Intern||Sterling, VA|Open🇺🇸|10/23/2024|[Apply Here](https://careers.rtx.com/global/en/job/RAYTGLOBAL01731026EXTERNALENGLOBAL/Software-Developer-Intern-2025)||
 |↳|Software Developer Intern|25 - 42|Sterling, VA|Closed🔒|10/05/2024|||
@@ -276,25 +346,27 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern|19.27 - 42.7|Lenexa, KS|Closed🔒|09/16/2024|||
 |↳|Software Development Intern|19.27 - 42.7|Remote|Closed🔒|09/16/2024|||
 |↳|Ascentia Software Engineering Intern|19.27 - 42.7|Remote|Closed🔒|09/15/2024|||
-|AT&T|Technology Development Program Intern|30.41 - 51.14|Atlanta, GA|Open✅|10/23/2024|[Apply Here](https://www.att.jobs/job/-/technology-development-program-internship/117/71623469168)||
-|Uber Freight|Software Engineering Intern||<details><summary>3 locations<br><br><b></summary>Fresico, TX<br>Chicago, IL<br>San Francisco, CA</details><b>|Open✅|10/23/2024|[Apply Here](https://www.uberfreight.com/careers/?gh_jid=4179121008#opportunities)||
-|Invitiation Homes|Software Engineering Intern|16.37 - 28.38|Dallas, TX|Open✅|10/23/2024|[Apply Here](https://invitationhomes.wd1.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Software-Engineer_R4005)||
+|AT&T|Technology Development Program Intern|30.41 - 51.14|Atlanta, GA|Closed🔒|10/23/2024|||
+|Uber Freight|Software Engineering Intern||<details><summary>3 locations<br><br><b></summary>Fresico, TX<br>Chicago, IL<br>San Francisco, CA</details><b>|Closed🔒|10/23/2024|||
+|Invitiation Homes|Software Engineering Intern|16.37 - 28.38|Dallas, TX|Closed🔒|10/23/2024|||
+|Verizon|AI/ML Engineering Intern||Ashburn, VA|Closed🔒|10/22/2024|||
+|↳|Cyber Security Intern||<details><summary>3 locations<br><br><b></summary>Basking Ridge, NJ<br>Irving, TX<br>Temple Terrace, FL</details><b>|Closed🔒|10/12/2024|||
 |Biogen|Information Technology Intern||<details><summary>2 locations<br><br><b></summary>Cambridge, MA<br>RTP, NC</details><b>|Open✅|10/22/2024|[Apply Here](https://jobs.smartrecruiters.com/Biogen/744000020830820-intern-information-technology)||
-|Barclays|Technology Cyber & Security Analyst Intern||Whippany, NJ|Open✅|10/22/2024|[Apply Here](https://search.jobs.barclays/job/whippany/technology-cyber-and-security-analyst-summer-internship-program-2025-whippany/13015/69918632080)||
-|↳|Technology Developer Analyst Non-Rotational Intern||Whippany, NJ|Open✅|10/22/2024|[Apply Here](https://search.jobs.barclays/job/whippany/technology-developer-analyst-non-rotational-summer-internship-program-2025-whippany/13015/70637976448)||
-|↳|Technology Analyst Intern||Wilmington, DE|Open✅|10/22/2024|[Apply Here](https://search.jobs.barclays/job/wilmington/technology-analyst-summer-internship-program-2025-wilmington/13015/69918632320)||
-|↳|Technology Developer Analyst Rotational Intern||Whippany, NJ|Open✅|10/22/2024|[Apply Here](https://search.jobs.barclays/job/whippany/technology-developer-analyst-rotational-summer-internship-program-2025-whippany/13015/71027883216)||
-|↳|Technology Developer Analyst Intern||Whippany, NJ|Open✅|10/22/2024|[Apply Here](https://search.jobs.barclays/job/whippany/technology-analyst-summer-internship-program-2025-whippany/13015/69918633232)||
+|Barclays|Technology Cyber & Security Analyst Intern||Whippany, NJ|Closed🔒|10/22/2024|||
+|↳|Technology Developer Analyst Non-Rotational Intern||Whippany, NJ|Closed🔒|10/22/2024|||
+|↳|Technology Analyst Intern||Wilmington, DE|Closed🔒|10/22/2024|||
+|↳|Technology Developer Analyst Rotational Intern||Whippany, NJ|Closed🔒|10/22/2024|||
+|↳|Technology Developer Analyst Intern||Whippany, NJ|Closed🔒|10/22/2024|||
 |↳|Electronic Trading Associate Intern|78.12|New York, NY|Closed🔒|08/19/2024|||
 |↳|Quantitative Analytics Associate Intern|78.12|New York, NY|Closed🔒|08/19/2024|||
 |Reliable Robotics|Displays Software Engineer Intern|60.41|Mountain View, CA|Open✅|10/22/2024|[Apply Here](https://jobs.lever.co/reliable/9770398b-5d28-4e6f-919c-d51c46d6503f)||
 |↳|Embedded Systems Engineer Intern|60.41|Mountain View, CA|Open✅|09/07/2024|[Apply Here](https://jobs.lever.co/reliable/0e4ad15e-ef30-4a91-a48f-65f352f8a936)||
 |↳|Flight Software Engineer Intern|60.41|Mountain View, CA|Open✅|09/07/2024|[Apply Here](https://jobs.lever.co/reliable/816a551e-e70f-4e28-9d59-220326d81d32)||
-|MFS|Software Engineer Intern||Boston, MA|Open✅|10/22/2024|[Apply Here](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Software-Engineer-Intern_MFS-230937)||
-|Humphrey Davy|Space Exploration Software Engineer Intern, Embedded Applications|21.9 - 46.45|San Francisco, CA|Open🇺🇸|10/22/2024|[Apply Here](https://careers.jhuapl.edu/jobs/56174)||
+|MFS|Software Engineer Intern||Boston, MA|Closed🔒|10/22/2024|||
+|Humphrey Davy|Space Exploration Software Engineer Intern, Embedded Applications|21.9 - 46.45|San Francisco, CA|Closed🔒|10/22/2024|||
 |Coinbase|Software Engineer Intern|50|San Francisco, CA|Open✅|10/22/2024|[Apply Here](https://www.coinbase.com/careers/positions/6266440)||
 |Allegion|Software Engineering Intern, Mobile|25|<details><summary>3 locations<br><br><b></summary>Golden, CO<br>Boulder, CO<br>Remote</details><b>|Open✅|10/22/2024|[Apply Here](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Software-Engineering-Intern--Mobile-_JR30520-2)||
-|↳|Software Operations Engineer Intern||Carmel, IN|Open✅|09/05/2024|[Apply Here](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR30301)||
+|↳|Software Operations Engineer Intern||Carmel, IN|Closed🔒|09/05/2024|||
 |Samsara|Software Engineering Intern|35.63 - 52.40|San Francisco, CA|Open✅|10/22/2024|[Apply Here](https://www.samsara.com/company/careers/roles/6295077)||
 |↳|Automation Engineer Intern|38.41 - 45.19|Remote|Closed🔒|10/03/2024|||
 |Zoox|Mobile Development Intern|40.62 - 59.37|Foster City, CA|Open✅|10/22/2024|[Apply Here](https://zoox.com/careers/b5cfd6d5-2d3f-40b3-9bda-618e615d8162)||
@@ -318,13 +390,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Backend Engineering Intern|40|New York, NY|Closed🔒|10/19/2024|||
 |↳|Frontend Engineering Intern|40|New York, NY|Closed🔒|10/19/2024|||
 |↳|Full-Stack Engineering Intern|40|New York, NY|Closed🔒|10/19/2024|||
-|↳|Interactive News Intern|40|New York, NY|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/thenewyorktimes/jobs/4487855005)||
+|↳|Interactive News Intern|40|New York, NY|Closed🔒|10/19/2024|||
 |Schneider|Software Engineer Intern||Green Bay, WI|Closed🔒|10/19/2024|||
 |↳|Data Science and Engineering Intern||Green Bay, WI|Closed🔒|10/19/2024||Graduate Students Only|
 |↳|Data Science Intern||Green Bay, WI|Closed🔒|10/19/2024|||
 |Pure Storage|Software Engineer Intern|53.12 - 62.5|Santa Clara, CA|Open✅|10/19/2024|[Apply Here](https://boards.greenhouse.io/purestorage/jobs/6280293)||
-|Leidos|Database Development and Administration Intern|25.35 - 42.22|Bowie, MD|Open✅|10/19/2024|[Apply Here](https://careers.leidos.com/jobs/15056766-database-development-and-administration-intern)||
-|↳|Software Engineer Intern|23.35 - 44.22|Tucson, AZ|Open✅|10/15/2024|[Apply Here](https://careers.leidos.com/jobs/15038066-software-engineer-intern)||
+|Leidos|Database Development and Administration Intern|25.35 - 42.22|Bowie, MD|Closed🔒|10/19/2024|||
+|↳|Software Engineer Intern|23.35 - 44.22|Tucson, AZ|Closed🔒|10/15/2024|||
 |↳|Software Engineer Intern|23.35 - 42.22|Gaithersburg, MD|Closed🔒|10/05/2024|||
 |↳|Software Engineer Intern|23.35 - 42.22|Scott Air Force Base, IL|Closed🔒|10/05/2024|||
 |↳|Software Engineer Intern|23.35 - 42.22|Arlington, VA|Closed🔒|10/05/2024|||
@@ -337,11 +409,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Developer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>Yorktown Heights, NY<br>San Jose, CA<br>Cambridge, MA<br>Albany, NY</details><b>|Closed🔒|09/18/2024|||
 |↳|Cloud Engineer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>Yorktown Heights, NY<br>San Jose, CA<br>Cambridge, MA<br>Albany, NY</details><b>|Closed🔒|09/18/2024|||
 |↳|Network Services Automation Engineer & Technician Intern|34.37 - 63.02|<details><summary>4 locations<br><br><b></summary>Yorktown Heights, NY<br>San Jose, CA<br>Cambridge, MA<br>Albany, NY</details><b>|Open✅|09/18/2024|[Apply Here](https://careers.ibm.com/job/21035339/network-services-automation-engineer-technician-intern-2025-remote/)||
-|↳|Back-End / QA Developer Intern|37.12 - 68.06|Houston, TX|Open✅|09/15/2024|[Apply Here](https://careers.ibm.com/job/20954180/back-end-qa-developer-intern-2025-houston-tx)||
-|↳|Software Developer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>Lowell, MA<br>Poughkeepsie, NY<br>Austin, TX</details><b>|Open✅|09/06/2024|[Apply Here](https://careers.ibm.com/job/20978143/software-developer-intern-2025-remote)||
+|↳|Back-End / QA Developer Intern|37.12 - 68.06|Houston, TX|Closed🔒|09/15/2024|||
+|↳|Software Developer Intern|37.12 - 68.06|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>Lowell, MA<br>Poughkeepsie, NY<br>Austin, TX</details><b>|Closed🔒|09/06/2024|||
 |↳|Associate Data Scientist Intern|40.62 - 74.47|<details><summary>3 locations<br><br><b></summary>New York, NY<br>Washington, D.C.<br>Sandy Spring, GA</details><b>|Closed🔒|08/30/2024|||
-|↳|Federal Data Engineer Intern|22.87 - 41.93|Reston, VA|Open🇺🇸|08/30/2024|[Apply Here](https://careers.ibm.com/job/20942919/federal-data-engineer-intern-reston-va)||
-|↳|Federal Developer Intern|27.56 - 50.53|Washington, D.C.|Open🇺🇸|08/30/2024|[Apply Here](https://careers.ibm.com/job/20942917/federal-developer-intern-washington-dc)||
+|↳|Federal Data Engineer Intern|22.87 - 41.93|Reston, VA|Closed🔒|08/30/2024|||
+|↳|Federal Developer Intern|27.56 - 50.53|Washington, D.C.|Closed🔒|08/30/2024|||
 |↳|Back End Developer Intern|27.56 - 50.53|<details><summary>5 locations<br><br><b></summary>RTP, NC<br>Tucson, AZ<br>Rochester, NY<br>Poughkeepsie, NY<br>Austin, TX</details><b>|Closed🔒|08/30/2024|||
 |Riverlane|Quantum Computing Intern||Cambridge, MA|Open✅|10/18/2024|[Apply Here](https://apply.workable.com/riverlane/j/FF7AFED814/)|Graduate Students Only|
 |Encore Global|IT Application Development Intern||Schiller Park , IL|Open✅|10/18/2024|[Apply Here](https://jobs.encoreglobal.com/en/job/schiller-park/it-application-development-intern-summer-2025/6228/71375993808)||
@@ -389,16 +461,12 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Quantum Technology Intern - Masters|43 - 48|Malibu, CA|Open🇺🇸|10/18/2024|[Apply Here](https://jobs.lever.co/dodmg/7dce176a-5852-4ae8-a3c5-74eb88c02681)||
 |↳|Quantum Technology Intern - Undergrad|30 - 35|Malibu, CA|Open🇺🇸|10/18/2024|[Apply Here](https://jobs.lever.co/dodmg/20f625ab-f596-475c-8342-fcb0e7a0788c)||
 |Commonwealth Fusion Systems|Software Engineer Intern|30 - 35|Denvens, MA|Closed🔒|10/18/2024|||
-|Waymo|Full-Stack Software Engineer Intern, ML Infra|52 - 55|Mountain View, CA|Open✅|10/18/2024|[Apply Here](https://careers.withwaymo.com/jobs/2025-summer-intern-bs-ms-ml-infra-full-stack-software-engineer-mountain-view-california-united-states)||
-|↳|Full-Stack Software Engineer, Labeling Platform Intern|52.08 - 54.68|Mountain View, CA|Closed🔒|10/11/2024|||
-|↳|Waymo Commercialization Intern, TaaS|52.08 - 54.68|Mountain View, CA|Closed🔒|10/06/2024|||
-|↳|Fleet Infrastructure Intern, Commercialization|52.08 - 54.68|<details><summary>2 locations<br><br><b></summary>Mountain View, CA<br>San Francisco, CA</details><b>|Open✅|10/04/2024|[Apply Here](https://careers.withwaymo.com/jobs/2025-summer-intern-waymo-commercialization-fleet-infrastructure-san-francisco-california-united-states-mountain-view)||
 |Aurora|Software Engineering Intern|47 - 58|Pittsburgh, PA|Closed🔒|10/18/2024|||
 |↳|Software Engineering Intern|52 - 65|Mountain View, CA|Closed🔒|10/18/2024|||
 |Draper|DevOps Intern||Cambridge, MA|Open✅|10/18/2024|[Apply Here](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/DevOps-Intern_JR000650)||
 |↳|Software Engineering Intern||Cambridge, MA|Open✅|10/18/2024|[Apply Here](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Software-Engineering-Intern_JR000640)||
-|↳|Full Stack Web Development Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Cambridge, MA</details><b>|Open✅|10/03/2024|[Apply Here](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Intern_JR000586)||
-|↳|Cyber Security Intern, Secure and Assured System Software||Cambridge, MA|Open✅|10/03/2024|[Apply Here](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Cyber-Security---Secure-and-Assured-System-Software---Intern_JR000589)||
+|↳|Full Stack Web Development Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Cambridge, MA</details><b>|Closed🔒|10/03/2024|||
+|↳|Cyber Security Intern, Secure and Assured System Software||Cambridge, MA|Closed🔒|10/03/2024|||
 |↳|Integration and Test Engineering Intern||Cambridge, MA|Open🇺🇸|10/03/2024|[Apply Here](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Integration-and-Test-Engineering-Intern_JR000557)||
 |Wing|Software Engineering Intern|61 - 64|Palo Alto, CA|Open✅|10/18/2024|[Apply Here](https://wing.com/careers/7653909002/?gh_src=0f2acb162us)||
 |↳|Backend Software Engineering Intern||Palo Alto, CA|Open✅|10/12/2024|[Apply Here](https://wing.com/careers/7654026002/?gh_jid=7654026002)||
@@ -412,7 +480,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern|19 - 42.5|Lincolnshire, IL|Closed🔒|08/30/2024|||
 |↳|Software Engineer Intern, RFID|19.5 - 42.5|Holtsville, NY|Closed🔒|08/30/2024|||
 |American Express|Enterprise Digital & Data Solutions Analytics Inter - Campus Graduate|31.25 - 57.29|New York, NY|Open✅|10/18/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/25428842)||
-|↳|US Consumer Services Data Analytics Summer Intern - Undergraduate|24.05 - 63|New York, NY|Open✅|09/19/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24239419)||
+|↳|US Consumer Services Data Analytics Summer Intern - Undergraduate|24.05 - 63|New York, NY|Closed🔒|09/19/2024|||
 |↳|Software Engineer Intern - Campus Graduate|24.05 - 63|Phoenix, AZ|Open✅|09/11/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24619688)||
 |↳|Software Engineer Intern - Campus Graduate|24.05 - 63|New York, NY|Open✅|09/11/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24619635)||
 |↳|Technology Information Security Intern - Campus Graduate|24.05 - 63|Phoenix, AZ|Open✅|09/11/2024|[Apply Here](https://aexp.eightfold.ai/careers/job/24619639)||
@@ -425,12 +493,12 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Machine Learning Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Boston, MA</details><b>|Closed🔒|10/06/2024|||
 |↳|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Boston, MA</details><b>|Closed🔒|09/16/2024|||
 |Electronic Arts|Software Engineer Intern, League Operations, Apex Legends Esports||Redwood City, CA|Closed🔒|10/17/2024|||
-|↳|Game Designer Intern|20 - 25|Seattle, WA|Open🛂|10/09/2024|[Apply Here](https://ea.gr8people.com/jobs/185987/game-designer-intern-summer-2025)||
-|↳|Software Engineer Intern|24 - 38|Los Angeles, CA|Open🛂|10/09/2024|[Apply Here](https://ea.gr8people.com/jobs/185860/software-engineer-intern-summer-2025)||
-|↳|Security Software Engineer Intern||Austin, TX|Open🛂|10/09/2024|[Apply Here](https://ea.gr8people.com/jobs/185965/security-software-engineer-intern-summer-2025-3-months)||
+|↳|Game Designer Intern|20 - 25|Seattle, WA|Closed🔒|10/09/2024|||
+|↳|Software Engineer Intern|24 - 38|Los Angeles, CA|Closed🔒|10/09/2024|||
+|↳|Security Software Engineer Intern||Austin, TX|Closed🔒|10/09/2024|||
 |↳|Data Analyst Intern Intern||Austin, TX|Closed🔒|10/09/2024|||
 |↳|Software Engineer Intern|24 - 33|Seattle, WA|Closed🔒|10/05/2024|||
-|↳|Software Engineer Intern||Orlando, FL|Open✅|09/17/2024|[Apply Here](https://ea.gr8people.com/jobs/185913/software-engineer-intern-summer-2025)||
+|↳|Software Engineer Intern||Orlando, FL|Closed🔒|09/17/2024|||
 |↳|Software Engineer Intern|24 - 38|<details><summary>4 locations<br><br><b></summary>Redwood City, CA<br>Orlando, FL<br>Austin, TX<br>Seattle, WA</details><b>|Closed🔒|08/28/2024|||
 |XPeng Motors|Tools and Infrastructure Software Engineering Intern||San Diego, CA|Open✅|10/17/2024|[Apply Here](https://job-boards.greenhouse.io/xpengmotors/jobs/7268164002)||
 |↳|Computer Vision Intern||Santa Clara, CA|Open✅|10/17/2024|[Apply Here](https://job-boards.greenhouse.io/xpengmotors/jobs/7634935002)|PhD Only|
@@ -439,7 +507,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Taboola|Frontend Engineer Intern|35|Los Angeles, CA|Closed🔒|10/17/2024|||
 |Kiewit Technology Group|Software Engineer Intern||Omaha, NE|Closed🔒|10/17/2024|||
 |HP|Software Developer Intern, Imaging and Print|31 - 37|<details><summary>2 locations<br><br><b></summary>Vancouver, WA<br>Boise, ID</details><b>|Open🛂|10/17/2024|[Apply Here](https://apply.hp.com/careers/job/24883679)||
-|↳|Digital and Transformation Software Intern|32.55 - 36.75|Spring, TX|Open✅|09/08/2024|[Apply Here](https://apply.hp.com/careers/job/24758398)||
+|↳|Digital and Transformation Software Intern|32.55 - 36.75|Spring, TX|Closed🔒|09/08/2024|||
 |↳|Personal Systems Software Engineer Intern|31 - 37|Spring, TX|Open✅|09/08/2024|[Apply Here](https://apply.hp.com/careers/job/24773933)||
 |Zions Bank|Software Engineer Intern||Midvale, UT|Closed🔒|10/17/2024|||
 |↳|Frontend Software Engineer Intern, Full Stack||Midvale, UT|Closed🔒|09/20/2024|||
@@ -459,7 +527,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Summer Research Intern, Infrastructure Support||Arlington, VA|Closed🔒|10/01/2024|||
 |↳|Summer Research Intern, Software Testing||Arlington, VA|Closed🔒|10/01/2024|||
 |PitchBook|Software Development Engineer Intern, Back End|22|Seattle, WA|Closed🔒|10/16/2024|||
-|↳|Software Development Platform Engineer Intern|22|Seattle, WA|Open🛂|10/16/2024|[Apply Here](https://careers.pitchbook.com/global/en/job/4409657006/Software-Development-Platform-Engineer-Summer-Intern)||
+|↳|Software Development Platform Engineer Intern|22|Seattle, WA|Closed🔒|10/16/2024|||
 |↳|Data Operations Intern|22|Seattle, WA|Closed🔒|10/16/2024|||
 |Universal Health Services|Software Engineer Intern, JavaScript||King of Prussia, PA|Open✅|10/16/2024|[Apply Here](https://uhs.jibeapply.com/careers/jobs/280463/job)||
 |Skydio|Autonomy Engineer Intern|41 - 53|San Mateo, CA|Open✅|10/16/2024|[Apply Here](https://www.skydio.com/jobs/4219855003)||
@@ -467,17 +535,17 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Rocket Companies|Software Engineer Intern||Detroit, MI|Closed🔒|10/16/2024|||
 |↳|Data Engineer Intern||Detroit, MI|Closed🔒|10/16/2024|||
 |↳|Data Science Intern||Detroit, MI|Closed🔒|10/16/2024|||
-|↳|Information Security Intern||Detroit, MI|Open✅|10/16/2024|[Apply Here](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Information-Security-Intern---Summer-2025_R-078302)||
+|↳|Information Security Intern||Detroit, MI|Closed🔒|10/16/2024|||
 |ebay|Software Engineering Intern|34 - 53|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>Portland, OR<br>Bellevue, WA<br>New York, NY</details><b>|Closed🔒|10/16/2024|||
 |Apptronik|Software Engineer Intern, Motion Control & Planning||Austin, TX|Open✅|10/16/2024|[Apply Here](https://boards.greenhouse.io/apptronik/jobs/5352335004)||
-|Dolby|Software Development Engineering Intern|48 - 55|San Francisco, CA|Open✅|10/16/2024|[Apply Here](https://jobs.dolby.com/careers/job/25268410)||
+|Dolby|Software Development Engineering Intern|48 - 55|San Francisco, CA|Closed🔒|10/16/2024|||
 |↳|Information Security Analyst Intern|26 - 36|Atlanta, GA|Open✅|10/16/2024|[Apply Here](https://jobs.dolby.com/careers/job/25543030)||
 |↳|Audio Software Engineer Full Stack Intern|48 - 55|San Francisco, CA|Open✅|10/16/2024|[Apply Here](https://jobs.dolby.com/careers/job/25268412)|Graduate Students Only|
 |↳|Audio Software Intern, Embedded|48 - 55|San Francisco, CA|Open✅|10/16/2024|[Apply Here](https://jobs.dolby.com/careers/job/25268411)|Graduate Students Only|
-|Ensemble Health Partners|Software Engineering Intern||<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Remote</details><b>|Open✅|10/15/2024|[Apply Here](https://ensemblehp.wd5.myworkdayjobs.com/en-US/EnsembleHealthPartnersCareers/job/Software-Engineering-Internship_R025502)||
-|↳|Engineering Intern||Remote|Open✅|10/15/2024|[Apply Here](https://ensemblehp.wd5.myworkdayjobs.com/en-US/EnsembleHealthPartnersCareers/job/Data-Engineering-Internship_R025500)||
-|↳|Cybersecurity Intern|||Open✅|10/15/2024|[Apply Here](https://ensemblehp.wd5.myworkdayjobs.com/en-US/EnsembleHealthPartnersCareers/job/Cybersecurity-Intern_R025524)||
-|↳|Data Analyst/Data Science Intern|||Open✅|10/15/2024|[Apply Here](https://ensemblehp.wd5.myworkdayjobs.com/en-US/EnsembleHealthPartnersCareers/job/Data-Analyst--Data-Science-Intern_R025525)||
+|Ensemble Health Partners|Software Engineering Intern||<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Remote</details><b>|Closed🔒|10/15/2024|||
+|↳|Engineering Intern||Remote|Closed🔒|10/15/2024|||
+|↳|Cybersecurity Intern|||Closed🔒|10/15/2024|||
+|↳|Data Analyst/Data Science Intern|||Closed🔒|10/15/2024|||
 |Chamberlain Group|Test Automation Intern, Engineering||Elmhurst, IL|Open🛂|10/15/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Elmhurst-IL/Intern--Engineering---Test-Automation--Summer-2025-_JR27862)||
 |↳|myQ Mobile Developer Intern, Android or iOS||Oak Brook, IL|Open🛂|10/05/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Mobile-Developer--Android-or-iOS---Summer-2025-_JR27987)||
 |↳|Firmware Engineering Intern||Oak Brook, IL|Open🛂|09/03/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Firmware-Engineering--Summer-2025-_JR27880)||
@@ -486,31 +554,31 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|myQ Front End Engineer Intern, Android or iOS||Oak Brook, IL|Closed🔒|08/24/2024|||
 |Nelnet|Software Engineer Intern, Application Security|18 - 26|<details><summary>3 locations<br><br><b></summary>Lincoln, NE<br>Madison, WI<br>Centennial, CO</details><b>|Closed🔒|10/15/2024|||
 |↳|Software Engineer Intern|18 - 24|<details><summary>3 locations<br><br><b></summary>Lincoln, NE<br>Madison, WI<br>Centennial, CO</details><b>|Closed🔒|09/26/2024|||
-|HCSC|Analytics Intern|17.5 - 36.76|Richardson, TX|Open🛂|10/15/2024|[Apply Here](https://careers.hcsc.com/job/richardson/university-relations-analytics-intern/43046/71260364032)||
-|↳|Associate Developer Intern|17.5 - 36.76|Helena, MT|Open🛂|10/15/2024|[Apply Here](https://careers.hcsc.com/job/helena/university-relations-associate-developer-intern/43046/71099692096)||
-|↳|Associate Infrastructure Engineer Intern|17.5 - 36.76|Waukegan, IL|Open🛂|10/15/2024|[Apply Here](https://careers.hcsc.com/job/waukegan/university-relations-waukegan-associate-infrastructure-engineer-intern/43046/71260364368)||
+|HCSC|Analytics Intern|17.5 - 36.76|Richardson, TX|Closed🔒|10/15/2024|||
+|↳|Associate Developer Intern|17.5 - 36.76|Helena, MT|Closed🔒|10/15/2024|||
+|↳|Associate Infrastructure Engineer Intern|17.5 - 36.76|Waukegan, IL|Closed🔒|10/15/2024|||
 |↳|Associate IT Release Analyst Intern|17.5 - 36.76|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Richardson, TX</details><b>|Closed🔒|09/27/2024|||
 |↳|Associate Infrastructure Service Delivery Analyst Intern|17.5 - 36.76|Chicago, IL|Open🛂|09/27/2024|[Apply Here](https://careers.hcsc.com/job/chicago/university-relations-associate-infrastructure-service-delivery-analyst/43046/70184182224)||
 |↳|Associate Test Engineer Intern|17.5 - 36.76|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Richardson, TX</details><b>|Closed🔒|09/27/2024|||
-|↳|Associate Infrastructure Engineering Intern|17.5 - 36.76|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Richardson, TX</details><b>|Open🛂|09/27/2024|[Apply Here](https://careers.hcsc.com/job/chicago/university-relations-associate-infrastructure-engineering-intern/43046/69938321776)||
+|↳|Associate Infrastructure Engineering Intern|17.5 - 36.76|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Richardson, TX</details><b>|Closed🔒|09/27/2024|||
 |↳|Associate Developer Intern|17.5 - 36.76|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Richardson, TX</details><b>|Closed🔒|09/27/2024|||
 |↳|Associate DevOps Intern|17.5 - 36.76|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Richardson, TX</details><b>|Closed🔒|09/27/2024|||
-|Alaska Airlines|Info Security Engineering Intern|30|SeaTac, WA|Open✅|10/15/2024|[Apply Here](https://careers.alaskaair.com/seatac-wa/intern-info-security-engineering/5518CA02A4DF437A9850C70AFB51BAA4/job/)||
-|↳|Software Engineer Intern|30|SeaTac, WA|Open✅|10/15/2024|[Apply Here](https://careers.alaskaair.com/seatac-wa/intern-software-engineer/5D11EC6E70624690917E5B2888586809/job)||
-|↳|Network Reliability Engineering Intern|30|SeaTac, WA|Open✅|10/15/2024|[Apply Here](https://careers.alaskaair.com/seatac-wa/intern-network-reliability-engineering/9D374C1257EC4B978AA1EFED3491D0F9/job)||
+|Alaska Airlines|Info Security Engineering Intern|30|SeaTac, WA|Closed🔒|10/15/2024|||
+|↳|Software Engineer Intern|30|SeaTac, WA|Closed🔒|10/15/2024|||
+|↳|Network Reliability Engineering Intern|30|SeaTac, WA|Closed🔒|10/15/2024|||
 |Here Technologies|Software Engineer Intern||Chicago, IL|Closed🔒|10/15/2024|||
 |Salesforce|Data Science Intern, Slack|58 - 65|San Francisco, CA|Open✅|10/15/2024|[Apply Here](https://careers.salesforce.com/en/jobs/jr267686/summer-2025-slack-data-science-intern/)||
 |↳|Site Reliability Engineer Intern|58 - 65|Burlington, MA|Open🇺🇸|10/15/2024|[Apply Here](https://careers.salesforce.com/en/jobs/jr264519/summer-2025-intern-site-reliability-engineer/)||
-|↳|Tableau AI/ML Intern - PhD|60 - 65|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>Bellevue, WA</details><b>|Open🇺🇸|10/15/2024|[Apply Here](https://careers.salesforce.com/en/jobs/jr257643/summer-2025-intern-tableau-phd-aiml/)||
+|↳|Tableau AI/ML Intern - PhD|60 - 65|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>Bellevue, WA</details><b>|Closed🔒|10/15/2024|||
 |↳|AI Software Engineer Intern|58 - 65|Palo Alto, CA|Open✅|10/10/2024|[Apply Here](https://careers.salesforce.com/en/jobs/jr267142/summer-2025-ai-software-engineer-intern/)||
 |↳|Software Engineer Intern, Security/Government|46 - 65|<details><summary>4 locations<br><br><b></summary>Bellevue, WA<br>Seattle, WA<br>Atlanta, GA<br>San Francisco, CA</details><b>|Closed🔒|08/24/2024|||
 |↳|Systems Engineer Intern|46 - 65|<details><summary>6 locations<br><br><b></summary>Bellevue, WA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Cambridge, MA<br>San Francisco, CA</details><b>|Closed🔒|08/23/2024|||
-|↳|Software Engineer Intern|48 - 58|<details><summary>8 locations<br><br><b></summary>San Francisco, CA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Bellevue, WA<br>Dallas, TX<br>Atlanta, GA<br>Indianapolis, IN</details><b>|Open✅|08/06/2024|[Apply Here](https://careers.salesforce.com/en/jobs/jr262842/summer-2025-intern-software-engineer/)||
+|↳|Software Engineer Intern|48 - 58|<details><summary>8 locations<br><br><b></summary>San Francisco, CA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Bellevue, WA<br>Dallas, TX<br>Atlanta, GA<br>Indianapolis, IN</details><b>|Closed🔒|08/06/2024|||
 |↳|Futureforce Tech Equality Summit, Intern|43 - 52||Closed🔒|05/19/2024|||
 |Savvas|Software Developer Intern||Boston, MA|Open🛂|10/15/2024|[Apply Here](https://jobs.dayforcehcm.com/en-US/k12l/CANDIDATEPORTAL/jobs/7639)||
 |↳|Software Developer Intern||Chandler, AZ|Open🛂|10/15/2024|[Apply Here](https://jobs.dayforcehcm.com/en-US/k12l/CANDIDATEPORTAL/jobs/7641)||
 |Assured Guaranty|IT Software Development Intern|28 - 32|New York, NY|Closed🔒|10/15/2024|||
-|ASML|Software Engineering Intern||San Diego, CA|Open✅|10/15/2024|[Apply Here](https://www.asml.com/en/careers/find-your-job/internship-software-engineering-j00307468?source=Indeed&ppc=JBP-26)||
+|ASML|Software Engineering Intern||San Diego, CA|Closed🔒|10/15/2024|||
 |↳|NI LabVIEW Programmer Intern||San Diego, CA|Open✅|10/03/2024|[Apply Here](https://www.asml.com/en/careers/find-your-job/internship-ni-labview-programmer-j00307610)||
 |↳|Platform Software Engineer Intern, Test||San Jose, CA|Closed🔒|09/25/2024|||
 |↳|Full Stack Software Engineer Intern||San Jose, CA|Closed🔒|09/25/2024|||
@@ -518,7 +586,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern||Wilton, CT|Closed🔒|09/14/2024|||
 |↳|Software Engineer Intern, Test||San Jose, CA|Closed🔒|09/14/2024|||
 |↳|Software Development Engineer Intern, Test||San Jose, CA|Closed🔒|09/14/2024|||
-|↳|Software Developer Intern, DevOps||San Jose, CA|Open✅|09/14/2024|[Apply Here](https://www.asml.com/en/careers/find-your-job/internship-software-engineer-in-devops-j00307795)||
+|↳|Software Developer Intern, DevOps||San Jose, CA|Closed🔒|09/14/2024|||
 |↳|Software Engineer Intern||San Jose, CA|Closed🔒|09/14/2024|||
 |KLA|Software Engineer Intern||Milpitas, CA|Closed🔒|10/15/2024|||
 |↳|Software Intern||Ann Arbor, MI|Open✅|10/15/2024|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Intern----Software-Algorithm_2424729-1)||
@@ -531,30 +599,30 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |HeyGen|Software Engineer Intern|25 - 50|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Palo Alto, CA<br>Los Angeles, CA</details><b>|Closed🔒|10/15/2024|||
 |Texas Farm Bureau|Software Developer Intern||Waco, TX|Open✅|10/15/2024|[Apply Here](https://www.vscyberhosting.com/txfb/Careers.aspx?req=2024-ISAS-010)||
 |Autodesk|Cloud Infrastructure Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/14/2024|||
-|↳|Full Stack Software Engineer Intern|24.91 - 84.5|Remote|Open✅|10/12/2024|[Apply Here](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/California-USA---Remote/Intern--Full-Stack-Software-Engineer_24WD81526)||
+|↳|Full Stack Software Engineer Intern|24.91 - 84.5|Remote|Closed🔒|10/12/2024|||
 |↳|Data Scientist Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/03/2024|||
 |↳|Software Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|09/24/2024|||
-|Lumen|Planning Engineer Intern|26 - 43|Remote|Open✅|10/14/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335201/Intern-Planning-Engineer-Summer-2025)||
+|Lumen|Planning Engineer Intern|26 - 43|Remote|Closed🔒|10/14/2024|||
 |↳|UI Web Developer Intern|26 - 43|Remote|Closed🔒|10/14/2024|||
-|↳|Data Analyst Intern|26 - 43|Remote|Open✅|10/14/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335214/Intern-Data-Analyst-Summer-2025)||
-|↳|Data Engineer Intern|26 - 43|Remote|Open✅|10/14/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335207/Intern-Data-Engineer-Summer-2025)||
-|↳|DevOps Engineer Intern|26 - 43|<details><summary>2 locations<br><br><b></summary>Remote<br>Tempe, AZ</details><b>|Open✅|10/14/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335080/Intern-DevOps-Engineer-Summer-2025)||
-|↳|Data Migration and Integration Intern|26 - 43|Remote|Open✅|10/06/2024|[Apply Here](https://jobs.lumen.com/global/en/job/334964/Intern-Data-Migration-and-Integration-Summer-2025)||
+|↳|Data Analyst Intern|26 - 43|Remote|Closed🔒|10/14/2024|||
+|↳|Data Engineer Intern|26 - 43|Remote|Closed🔒|10/14/2024|||
+|↳|DevOps Engineer Intern|26 - 43|<details><summary>2 locations<br><br><b></summary>Remote<br>Tempe, AZ</details><b>|Closed🔒|10/14/2024|||
+|↳|Data Migration and Integration Intern|26 - 43|Remote|Closed🔒|10/06/2024|||
 |↳|Mobile Application Developer Intern|26 - 43|Remote|Closed🔒|10/05/2024|||
-|↳|Big Data Software Engineer Intern|26 - 43|Remote|Open🛂|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335163/Intern-Big-Data-Software-Engineer-Summer-2025)||
-|↳|Data Analyst Intern|26 - 43|Bloomfield, CO|Open✅|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335169/Intern-Data-Analyst-Summer-2025)||
-|↳|Software Engineer Intern|26 - 43|Ashburn, VA|Open✅|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335172/Intern-Software-Engineer-Summer-2025)||
+|↳|Big Data Software Engineer Intern|26 - 43|Remote|Closed🔒|10/05/2024|||
+|↳|Data Analyst Intern|26 - 43|Bloomfield, CO|Closed🔒|10/05/2024|||
+|↳|Software Engineer Intern|26 - 43|Ashburn, VA|Closed🔒|10/05/2024|||
 |↳|Data Scientist Intern|26 - 43|Remote|Closed🔒|10/05/2024|||
-|↳|IT Software Analyst Intern|22 - 35|Remote|Open🛂|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335173/Intern-IT-Software-Analyst-Summer-2025)||
-|↳|Systems Analyst Intern|26 - 43|Remote|Open🛂|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/334966/Intern-Systems-Analyst-Summer-2025)||
+|↳|IT Software Analyst Intern|22 - 35|Remote|Closed🔒|10/05/2024|||
+|↳|Systems Analyst Intern|26 - 43|Remote|Closed🔒|10/05/2024|||
 |↳|Software Developer Intern|26 - 43|Remote|Closed🔒|10/05/2024|||
-|↳|Software Developer Intern|26 - 43|Denver, CO|Open✅|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/334912/Intern-Software-Developer-Summer-2025)||
+|↳|Software Developer Intern|26 - 43|Denver, CO|Closed🔒|10/05/2024|||
 |↳|Software Engineer Intern|26 - 43|Denver, CO|Closed🔒|10/05/2024|||
 |↳|Software Engineer Intern|26 - 43|Remote|Closed🔒|10/05/2024|||
-|↳|DevOps Engineer Intern|26 - 43|Tempe, AZ|Open✅|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335079/Intern-DevOps-Engineer-Summer-2025)||
+|↳|DevOps Engineer Intern|26 - 43|Tempe, AZ|Closed🔒|10/05/2024|||
 |↳|Data Analyst Intern|26 - 43|<details><summary>2 locations<br><br><b></summary>Remote<br>Atlanta, GA</details><b>|Closed🔒|10/05/2024|||
 |↳|Cloud and Automation Engineer Intern|26 - 43|Denver, CO|Closed🔒|10/05/2024|||
-|↳|Network Engineer Intern|26 - 43|Denver, CO|Open✅|10/05/2024|[Apply Here](https://jobs.lumen.com/global/en/job/335078/Intern-Network-Engineer-Summer-2025)||
+|↳|Network Engineer Intern|26 - 43|Denver, CO|Closed🔒|10/05/2024|||
 |Mach Indurstries|Software Engineering Intern||Huntington Beach, CA|Open🛂|10/14/2024|[Apply Here](https://jobs.ashbyhq.com/mach/ae1694b8-509d-4ce3-84eb-0a4ccab4870e)||
 |Snyk|Engineering Intern||Boston, MA|Open✅|10/14/2024|[Apply Here](https://boards.greenhouse.io/snyk/jobs/7682064002)||
 |Visa|Data Storage Intern|26 - 31|Highlands Ranch, CO|Open✅|10/12/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF78364R)||
@@ -568,9 +636,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern||Bellevue, WA|Closed🔒|09/17/2024|||
 |↳|Software Engineer Intern||Ashburn, VA|Closed🔒|09/17/2024|||
 |↳|Software Engineer Intern||Highlands Ranch, CO|Closed🔒|09/17/2024|||
-|Smith+Nephew|Robotics Firmware Engineering Intern||Pittsburgh, PA|Open✅|10/12/2024|[Apply Here](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Robotics-Firmware-Engineering-Intern--Pittsburgh--PA-_R78221)||
-|↳|AI CoE Data Science Intern||Pittsburgh, PA|Open✅|10/12/2024|[Apply Here](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/AI-CoE-Data-Science-Intern--Pittsburgh--PA-_R78093)||
-|↳|R&D Intern, Software/Electrical||Andover, MA|Open✅|10/12/2024|[Apply Here](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/R-D-Intern---Software-Electrical--Andover--MA-_R77976)||
+|Smith+Nephew|Robotics Firmware Engineering Intern||Pittsburgh, PA|Closed🔒|10/12/2024|||
+|↳|AI CoE Data Science Intern||Pittsburgh, PA|Closed🔒|10/12/2024|||
+|↳|R&D Intern, Software/Electrical||Andover, MA|Closed🔒|10/12/2024|||
 |Epic Games|Game Security Intern||Cary, NC|Open✅|10/12/2024|[Apply Here](https://www.epicgames.com/site/en-US/careers/jobs/5281072004)||
 |↳|Technical Character Animation Intern||Cary, NC|Open✅|09/06/2024|[Apply Here](https://job-boards.greenhouse.io/epicgames/jobs/5270985004)||
 |↳|Backend Engineer Intern||Cary, NC|Open✅|09/06/2024|[Apply Here](https://job-boards.greenhouse.io/epicgames/jobs/5281117004)||
@@ -595,7 +663,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Digital Technology Innovation Intern - Grad|26.3 - 40|Remote|Closed🔒|10/12/2024|||
 |↳|Automation Intern, Global Regulatory Affairs - Undergrad|24.7 - 28.3|Remote|Open✅|10/12/2024|[Apply Here](https://careers.amgen.com/en/job/washington-d-c/undergrad-intern-automation-global-regulatory-affairs/87/71008646816)||
 |↳|Digital Technology Innovation Intern - Undergrad|21 - 28.3|Remote|Closed🔒|10/12/2024|||
-|GW&K|Enterprise Data & Analytics Intern||Boston, MA|Open✅|10/12/2024|[Apply Here](https://job-boards.greenhouse.io/gwkinvestmentmanagementllc/jobs/4484059005)||
+|GW&K|Enterprise Data & Analytics Intern||Boston, MA|Closed🔒|10/12/2024|||
 |Moody|Analytics Intern, Modelling|||Closed🔒|10/12/2024|||
 |Kenvue|Tech & Data Intern|20 - 26|Skillman, NJ|Open✅|10/12/2024|[Apply Here](https://kenvue.taleo.net/careersection/2/jobdetail.ftl?job=2407026041W&tz=GMT-04%3A00&tzname=America%2FNew_York)||
 |Johnson & Johnson|Digital Platform Intern|24.75 - $33|Titusville, NJ|Closed🔒|10/12/2024|||
@@ -607,11 +675,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Technology Intern, Software or Data Engineer|60.10|New York, NY|Closed🔒|10/09/2024|||
 |↳|Analytics and Data Intern|40.87|<details><summary>6 locations<br><br><b></summary>Charlotte, NC<br>Chandler, AZ<br>Dallas, TX<br>Minneapolis, MN<br>West Des Moines, IA<br>Chandler, AZ</details><b>|Open🛂|08/05/2024|[Apply Here](https://www.wellsfargojobs.com/en/jobs/r-387245/2025-analytics-and-data-summer-internship-early-careers/?jClickId=9f57cdfe-7cbf-4631-a52b-876557e95c93)||
 |↳|Technology Intern, Software or Data Engineer|48.08 - 60.10|<details><summary>8 locations<br><br><b></summary>Charlotte, NC<br>Chandler, AZ<br>Phoenix, AZ<br>Summit, NJ<br>Irving, TX<br>Addison, TX<br>Minneapolis, MN<br>Saint Louis, MO</details><b>|Closed🔒|07/17/2024|||
-|Ethic|Software Engineering Intern|28 - 38|New York, NY|Open✅|10/12/2024|[Apply Here](https://www.ethic.com/roles?gh_jid=6240297003)||
+|Ethic|Software Engineering Intern|28 - 38|New York, NY|Closed🔒|10/12/2024|||
 |CAI|Software Developer Intern||Remote|Closed🔒|10/12/2024|||
 |Nordson|Software Engineering Intern||Carlsbad, CA|Open✅|10/12/2024|[Apply Here](https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Intern--Software-Engineering-Summer-Intern-_REQ41630)||
-|↳|Software Engineering Intern||Loveland, CO|Open✅|10/12/2024|[Apply Here](https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Colorado---Loveland/Intern--Summer----Software-Engineering_REQ41836)||
-|↳|Digital Transformation Analyst Intern||Amherst, OH|Open✅|10/12/2024|[Apply Here](https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Ohio---Amherst/Intern--Digital-Transformation-Analyst-_REQ41475)||
+|↳|Software Engineering Intern||Loveland, CO|Closed🔒|10/12/2024|||
+|↳|Digital Transformation Analyst Intern||Amherst, OH|Closed🔒|10/12/2024|||
 |Microsoft|Software Engineer Intern, Frontend|34.12 - 66.75|Redmond, WA|Open✅|10/11/2024|[Apply Here](https://jobs.careers.microsoft.com/us/en/job/1776048/Software-Engineer-Frontend-Intern-Opportunities-for-University-Students-Redmond)||
 |↳|Explore Program Intern - Second Year Students|25.08 - 46.08|Redmond, WA|Open✅|10/01/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/job/1773452/Explore-Program-Internship-Opportunities:-Second-Year-Students,-Redmond)||
 |↳|Site Reliability Engineering Intern, CTJ|34.12 - 66.75|Reston, VA|Closed🔒|09/30/2024|||
@@ -624,30 +692,16 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern, Fullstack|34.12 - 66.75|Atlanta, GA|Open✅|08/21/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1755485)||
 |↳|Software Engineer Intern, Fullstack|34.12 - 66.75|Redmond, WA|Open✅|08/13/2024|[Apply Here](https://jobs.careers.microsoft.com/global/en/share/1751922)||
 |EquipmentShare|Software Engineer Intern||Columbia, MO|Open✅|10/11/2024|[Apply Here](https://www.equipmentshare.com/careers/openings/6319400/intern-software-engineer-at-columbia-mo-corporate)||
-|↳|Embedded Engineering Intern||Columbia, MO|Open✅|10/11/2024|[Apply Here](https://www.equipmentshare.com/careers/openings/6270871/intern-embedded-engineering-at-columbia-mo-corporate)||
+|↳|Embedded Engineering Intern||Columbia, MO|Closed🔒|10/11/2024|||
 |DriveTime|Software Engineering Intern||Tempe, AZ|Open✅|10/11/2024|[Apply Here](https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern--Summer-2025-_R9725)||
 |↳|Data Engineering Intern||Tempe, AZ|Open✅|10/11/2024|[Apply Here](https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineering-Intern--Summer-2025-_R9726)||
 |↳|Data Science Intern||<details><summary>2 locations<br><br><b></summary>Tempe, AZ<br>Dallas, TX</details><b>|Open✅|09/06/2024|[Apply Here](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2025-_R9320)||
 |↳|Data Analytics Intern||<details><summary>2 locations<br><br><b></summary>Tempe, AZ<br>Dallas, TX</details><b>|Closed🔒|08/23/2024|||
-|Alchemy|Engineering Intern||<details><summary>2 locations<br><br><b></summary>New York, NY<br>San Francisco, CA</details><b>|Open✅|10/11/2024|[Apply Here](https://job-boards.greenhouse.io/alchemy/jobs/4480513005)||
+|Alchemy|Engineering Intern||<details><summary>2 locations<br><br><b></summary>New York, NY<br>San Francisco, CA</details><b>|Closed🔒|10/11/2024|||
 |BCG|AI Software Engineer Intern, BCG X||<details><summary>4 locations<br><br><b></summary>Boston, MA<br>Los Angeles, CA<br>New York, NY<br>Pittsburgh, PA</details><b>|Open✅|10/11/2024|[Apply Here](https://careers.bcg.com/global/en/job/BCG1US50485EXTERNALENGLOBAL/AI-Software-Engineer-Intern-Campus-United-States-BCG-X)|Graduate Students Only|
 |↳|Data Scientist Intern, BCG X||<details><summary>4 locations<br><br><b></summary>Boston, MA<br>Pittsburgh, PA<br>New York, NY<br>Los Angeles, CA</details><b>|Open✅|10/11/2024|[Apply Here](https://careers.bcg.com/global/en/job/50483/Data-Scientist-Intern-Campus-United-States-BCG-X)|Graduate Students Only|
-|Pinterst|IT Data Engineer Intern|46.87 - 56.25|Remote|Open✅|10/11/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6319528/it-data-engineer-intern-usa)||
-|↳|IT Systems Engineering Intern|46.87 - 62.5|Remote|Open✅|10/11/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6319532/it-systems-engineering-intern-usa)||
-|↳|Data Science Intern - Masters|62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6236999/data-science-internship-masters-only-usa/?gh_jid=6236999)||
-|↳|Machine Learning Intern - PhD|68.75|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6214291/phd-machine-learning-internship-2025-usa/?gh_jid=6214291)||
-|↳|Mobile Engineer Intern|46.87 - 62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6213897/mobile-engineer-intern-2025-usa/?gh_jid=6213897)||
-|↳|Machine Learning Intern - Masters|62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6214264/masters-machine-learning-internship-2025-usa/?gh_jid=6214264)||
-|↳|Software Engineering Intern|46.87 - 62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6210381/software-engineering-intern-2025-usa/?gh_jid=6210381)||
-|↳|Software Engineering Intern - Masters|46.87 - 62.5|Palo Alto, CA|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6231024/masters-software-engineering-intern-2025-palo-alto/?gh_jid=6231024)||
-|↳|Data Science Intern - PhD|68.75|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6237099/data-science-internship-phd-only-usa/?gh_jid=6237099)||
-|↳|Mobile Engineer Intern - Masters|46.87 - 62.5|Remote|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6256306/masters-mobile-engineer-intern-2025-usa/?gh_jid=6256306)||
-|↳|Software Engineering Intern|46.87 - 62.5|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Palo Alto, CA<br>Seattle, WA</details><b>|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6219433/software-engineering-intern-2025-san-francisco-palo-alto-seattle/?gh_jid=6219433)||
-|↳|Mobile Engineer Intern|46.87 - 62.5|San Francisco, CA|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6256269/mobile-engineer-intern-2025-san-francisco/?gh_jid=6256269)||
-|↳|Software Engineer Intern - Masters|46.87 - 62.5|Remote|Closed🔒|09/18/2024|||
-|↳|Mobile Engineer Intern|46.87 - 62.5|San Francisco, CA|Open✅|09/18/2024|[Apply Here](https://www.pinterestcareers.com/jobs/6256269/mobile-engineer-intern-2025-san-francisco)||
 |Nvidia|Quantum Computing Software Intern|18 - 71|Santa Clara, CA|Closed🔒|10/11/2024|||
-|Fincons|Software Engineering Intern||Los Angeles, CA|Open✅|10/11/2024|[Apply Here](https://pdgconsultingbd.applytojob.com/apply/z8UFQUqleM/Software-Engineering-Internship-Summer-2025)||
+|Fincons|Software Engineering Intern||Los Angeles, CA|Closed🔒|10/11/2024|||
 |Schneider Electric|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Andover, MA<br>Boston, MA</details><b>|Open✅|10/11/2024|[Apply Here](https://careers.se.com/jobs/77783)||
 |↳|Data Analyst Intern||<details><summary>2 locations<br><br><b></summary>Nashville, TN<br>Boston, MA</details><b>|Closed🔒|10/01/2024|||
 |↳|Application Engineer Intern||Secaucus, NJ|Closed🔒|09/19/2024|||
@@ -655,7 +709,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Application Engineering Intern||Charlotte, NC|Open🛂|09/19/2024|[Apply Here](https://www.se.com/ww/en/about-us/careers/job-details/application-engineering-intern---summer-2025/75446/)||
 |↳|Application Engineering Intern||Horsham, PA|Open🛂|09/19/2024|[Apply Here](https://www.se.com/ww/en/about-us/careers/job-details/application-engineer-intern---summer-2025/75410/)||
 |↳|Application Engineer Intern, SW||Secaucus, NJ|Closed🔒|09/19/2024|||
-|↳|Manufacturing System Engineer Intern||Fairfield, OH|Open🛂|09/19/2024|[Apply Here](https://www.se.com/ww/en/about-us/careers/job-details/manufacturing-system-engineer-intern--spring-2025-/72498/)||
 |↳|System Application Engineer Intern||Secaucus, NJ|Closed🔒|09/19/2024|||
 |↳|System Application Engineer Intern||Chicago, IL|Closed🔒|09/19/2024|||
 |↳|Application Engineering Intern||Morrisville, NC|Open🛂|09/19/2024|[Apply Here](https://www.se.com/ww/en/about-us/careers/job-details/application-engineering-intern---summer-2025/75466/)||
@@ -669,7 +722,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer, Intern|42.5 - 70.83|<details><summary>4 locations<br><br><b></summary>Bellevue, WA<br>Menlo Park, CA<br>Seattle, WA<br>New York, NY</details><b>|Open✅|09/27/2024|[Apply Here](https://www.metacareers.com/v2/jobs/1647923135778238/)||
 |↳|Engineering Intern|28.15 - 39.53|Menlo Park, CA|Open✅|09/26/2024|[Apply Here](https://www.metacareers.com/v2/jobs/995447835688062/)|Exclusive for 1st and 2nd year students|
 |↳|Software Engineering Intern, Machine Learning - PhD||<details><summary>6 locations<br><br><b></summary>Sunnyvale, CA<br>Bellevue, WA<br>Redmond, WA<br>Menlo Park, CA<br>Seattle, WA<br>New York, NY</details><b>|Open✅|09/25/2024|[Apply Here](https://www.metacareers.com/v2/jobs/1218381462491870/)||
-|Clay|Software Engineer Intern|62.5|New York, NY|Open✅|10/10/2024|[Apply Here](https://jobs.ashbyhq.com/claylabs/634ea713-8b29-4ed9-b3e8-d543744f8589)||
+|Clay|Software Engineer Intern|62.5|New York, NY|Closed🔒|10/10/2024|||
 |Force Factor|AI Intern|25|Boston, MA|Open✅|10/10/2024|[Apply Here](https://forcefactor.com/pages/job-openings?gh_jid=5350201004)||
 |Uber|Software Engineer Intern, Machine Learning - PhD|67|Sunnyvale, CA|Closed🔒|10/10/2024||This is a 6 month internship|
 |↳|Software Engineering Intern|52|San Francisco, CA|Closed🔒|09/27/2024|||
@@ -679,17 +732,17 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Scientist Intern||San Diego, CA|Closed🔒|09/13/2024|||
 |↳|Cyber Intern|26.87 - 54.68|Annapolis Junction, MD|Open🇺🇸|09/11/2024|[Apply Here](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/XMLNAME-2025-Cyber-Internship_R0204015-1)||
 |JMP|Digital Experience Intern|15 - 49||Closed🔒|10/10/2024|||
-|Keysight|Software Developer Intern, Aerospace and Defense|21.54 - 35.9|Colorado Springs, CO|Open✅|10/10/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44887/job)||
+|Keysight|Software Developer Intern, Aerospace and Defense|21.54 - 35.9|Colorado Springs, CO|Closed🔒|10/10/2024|||
 |↳|R&D Software Engineering Intern|21.54 - 35.9|Santa Rosa, CA|Open✅|10/10/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44973/job)||
 |↳|R&D Software Intern|28.73 - 37.56|Colorado Springs, CO|Closed🔒|10/05/2024|||
 |↳|R&D Software Engineering Intern|34.08 - 39.32|Loveland, CO|Open🛂|10/05/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44473)||
 |↳|IT Engineer Intern|34.08 - 39.32|<details><summary>2 locations<br><br><b></summary>Colorado Springs, CO<br>Santa Clara, CA</details><b>|Open🛂|10/05/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44346)||
 |↳|R&D Software Intern|25 - 45|Santa Clara, CA|Open🛂|10/05/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44726)||
 |↳|R&D EDA Software Engineer Intern|46 - 59.48|<details><summary>2 locations<br><br><b></summary>Santa Rosa, CA<br>Calabasas, CA</details><b>|Open✅|09/05/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44241)|Graduate Students Only|
-|GM Financial|Cloud Engineer Intern||Arlington, TX|Open✅|10/10/2024|[Apply Here](https://careers.gmfinancial.com/jobs/48067/job)||
-|↳|DevOps Engineer Intern||Arlington, TX|Open✅|09/29/2024|[Apply Here](https://careers.gmfinancial.com/jobs/47978/job)||
+|GM Financial|Cloud Engineer Intern||Arlington, TX|Closed🔒|10/10/2024|||
+|↳|DevOps Engineer Intern||Arlington, TX|Closed🔒|09/29/2024|||
 |↳|API Development Intern||Arlington, TX|Open✅|09/29/2024|[Apply Here](https://careers.gmfinancial.com/jobs/47979/job)||
-|↳|Technology Innovation Lab Intern||<details><summary>2 locations<br><br><b></summary>Irving, TX<br>Arlington, TX</details><b>|Open✅|09/29/2024|[Apply Here](https://careers.gmfinancial.com/jobs/47976)||
+|↳|Technology Innovation Lab Intern||<details><summary>2 locations<br><br><b></summary>Irving, TX<br>Arlington, TX</details><b>|Closed🔒|09/29/2024|||
 |↳|Software Development Engineer Intern||<details><summary>2 locations<br><br><b></summary>Irving, TX<br>Arlington, TX</details><b>|Open✅|09/29/2024|[Apply Here](https://careers.gmfinancial.com/jobs/47844)||
 |↳|IT Infrastructure Solutions Intern||Arlington, TX|Open✅|09/29/2024|[Apply Here](https://careers.gmfinancial.com/jobs/47940)||
 |Analog Devices|Machine Learning Engineering Intern||Boston, MA|Open✅|10/10/2024|[Apply Here](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Engineering-Intern_R243707)||
@@ -719,10 +772,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |OCC|Platform Engineering Intern||Chicago, IL|Closed🔒|10/09/2024|||
 |↳|Cloud Technology Intern||Dallas, TX|Closed🔒|10/09/2024|||
 |↳|IT Risk Intern||Dallas, TX|Closed🔒|10/09/2024|||
-|↳|Security Engineering Intern||Chicago, IL|Open✅|10/09/2024|[Apply Here](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Security-Engineering-Summer-Intern_REQ-3957-1)||
+|↳|Security Engineering Intern||Chicago, IL|Closed🔒|10/09/2024|||
 |↳|Data Governance Intern||Chicago, IL|Closed🔒|10/09/2024|||
 |↳|Cloud Security Engineering Intern||Chicago, IL|Closed🔒|10/09/2024|||
-|Nintendo|IT Software Engineer Intern|30|Redmond, WA|Open✅|10/09/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/240000009X.html?src=CWS-10000)||
+|Nintendo|IT Software Engineer Intern|30|Redmond, WA|Closed🔒|10/09/2024|||
 |↳|Software Engineer Intern|30|Redmond, WA|Open✅|10/09/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/240000009V.html?src=CWS-10000)||
 |Warner Bros. Discovery|Software Engineering Co-Op, WB Games|31|Needham, MA|Open🛂|10/09/2024|[Apply Here](https://careers.wbd.com/global/en/job/R000085809/WB-Games-Software-Engineering-Co-op-BOS-Summer-2025-June-December)|This is a 6 month internship|
 |↳|Software Engineering Co-Op, NetherRealm|31|Chicago, IL|Open🛂|10/08/2024|[Apply Here](https://careers.wbd.com/global/en/job/R000085812/NetherRealm-Software-Engineering-Co-op-Chicago-Summer-2025-June-December)|This is a 6 month internship|
@@ -732,23 +785,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|IT Intern - Undergrad|15 - 23|Remote|Open✅|10/08/2024|[Apply Here](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40426)||
 |Starwood Capital Group|Information Technology Intern||Greenwich, CT|Open✅|10/08/2024|[Apply Here](https://jobs.jobvite.com/starwoodcapitalgroup/job/otPBufw7)||
 |WeRide|Software Engineer Intern|40 - 50|San Jose, CA|Open✅|10/08/2024|[Apply Here](https://jobs.lever.co/weride/d935a87c-c332-4a6f-bab8-86fc41910b67)||
-|Motorola Solutions|Software Engineer Intern, Critical Communication Networks||<details><summary>2 locations<br><br><b></summary>Schaumburg, IL<br>Chicago, IL</details><b>|Closed🔒|10/08/2024|||
-|↳|IT Data Analytics Intern||Chicago, IL|Closed🔒|10/06/2024||Sponsorship is only avaliable to Graduate Students|
-|↳|Test Engineering Intern||Chicago, IL|Open🛂|09/30/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Test-Engineering-Internship-2025_R49680)||
-|↳|Software Engineer Intern||Plantation, FL|Open🇺🇸|09/19/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineer-Intern---Summer-2025_R50157)||
-|↳|Supply Chain Data Analytics Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Schaumburg, IL</details><b>|Closed🔒|09/17/2024|||
-|↳|Software Development Intern||Remote|Closed🔒|09/17/2024|||
-|↳|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Schaumburg, IL<br>Chicago, IL</details><b>|Closed🔒|09/17/2024|||
-|↳|Android Applications Developer Intern||Chicago, IL|Closed🔒|09/06/2024|||
-|↳|Google Applications Developer Intern|22 - 26|New York, NY|Closed🔒|08/21/2024|||
-|↳|Android Platform Software Engineering Intern||Schaumburg, IL|Closed🔒|07/31/2024||Sponsorship is only avaliable to Graduate Students|
 |NBA|Technology & Data Intern - Graduate|35|New York, NY|Closed🔒|10/08/2024|||
 |↳|Technology Intern - Undergraduate|25|New York, NY|Closed🔒|10/08/2024|||
 |↳|Data Intern - Undergraduate|25|New York, NY|Closed🔒|10/08/2024|||
 |STMicroelectronics|Embedded Software Engineering Intern|32 - 43|Santa Clara, CA|Open✅|10/08/2024|[Apply Here](https://stmicroelectronics.eightfold.ai/careers/job/563637157277021)||
 |↳|Imaging Application Intern|32 - 43|Santa Clara, CA|Open✅|10/08/2024|[Apply Here](https://stmicroelectronics.eightfold.ai/careers/job/563637156864351)||
 |SNC|Software Engineer Intern||Plano, TX|Closed🔒|10/08/2024|||
-|↳|Software Engineer Intern|18.13 - 31.72|<details><summary>6 locations<br><br><b></summary>Lone Tree, CO<br>Hagerstown, MD<br>Herndon, VA<br>beavercreek, OH<br>Plano, TX<br>Sparks, NV</details><b>|Open✅|10/08/2024|[Apply Here](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Software-Engineering-Intern---Summer-2025_R0025564)||
+|↳|Software Engineer Intern|18.13 - 31.72|<details><summary>6 locations<br><br><b></summary>Lone Tree, CO<br>Hagerstown, MD<br>Herndon, VA<br>beavercreek, OH<br>Plano, TX<br>Sparks, NV</details><b>|Closed🔒|10/08/2024|||
 |SiriusXM|Web Platform Intern||<details><summary>2 locations<br><br><b></summary>Oakland, CA<br>Irving, TX</details><b>|Open✅|10/08/2024|[Apply Here](https://careers.siriusxm.com/careers/jobs/16210)||
 |↳|Software Engineering Intern||Okland, CA|Open✅|10/08/2024|[Apply Here](https://careers.siriusxm.com/careers/jobs/16198)||
 |↳|Data Scientist Intern||Okland, CA|Open✅|10/08/2024|[Apply Here](https://careers.siriusxm.com/careers/jobs/16217)||
@@ -758,21 +801,21 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern, Mobile||<details><summary>3 locations<br><br><b></summary>Oakland, CA<br>New York, NY<br>Atlanta, GA</details><b>|Open✅|10/08/2024|[Apply Here](https://careers.siriusxm.com/careers/jobs/16200)||
 |↳|Network Engineering Intern||New York, NY|Closed🔒|10/08/2024|||
 |↳|Backend Engineering Intern||<details><summary>2 locations<br><br><b></summary>Oakland, CA<br>Lawrenceville, NJ</details><b>|Open✅|10/08/2024|[Apply Here](https://careers.siriusxm.com/careers/jobs/16223)||
-|Sephora|IT Merchandising Engineer Intern|23|Remote|Open🛂|10/08/2024|[Apply Here](https://join.sephora.com/careers/job/790299361246)||
-|↳|IT Supply Chain Engineer Intern|23|Remote|Open🛂|10/08/2024|[Apply Here](https://join.sephora.com/careers/job/790299361424)||
+|Sephora|IT Merchandising Engineer Intern|23|Remote|Closed🔒|10/08/2024|||
+|↳|IT Supply Chain Engineer Intern|23|Remote|Closed🔒|10/08/2024|||
 |↳|Digital Tech Intern|23|Remote|Closed🔒|10/08/2024|||
-|↳|Enterprise Integrations Intern|23|Remote|Open🛂|10/08/2024|[Apply Here](https://join.sephora.com/careers/job/790299382399)||
+|↳|Enterprise Integrations Intern|23|Remote|Closed🔒|10/08/2024|||
 |↳|Data Scientist Intern, Computer Vision|23|Remote|Closed🔒|10/08/2024|||
-|↳|Data Scientist Intern, Gen AI|23|Remote|Open🛂|10/08/2024|[Apply Here](https://join.sephora.com/careers/job/790299382341)||
-|↳|IT Automation Engineer Intern|23|Remote|Open🛂|10/08/2024|[Apply Here](https://join.sephora.com/careers/job/790299361166)||
-|↳|Cybersecurity Engineering Intern|23|Remote|Open🛂|10/08/2024|[Apply Here](https://join.sephora.com/careers/job/790299358338)||
+|↳|Data Scientist Intern, Gen AI|23|Remote|Closed🔒|10/08/2024|||
+|↳|IT Automation Engineer Intern|23|Remote|Closed🔒|10/08/2024|||
+|↳|Cybersecurity Engineering Intern|23|Remote|Closed🔒|10/08/2024|||
 |Santanders|Data Science Intern|32.5|Boston, MA|Closed🔒|10/08/2024|||
-|↳|Technology Intern, DevOps and GitOps|35.2|Dallas, TX|Open✅|09/26/2024|[Apply Here](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Technology-Intern--DevOps-and-GitOps_Req1367112)||
+|↳|Technology Intern, DevOps and GitOps|35.2|Dallas, TX|Closed🔒|09/26/2024|||
 |↳|Technology and Data Analytics Intern|35.2|Dorchester, MA|Closed🔒|09/26/2024||Job Description says it's for summer 2024, but was posted in the same time frame as other summer 2025 internships. So, it is likely for summer 2025.|
 |↳|Technology Intern, Chief Data Office|35.2|Dorchester, MA|Open✅|09/26/2024|[Apply Here](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dorchester/Technology-Intern--Chief-Data-Office_Req1363712-2)||
 |↳|Technology Intern|35.2 - 43.3|Dorchester, MA|Open✅|09/26/2024|[Apply Here](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dorchester/Technology-Intern_Req1366615)||
 |↳|Cybersecurity Technology Intern|35.2|Dorchester, MA|Closed🔒|09/26/2024|||
-|Radiance|Software Engineer Intern||Baton Rouge, LA|Open🇺🇸|10/08/2024|[Apply Here](https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/Software-Engineer-Intern_HR101072)||
+|Radiance|Software Engineer Intern||Baton Rouge, LA|Closed🔒|10/08/2024|||
 |↳|Reverse Engineer Intern||Huntsville, AL|Closed🔒|10/08/2024|||
 |Loop Returns|Software Engineer Intern|25 - 28|Columbus, OH|Closed🔒|10/08/2024|||
 |Hemlock Semiconductor|Information Technology Intern||Hemlock, MI|Open✅|10/08/2024|[Apply Here](https://careers.hscpoly.com/job/Hemlock-College-Intern-Information-Technology-MI-48626/1209536200/)||
@@ -801,7 +844,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern, Frontend|60|New York, NY|Open✅|10/06/2024|[Apply Here](https://jobs.ashbyhq.com/ramp/bbac1615-acf4-4d27-9100-47079ab35be5)||
 |↳|Software Developer Intern, Backend|60|New York, NY|Open✅|08/02/2024|[Apply Here](https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539)||
 |Mircosoft|Software Quality Engineer Intern|34.12 - 66.75|Redmond, WA|Closed🔒|10/06/2024|||
-|Grant Thornton|Cybersecurity and Privacy Intern Intern|25 - 30|San Francisco, CA|Open✅|10/06/2024|[Apply Here](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/111177)||
+|Grant Thornton|Cybersecurity and Privacy Intern Intern|25 - 30|San Francisco, CA|Closed🔒|10/06/2024|||
 |↳|Technology Modernization Associate||Dallas, TX|Closed🔒|09/14/2024|||
 |Comcast|AI-Driven Software Development Intern|32|West Chester, PA|Closed🔒|10/06/2024|||
 |↳|Comcast Software Engineer Intern|32|Sunnyvale, CA|Closed🔒|09/15/2024|||
@@ -826,13 +869,8 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Black & Veatch|Software Developer Intern||Overland Park, KS|Closed🔒|10/05/2024|||
 |Arcesium|Software Engineer Intern|62.5|New York, NY|Open✅|10/05/2024|[Apply Here](https://job-boards.greenhouse.io/arcesiumllc/jobs/4530159007)||
 |Deutsche Bank|Technology, Data and Innovation Intern|44.27|Cary, NC|Open✅|10/05/2024|[Apply Here](https://db.recsolu.com/external/requisitions/vuuwuFfzzsGmhlnhPxJQeA)||
-|↳|Quant Intern||New York, NY|Open✅|09/03/2024|[Apply Here](https://db.recsolu.com/external/requisitions/6D4d0CCEl7qoGsP_YCwqYA)||
+|↳|Quant Intern||New York, NY|Closed🔒|09/03/2024|||
 |↳|Technology, Data and Innovation Intern|52|New York, NY|Open✅|08/13/2024|[Apply Here](https://db.recsolu.com/external/requisitions/VmI8oJ7arBnp_7TFnL_zRw)||
-|Adobe|Machine Learning Engineer Intern, AI/ML|45 - 61|Seattle, WA|Open✅|10/05/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148714/2025-Intern-Machine-Learning-Engineer-AI-ML)|Graduate Students Only|
-|↳|Machine Learning Engineer Intern, AI/ML|45 - 61|San Jose, CA|Open✅|10/05/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148715/2025-Intern-Machine-Learning-Engineer-AI-ML)|Graduate Students Only|
-|↳|Machine Learning Engineer Intern, CV/ML|45 - 61|Seattle, WA|Open✅|10/05/2024|[Apply Here](https://careers.adobe.com/us/en/job/R148716/2025-Intern-Machine-Learning-Engineer-CV-ML)|Graduate Students Only|
-|↳|Software Engineer Intern|38 - 51|<details><summary>5 locations<br><br><b></summary>San Jose, CA<br>San Francisco, CA<br>Lehi, UT<br>Seattle, WA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://careers.adobe.com/us/en/job/R147746/2025-Intern-Software-Engineer)||
-|↳|Machine Learning Engineer Intern|45 - 55|<details><summary>6 locations<br><br><b></summary>San Jose, CA<br>Austin, TX<br>San Francisco, CA<br>Lehi, UT<br>Seattle, WA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://careers.adobe.com/us/en/job/R147906/2025-Intern-Machine-Learning-Engineer)|Graduate Students Only|
 |Bae Systems|Data Science Intern|23.02 - 31.09|Fort Worth, TX|Closed🔒|10/05/2024|||
 |↳|Systems Engineering Intern IV|29.79 - 40.21|<details><summary>2 locations<br><br><b></summary>Hudson, NH<br>Manchester, NH</details><b>|Open🇺🇸|10/05/2024|[Apply Here](https://jobs.baesystems.com/global/en/job/104383BR/Systems-Engineering-Intern-IV-Summer-2025)||
 |↳|Data Analyst Intern|23.26 - 31.39|Nashua, NH|Closed🔒|10/05/2024|||
@@ -853,7 +891,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Science Intern, NLP - PhD||Chicago, IL|Open✅|10/04/2024|[Apply Here](https://jobs.lever.co/vailsys/0a508a12-5848-4044-b79e-74aac5c14bda)||
 |Textron Systems|Software Engineer Intern, Weapons||Wilmington, MA|Closed🔒|10/04/2024|||
 |↳|Information Technology Intern||New Orleans, LA|Open✅|09/02/2024|[Apply Here](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?src=SNS-102&job=1384906)||
-|↳|Information Technology Intern||Hunt Valley, MD|Open✅|09/02/2024|[Apply Here](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?src=SNS-102&job=1384686)||
+|↳|Information Technology Intern||Hunt Valley, MD|Closed🔒|09/02/2024|||
 |Point72|Technolog Intern, Software Engineer||New York, NY|Closed🔒|10/04/2024|||
 |↳|Data Analyst Intern|52|New York, NY|Closed🔒|09/19/2024|||
 |↳|Data Engineer Intern, Proprietary Research|67.7 - 80.72|New York, NY|Open✅|08/19/2024|[Apply Here](https://job-boards.greenhouse.io/point72/jobs/7600132002)||
@@ -875,7 +913,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |LinkedIn|Systems & Infrastructure Engineering Intern - Masters|53 - 65|Mountain View, CA|Open✅|10/03/2024|[Apply Here](https://www.linkedin.com/jobs/view/4037581526)||
 |↳|Software Engineering Intern - Undergrad|50 - 60|Mountain View, CA|Closed🔒|09/04/2024|||
 |McKesson|Software Engineering Intern|17.33 - 28.88|Irving, TX|Closed🔒|10/03/2024|||
-|↳|CoverMyMeds Technology Intern|16.5 - 27.5|Columbus, OH|Open✅|10/03/2024|[Apply Here](https://careers.mckesson.com/en/job/columbus/covermymeds-cmm-technology-intern-summer-2025/733/69647867296)||
+|↳|CoverMyMeds Technology Intern|16.5 - 27.5|Columbus, OH|Closed🔒|10/03/2024|||
 |Juniper Networks|Software Engineering Intern|28.12 - 43.12|Sunnyvale, CA|Closed🔒|10/03/2024|||
 |ICR|Software Engineer Intern|20 - 36|Orlando, FL|Open✅|10/03/2024|[Apply Here](https://icr-team.com/?gnk=job&gni=8a7883a891ab211a0191ba1015a61d7c)||
 |↳|Cyber Engineer Intern|30 - 40|Augusta, GA|Open🇺🇸|09/16/2024|[Apply Here](https://icr-team.com/?gnk=job&gni=8a7883a97beb3bf9017c03f42c0b23f2&lang=en)||
@@ -895,8 +933,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern|22 - 25|Tucson, AZ|Open🇺🇸|09/16/2024|[Apply Here](https://icr-team.com/?gnk=job&gni=8a78839f91e3131c0191ec5a6b8c676c)||
 |↳|Software Engineer Intern|30 - 40|Farifax, VA|Open🇺🇸|09/16/2024|[Apply Here](https://icr-team.com/?gnk=job&gni=8a7883a87beb3c7c017bf40ce63d40dc)||
 |Bentley|Software Development Intern||<details><summary>6 locations<br><br><b></summary>Huntsville, AL<br>San Diego, CA<br>Thomaston, CT<br>Covington, IA<br>Exton, PA<br>Philadelphia, PA</details><b>|Open✅|10/03/2024|[Apply Here](https://jobs.bentley.com/job/Huntsville-Summer-2025-Software-Development-Internship-AL-35801/1218704700)||
-|Agilysys|Software Development Intern||Alpharetta, GA|Open✅|10/03/2024|[Apply Here](https://jobs.jobvite.com/careers/agilysys/job/o6gyufw8)||
-|CrowdStrike|Internal Tools Developer Intern|38 - 45|Remote|Closed🔒|10/03/2024|||
+|Agilysys|Software Development Intern||Alpharetta, GA|Closed🔒|10/03/2024|||
 |Nutanix|Software Engineering Intern - Undergrad|30 - 49|<details><summary>2 locations<br><br><b></summary>San Jose, CA<br>Durham, NC</details><b>|Closed🔒|10/02/2024|||
 |↳|System Reliability Engineer Intern|23 - 31|San Jose, CA|Closed🔒|09/04/2024||Local Students Only|
 |Khan Academy|Software Engineer Intern||Remote|Closed🔒|10/02/2024|||
@@ -917,17 +954,17 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Harmonia|Software/Data Engineering Intern||McLean, VA|Open✅|10/02/2024|[Apply Here](https://www.harmonia.com/job-openings/job-application/?gh_jid=6228985003)||
 |NICE|DevOps Intern||Richardson, TX|Closed🔒|10/01/2024|||
 |Google|Student Researcher Summer, BS/MS||<details><summary>18 locations<br><br><b></summary>Mountain View, CA<br>Ann Arbor, MI<br>Austin, TX<br>Cambridge, MA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Princeton, NJ<br>Pittsburgh, PA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>Sunnyvale, CA<br>Washington, D.C.</details><b>|Open✅|10/01/2024|[Apply Here](https://www.google.com/about/careers/applications/jobs/results/141568859843764934-student-researcher-bsms-wintersummer-2025)||
-|↳|STEP Intern - Second Year Bachelor's Student||<details><summary>29 locations<br><br><b></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Bellevue, WA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Raleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>South San Francisco, CA<br>Washington, D.C.</details><b>|Open✅|10/01/2024|[Apply Here](https://www.google.com/about/careers/applications/jobs/results/118497704278926022-step-intern-second-year-bachelors-student-summer-2025)||
+|↳|STEP Intern - Second Year Bachelor's Student||<details><summary>29 locations<br><br><b></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Bellevue, WA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Raleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>South San Francisco, CA<br>Washington, D.C.</details><b>|Closed🔒|10/01/2024|||
 |↳|Software Engineering Intern, BS||<details><summary>29 locations<br><br><b></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Bellevue, WA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Raleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>South San Francisco, CA<br>Washington, D.C.</details><b>|Open✅|10/01/2024|[Apply Here](https://www.google.com/about/careers/applications/jobs/results/133334514184135366-software-engineering-intern-bs-summer-2025)||
 |↳|Software Engineering Intern, BS||<details><summary>29 locations<br><br><b></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Bellevue, WA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Raleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>South San Francisco, CA<br>Washington, D.C.</details><b>|Open✅|10/01/2024|[Apply Here](https://www.google.com/about/careers/applications/jobs/results/140257039392613062-software-engineering-intern-ms-summer-2025)||
 |↳|Software Engineering Intern, PhD||<details><summary>29 locations<br><br><b></summary>Mountain View, CA<br>Atlanta, GA<br>Austin, TX<br>Boulder, CO<br>Cambridge, MA<br>Bellevue, WA<br>Chicago, IL<br>Irvine, CA<br>Kirkland, WA<br>Los Angeles, CA<br>Madison, WI<br>New York, NY<br>Palo Alto, CA<br>Portland, OR<br>Pittsburgh, PA<br>Raleigh, NC<br>Durham, NC<br>Reston, VA<br>Redmond, WA<br>Redwood City, CA<br>San Diego, CA<br>Goleta, CA<br>San Bruno, CA<br>Seattle, WA<br>San Francisco, CA<br>San Jose, CA<br>Santa Cruz, CA<br>South San Francisco, CA<br>Washington, D.C.</details><b>|Open✅|10/01/2024|[Apply Here](https://www.google.com/about/careers/applications/jobs/results/90765822003159750-software-engineering-intern-phd-summer-2025)||
 |Alfa Laval|Channel Development Intern|17 - 20|<details><summary>6 locations<br><br><b></summary>Kenosha, WI<br>Greenwood, IN<br>Warminster, PA<br>Greenspoint, TX<br>Broken Arrow, OK<br>Richmond, VA</details><b>|Closed🔒|10/01/2024|||
 |↳|Data Analyst Intern|17 - 22|Richmond, VA|Closed🔒|10/01/2024|||
 |Aptiv|Embedded Software Intern||Carmel, IN|Open✅|10/01/2024|[Apply Here](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/USA-Indiana-Technical-Center/Embedded-Software-Intern_J000671905)||
-|↳|System Engineering Intern||Troy, MI|Open✅|10/01/2024|[Apply Here](https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/System-Engineering-Intern_J000671875)||
+|↳|System Engineering Intern||Troy, MI|Closed🔒|10/01/2024|||
 |↳|Algorithm Development Intern||Troy, MI|Open✅|10/01/2024|[Apply Here](https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Algorithm-Development-Intern_J000671903)||
 |↳|Vehicle System Data Analytic Intern||Troy, MI|Open✅|10/01/2024|[Apply Here](https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Vehicle-System-Data-Analytic-Intern_J000671902)||
-|↳|Cybersecurity Engineering Intern||Troy, MI|Open✅|10/01/2024|[Apply Here](https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Cybersecurity-Engineering-Intern_J000671882)||
+|↳|Cybersecurity Engineering Intern||Troy, MI|Closed🔒|10/01/2024|||
 |↳|HIL Automation Engineering Intern||Carmel, IN|Open✅|10/01/2024|[Apply Here](https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/USA-Indiana-Technical-Center/HIL-Automation-Engineering-Intern_J000671879)||
 |↳|Vehicle System Test Engineering Intern||Troy, MI|Closed🔒|10/01/2024|||
 |↳|System Engineering Intern||Carmel, IN|Open✅|10/01/2024|[Apply Here](https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/USA-Indiana-Technical-Center/System-Engineering-Intern_J000671873)||
@@ -941,7 +978,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|IT Intern||Waukesha, WI|Closed🔒|10/01/2024|||
 |KeyBank|Technology, Operations and Services Intern, Data and Analytics|20|Brooklyn, OH|Closed🔒|10/01/2024|||
 |LPGA|Information Technology Intern||Daytona Beach, FL|Open✅|10/01/2024|[Apply Here](https://www.teamworkonline.com/golf-tennis-jobs/lpga-jobs/lpga/lpga-2025-summer-internship-information-technology-2094478)||
-|TTM Technologies|Software Engineering Intern|19.39 - 29.09|Farmingdale, NY|Open✅|10/01/2024|[Apply Here](https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R08365?q=internship)||
+|TTM Technologies|Software Engineering Intern|19.39 - 29.09|Farmingdale, NY|Closed🔒|10/01/2024|||
 |Subaru|Field Quality Assurance Engineer Intern|20|Pennsauken, NJ|Open✅|10/01/2024|[Apply Here](https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1723)||
 |Shamrock Trading Corporation|Software Developer Intern||Overland Park, KS|Closed🔒|10/01/2024|||
 |Workday|Software Application Development Engineer Intern||<details><summary>2 locations<br><br><b></summary>Atlanta, GA<br>Pleasanton, CA</details><b>|Closed🔒|10/01/2024|||
@@ -950,10 +987,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Engineering Intern|20.7 - 30.1|<details><summary>3 locations<br><br><b></summary>Osseo, MN<br>Minneapolis, MN<br>Denver, CO</details><b>|Closed🔒|10/01/2024|||
 |↳|Technical Intern|21.6|<details><summary>2 locations<br><br><b></summary>Minneapolis, MN<br>Denver, CO</details><b>|Closed🔒|10/01/2024|||
 |↳|Data Visualization & Management Intern|21.6 - 27.2|<details><summary>3 locations<br><br><b></summary>Minneapolis, MN<br>Eau Claire, WI<br>Denver, CO</details><b>|Closed🔒|10/01/2024|||
-|Wellsky|Software Engineering Intern||Overland Park, KS|Open✅|10/01/2024|[Apply Here](https://wellsky.wd1.myworkdayjobs.com/en-US/WellSkyCareers/job/Overland-Park-KS/Software-Engineer-Intern---Summer-2025_JR2268)||
+|Wellsky|Software Engineering Intern||Overland Park, KS|Closed🔒|10/01/2024|||
 |Unilever|IT Intern||Remote|Open✅|09/30/2024|[Apply Here](https://careers.unilever.com/job/united-states/2025-summer-internship-it/34155/70329058016)||
 |Miso|Web Developer Intern||Carmel, IN|Closed🔒|09/29/2024|||
-|↳|Systems Engineering Intern||Carmel, IN|Open✅|09/29/2024|[Apply Here](https://recruiting.ultipro.com/MID1029MISO/JobBoard/362b6b1d-f1c3-46f5-9554-4aa90e2bda64/OpportunityDetail?opportunityId=598bd7e9-5625-4582-91fb-2d5b6981c9ea)||
+|↳|Systems Engineering Intern||Carmel, IN|Closed🔒|09/29/2024|||
 |↳|Cyber Security Intern||Carmel, IN|Closed🔒|09/29/2024|||
 |↳|Computer Science Intern||<details><summary>2 locations<br><br><b></summary>Carmel, IN<br>Eagan, MN</details><b>|Closed🔒|09/29/2024|||
 |↳|Computer Engineering Intern||<details><summary>3 locations<br><br><b></summary>Carmel, IN<br>Eagan, MN<br>Little Rock, AR</details><b>|Closed🔒|09/29/2024|||
@@ -968,8 +1005,8 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Eaton|Firmware Engineering Intern|22.15 - 24.92|Menomonee Falls, WI|Open✅|09/29/2024|[Apply Here](https://eaton.eightfold.ai/careers/job/687219919196)||
 |↳|Software Engineering Intern|22.15 - 37.5|Franksivlle, WI|Open🛂|09/18/2024|[Apply Here](https://eaton.eightfold.ai/careers/job/687219767427)||
 |↳|Embedded Software Engineering Intern|22.15 - 37.5|Franksivlle, WI|Open🛂|09/18/2024|[Apply Here](https://eaton.eightfold.ai/careers/job?pid=687219767553)||
-|↳|Engineering Technology Intern, Software|22.15 - 37.50|<details><summary>6 locations<br><br><b></summary>Raleigh, NC<br>Franksville, WI<br>Menomonee Falls, WI<br>Moon Township, PA<br>Peachtree City, GA<br>Southfield, MI</details><b>|Open✅|08/08/2024|[Apply Here](https://eaton.eightfold.ai/careers/job/687218974969?domain=eaton.com)||
-|↳|Information Technology Intern|22.15 - 37.50|<details><summary>5 locations<br><br><b></summary>Beachwood, OH<br>Moon Township, PA<br>Raleigh, NC<br>Southfield, MI<br>Houston, TX</details><b>|Open✅|08/08/2024|[Apply Here](https://eaton.eightfold.ai/careers/job/687218974968)||
+|↳|Engineering Technology Intern, Software|22.15 - 37.50|<details><summary>6 locations<br><br><b></summary>Raleigh, NC<br>Franksville, WI<br>Menomonee Falls, WI<br>Moon Township, PA<br>Peachtree City, GA<br>Southfield, MI</details><b>|Closed🔒|08/08/2024|||
+|↳|Information Technology Intern|22.15 - 37.50|<details><summary>5 locations<br><br><b></summary>Beachwood, OH<br>Moon Township, PA<br>Raleigh, NC<br>Southfield, MI<br>Houston, TX</details><b>|Closed🔒|08/08/2024|||
 |Cummins|Technical Information Systems Intern|24.37 - 45.62|Columbus, IN|Open✅|09/29/2024|[Apply Here](https://cummins.jobs/columbus-in/technical-information-systems-summer-internship-positions/361E59886C914EDB96AE583D6EE58BEB/job/)||
 |↳|Information Technology Intern|23.75 - 42.5|Columbus, IN|Open✅|09/29/2024|[Apply Here](https://cummins.jobs/columbus-in/information-technology-summer-internship-positions/8BD2F6B3F2FE496F81D828929DD82186/job/)||
 |Corteva Agriscience|Data and Reporting Analyst Intern||Johnston, IA|Closed🔒|09/29/2024|||
@@ -981,11 +1018,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Vectra|Data Science Intern Intern||San Jose, CA|Open✅|09/29/2024|[Apply Here](https://boards.greenhouse.io/vectranetworks/jobs/6258867)||
 |↳|Data Science Intern Intern||Boston, MA|Open✅|09/29/2024|[Apply Here](https://boards.greenhouse.io/vectranetworks/jobs/6258849)||
 |↳|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Remote</details><b>|Closed🔒|08/28/2024|||
-|First Bank & Trust|Software Development Intern||Sioux Falls, SD|Open✅|09/29/2024|[Apply Here](https://bankeasy.wd5.myworkdayjobs.com/en-US/bank-easy-job-openings/job/Sioux-Falls-SD-I-229/Software-Development-Intern_R-100243)||
+|First Bank & Trust|Software Development Intern||Sioux Falls, SD|Closed🔒|09/29/2024|||
 |Pearson|Data Analyst Intern||Durham, NC|Open✅|09/29/2024|[Apply Here](https://pearson.jobs/durham-nc/intern-data-analyst/AD0AA4C700DD4323A38911B914C09F9F/job/)||
 |↳|Software Engineer Intern||Durham, NC|Open✅|09/29/2024|[Apply Here](https://pearson.jobs/durham-nc/intern-software-engineer/79C7327D1CA7469AA18CFBEE9C2E0EB8/job/)||
 |↳|Cloud Engineer Intern||Durham, NC|Open✅|09/29/2024|[Apply Here](https://pearson.jobs/durham-nc/intern-cloud-engineer/98908FD8FA704857B2F30E558285FC0F/job/)||
-|↳|Security Analyst Intern||Durham, NC|Open✅|09/29/2024|[Apply Here](https://pearson.jobs/durham-nc/intern-security-analyst/9EC8966CD844486782A716E65F445827/job/)||
+|↳|Security Analyst Intern||Durham, NC|Closed🔒|09/29/2024|||
 |Starbucks|Data, Analytics Intern, Insights & Business Operations - Graduate|43|Seattle, WA|Open✅|09/29/2024|[Apply Here](https://apply.starbucks.com/careers/job/481061564580)||
 |↳|Data, Analytics Intern, Insights & Business Operations - Undergraduate|30|Seattle, WA|Open✅|09/29/2024|[Apply Here](https://apply.starbucks.com/careers/job/481061564499)||
 |↳|Analytics Intern|25|Seattle, WA|Open✅|09/29/2024|[Apply Here](https://apply.starbucks.com/careers/job/481061554778)||
@@ -1010,7 +1047,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Scientist Intern|26 - 38|Santa Clara, CA|Open🛂|09/27/2024|[Apply Here](https://jobs.ericsson.com/careers/job/563121760897033)||
 |↳|Baseband Developer Intern|26 - 38|Austin, TX|Open🛂|09/27/2024|[Apply Here](https://jobs.ericsson.com/careers/job/563121760900291)||
 |↳|Software Developer Intern|26 - 57|Devner, CO|Open🛂|09/11/2024|[Apply Here](https://jobs.ericsson.com/careers/job/563121760624059)||
-|↳|Software Developer Intern||Plano, TX|Open🛂|08/29/2024|[Apply Here](https://jobs.ericsson.com/careers/job/563121760620475)||
+|↳|Software Developer Intern||Plano, TX|Closed🔒|08/29/2024|||
 |Nissan|Android Automotive Mobile Full Stack Developer Intern||Farmington Hills, MI|Closed🔒|09/26/2024|||
 |↳|SCM Data Analytics Intern||Smyrna, TN|Closed🔒|09/26/2024|||
 |↳|Cost Data Scientist Intern||Franklin, TN|Closed🔒|09/26/2024|||
@@ -1100,15 +1137,15 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern|23.17 - 34.81|<details><summary>4 locations<br><br><b></summary>Atlanta, GA<br>Draper, UT<br>Burlington, VT<br>Irvine, CA</details><b>|Closed🔒|09/06/2024|||
 |OpenAI|Software Engineer Internship, Applied Emerging Talent|60|San Francisco, CA|Closed🔒|09/23/2024|||
 |The Home Depot|Software Engineer Intern|27 - 40|Remote|Open✅|09/23/2024|[Apply Here](https://careers.homedepot.com/job/21053876/2025-summer-software-engineer-intern-remote-remote/)||
-|SAIC|Software Engineer Intern|20 - 30|Omaha, NE|Open🇺🇸|09/23/2024|[Apply Here](https://jobs.saic.com/jobs/14956578-software-engineer-intern)||
+|SAIC|Software Engineer Intern|20 - 30|Omaha, NE|Closed🔒|09/23/2024|||
 |Expedia Group|Software Development Engineering Intern|41 - 51|<details><summary>3 locations<br><br><b></summary>Seattle, WA<br>Austin, TX<br>Chicago, IL</details><b>|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Software-Development-Engineering-Intern---2025---Seattle--Austin--Chicago_R-91371)||
 |↳|Machine Learning Scientist Intern - PhD|56|Seattle, WA|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-Intern---PhD---2025---Seattle_R-91374)||
 |↳|Data Science Intern, Analytics|33 - 45|Seattle, WA|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Data-Science--Analytics-Intern---2025---Seattle_R-91182)||
 |↳|Mobile Engineering Intern|41 - 51|<details><summary>2 locations<br><br><b></summary>Seattle, WA<br>Chicago, IL</details><b>|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Mobile-Engineering-Intern---2025---Seattle--Chicago_R-91372)||
 |↳|Machine Learning Scientist Intern - Masters|50|Seattle, WA|Open✅|09/23/2024|[Apply Here](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-Intern---Masters---2025---Seattle_R-91373)||
 |Duolingo|Software Engineer Intern, Thrive|43 - 45|Pittsburgh, PA|Closed🔒|09/23/2024||Sophomores Only|
-|↳|Data Scientist Intern|50 - 52|Pittsburgh, PA|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7642838002)||
-|↳|Data Scientist Intern|50 - 52|New York, NY|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7643898002)||
+|↳|Data Scientist Intern|50 - 52|Pittsburgh, PA|Closed🔒|09/19/2024|||
+|↳|Data Scientist Intern|50 - 52|New York, NY|Closed🔒|09/19/2024|||
 |↳|Data Scientist Intern - PhD or Masters|50 - 52|Pittsburgh, PA|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7643892002)||
 |↳|Data Scientist Intern - PhD or Masters|50 - 52|New York, NY|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7643899002)||
 |↳|AI Research, Intern - PhD|63 - 65|Philadelphia, PA|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/duolingo/jobs/7628836002)||
@@ -1118,8 +1155,8 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Digital Accelerator Program Intern||Princeton, NJ|Closed🔒|08/17/2024|||
 |Jahnel Group|Associate Software Engineer Intern||Schenectady, NY|Open✅|09/21/2024|[Apply Here](https://www.jahnelgroup.com/apply.html?gh_jid=4102298007)||
 |Holland America Line|Software Engineering Intern|25 - 45|Seattle, WA|Open✅|09/21/2024|[Apply Here](https://jobs.carnivalcorp.com/job/seattle/2025-internship-software-engineering/8858/70202497472#job-details-section)||
-|Altruist|Software Engineering Intern||Los Angeles, CA|Open✅|09/21/2024|[Apply Here](https://altruist.com/join-altruist/?gh_jid=5329402004)||
-|Steely|Software Engineering Intern||Reston, VA|Open🇺🇸|09/21/2024|[Apply Here](https://careers-steely.icims.com/jobs/1618/software-engineering-internship-%28summer-2025%29/job)||
+|Altruist|Software Engineering Intern||Los Angeles, CA|Closed🔒|09/21/2024|||
+|Steely|Software Engineering Intern||Reston, VA|Closed🔒|09/21/2024|||
 |Voloridge Investment Management|Software Engineer Intern||Jupiter, FL|Closed🔒|09/21/2024|||
 |↳|Research Software Engineer Intern||Jupiter, FL|Closed🔒|09/21/2024|||
 |↳|Health Data Analyst Intern||Jupiter, FL|Closed🔒|09/21/2024|||
@@ -1133,7 +1170,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Developer Intern||Ridgeland, MS|Open✅|08/22/2024|[Apply Here](https://careers-cspire.icims.com/jobs/11017/software-developer-internship/job)||
 |Allstate|Data Analytics Engineer Intern|20 - 42|Remote|Closed🔒|09/20/2024|||
 |↳|Machine Learning Engineer Intern|20 - 42|Remote|Closed🔒|08/30/2024|||
-|General Motors|Software Developer Intern, Strategy & Innovation|27.5 - 42.5|<details><summary>6 locations<br><br><b></summary>Remote<br>Atlanta, GA<br>Austin, TX<br>Detroit, MI<br>Warren, MI<br>Milford, MI</details><b>|Closed🔒|09/20/2024|||
 |Ascension|Software Engineering Intern, React||Remote|Closed🔒|09/20/2024|||
 |Emc Insuarance|Release Engineering Intern||Remote|Closed🔒|09/20/2024|||
 |Dassult Systemes|Software QA Engineer Intern|22 - 40|Waltham, MA|Closed🔒|09/20/2024|||
@@ -1143,7 +1179,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Stanley Black & Decker|Embedded Software Engineering Intern||Townson, MD|Open✅|09/20/2024|[Apply Here](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Software-Engineering-Intern--Summer-2025_REQ-1000031684?ittk=6OSUUNEJBA)||
 |Ricoh|Software Engineer Intern||Boulder, CO|Closed🔒|09/20/2024|||
 |nCino|Software Engineer Intern||Lehi, UT|Closed🔒|09/20/2024|||
-|Microchip|Engineering Intern, Firmware, OS Drivers, SW Tools||Houston, TX|Open✅|09/20/2024|[Apply Here](https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware--OS-Drivers--SW-Tools-_R2252-24)||
+|Microchip|Engineering Intern, Firmware, OS Drivers, SW Tools||Houston, TX|Closed🔒|09/20/2024|||
 |Gannett Fleming|Application Development Intern|18 - 25|Richmond, VA|Closed🔒|09/20/2024|||
 |AQR Capital Management|Quantitative Research Development Summer Analyst||Greenwich, CT|Closed🔒|09/20/2024|||
 |Sierra Space|Ground Software Engineering Intern|28 - 42|<details><summary>2 locations<br><br><b></summary>Louisville, CO<br>Centennial, CO</details><b>|Closed🔒|09/19/2024|||
@@ -1152,7 +1188,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Flight Software Engineering Intern|28 - 42|Broomfield, CO|Closed🔒|09/19/2024|||
 |↳|Simulation Software Engineering Intern|28 - 42|Broomfield, CO|Closed🔒|09/19/2024|||
 |Fidelity|Quantitative Development & Data Science Intern|26.04 - 36.45|<details><summary>3 locations<br><br><b></summary>Boston, MA<br>Jersey City, NJ<br>Merrimack, NH</details><b>|Closed🔒|09/19/2024|||
-|↳|Technology Intern - Undergrad|26.04 - 36.45|<details><summary>8 locations<br><br><b></summary>Boston, MA<br>Covington, KY<br>Westlake, TX<br>Salt Lake City, UT<br>Durham, NC<br>Jersey City, NJ<br>Merrimack, NH<br>Smithfield, RI</details><b>|Open✅|09/16/2024|[Apply Here](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Summer-2025-Undergraduate-Internship---Technology_2100827)||
+|↳|Technology Intern - Undergrad|26.04 - 36.45|<details><summary>8 locations<br><br><b></summary>Boston, MA<br>Covington, KY<br>Westlake, TX<br>Salt Lake City, UT<br>Durham, NC<br>Jersey City, NJ<br>Merrimack, NH<br>Smithfield, RI</details><b>|Closed🔒|09/16/2024|||
 |↳|Advanced Data Analytics Intern||Boston, MA|Closed🔒|08/14/2024||Graduate Students Only|
 |Q2|Engineering/Data Science Intern|25|Austin, TX|Open🛂|09/19/2024|[Apply Here](https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/Engineering-Data-Science-Internship_REQ-10697)||
 |Lucid Software|Software Engineer Intern||South Jordan, UT|Open✅|09/19/2024|[Apply Here](https://job-boards.greenhouse.io/lucidsoftware/jobs/5251374004)||
@@ -1160,7 +1196,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Southern California Edison|Data Analytics & Data Science Intern|17 - 28|Pomona, CA|Open✅|09/19/2024|[Apply Here](https://www.edisoncareers.com/job/20987147/2025-summer-internship-data-analytics-and-data-science-pomona-ca/)||
 |PerPay|Data Engineering Intern||Philadelphia, PA|Open✅|09/19/2024|[Apply Here](https://boards.greenhouse.io/perpay/jobs/4076965007?grnh=4b81b4407us)||
 |↳|Data Science Intern||Philadelphia, PA|Open✅|09/19/2024|[Apply Here](https://boards.greenhouse.io/perpay/jobs/4076978007)||
-|↳|Software Engineering Intern||Philadelphia, PA|Open✅|09/19/2024|[Apply Here](https://boards.greenhouse.io/perpay/jobs/4076988007)||
+|↳|Software Engineering Intern||Philadelphia, PA|Closed🔒|09/19/2024|||
 |Pacific Life|Data Engineering Intern|25 - 30|Newport Beach, CA|Open✅|09/19/2024|[Apply Here](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Data-Engineering-Intern_R13240)||
 |↳|Data Analytics Intern|25 - 30|Newport Beach, CA|Open✅|09/19/2024|[Apply Here](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Data-Analytics-Intern_R13239?q=intern)||
 |↳|Software Engineering Intern|25 - 30|Newport Beach, CA|Open✅|09/19/2024|[Apply Here](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Software-Engineering-Intern_R13241?q=intern)||
@@ -1193,13 +1229,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Accenture|Technology Summer Analyst|32 - 35|<details><summary>31 locations<br><br><b></summary>Chicago, IL<br>St. Louis, MO<br>Philadelphia, PA<br>Houston, TX<br>Overland Park, KS<br>Columbus, OH<br>Scottsdale, AZ<br>Cleveland, OH<br>Tallahassee, FL<br>Detroit, MI<br>Raleigh, NC<br>Oklahoma City, OK<br>Minneapolis, MN<br>San Francisco, CA<br>New York, NY<br>San Diego, CA<br>Sacramento, CA<br>Arlington, VA<br>Los Angeles, CA<br>Pittsburgh, PA<br>St. Petersburg, FL<br>Broomfield, CO<br>Milwaukee, WI<br>Carmel, IN<br>Seattle, WA<br>Boston, MA<br>Charlotte, NC<br>Florham Park, NJ<br>Irving, TX<br>Atlanta, GA<br>Austin, TX</details><b>|Open✅|09/18/2024|[Apply Here](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Technology-Summer-Analyst---NAELFY25_R00235176-1)||
 |↳|Technology Development Intern|28.9 - 55.05|Washington, D.C.|Closed🔒|08/21/2024|||
 |Bloomberg|Software Engineer Intern|42 - 52|New York, NY|Open✅|09/18/2024|[Apply Here](https://bloomberg.avature.net/careers/JobDetail/6973)||
-|Blue Yonder|Software Engineering Intern|21 - 26.5|Dallas, TX|Open✅|09/18/2024|[Apply Here](https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineering-Intern_243695-1?q=intern)||
+|Blue Yonder|Software Engineering Intern|21 - 26.5|Dallas, TX|Closed🔒|09/18/2024|||
 |↳|GenAI Prompt Engineer Intern|21 - 26.5|Dallas, TX|Open✅|09/18/2024|[Apply Here](https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/GenAI-Prompt-Engineer-Intern_243696-1?q=intern)||
 |Campana & Schott|Software Engineering Intern, Python/Azure/LLM|25|New York, NY|Open✅|09/18/2024|[Apply Here](https://campana-schott.softgarden.io/job/49276073/Software-Engineering-Intern-Python-Azure-LLM?jobDbPVId=154861818&l=de)||
 |Cvent|Software Engineer Intern||Tysons, VA|Closed🔒|09/18/2024|||
 |IDeaS|Software Development Intern||Bloomington, MN|Open✅|09/18/2024|[Apply Here](https://ideas-sas.icims.com/jobs/36915/job)||
 |Hypertherm|Software Engineer Intern||West Lebanon, NH|Closed🔒|09/18/2024|||
-|Micron|Software Development Intern||Boise, ID|Open✅|09/18/2024|[Apply Here](https://careers.micron.com/careers/job/25117061)||
+|Micron|Software Development Intern||Boise, ID|Closed🔒|09/18/2024|||
 |↳|SSD FW Development Intern|33.23 - 42.42|Longmont, CO|Open✅|09/08/2024|[Apply Here](https://careers.micron.com/careers/job/24775186)||
 |↳|Systems Software Intern||Austin, TX|Closed🔒|09/08/2024||Graduate Students Only|
 |↳|Product Line Data Analyst Intern|36.16 - 46.16|San Jose, CA|Closed🔒|09/08/2024|||
@@ -1208,7 +1244,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|AI/ML Algorithms Intern, Silicon Systems AI|21.69 - 42.69|San Jose, CA|Closed🔒|08/30/2024||Graduate Students Only|
 |↳|Software Developer Intern||San Jose, CA|Closed🔒|08/25/2024|||
 |Pella|Data Engineer Intern||Pella, IA|Open✅|09/18/2024|[Apply Here](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/243978)||
-|↳|Data Science Intern||Pella, IA|Open✅|09/18/2024|[Apply Here](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/243977)||
+|↳|Data Science Intern||Pella, IA|Closed🔒|09/18/2024|||
 |↳|Information Technology Intern||Pella, IA|Open✅|09/18/2024|[Apply Here](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/243778)||
 |↳|Digital Software Engineer Intern||Pella, IA|Open✅|09/10/2024|[Apply Here](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/243909)||
 |Springs Window Fashions|Machine Learning Intern||Middleton, WI|Closed🔒|09/18/2024|||
@@ -1262,7 +1298,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Enovation Controls|Software Engineer Intern|20 - 24|Tulsa, OK|Open✅|09/17/2024|[Apply Here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2727460)||
 |↳|Manufacturing Software Engineering Intern|20 - 24|Tulsa, OK|Open✅|09/17/2024|[Apply Here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2727359)||
 |Dayton Freight|Software Developer Intern||Dayton, OH|Open✅|09/17/2024|[Apply Here](https://careers-daytonfreight.icims.com/jobs/14298/job)||
-|Immuta|Product Engineering Intern||Columbus, OH|Open✅|09/17/2024|[Apply Here](https://jobs.lever.co/immuta/bc8de9df-4ae8-450a-b715-58adeea4789a)||
+|Immuta|Product Engineering Intern||Columbus, OH|Closed🔒|09/17/2024|||
 |Fetch|Android Software Engineering Intern|40|<details><summary>2 locations<br><br><b></summary>Birmingham, AL<br>Madison, WI</details><b>|Closed🔒|09/17/2024|||
 |↳|Backend Software Engineering Intern|40|<details><summary>2 locations<br><br><b></summary>Birmingham, AL<br>Madison, WI</details><b>|Closed🔒|09/17/2024|||
 |↳|Front-End Software Engineering Intern|40|<details><summary>2 locations<br><br><b></summary>Birmingham, AL<br>Madison, WI</details><b>|Closed🔒|09/17/2024|||
@@ -1271,7 +1307,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Valeo|Machine Learning Software Engineer Intern|23.4 - 29.9|San Mateo, CA|Closed🔒|09/16/2024|||
 |Tanium|Software Engineering Intern||Durham, NC|Open✅|09/16/2024|[Apply Here](https://www.tanium.com/careers/6187797)||
 |↳|Software Engineering Intern||Addison, TX|Open✅|09/16/2024|[Apply Here](https://www.tanium.com/careers/internship/6208649/)||
-|Playground|Software Engineer Intern|45 - 60|New York, NY|Open✅|09/16/2024|[Apply Here](https://app.dover.com/apply/Playground/96774945-7637-4834-adb5-29e1edef1179/?rs=76643084)||
+|Playground|Software Engineer Intern|45 - 60|New York, NY|Closed🔒|09/16/2024|||
 |Noah Medical|Software Engineer Intern|24 - 31|San Carlos, CA|Closed🔒|09/16/2024|||
 |Citizens|Software Engineer Intern, Enterprise Technology & Security||<details><summary>4 locations<br><br><b></summary>Johnson, RI<br>Iselin, NJ<br>Phoenix, AZ<br>Westwood, MA</details><b>|Closed🔒|09/16/2024|||
 |Best Buy|Associate Software Engineering Intern||Richfield, MN|Closed🔒|09/16/2024|||
@@ -1281,7 +1317,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Johns Hopkins University Applied Physics Laboratory|Algorithm Developer Intern, Artificial Intelligence, Machine Learning, and Information Fusion||Laurel, MD|Open🇺🇸|09/15/2024|[Apply Here](https://careers.jhuapl.edu/jobs/55718)||
 |↳|Cyber Security Intern, Cyber Dominance||Laurel, MD|Open🇺🇸|09/15/2024|[Apply Here](https://careers.jhuapl.edu/jobs/55651)||
 |↳|Software Developer Intern, Tactical System Prototyping and Deployment||Laurel, MD|Closed🔒|09/15/2024|||
-|↳|Software Engineering Intern, Communications Systems||Laurel, MD|Open🇺🇸|09/15/2024|[Apply Here](https://careers.jhuapl.edu/jobs/55584)||
+|↳|Software Engineering Intern, Communications Systems||Laurel, MD|Closed🔒|09/15/2024|||
 |↳|Cyber Engineer Intern, Capabilities Development||Laurel, MD|Open🇺🇸|09/15/2024|[Apply Here](https://careers.jhuapl.edu/jobs/55760)||
 |↳|Software Development Intern||Laurel, MD|Closed🔒|09/15/2024|||
 |↳|Decision Science, Cybersecurity, Software Engineer, System Engineer Intern||Laurel, MD|Closed🔒|09/15/2024|||
@@ -1323,7 +1359,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |You.com|Software Engineering Intern, Frontend|40 - 50|Remote|Closed🔒|09/14/2024|||
 |Uline|Network Engineer Intern||Pleasant Prairie, WI|Open✅|09/14/2024|[Apply Here](https://www.uline.jobs/JobDetails?culture=en&jobid=R245790&jobtitle=Network-Engineer-Internship---Summer-2025)||
 |↳|Software Developer Intern||Pleasant Prairie, WI|Open✅|09/14/2024|[Apply Here](https://www.uline.jobs/JobDetails?culture=en&jobid=R245783&jobtitle=Software-Developer-Internship---Summer-2025)||
-|↳|DevOps Engineer Intern||Pleasant Prairie, WI|Open✅|09/14/2024|[Apply Here](https://www.uline.jobs/JobDetails?culture=en&jobid=R245788&jobtitle=DevOps-Engineer-Internship---Summer-2025)||
+|↳|DevOps Engineer Intern||Pleasant Prairie, WI|Closed🔒|09/14/2024|||
 |↳|Cybersecurity Intern||Pleasant Prairie, WI|Open✅|09/14/2024|[Apply Here](https://www.uline.jobs/JobDetails?culture=en&jobid=R245789&jobtitle=Cybersecurity-Internship---Summer-2025)||
 |Greif|Cyber Security Intern||<details><summary>2 locations<br><br><b></summary>Delaware, OH<br>Remote</details><b>|Closed🔒|09/14/2024|||
 |↳|IT Applications Intern||Delaware, OH|Open🛂|09/14/2024|[Apply Here](https://greif.wd5.myworkdayjobs.com/en-US/Greif/job/Delaware-OH-Greif-Pkwy/Summer-2025-IT-Applications-Intern_028509?q=intern)||
@@ -1332,12 +1368,12 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |FreeWheel|Comcast Software Engineer Intern|40|New York, NY|Closed🔒|09/14/2024|||
 |Epirus|Software Intern|32|Torrance, CA|Closed🔒|09/13/2024|||
 |Two Sigma|Software Engineering Intern|95 - 120|New York, NY|Open✅|09/13/2024|[Apply Here](https://careers.twosigma.com/careers/Careers?jobId=12601)||
-|Symmetry|Full Stack Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Remote</details><b>|Open✅|09/13/2024|[Apply Here](https://jobs.lever.co/SymmetrySystems/0b0641c0-b639-4d95-a871-98b80eaed1a6)||
-|↳|Full Stack Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>Remote</details><b>|Open✅|09/13/2024|[Apply Here](https://jobs.lever.co/SymmetrySystems/1c1ae2af-95c1-4299-b6d7-b539188dafe7)||
+|Symmetry|Full Stack Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Remote</details><b>|Closed🔒|09/13/2024|||
+|↳|Full Stack Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>Remote</details><b>|Closed🔒|09/13/2024|||
 |Qumulo|Software Development Intern||Seattle, WA|Open✅|09/13/2024|[Apply Here](https://boards.greenhouse.io/qumulo/jobs/6252299)||
 |Pendo|Software Engineering Intern, Front End/Back End/Site Reliability/Security|30|Raleigh, NC|Open✅|09/13/2024|[Apply Here](https://boards.greenhouse.io/pendo/jobs/7636210002)||
 |TrueStage|IT Intern, Application Developer|18 - 28|Remote|Closed🔒|09/13/2024|||
-|National Futures Association|Application Developer Intern||Chicago, IL|Open✅|09/13/2024|[Apply Here](https://careers.nfa.org/job/Chicago-Summer-2025-Applications-Developer-Intern-IL-60606/1210806600/)||
+|National Futures Association|Application Developer Intern||Chicago, IL|Closed🔒|09/13/2024|||
 |Second Dinner|Software Engineer Intern, Features|40|Remote|Open✅|09/13/2024|[Apply Here](https://jobs.ashbyhq.com/SecondDinner/15a89949-1d1a-4155-95e2-b6ebe5c58fd4?utm_source=aBx19QYEoJ)||
 |↳|Feature Design Intern, Marvel Snap|30|Remote|Open✅|09/13/2024|[Apply Here](https://jobs.ashbyhq.com/SecondDinner/dc39c511-8eac-40d3-9e7e-27ba6d29af8d?utm_source=aBx19QYEoJ)||
 |↳|AI/ML Intern|40 -  50|Remote|Closed🔒|09/13/2024|||
@@ -1364,19 +1400,19 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Platforms Intern|39|Chicago, IL|Open🛂|09/12/2024|[Apply Here](https://www.westmonroe.com/careers/job-search-students/apply?gh_jid=5246546004)||
 |Redhorse|Machine Learning Intern|30 - 35|Arlington, VA|Open✅|09/12/2024|[Apply Here](https://jobs.lever.co/redhorsecorp/fae272c3-b2bc-4f63-83a6-0de63bbc1d14)||
 |Morningstar|Technologists Intern||Chicago, IL|Open✅|09/12/2024|[Apply Here](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Morningstar-Summer-Internship-Program-for-Technologists_REQ-047345)||
-|The Hartford|Tech, Data, Analytics, Cyber, and Operations Leadership Development Intern||<details><summary>2 locations<br><br><b></summary>Hartford, CT<br>Charlotte, NC</details><b>|Open🛂|09/12/2024|[Apply Here](https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Intern--Tech--Data--Analytics--Cyber--and-Operations-Leadership-Development-Program_R2417817-2?q=internship&redirect=/Careers_External/job/Hartford-CT/Intern--Data-Science_R2418128)||
-|↳|Data Science Intern||<details><summary>3 locations<br><br><b></summary>Hartford, CT<br>Chicago, IL<br>Charlotte, NC</details><b>|Open🛂|09/12/2024|[Apply Here](https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Intern--Data-Science_R2418128?q=internship&redirect=/Careers_External/job/Hartford-CT/Intern--Data-Science_R2418128)||
+|The Hartford|Tech, Data, Analytics, Cyber, and Operations Leadership Development Intern||<details><summary>2 locations<br><br><b></summary>Hartford, CT<br>Charlotte, NC</details><b>|Closed🔒|09/12/2024|||
+|↳|Data Science Intern||<details><summary>3 locations<br><br><b></summary>Hartford, CT<br>Chicago, IL<br>Charlotte, NC</details><b>|Closed🔒|09/12/2024|||
 |↳|Software Engineering Intern, Tech Catalyst||<details><summary>2 locations<br><br><b></summary>Hartford, CT<br>Charlotte, NC</details><b>|Closed🔒|09/12/2024|||
 |Canaccord Genuity|IT Infrastructure Intern|17 - 18|Boston, MA|Closed🔒|09/12/2024|||
 |Seagate|Development Engineer Intern|23 - 41|Fremont, CA|Closed🔒|09/12/2024|||
 |ING|IT Intern|35|New York, NY|Closed🔒|09/12/2024|||
 |CDK|Information Technology Intern||<details><summary>3 locations<br><br><b></summary>Hoffman Estates, IL<br>Portland, OR<br>Austin, TX</details><b>|Closed🔒|09/12/2024|||
 |↳|Software Engineering Intern||<details><summary>3 locations<br><br><b></summary>Austin, TX<br>Portland, OR<br>Hoffman Estates, IL</details><b>|Closed🔒|09/10/2024|||
-|CME Group|Software Engineer Intern||Chicago, IL|Open🛂|09/12/2024|[Apply Here](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2025_31518)||
+|CME Group|Software Engineer Intern||Chicago, IL|Closed🔒|09/12/2024|||
 |↳|Software Engineer Fellowship||Chicago, IL|Closed🔒|09/12/2024||For rising sophomores and juniors (class of 2027 and 2026) and have to be affiliated with a CME Group partner program|
 |CIBC|Salesforce Technology Intern||Chicago, IL|Closed🔒|09/12/2024|||
 |Broadridge|Technology Intern|28 - 38|<details><summary>3 locations<br><br><b></summary>New York, NY<br>Edgewood, NY<br>Newark, NJ</details><b>|Closed🔒|09/12/2024|||
-|Jefferies|Technology Intern, IB Tech and CRM & Analytics (Developer)|52|New York, NY|Open✅|09/12/2024|[Apply Here](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-4b7e0fcefdcb/candidate/so/pm/1/pl/2/opp/1282-2025-Technology-Summer-Internship-New-York-IB-Tech-and-CRM-Analytics-Developer/en-GB)||
+|Jefferies|Technology Intern, IB Tech and CRM & Analytics (Developer)|52|New York, NY|Closed🔒|09/12/2024|||
 |↳|Technology Intern, Fixed Income|52|New York, NY|Open✅|09/12/2024|[Apply Here](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-97d577678ba4/candidate/so/pm/1/pl/2/opp/1280-2025-Technology-Summer-Internship-New-York-Fixed-Income/en-GB)||
 |↳|Technology Intern, Risk|52|New York, NY|Open✅|09/12/2024|[Apply Here](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-242047c4de72/candidate/so/pm/1/pl/2/opp/1283-2025-Technology-Summer-Internship-New-York-Risk/en-GB)||
 |↳|Technology Intern, Jersey City, Infrastructure|52|Jersey City, NJ|Open✅|09/12/2024|[Apply Here](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-dbed751db327/candidate/so/pm/1/pl/2/opp/1290-2025-Technology-Summer-Internship-Program-Jersey-City-Infrastructure/en-GB)||
@@ -1396,7 +1432,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Full Stack Java Data Intern|35 - 75|Jersey City, NJ|Closed🔒|09/12/2024|||
 |↳|Data Platform Intern|35 - 75|Jersey City, NJ|Closed🔒|09/12/2024|||
 |Veeam|Data & Analytics Engineering Intern||Alpharetta, GA|Open🛂|09/12/2024|[Apply Here](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4385728101)||
-|↳|Salesforce Engineer Intern||Alpharetta, GA|Open🛂|09/12/2024|[Apply Here](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4388985101)||
+|↳|Salesforce Engineer Intern||Alpharetta, GA|Closed🔒|09/12/2024|||
 |↳|Kasten Engineering Intern||Remote|Open✅|09/12/2024|[Apply Here](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4385739101)||
 |Principal|Software Engineer Intern|28 - 32|Des Moines, IA|Closed🔒|09/12/2024|||
 |Dicks Sporting Goods|Software Engineering Intern||Coraopolis, PA|Closed🔒|09/12/2024|||
@@ -1409,8 +1445,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |TransUnion|Data Science Intern|22 - 40|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Alpharetta, GA</details><b>|Closed🔒|09/11/2024|||
 |RELX|Data Science Intern||Raleigh, NC|Closed🔒|09/11/2024|||
 |↳|Software Engineer Intern||Raleigh, NC|Closed🔒|09/11/2024|||
-|Anduril Industries|Software Engineering Intern||<details><summary>5 locations<br><br><b></summary>Costa Mesa, CA<br>Atlanta, GA<br>Seattle, WA<br>Boston, MA<br>Reston, VA</details><b>|Closed🔒|09/11/2024|||
-|↳|Firmware Engineer Intern||Costa Mesa, CA|Open🇺🇸|09/11/2024|[Apply Here](https://job-boards.greenhouse.io/andurilindustries/jobs/4512362007)||
 |TD Bank|Quantitative Rotational Program Summer Associate|55 - 58|New York, NY|Closed🔒|09/11/2024|||
 |↳|Software Engineer Intern|39.9|New York, NY|Closed🔒|08/29/2024|||
 |Westfield|Application Development Engineer Intern||Westfield Center, OH|Closed🔒|09/11/2024|||
@@ -1419,14 +1453,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|DevSecOps Intern||Westfield Center, OH|Closed🔒|09/11/2024|||
 |Saviynt|Engineering Intern (UI), Software Engineering||Los Angeles, CA|Closed🔒|09/11/2024|||
 |Badger Meter|Software Engineering Intern||Milwaukee, WI|Open✅|09/11/2024|[Apply Here](https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_3514-1)||
-|Wellmark|Data Analytics & Governance Intern||Des Moines, IA|Open✅|09/10/2024|[Apply Here](https://jobs.smartrecruiters.com/WellmarkInc/744000012610681)||
+|Wellmark|Data Analytics & Governance Intern||Des Moines, IA|Closed🔒|09/10/2024|||
 |Grammarly|Software Engineering Intern|46|Remote|Open✅|09/10/2024|[Apply Here](https://job-boards.greenhouse.io/grammarly/jobs/6232386)||
 |Mutal of Omaha|Analytics Engineer Intern|23 - 26|Remote|Closed🔒|09/10/2024|||
 |Humana|IT Intern|16.25 - 44.32|<details><summary>2 locations<br><br><b></summary>Remote<br>Louisville, KY</details><b>|Closed🔒|09/10/2024|||
 |NinjaHoldings|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Remote</details><b>|Closed🔒|09/10/2024|||
 |↳|Ruby on Rails Engineer Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Remote</details><b>|Closed🔒|09/10/2024|||
 |Chicago Venture Partners|Software Engineer Intern||Chicago, IL|Closed🔒|09/10/2024|||
-|Federal Reserve Bank of New York|Technology Intern - Sophomore|34|New York, NY|Closed🔒|09/10/2024|||
 |Vermeer|Systems Engineer Intern||Piedmont, SC|Closed🔒|09/10/2024|||
 |↳|Software Engineer Intern||Pella, IA|Closed🔒|09/10/2024|||
 |↳|Data Engineer Intern||Remote|Closed🔒|09/10/2024|||
@@ -1434,8 +1467,8 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Embedded Software Engineer Intern||Pella, IA|Closed🔒|09/10/2024|||
 |↳|IT Software Engineer Intern||Pella, IA|Closed🔒|09/10/2024|||
 |Persona|Software Engineer Intern|50 - 56.25|San Francisco, CA|Closed🔒|09/10/2024|||
-|Symbotic|Front End Software Engineer Intern||Wilmington, MA|Open✅|09/10/2024|[Apply Here](https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Front-End-Software-Engineer_R3927)||
-|↳|Back End Software Engineer Intern||Wilmington, MA|Open✅|09/10/2024|[Apply Here](https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Back-End-Software-Engineer_R3928)||
+|Symbotic|Front End Software Engineer Intern||Wilmington, MA|Closed🔒|09/10/2024|||
+|↳|Back End Software Engineer Intern||Wilmington, MA|Closed🔒|09/10/2024|||
 |MarketAxess|Data Software Engineering Intern|35 - 45|New York, NY|Open🛂|09/10/2024|[Apply Here](https://www.marketaxess.com/careers/current-openings/detail/jobs/4400274006?gh_jid=4400274006)||
 |↳|Software Engineering Intern|35 - 45|New York, NY|Open🛂|09/10/2024|[Apply Here](https://www.marketaxess.com/careers/current-openings/detail/jobs/4400248006?gh_jid=4400248006)||
 |KCF Technologies|DevOps Intern||State College, PA|Closed🔒|09/10/2024|||
@@ -1449,10 +1482,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Full Stack Developer Intern||Devner, CO|Closed🔒|09/10/2024|||
 |Carters|Marketing Data Analytics Intern||Atlanta, GA|Open✅|09/10/2024|[Apply Here](https://carters.wd1.myworkdayjobs.com/en-US/CartersCareers/job/Atlanta-GA/Marketing-Data-Analytics-Intern--Summer-2025_JR34979-1)||
 |ENSCO|HPPC Software Engineer Intern||Melbourne, FL|Closed🔒|09/10/2024|||
-|Gordon Food Service|Cloud DevOps Intern||Atlanta, GA|Open✅|09/10/2024|[Apply Here](https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps---Internship---Atlanta_R-29980-1)||
-|↳|Data Engineering Intern||Atlanta, GA|Open✅|09/10/2024|[Apply Here](https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering---Internship---Atlanta_R-29974-1?q=internship)||
-|↳|Data Science Intern||Atlanta, GA|Open✅|09/10/2024|[Apply Here](https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science---Internship---Atlanta_R-29961-1?q=internship)||
-|Federal Reserve Bank of Kansas City|Software Engineer Intern - TechEdge Program|21|Kansas City, MO|Closed🔒|09/10/2024|||
+|Gordon Food Service|Cloud DevOps Intern||Atlanta, GA|Closed🔒|09/10/2024|||
+|↳|Data Engineering Intern||Atlanta, GA|Closed🔒|09/10/2024|||
+|↳|Data Science Intern||Atlanta, GA|Closed🔒|09/10/2024|||
 |DCS|Software Engineering Intern||Belcamp, MD|Closed🔒|09/10/2024|||
 |apexanalytix|Data Application Developer Intern||Greensboro, NC|Closed🔒|09/09/2024|||
 |Skyworks|DSP Firmware Engineering Intern|26 - 47.5|Austin, TX|Open✅|09/09/2024|[Apply Here](https://careers.skyworksinc.com/job/Austin-DSP-Firmware-Engineering-Summer-Intern-TX-73301/1209749300/?feedId=177100)||
@@ -1471,7 +1503,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Aig|Technology Intern|32.2 - 37.03|<details><summary>3 locations<br><br><b></summary>Charlotte, NC<br>Houston, TX<br>Jersey City, NJ</details><b>|Closed🔒|09/08/2024|||
 |Link Logistic Real Estate|Data Science Intern||New York, NY|Open✅|09/08/2024|[Apply Here](https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Data-Science-Summer-Intern_JR100910)||
 |HNTB|Technology Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Downers Grove, IL</details><b>|Closed🔒|09/08/2024|||
-|FTI Consulting|Technology Intern|34 - 41|<details><summary>7 locations<br><br><b></summary>Atlanta, GA<br>Chicago, IL<br>Irvine, CA<br>Los Angeles, CA<br>New York, NY<br>San Francisco, CA<br>Washington, D.C.</details><b>|Open✅|09/08/2024|[Apply Here](https://fticonsult.referrals.selectminds.com/ftistudentcareers/jobs/2025-intern-technology-19317)||
+|FTI Consulting|Technology Intern|34 - 41|<details><summary>7 locations<br><br><b></summary>Atlanta, GA<br>Chicago, IL<br>Irvine, CA<br>Los Angeles, CA<br>New York, NY<br>San Francisco, CA<br>Washington, D.C.</details><b>|Closed🔒|09/08/2024|||
 |Spectrum|Software Engineer Intern||Maryland Heights, MO|Open🛂|09/08/2024|[Apply Here](https://jobs.spectrum.com/job/maryland-heights/2025-summer-intern-software-engineer/4673/69642850096)||
 |↳|Software Engineer Intern||Charlotte, NC|Open🛂|09/08/2024|[Apply Here](https://jobs.spectrum.com/job/charlotte/2025-summer-intern-software-engineer/4673/69642850048)||
 |↳|Software Engineer Intern||Greenwood Village, CO|Open🛂|09/08/2024|[Apply Here](https://jobs.spectrum.com/job/greenwood-village/2025-summer-intern-software-engineer/4673/69642849872)||
@@ -1481,7 +1513,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|System Engineer I Intern||Greenwood Village, CO|Open🛂|09/08/2024|[Apply Here](https://jobs.spectrum.com/job/greenwood-village/2025-summer-intern-systems-engineer-i/4673/69642824512)||
 |↳|System Engineer Intern||Greenwood Village, CO|Open🛂|09/08/2024|[Apply Here](https://jobs.spectrum.com/job/greenwood-village/2025-summer-intern-systems-engineer/4673/69642830048)||
 |↳|Assoc QA Analyst Intern||Maryland Heights, MO|Open🛂|09/08/2024|[Apply Here](https://jobs.spectrum.com/job/maryland-heights/2025-summer-intern-assoc-qa-analyst/4673/68787623392)||
-|↳|Associate Data Scientist Intern||Stamford, CT|Open🛂|09/08/2024|[Apply Here](https://jobs.spectrum.com/job/stamford/2025-summer-intern-associate-data-scientist/4673/68787622144)||
+|↳|Associate Data Scientist Intern||Stamford, CT|Closed🔒|09/08/2024|||
 |↳|Platforms Engineer Intern||Greenwood Village, CO|Open🛂|09/08/2024|[Apply Here](https://jobs.spectrum.com/job/greenwood-village/2025-summer-intern-platforms-engineer/4673/69642850192)||
 |↳|Assoc DevOps Engineer Intern||Maryland Heights, MO|Open🛂|09/08/2024|[Apply Here](https://jobs.spectrum.com/job/maryland-heights/2025-summer-intern-assoc-devops-engineer/4673/68787624480)||
 |DraftKings|Software Engineer Intern|36 - 54|Boston, MA|Open✅|09/08/2024|[Apply Here](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2025-_JR09692)||
@@ -1529,13 +1561,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Okta|Software Engineer Intern|||Closed🔒|09/07/2024|||
 |↳|Machine Learning Engineer Intern|||Closed🔒|09/07/2024|||
 |Builders FirstSource|IT CRM Analytics Intern||<details><summary>4 locations<br><br><b></summary>Remote<br>Raleigh, NC<br>Denver, CO<br>Irving, TX</details><b>|Open✅|09/06/2024|[Apply Here](https://jobs.dayforcehcm.com/en-US/builders/CANDIDATEPORTAL/jobs/152030)||
-|NISC|Applications & Data Analyst Intern||<details><summary>3 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND<br>Ceder Rapids, IA</details><b>|Open✅|09/06/2024|[Apply Here](https://www.nisc.coop/careers/greenhouse-details/?id=6235434)||
-|↳|Database Conversion Programming Intern||<details><summary>2 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND</details><b>|Open✅|09/06/2024|[Apply Here](https://www.nisc.coop/careers/greenhouse-details/?id=6235377)||
-|↳|IT Applications Intern||<details><summary>2 locations<br><br><b></summary>Lake Saint Louis, MO<br>Ceder Rapids, IA</details><b>|Open✅|09/06/2024|[Apply Here](https://www.nisc.coop/careers/greenhouse-details/?id=6235289)||
-|↳|Quality Engineer Intern||<details><summary>2 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND</details><b>|Open✅|09/06/2024|[Apply Here](https://www.nisc.coop/careers/greenhouse-details/?id=6235266)||
-|↳|Software Development Intern||<details><summary>3 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND<br>Ceder Rapids, IA</details><b>|Open✅|09/06/2024|[Apply Here](https://www.nisc.coop/careers/greenhouse-details/?id=6138297)||
-|↳|Software Development Intern, iOS||<details><summary>3 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND<br>Ceder Rapids, IA</details><b>|Open✅|09/06/2024|[Apply Here](https://www.nisc.coop/careers/greenhouse-details/?id=6235211)||
-|↳|Software Development Intern, Machine Learning||<details><summary>3 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND<br>Ceder Rapids, IA</details><b>|Open✅|09/06/2024|[Apply Here](https://www.nisc.coop/careers/greenhouse-details/?id=6235244)||
+|NISC|Applications & Data Analyst Intern||<details><summary>3 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND<br>Ceder Rapids, IA</details><b>|Closed🔒|09/06/2024|||
+|↳|Database Conversion Programming Intern||<details><summary>2 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND</details><b>|Closed🔒|09/06/2024|||
+|↳|IT Applications Intern||<details><summary>2 locations<br><br><b></summary>Lake Saint Louis, MO<br>Ceder Rapids, IA</details><b>|Closed🔒|09/06/2024|||
+|↳|Quality Engineer Intern||<details><summary>2 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND</details><b>|Closed🔒|09/06/2024|||
+|↳|Software Development Intern||<details><summary>3 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND<br>Ceder Rapids, IA</details><b>|Closed🔒|09/06/2024|||
+|↳|Software Development Intern, iOS||<details><summary>3 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND<br>Ceder Rapids, IA</details><b>|Closed🔒|09/06/2024|||
+|↳|Software Development Intern, Machine Learning||<details><summary>3 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND<br>Ceder Rapids, IA</details><b>|Closed🔒|09/06/2024|||
 |Genesis Therapeutics|Software Engineer Intern||Burlingame, CA|Open✅|09/06/2024|[Apply Here](https://jobs.lever.co/genesistherapeutics/d13c7dea-6c8c-4741-9220-a6dd6300a175)||
 |Appian|Software Engineering Intern||McLean, VA|Closed🔒|09/06/2024|||
 |Earnin|Machine Learning Intern|30|Palo Alto, CA|Closed🔒|09/06/2024|||
@@ -1564,13 +1596,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern, Data Pipeline Engineering||Lenexa, KS|Closed🔒|09/06/2024|||
 |↳|Software Engineering Development Intern - Cboe Clear US||Chicago, IL|Closed🔒|09/06/2024|||
 |Stevens Capital Management|Developer Intern||Radnor, PA|Open✅|09/06/2024|[Apply Here](https://boards.greenhouse.io/scm/jobs/721888?gh_src=9a5dd53e1us)||
-|Demiurge|Engineering Intern||Remote|Open✅|09/06/2024|[Apply Here](https://demiurgestudios.com/job-details/?jobid=5b325f22-aaf3-4d0f-9535-2a0520afe35f)||
-|Slack|Software Engineer Intern|46 - 58|<details><summary>8 locations<br><br><b></summary>San Francisco, CA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Bellevue, WA<br>Dallas, TX<br>Atlanta, GA<br>Indianapolis, IN</details><b>|Open✅|09/05/2024|[Apply Here](https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-3)||
-|Red Hat|Software Engineering Intern R-041167||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Open✅|09/05/2024|[Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineering-Internship_R-041167)||
-|↳|Software Engineering Intern R-041327||Raleigh, NC|Open✅|09/05/2024|[Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Software-Engineering-Intern_R-041327)||
-|↳|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Open✅|09/05/2024|[Apply Here](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Engineer-Internship_R-041161)||
-|↳|Technical Analyst Intern||Raleigh, NC|Open✅|09/05/2024|[Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Technical-Analyst-Internship_R-041169)||
-|↳|Data Science Intern||Raleigh, NC|Open✅|09/05/2024|[Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Data-Science-Internship_R-041162)||
+|Demiurge|Engineering Intern||Remote|Closed🔒|09/06/2024|||
+|Slack|Software Engineer Intern|46 - 58|<details><summary>8 locations<br><br><b></summary>San Francisco, CA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Bellevue, WA<br>Dallas, TX<br>Atlanta, GA<br>Indianapolis, IN</details><b>|Closed🔒|09/05/2024|||
+|Red Hat|Software Engineering Intern R-041167||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Closed🔒|09/05/2024|||
+|↳|Software Engineering Intern R-041327||Raleigh, NC|Closed🔒|09/05/2024|||
+|↳|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Closed🔒|09/05/2024|||
+|↳|Technical Analyst Intern||Raleigh, NC|Closed🔒|09/05/2024|||
+|↳|Data Science Intern||Raleigh, NC|Closed🔒|09/05/2024|||
 |EY|Core Business Services - Launch Intern, Technology Track|32.45 - 36.96|<details><summary>11 locations<br><br><b></summary>Denver, CO<br>Atlanta, GA<br>Chicago, IL<br>Boston, MA<br>Charlotte, NC<br>Hoboken, NJ<br>New York, NY<br>Philadelphia, PA<br>Houston, TX<br>McLean, VA<br>Seattle, WA</details><b>|Closed🔒|09/05/2024|||
 |Fortrea|AIML Rapid Development Studio Intern||Remote|Closed🔒|09/05/2024|||
 |↳|IT Intern||Remote|Closed🔒|09/05/2024|||
@@ -1597,9 +1629,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |NXP Semiconductors|Systems & Applications Engineers Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Chandler, AZ</details><b>|Open✅|09/05/2024|[Apply Here](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Internships-in-Systems---Applications-Engineers---Summer-2025_R-10055753)||
 |Polaris|Digital & Information Technology Intern||Plymouth, MN|Open🛂|09/05/2024|[Apply Here](https://www.linkedin.com/jobs/view/3991978317/)||
 |Databrick|Data Science Intern|54 - 60|Mountain View, CA|Open✅|09/05/2024|[Apply Here](https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2025-start-6866538002)||
-|↳|Software Engineering Intern|51.50 - 53.50|Bellevue, WA|Open✅|08/05/2024|[Apply Here](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6866529002)||
-|↳|Software Engineering Intern|51.50 - 53.50|San Francisco, CA|Open✅|08/05/2024|[Apply Here](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6866527002)||
-|↳|Software Engineering Intern|51.50 - 53.50|Mountain View, CA|Open✅|08/05/2024|[Apply Here](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6865687002)||
+|↳|Software Engineering Intern|51.50 - 53.50|Bellevue, WA|Closed🔒|08/05/2024|||
+|↳|Software Engineering Intern|51.50 - 53.50|San Francisco, CA|Closed🔒|08/05/2024|||
+|↳|Software Engineering Intern|51.50 - 53.50|Mountain View, CA|Closed🔒|08/05/2024|||
 |Red Alpha|Data Science Intern||Columbia, MD|Open🇺🇸|09/05/2024|[Apply Here](https://jobs.jobvite.com/redalpha/job/ormkufwl)||
 |TrueNorth|Data Analyst Intern||Cedar Rapids, IA|Closed🔒|09/05/2024|||
 |Vertiv|IT Development Internship||Westerville, OH|Open✅|09/05/2024|[Apply Here](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20245607/?keyword=internship&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000271149)||
@@ -1612,7 +1644,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Cloud Software Engineering Intern|21 - 40|Niles, IL|Closed🔒|09/05/2024|||
 |↳|Cloud Applications Development Intern|21 - 40|Niles, IL|Open🛂|09/05/2024|[Apply Here](https://careersus-shure.icims.com/jobs/3823/cloud-applications-development-intern/job?hub=7&_gl=1*x9jyd0*_ga*NTY3NTMyMTUzLjE3MjU0ODg0MzI.*_ga_5Y2BYGL910*MTcyNTU0MTkzNy4zLjEuMTcyNTU0MjAzNS4yOC4wLjA.)||
 |↳|Automated Test Software Engineer Intern|21 - 40|Niles, IL|Open🛂|09/05/2024|[Apply Here](https://careersus-shure.icims.com/jobs/3820/automated-test-software-engineer-intern/job?hub=7&_gl=1*t0pf4y*_ga*NTY3NTMyMTUzLjE3MjU0ODg0MzI.*_ga_5Y2BYGL910*MTcyNTU0MTkzNy4zLjEuMTcyNTU0MjA0Mi4yMS4wLjA.)||
-|↳|Application Software Development Intern|21 - 40|Niles, IL|Open🛂|09/05/2024|[Apply Here](https://careersus-shure.icims.com/jobs/3815/application-software-development-intern/job?hub=7&_gl=1*1tt8ns0*_ga*NTY3NTMyMTUzLjE3MjU0ODg0MzI.*_ga_5Y2BYGL910*MTcyNTU0MTkzNy4zLjEuMTcyNTU0MjA0Ni4xNy4wLjA.)||
+|↳|Application Software Development Intern|21 - 40|Niles, IL|Closed🔒|09/05/2024|||
 |↳|Engineering Intern, Cloud Operations Monitoring||Niles, IL|Closed🔒|09/05/2024|||
 |Dun & Bradstreet|Technology Intern||<details><summary>2 locations<br><br><b></summary>Jacksonville, FL<br>Austin, TX</details><b>|Open✅|09/05/2024|[Apply Here](https://jobs.lever.co/dnb/1f4e2397-33cb-4304-b19a-7533a9b2dd97)||
 |Anyscale|Software Engineer Intern|59.20 - 74.51|San Francisco, CA|Open✅|09/05/2024|[Apply Here](https://jobs.lever.co/anyscale/f26ba61d-729e-4572-a2bc-a29aaefc0bee)||
@@ -1630,12 +1662,12 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |CNH Industrial|Software Test Engineer Intern|18 - 35|Oak Brook, IL|Open✅|09/04/2024|[Apply Here](https://careers-cnhind.icims.com/jobs/26237/software-test-engineer-intern/job)||
 |↳|System Engineer Intern|18 - 35|<details><summary>2 locations<br><br><b></summary>Oak Brook, IL<br>Lombard, IL</details><b>|Closed🔒|09/04/2024|||
 |↳|Software Engineer Intern|20.5 - 35|<details><summary>2 locations<br><br><b></summary>Oak Brook, IL<br>Sioux Falls, SD</details><b>|Open✅|09/04/2024|[Apply Here](https://careers-cnhind.icims.com/jobs/26236/software-engineer-intern/job)||
-|Netflix|Software Engineer Intern|40 - 110|Los Gatos, CA|Open✅|09/04/2024|[Apply Here](https://explore.jobs.netflix.net/careers/job?query=Intern&pid=790298739171&domain=netflix.com&sort_by=relevance)||
+|Netflix|Software Engineer Intern|40 - 110|Los Gatos, CA|Closed🔒|09/04/2024|||
 |C3.ai|Software Engineer Intern|37.5 - 50|Redwood City, CA|Closed🔒|09/04/2024|||
 |↳|Data Science Intern|37.5 - 50|Redwood City, CA|Open✅|09/04/2024|[Apply Here](https://job-boards.greenhouse.io/c3ascend/jobs/7575584002)||
 |SpaceX|Software Engineering Intern|30 - 40|<details><summary>9 locations<br><br><b></summary>Cape Canaveral, FL<br>Hawthorne, CA<br>McGregor, TX<br>Bastrop, TX<br>Redmond, WA<br>Brownsville, TX<br>Irvine, CA<br>Vandenberg, CA<br>Sunnyvale, CA</details><b>|Open✅|09/04/2024|[Apply Here](https://boards.greenhouse.io/spacex/jobs/7623213002)||
 |United Airlines|Machine Learning Intern||Chicago, IL|Closed🔒|09/04/2024|||
-|↳|Digital Technology Intern||Chicago, IL|Open✅|09/04/2024|[Apply Here](https://ual-pro.taleo.net/careersection/10230/jobdetail.ftl?lang=en&job=WHQ00024020)||
+|↳|Digital Technology Intern||Chicago, IL|Closed🔒|09/04/2024|||
 |Silicon Labs|Software Engineer Intern|37 - 43|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Boston, MA</details><b>|Closed🔒|09/04/2024|||
 |↳|Application Engineer Intern|37 - 43|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Boston, MA</details><b>|Closed🔒|09/04/2024|||
 |Relativity Space|Data Science & Simulation Intern|31 - 38|Long Beach, CA|Open✅|09/04/2024|[Apply Here](https://boards.greenhouse.io/rsinternboard/jobs/7612335002?gh_jid=7612335002)||
@@ -1644,16 +1676,16 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Robotics Software Engineer Intern|36 - 38|Long Beach, CA|Open✅|09/04/2024|[Apply Here](https://boards.greenhouse.io/rsinternboard/jobs/7612270002?gh_jid=7612270002)||
 |Newrez|Software Engineering Intern||Coppell, TX|Closed🔒|09/03/2024|||
 |SEP|Software Engineering Intern|25|Westfield, IN|Closed🔒|09/03/2024|||
-|Alcon|R&D Intern||<details><summary>3 locations<br><br><b></summary>Fort Worth, TX<br>Lake Forest, CA<br>Johnson Creek Research Center, GA</details><b>|Open✅|09/03/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2025-R-D-Summer-Intern---Track-2_R-2024-34753)||
+|Alcon|R&D Intern||<details><summary>3 locations<br><br><b></summary>Fort Worth, TX<br>Lake Forest, CA<br>Johnson Creek Research Center, GA</details><b>|Closed🔒|09/03/2024|||
 |UBS|Technology Intern|48.08 - 50.48|<details><summary>2 locations<br><br><b></summary>Weehawken, NJ<br>New York, NY</details><b>|Closed🔒|09/02/2024|||
-|84.51°|Data Scientist Intern||<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Chicago, IL</details><b>|Open✅|09/02/2024|[Apply Here](https://job-boards.greenhouse.io/8451university/jobs/7579511002)||
+|84.51°|Data Scientist Intern||<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Chicago, IL</details><b>|Closed🔒|09/02/2024|||
 |↳|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Cincinnati, OH<br>Chicago, IL</details><b>|Closed🔒|09/02/2024|||
 |Whatnot|Software Engineer Intern||<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Los Angeles, CA<br>New York, NY</details><b>|Open✅|09/02/2024|[Apply Here](https://job-boards.greenhouse.io/whatnot/jobs/5247639004)||
 |Watershed|Software Engineer Intern||San Francisco, CA|Closed🔒|09/01/2024|||
 |Interactive Brokers|Software Developer Intern||Greenwich, CT|Closed🔒|09/01/2024|||
 |Avangrid|Info. Technology, Business Analyst, Cyber, MIS Intern||<details><summary>6 locations<br><br><b></summary>Orange, CT<br>Portland, OR<br>Augusta, ME<br>Vestal, NY<br>Hourseheads, NY<br>Rochester, NY</details><b>|Open✅|09/01/2024|[Apply Here](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2025-Summer-Info-Technology--Business-Analyst--Cyber--MIS-Intern_R-09180)||
 |↳|Data Analytics/Data Science Intern||<details><summary>5 locations<br><br><b></summary>Rochester, NY<br>Portland, ME<br>Portland, OR<br>Vestal, NY<br>Orange, CT</details><b>|Open✅|09/01/2024|[Apply Here](https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola/job/XMLNAME-2025-Summer-Data-Analytics-Data-Science-Intern_R-09184)||
-|Zip|Software Engineer Intern|68.75|San Francisco, CA|Open✅|08/31/2024|[Apply Here](https://job-boards.greenhouse.io/zip/jobs/5268304004)||
+|Zip|Software Engineer Intern|68.75|San Francisco, CA|Closed🔒|08/31/2024|||
 |CNA Insurance|Technology Intern, Engineering||Chicago, IL|Open✅|08/31/2024|[Apply Here](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Engineering-_R-4370?src=JB-10060)||
 |Societe Generale|Software Devloper Summer Analyst|44.27|New York, NY|Closed🔒|08/31/2024|||
 |Workiva|Data Engineering Intern|40|Devner, CO|Closed🔒|08/30/2024|||
@@ -1682,7 +1714,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |UPS|Technology Group Intern||Parsippany, NJ|Closed🔒|08/29/2024|||
 |Reinventing Geospatial|Software Engineer Intern||Fairfax, VA|Open🇺🇸|08/29/2024|[Apply Here](https://jobs.lever.co/rgi/72f108b1-274a-4d59-a74f-28bc7a6051af)||
 |Oracle|Software Engineer Intern, OCI|18.99 - 53|Seattle, WA|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255998?src=JB-10145)||
-|↳|Software Engineer Intern, OCI|18.99 - 53|Austin, TX|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256005/?keyword=internship&mode=location)||
+|↳|Software Engineer Intern, OCI|18.99 - 53|Austin, TX|Closed🔒|08/29/2024|||
 |↳|Software Engineer Intern, OCI|18.99 - 53|Nashville, TN|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256006/?keyword=internship&mode=location)||
 |↳|Software Engineer Intern, OCI|18.99 - 53|Santa Clara, CA|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256000/?keyword=internship&mode=location)||
 |↳|Software Engineer Intern, Fusion Applications Development|18.99 - 53|<details><summary>3 locations<br><br><b></summary>Redwood City, CA<br>Pleasanton, CA<br>Santa Clara, CA</details><b>|Open✅|08/29/2024|[Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255786)||
@@ -1693,10 +1725,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |John Hancock|Software Engineering Intern||Boston, MA|Closed🔒|08/29/2024|||
 |MangoDB|Software Engineering Intern, Product||New York, NY|Open✅|08/29/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/09e1dc0b/apply)||
 |John Deere|Software Engineering Intern, IT||Moline, IL|Open🛂|08/29/2024|[Apply Here](https://careers.deere.com/careers/job/137463726881)||
-|Cisco|Full Stack Intern, Meraki|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Open🛂|08/28/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Intern-FY25-Summer-2025-Meraki/1427972)||
-|↳|Firmware Features Intern, Meraki|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Open🛂|08/28/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Firmware-Features-Intern-FY25-Summer-2025-Meraki/1427976)||
-|↳|Test Automation/QA Intern|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Open🛂|08/28/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Test-Automation-QA-Intern-FY25-Summer-2025/1427979)||
-|↳|Site Reliability Intern|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Open🛂|08/28/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Intern-FY25-Summer-2025-Meraki/1427978)||
+|Cisco|Full Stack Intern, Meraki|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Closed🔒|08/28/2024|||
+|↳|Firmware Features Intern, Meraki|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Closed🔒|08/28/2024|||
+|↳|Test Automation/QA Intern|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Closed🔒|08/28/2024|||
+|↳|Site Reliability Intern|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Closed🔒|08/28/2024|||
 |↳|Software Engineer I Intern|20 - 40|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Richardson, TX<br>Atlanta, GA</details><b>|Open✅|08/17/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1427387)||
 |↳|Software Engineer II Intern|22.91 - 67.7|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Hillsboro, OR</details><b>|Open✅|08/17/2024|[Apply Here](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1426829)||
 |CGI|Software Developer Intern|18 - 24|Lafayette, LA|Open✅|08/28/2024|[Apply Here](https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J0824-1757&lang=1)||
@@ -1740,7 +1772,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Amadeus|Software Engineer Intern||Irving, TX|Closed🔒|08/22/2024|||
 |Gecko Robotics|Software Engineer Intern||Boston, MA|Closed🔒|08/22/2024|||
 |↳|Embedded Engineer Intern||Pittsburgh, PA|Open✅|08/22/2024|[Apply Here](https://jobs.ashbyhq.com/gecko-robotics/23c70fb7-0cf2-4d16-b081-aa2286f09c53)||
-|↳|Field Software Engineer Intern||Pittsburgh, PA|Open✅|08/22/2024|[Apply Here](https://jobs.ashbyhq.com/gecko-robotics/f4fc0a1d-5ecc-45f9-a186-616052a7928e)||
+|↳|Field Software Engineer Intern||Pittsburgh, PA|Closed🔒|08/22/2024|||
 |Hudson River Trading|Software Engineering Intern|120|New York, NY|Open✅|08/21/2024|[Apply Here](https://www.hudsonrivertrading.com/careers/job/?gh_jid=6139035&req_id=482)||
 |Figma|Software Engineer Intern|51.06|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/figma/jobs/5232157004)||
 |↳|Data Scientist||<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>New York, NY</details><b>|Open✅|08/20/2024|[Apply Here](https://job-boards.greenhouse.io/figma/jobs/5227937004)||
@@ -1767,7 +1799,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |CTC|Software Engineer Intern||Chicago, IL|Open✅|08/19/2024|[Apply Here](https://www.chicagotrading.com/posting?req=4462727005&campus=1)||
 |↳|Software Engineer Intern||New York, NY|Open✅|08/19/2024|[Apply Here](https://www.chicagotrading.com/posting?req=4462729005&campus=1)||
 |Grainger|Software Engineer Intern||Chicago, IL|Closed🔒|08/17/2024|||
-|Kohler|Software Engineering Intern, Kohler Ventures||Palo Alto, CA|Open✅|08/17/2024|[Apply Here](https://kohler.csod.com/ux/ats/careersite/16/home/requisition/63255?c=kohler&lang=en-US&src=JB-10021)||
+|Kohler|Software Engineering Intern, Kohler Ventures||Palo Alto, CA|Closed🔒|08/17/2024|||
 |Sony|Junior Web Front End Developer Intern|20 - 28|San Diego, CA|Closed🔒|08/17/2024|||
 |PIMCO|Technology Analyst Intern, Software Engineering|52.88|Newport Beach, CA|Open✅|08/17/2024|[Apply Here](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2025-Summer-Intern---Software-Engineering-Analyst_R104464)||
 |Macquarie|Technology Intern||Houston, TX|Open✅|08/15/2024|[Apply Here](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=11703#)||
@@ -1801,10 +1833,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Jane Street|Software Engineer Intern|130.21|New York, NY|Open✅|08/06/2024|[Apply Here](https://www.janestreet.com/join-jane-street/position/7527332002/)||
 |↳|Linux Engineer Intern|130.21|New York, NY|Open✅|08/06/2024|[Apply Here](https://www.janestreet.com/join-jane-street/position/7545609002/)||
 |↳|Network Engineer Intern|130.21|New York, NY|Closed🔒|08/06/2024|||
-|Nomura|Information Technology - Analyst Program|46.88 - 52.08|New York, NY|Open✅|08/06/2024|[Apply Here](https://nomuracampus.tal.net/vx/appcentre-ext/brand-4/spa-1/candidate/so/pm/1/pl/1/opp/1019-2025-Information-Technology-Summer-Analyst-Program/en-GB)||
+|Nomura|Information Technology - Analyst Program|46.88 - 52.08|New York, NY|Closed🔒|08/06/2024|||
 |SMBC|Information Security Intern||New York, NY|Closed🔒|08/06/2024|||
-|Millennium|Cloud and Information Security Intern||<details><summary>2 locations<br><br><b></summary>New York, NY<br>Miami, FL</details><b>|Open✅|08/06/2024|[Apply Here](https://mlp.eightfold.ai/careers/job/755938458242?microsite=campus-site)||
-|↳|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>New York, NY<br>Miami, FL</details><b>|Open✅|08/06/2024|[Apply Here](https://mlp.eightfold.ai/careers/job/755938458240?microsite=campus-site)||
+|Millennium|Cloud and Information Security Intern||<details><summary>2 locations<br><br><b></summary>New York, NY<br>Miami, FL</details><b>|Closed🔒|08/06/2024|||
+|↳|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>New York, NY<br>Miami, FL</details><b>|Closed🔒|08/06/2024|||
 |Medtronic|Software Engineering Intern - Graduate||<details><summary>20 locations<br><br><b></summary>Minneapolis, MN<br>Tempe, AZ<br>Santa Rosa, CA<br>Lafayette, CO<br>Boulder, CO<br>Plymouth, MN<br>Fort Worth, TX<br>Mounds View, MN<br>Irvine, CA<br>North Haven, CT<br>Memphis, TN<br>Santa Ana, CA<br>Northridge, CA<br>Mansfield, MA<br>Danvers, MA<br>San Diego, CA<br>Louisville, CO<br>Brooklyn Center, MN<br>Jacksonville, FL<br>Boston, MA</details><b>|Closed🔒|08/06/2024|||
 |↳|Software Engineering Intern - Undergrad||<details><summary>20 locations<br><br><b></summary>Minneapolis, MN<br>Tempe, AZ<br>Santa Rosa, CA<br>Lafayette, CO<br>Boulder, CO<br>Plymouth, MN<br>Fort Worth, TX<br>Mounds View, MN<br>Irvine, CA<br>North Haven, CT<br>Memphis, TN<br>Santa Ana, CA<br>Northridge, CA<br>Mansfield, MA<br>Danvers, MA<br>San Diego, CA<br>Louisville, CO<br>Brooklyn Center, MN<br>Jacksonville, FL<br>Boston, MA</details><b>|Closed🔒|08/06/2024|||
 |ForeFlight|Software Engineer Intern||Austin, TX|Closed🔒|08/05/2024|||
@@ -1812,7 +1844,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Science Intern - Engineering||<details><summary>4 locations<br><br><b></summary>Pittsburgh, PA<br>Jersey City, NJ<br>New York, NY<br>Lake Mary, FL</details><b>|Open✅|08/05/2024|[Apply Here](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/57958/?keyword=internship&lastSelectedFacet=TITLES&mode=location&selectedTitlesFacet=CAPG)||
 |Deloitte|Software Engineering Summer Scholar||<details><summary>32 locations<br><br><b></summary>Atlanta, GA<br>Austin, TX<br>Boston, MA<br>Charlotte, NC<br>Chicago, IL<br>Cincinnati, OH<br>Cleveland, OH<br>Columbus, OH<br>Costa Mesa, CA<br>Dallas, TX<br>Denver, CO<br>Detroit, MI<br>Houston, TX<br>Indianapolis, IN<br>Kansas City, MO<br>Los Angeles, CA<br>McLean, VA<br>Miami, FL<br>Minneapolis, MN<br>Nashville, TN<br>New York, NY<br>Philadelphia, PA<br>Pittsburgh, PA<br>Raleigh, NC<br>Sacramento, CA<br>San Diego, CA<br>San Francisco, CA<br>San Jose, CA<br>Seattle, WA<br>St. Louis, MO<br>Tampa, FL<br>Tempe, AZ</details><b>|Closed🔒|08/05/2024|||
 |Origami Risk|Software Engineering Intern|26.25|Chicago, IL|Open✅|08/03/2024|[Apply Here](https://careers-origamirisk.icims.com/jobs/3345/software-engineering-intern/job)||
-|PepsiCo|Commerce Data & Technology Intern|21.50 - 40.19|New York, NY|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/internshipsprograms/jobs/316094?lang=en-us&previousLocale=en-US)||
+|PepsiCo|Commerce Data & Technology Intern|21.50 - 40.19|New York, NY|Closed🔒|08/03/2024|||
 |↳|eCommerce Data Science Intern|21.50 - 40.19|New York, NY|Closed🔒|08/03/2024|||
 |↳|Technology Data & Analytics, Data Engineer & Data Science Intern|21.50 - 54|<details><summary>2 locations<br><br><b></summary>Purchase, NY<br>Plano, TX</details><b>|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/internshipsprograms/jobs/315336?lang=en-us&previousLocale=en-US)||
 |↳|Technology Software Development & Engineering Intern|21.50 - 54|<details><summary>2 locations<br><br><b></summary>Purchase, NY<br>Plano, TX</details><b>|Open✅|08/03/2024|[Apply Here](https://www.pepsicojobs.com/internshipsprograms/jobs/315338?lang=en-us&previousLocale=en-US)||
@@ -1822,7 +1854,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Five Rings|Software Developer Intern|143.75|New York, NY|Open✅|08/02/2024|[Apply Here](https://job-boards.greenhouse.io/fiveringsllc/jobs/4090996008)||
 |HPR|Software Engineering Intern||Needham, MA|Open✅|08/02/2024|[Apply Here](https://job-boards.greenhouse.io/hyannisportresearch/jobs/6038522003)||
 |The Trade Desk|Software Engineering Intern||<details><summary>8 locations<br><br><b></summary>Bellevue, WA<br>Boulder, CO<br>Denver, CO<br>Irvine, CA<br>Los Angeles, CA<br>New York, NY<br>San Francisco, CA<br>Ventura, CA</details><b>|Open✅|08/02/2024|[Apply Here](https://boards.greenhouse.io/thetradedesk)||
-|Confluent|Software Engineering Intern||Austin, TX|Open✅|08/01/2024|[Apply Here](https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern)||
+|Confluent|Software Engineering Intern||Austin, TX|Closed🔒|08/01/2024|||
 |Talos|Software Engineering Intern||New York, NY|Closed🔒|08/01/2024|||
 |Sentry|Software Engineering Intern|53.13|San Francisco, CA|Closed🔒|08/01/2024|||
 |Virtu|Developer Intern|100 - 125|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>New York, NY</details><b>|Open✅|07/30/2024|[Apply Here](https://job-boards.greenhouse.io/virtu/jobs/7520504002)||
@@ -1840,9 +1872,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern, C++||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6080090)||
 |↳|Software Engineer Intern, Python||Chicago, IL|Open✅|07/16/2024|[Apply Here](https://akunacapital.com/job-details?gh_jid=6037985)||
 |↳|Software Engineer Intern, Data Engineering||Chicago, IL|Closed🔒|07/16/2024|||
-|IMC|Software Engineer Intern||Chicago, IL|Open✅|07/15/2024|[Apply Here](https://boards.greenhouse.io/imc/jobs/4347765101)||
+|IMC|Software Engineer Intern||Chicago, IL|Closed🔒|07/15/2024|||
 |L3Harris|Software Engineering 1 Intern||Los Angeles, CA|Closed🔒|07/13/2024|||
-|PDT Partners|Software Engineering Intern|68 - 86|New York, NY|Open✅|07/09/2024|[Apply Here](https://boards.greenhouse.io/pdtpartners/jobs/4423823)||
+|PDT Partners|Software Engineering Intern|68 - 86|New York, NY|Closed🔒|07/09/2024|||
 |Caterpillar|Digital and Analytics Intern|22.60 - 40.70|<details><summary>3 locations<br><br><b></summary>Chicago, IL<br>Peoria, IL<br>Irving, TX</details><b>|Closed🔒|07/09/2024|||
 |DRW|User-Interface Engineer Intern||Chicago, IL|Closed🔒|07/08/2024|||
 |↳|Software Developer Intern||Chicago, IL|Open✅|07/08/2024|[Apply Here](https://drw.com/work-at-drw/listings/software-developer-intern-2909276)||
@@ -1860,14 +1892,14 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Bank of America|Global Technology Analyst Program||<details><summary>10 locations<br><br><b></summary>Addison, TX<br>Charlotte, NC<br>Chicago, IL<br>Denver, CO<br>Jersey City, NJ<br>New York, NY<br>Pennington, NJ<br>Plano, TX<br>Richmond, VA<br>Washington, D.C.</details><b>|Closed🔒|06/15/2024|||
 |Capstone|Software Engineering Intern|28 - 32|New York, NY|Closed🔒|06/15/2024|||
 |Radix Trading|Quantitative Technologist Intern, C++||Chicago, IL|Open✅|06/07/2024|[Apply Here](https://boards.greenhouse.io/radixuniversity/jobs/7463231002)||
-|BlackRock|Summer Intern Program|43 - 56||Open✅|05/23/2024|[Apply Here](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB)||
+|BlackRock|Summer Intern Program|43 - 56||Closed🔒|05/23/2024|||
 |Global Atlantic Financial Group|Global Atlantic Intern Program||New York, NY|Open✅|05/23/2024|[Apply Here](https://boards.greenhouse.io/gainternships/jobs/5594014)||
 |Ventas|Software Engineer Intern||Chicago, IL|Open✅|05/23/2024|[Apply Here](https://ventas.wd1.myworkdayjobs.com/VTR_NonPublic/job/IL---Chicago/Intern--Software-Engineering--Summer-2025-_R0001113-2)||
 |Cranium|AI/ML Engineer Intern|25 - 30|Short Hills, NJ|Open✅|05/19/2024|[Apply Here](https://www.linkedin.com/jobs/view/3925803158/?alternateChannel=search&refId=srsX6lCATotkwX3Ji42syA%3D%3D&trackingId=6R1y0H7JM2g1bbpYkTDEIQ%3D%3D)||
 |SIG|Software Engineering Intern||Bala Cynwyd, PA|Open✅|05/19/2024|[Apply Here](https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025)||
 |Goldman Sachs|Summer Analyst Program, Technology||<details><summary>4 locations<br><br><b></summary>Albany, NY<br>New York, NY<br>Salt Lake City, UT<br>Dallas, TX</details><b>|Open✅|05/19/2024|[Apply Here](https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2025-summer-analyst-program)||
 |Epic|Software Developer Intern||Verona, WI|Open🛂|05/19/2024|[Apply Here](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624)||
-|BNP Paribas|Summer Analyst Intern, Technology||Jersey City, NJ|Open✅|05/19/2024|[Apply Here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/brand-7/candidate/so/pm/1/pl/2/opp/900/en-GB?site=group.bnpparibas&campaignReal=0&src=CWS-15640&offerID=900&domainID=174&entityID=94)||
+|BNP Paribas|Summer Analyst Intern, Technology||Jersey City, NJ|Closed🔒|05/19/2024|||
 
 
 [⬆️ Back to Top ⬆️](#internship-positions)
