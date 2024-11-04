@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/03/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/04/2024.
 
 ## Internship Positions
 
-There are total of **1943 (952 open & 991 closed)** internship positions listed. **14** new positions were added today.
+There are total of **1944 (953 open & 991 closed)** internship positions listed. **1** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,28 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|PlayStation|Software Engineer Intern - Undergraduate|41.5|Madison, WI|Open✅|11/04/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5355807004)||
+|↳|Software Engineering Intern, Search Platform - Master|45 - 54|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340475004)||
+|↳|Analytics Engineer Intern - Undergraduate|41.5 - 50|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343091004)||
+|↳|Data Science Intern - PhD|48 - 57.75|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343156004)||
+|↳|Documentation Tools Intern - Undergraduate|41.5 - 50|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5323768004)||
+|↳|Marketing Data Engineer Intern - Masters or PhD|54 - 57.75|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5323800004)||
+|↳|Quality Engineer Intern - Masters|45 - 54|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342919004)||
+|↳|Site Reliability Engineer Intern - Undergraduate|41.5 - 45.75|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5346569004)||
+|↳|Software Engineering Intern, Subscriptions - Undergraduate|41.5 - 50|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342820004)||
+|↳|Software Engineering Intern, Retail Services - Undergraduate|41.5 - 50|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342873004)||
+|↳|Software Engineering Intern, Tooling and Services - Undergraduate|45.75|Los Angeles, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342902004)||
+|↳|Software Engineering Intern, Gate Keepers - Undergraduate|45.75|Los Angeles, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342871004)||
+|↳|Software Engineer Intern, Catalog and Pricing - Masters|45 - 54|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343112004)||
+|↳|Software Engineer Intern, Payment - Masters|45 - 49.5|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5346550004)||
+|↳|Software Engineer Intern, Offer Prefer Payments - Undergraduate|41.5 - 50|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343110004)||
+|↳|Data Engineer Intern - Undergraduate|45.75 - 50|Los Angeles, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342904004)||
+|↳|Software Development Engineer Intern, Test - Undergraduate|50|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342921004)||
+|↳|Software Engineer Intern, Client Developer Experience|50|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342967004)||
+|↳|Software Engineer Intern, Cyborg - Masters|54|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343134004)||
+|↳|Software Engineer Intern, Ghost - Undergraduate|50|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5344754004)||
+|↳|Applied Machine Learning Intern - Masters|49.5|Aliso Viejo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340494004)||
+|↳|Software Engineering Intern, Product UX & Tooling - Undergraduate|45.75|Aliso Viejo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340501004)||
 |Seagate|RUST SW Developer Intern||Shakopee, MN|Open✅|11/03/2024|[Apply Here](https://seagatecareers.com/job/Shakopee-Intern-RUST-SW-Developer-MN/1219379000)||
 |↳|AI-Driven Materials Discovery Intern||Bloomington, MN|Open✅|11/03/2024|[Apply Here](https://seagatecareers.com/job/Bloomington-Intern-AI-Driven-Materials-Discovery-MN/1219090800)||
 |↳|Development Engineer Intern|23 - 41|Fremont, CA|Closed🔒|09/12/2024|||
@@ -831,27 +853,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Analog Devices|Machine Learning Engineering Intern||Boston, MA|Open✅|10/10/2024|[Apply Here](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Engineering-Intern_R243707)||
 |↳|Data Engineering Intern||<details><summary>2 locations<br><br><b></summary>San Jose, CA<br>Wilmington, MA</details><b>|Open✅|10/10/2024|[Apply Here](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Data-Engineering-Intern_R243720)||
 |Acadian Asset Management|Quant Developer Intern||Boston, MA|Open✅|10/10/2024|[Apply Here](https://www.acadian-asset.com/careers/open-positions?gh_jid=4409144006)||
-|PlayStation|Software Engineering Intern, Search Platform - Master|45 - 54|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340475004)||
-|↳|Analytics Engineer Intern - Undergraduate|41.5 - 50|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343091004)||
-|↳|Data Science Intern - PhD|48 - 57.75|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343156004)||
-|↳|Documentation Tools Intern - Undergraduate|41.5 - 50|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5323768004)||
-|↳|Marketing Data Engineer Intern - Masters or PhD|54 - 57.75|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5323800004)||
-|↳|Quality Engineer Intern - Masters|45 - 54|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342919004)||
-|↳|Site Reliability Engineer Intern - Undergraduate|41.5 - 45.75|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5346569004)||
-|↳|Software Engineering Intern, Subscriptions - Undergraduate|41.5 - 50|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342820004)||
-|↳|Software Engineering Intern, Retail Services - Undergraduate|41.5 - 50|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342873004)||
-|↳|Software Engineering Intern, Tooling and Services - Undergraduate|45.75|Los Angeles, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342902004)||
-|↳|Software Engineering Intern, Gate Keepers - Undergraduate|45.75|Los Angeles, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342871004)||
-|↳|Software Engineer Intern, Catalog and Pricing - Masters|45 - 54|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343112004)||
-|↳|Software Engineer Intern, Payment - Masters|45 - 49.5|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5346550004)||
-|↳|Software Engineer Intern, Offer Prefer Payments - Undergraduate|41.5 - 50|San Diego, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343110004)||
-|↳|Data Engineer Intern - Undergraduate|45.75 - 50|Los Angeles, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342904004)||
-|↳|Software Development Engineer Intern, Test - Undergraduate|50|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342921004)||
-|↳|Software Engineer Intern, Client Developer Experience|50|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342967004)||
-|↳|Software Engineer Intern, Cyborg - Masters|54|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343134004)||
-|↳|Software Engineer Intern, Ghost - Undergraduate|50|San Mateo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5344754004)||
-|↳|Applied Machine Learning Intern - Masters|49.5|Aliso Viejo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340494004)||
-|↳|Software Engineering Intern, Product UX & Tooling - Undergraduate|45.75|Aliso Viejo, CA|Open✅|10/09/2024|[Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340501004)||
 |OCC|Platform Engineering Intern||Chicago, IL|Closed🔒|10/09/2024|||
 |↳|Cloud Technology Intern||Dallas, TX|Closed🔒|10/09/2024|||
 |↳|IT Risk Intern||Dallas, TX|Closed🔒|10/09/2024|||

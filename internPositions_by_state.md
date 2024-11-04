@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by state. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/03/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/04/2024.
 
 ## Internship Positions
 
-There are a total of **53** (including remote and unknown) states listed. **14** new positions were added today.
+There are a total of **53** (including remote and unknown) states listed. **1** new positions were added today.
 
 ### Viewing Options:
 If you prefer to view the positions sorted by statuses, check out the [Internship Opportunities by Status](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_status.md) page.
@@ -2737,9 +2737,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Palantir                            | Software Engineer Intern                                                                     | 62.5             | Open✅   | 07/01/2024   | Seattle, WA                                                                                                                                                                      | [Apply Here](https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140)                                                                                      |
 
 ## Jobs in WI
-### Number of positions: 61 (Open: 31, Closed: 30)
+### Number of positions: 62 (Open: 32, Closed: 30)
 | Company                 | Job Title                                      | Hourly Pay ($)   | Status   | Date Added   | Location                                                                                                                     | Application Link                                                                                                                                                                                                            |
 |:------------------------|:-----------------------------------------------|:-----------------|:---------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PlayStation             | Software Engineer Intern - Undergraduate       | 41.5             | Open✅   | 11/04/2024   | Madison, WI                                                                                                                  | [Apply Here](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5355807004)                                                                                                                           |
 | CNH Industrial          | Test Engineer Intern, Machine Software Testing |                  | Open✅   | 11/02/2024   | Saint Nazianz, WI                                                                                                            | [Apply Here](https://careers.cnh.com/job/21152105/test-engineer-intern-machine-software-testing-saint-nazianz-wi/)                                                                                                          |
 | Cognex                  | Software Engineering Intern                    |                  | Open✅   | 11/02/2024   | Wauwatosa, WI                                                                                                                | [Apply Here](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010292)                                                                                  |
 | Associated Bank         | Artificial Intelligence Intern                 |                  | Open✅   | 11/01/2024   | Milwaukee, WI                                                                                                                | [Apply Here](https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/Corporate-Intern---Artificial-Intelligence---Summer-2025_JR102019)                                              |
