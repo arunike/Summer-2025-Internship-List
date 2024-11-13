@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/12/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/13/2024.
 
 ## Internship Positions
 
-There are total of **2130 (1000 open & 1130 closed)** internship positions listed. **15** new positions were added today.
+There are total of **2143 (1014 open & 1129 closed)** internship positions listed. **14** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,35 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|ebay|Software Engineering Intern - PhD|62 - 64|San Jose, CA|Open✅|11/13/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/396bd6b0/details?tl=69d93cf4)||
+|↳|Mobile Software Engineer Intern|34 - 44|Portland, OR|Open✅|11/06/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/092cf91c/details)||
+|↳|Data Science Intern, Analytics|47 - 53|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>Bellevue, WA<br>New York, NY</details><b>|Open✅|11/06/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/fc94df68/details)||
+|↳|Software Engineering Intern|34 - 53|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>Portland, OR<br>Bellevue, WA<br>New York, NY</details><b>|Closed🔒|10/16/2024|||
+|JM Family|Software Engineering Intern||Deerfield Beach, FL|Open✅|11/13/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Software-Engineering_JR102957)||
+|↳|Data Analyst Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
+|↳|Data Analytics Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
+|↳|Data Engineering Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
+|↳|Technology Initiatives Intern||St. Louis, MO|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Missouri---St-Louis/Intern--Technology-Initiatives_JR102991)||
+|↳|Developer Analyst Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
+|↳|Automation Analyst Intern||Deerfield Beach, FL|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Automation-Analyst_JR102955)||
+|↳|Data Engineering Intern||Deerfield Beach, FL|Closed🔒|10/26/2024||Graduate Students Only|
+|↳|IT Delivery Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
+|d-Matrix|Compiler Software Engineer Intern|30 - 50|San Clara, CA|Open✅|11/13/2024|[Apply Here](https://jobs.ashbyhq.com/d-Matrix/458a7ddb-1c65-4255-a84f-514d540b19c6)||
+|↳|Machine Learning Intern|30 - 50|San Clara, CA|Open✅|11/13/2024|[Apply Here](https://jobs.ashbyhq.com/d-Matrix/b5646bb8-8aa0-43da-add8-8df5b6beeb04)||
+|↳|Machine Learning Software Engineering Intern|30 - 50|San Clara, CA|Open✅|11/13/2024|[Apply Here](https://jobs.ashbyhq.com/d-Matrix/4ffd4328-7fb5-4d82-8afc-d18c0b7c8cde)||
+|Gridmatic|Intern||Cupertino, CA|Open✅|11/13/2024|[Apply Here](https://jobs.lever.co/gridmatic/e9ccb91b-11c2-4ce4-aada-d85f9b22c2e4)||
+|Skydio|Software Engineer Intern|41 - 53|Boston, MA|Open✅|11/13/2024|[Apply Here](https://www.skydio.com/jobs/6220824003)||
+|↳|Software Engineer Intern|41 - 53|San Mateo, CA|Open✅|11/13/2024|[Apply Here](https://www.skydio.com/jobs/6220519003)||
+|↳|Embedded Software Engineer Intern|41 - 58|San Mateo, CA|Open✅|11/09/2024|[Apply Here](https://www.skydio.com/jobs/6220441003)||
+|↳|Mobile Software Engineer Intern|41 - 58|San Mateo, CA|Open✅|11/05/2024|[Apply Here](https://www.skydio.com/jobs/6220730003)||
+|↳|Wireless Software Intern|41 - 53|San Mateo, CA|Open✅|11/05/2024|[Apply Here](https://www.skydio.com/jobs/6220790003)||
+|↳|Autonomy Engineer Intern|41 - 53|San Mateo, CA|Open✅|10/16/2024|[Apply Here](https://www.skydio.com/jobs/4219855003)||
+|GE Vernova|Data Platform Engineering Intern||Bothell, WA|Open🛂|11/13/2024|[Apply Here](https://jobs.gecareers.com/vernova/global/en/job/R3786887/Data-Platform-Engineering-Intern)||
+|↳|GridOS SCADA Application Intern||Bothell, WA|Open🛂|11/13/2024|[Apply Here](https://jobs.gecareers.com/vernova/global/en/job/R3786508/GridOS-SCADA-Application-Intern)||
+|↳|Energy Markets Software Engineering Intern||Bothell, WA|Open🛂|11/13/2024|[Apply Here](https://jobs.gecareers.com/vernova/global/en/job/R3788479/Energy-Markets-Software-Engineering-Intern)||
+|↳|AI/ML Intern, Advanced Technology||Bothell, WA|Open🛂|11/13/2024|[Apply Here](https://jobs.gecareers.com/vernova/global/en/job/R3788907/AI-ML-Intern-Advanced-Technology)||
+|↳|Data Science & Software Development Intern||Bothell, WA|Open🛂|11/13/2024|[Apply Here](https://jobs.gecareers.com/vernova/global/en/job/R3786672/Data-Science-Software-development-Internship)||
+|↳|GE Vernova Digital Technology Intern|21 - 36|Bothell, WA|Open🛂|11/13/2024|[Apply Here](https://jobs.gecareers.com/vernova/global/en/job/R3757035/GE-Vernova-Digital-Technology-Internship-Summer-2025)||
 |CoreLogic|Software Engineering Intern||Austin, TX|Open✅|11/12/2024|[Apply Here](https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Austin-TX/Intern--Software-Engineer_REQ15733)||
 |↳|Data Engineer Intern|19.63 - 27.08|<details><summary>2 locations<br><br><b></summary>Dallas, TX<br>Irvine, CA</details><b>|Open✅|11/06/2024|[Apply Here](https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Dallas-TX/Intern--Data-Engineer_REQ15611)||
 |↳|Database Administration Intern||Oxford, MS|Open✅|11/06/2024|[Apply Here](https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Oxford-MS/Intern--Database-Administration_REQ15787)||
@@ -175,11 +204,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern - Undergraduate|32 - 46|Austin, TX|Open✅|11/09/2024|[Apply Here](https://www.hashicorp.com/career/6380117)||
 |Truveta|Clinical Data Analyst Intern||Seattle, WA|Open✅|11/09/2024|[Apply Here](https://job-boards.greenhouse.io/truveta/jobs/5374109004)||
 |↳|ML Intern, LLMs & Generative AI - PhD|45|Seattle, WA|Open✅|11/09/2024|[Apply Here](https://job-boards.greenhouse.io/truveta/jobs/5348248004)||
-|Skydio|Embedded Software Engineer Intern|41 - 58|San Mateo, CA|Open✅|11/09/2024|[Apply Here](https://www.skydio.com/jobs/6220441003?gh_jid=6220441003)||
-|↳|Mobile Software Engineer Intern|41 - 58|San Mateo, CA|Open✅|11/05/2024|[Apply Here](https://www.skydio.com/jobs/6220730003?gh_jid=6220730003)||
-|↳|Wireless Software Intern|41 - 53|San Mateo, CA|Open✅|11/05/2024|[Apply Here](https://www.skydio.com/jobs/6220790003/?gh_jid=6220790003)||
-|↳|Autonomy Engineer Intern|41 - 53|San Mateo, CA|Open✅|10/16/2024|[Apply Here](https://www.skydio.com/jobs/4219855003)||
-|↳|Software Engineer Intern|41 - 53|San Mateo, CA|Closed🔒|10/16/2024|||
 |Red Ventures|Data Science Intern|48.07|Charlotte, NC|Open✅|11/09/2024|[Apply Here](https://www.redventures.com/careers/positions/open?gh_jid=6356231)||
 |Recursion|Software Engineering Intern|40 - 50|Salt Lake City, UT|Open✅|11/09/2024|[Apply Here](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/6380018)||
 |Brooks|Computer Science Intern||Chelmsford, MA|Open✅|11/09/2024|[Apply Here](https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/Chelmsford-MA/Computer-Science-Intern--Summer-2025-_R2297)||
@@ -330,9 +354,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Technology Development Program Intern|23.5 - 27|<details><summary>8 locations<br><br><b></summary>St. Louis, MO<br>Austin, TX<br>Bloomfield, CT<br>Bloomington, MN<br>Denver, CO<br>Franklin, TN<br>Morris Plains, NJ<br>Nashville, TN</details><b>|Closed🔒|09/12/2024|||
 |Ommo|Software Engineering Intern|||Open✅|11/06/2024|[Apply Here](https://www.ommo.co/softwareintern)||
 |Corpay|DevOps Intern||Atlanta, GA|Open✅|11/06/2024|[Apply Here](https://us242.dayforcehcm.com/CandidatePortal/en-US/fleetcor/Posting/View/39439)||
-|ebay|Mobile Software Engineer Intern|34 - 44|Portland, OR|Open✅|11/06/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/092cf91c/details)||
-|↳|Data Science Intern, Analytics|47 - 53|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>Bellevue, WA<br>New York, NY</details><b>|Open✅|11/06/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/fc94df68/details)||
-|↳|Software Engineering Intern|34 - 53|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>Portland, OR<br>Bellevue, WA<br>New York, NY</details><b>|Closed🔒|10/16/2024|||
 |FormLabs|Python Software Intern|30 - 40|Somerville, MA|Open✅|11/06/2024|[Apply Here](https://careers.formlabs.com/job/6236789/apply/)||
 |WillowTree|Data Science Intern|31 - 33|Charlottesville, VA|Open🛂|11/06/2024|[Apply Here](https://www.willowtreeapps.com/careers/jobs?gh_jid=7606228002)||
 |↳|Software Engineering Intern|31 - 33|<details><summary>3 locations<br><br><b></summary>Charlottesville, VA<br>Columbus, OH<br>Durham, NC</details><b>|Open🛂|11/06/2024|[Apply Here](https://www.willowtreeapps.com/careers/jobs?gh_jid=7596209002)||
@@ -656,14 +677,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Science Intern, Insurance||Alpharetta, GA|Open✅|10/26/2024|[Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Science-Intern--Insurance_R83811)|Graduate Students Only|
 |↳|Healthcare Data Science Intern||Alpharetta, GA|Open✅|10/26/2024|[Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Healthcare-Data-Science-Intern_R84099-1)||
 |↳|Gen AI Data Science Intern||Alpharetta, GA|Open✅|10/26/2024|[Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Science-Intern_R84091)|Graduate Students Only|
-|JM Family|Data Analyst Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
-|↳|Data Analytics Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
-|↳|Data Engineering Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
-|↳|Technology Initiatives Intern||St. Louis, MO|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Missouri---St-Louis/Intern--Technology-Initiatives_JR102991)||
-|↳|Developer Analyst Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
-|↳|Automation Analyst Intern||Deerfield Beach, FL|Open✅|10/26/2024|[Apply Here](https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Automation-Analyst_JR102955)||
-|↳|Data Engineering Intern||Deerfield Beach, FL|Closed🔒|10/26/2024||Graduate Students Only|
-|↳|IT Delivery Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
 |Snowflake|Software Engineer Intern, AI/ML|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
 |↳|Software Engineer Intern, AI/ML|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
 |↳|Software Engineer Intern, Database Engineering|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
