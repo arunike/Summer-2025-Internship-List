@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/15/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/16/2024.
 
 ## Internship Positions
 
-There are total of **2241 (965 open & 1276 closed)** internship positions listed. **27** new positions were added today.
+There are total of **2247 (972 open & 1275 closed)** internship positions listed. **7** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,13 +31,25 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
-|Citi|Technology Summer Analyst, Cybersecurity|41.66 - 57.29|Tampa, FL|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/tampa/technology-cybersecurity-summer-analyst-tampa-2025/287/72890201808)||
+|Citi|Technology Summer Analyst, Software Development|41.66 - 57.29|New York, NY|Open🛂|11/16/2024|[Apply Here](https://jobs.citi.com/job/new-york/technology-software-development-summer-analyst-new-york-city-jersey-city-2025/287/72965284016)||
+|↳|Technology Summer Analyst, Cybersecurity|41.66 - 57.29|Tampa, FL|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/tampa/technology-cybersecurity-summer-analyst-tampa-2025/287/72890201808)||
 |↳|Technology Summer Analyst, Cybersecurity|41.66 - 57.29|Irving, TX|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/irving/technology-cybersecurity-summer-analyst-irving-2025/287/72890200640)||
 |↳|Technology Summer Analyst, Software Development|41.66 - 57.29|Jacksonville, FL|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/jacksonville/technology-software-development-summer-analyst-jacksonville-2025/287/72890203360)||
 |↳|Technology Summer Analyst, Software Development|41.66 - 57.29|Tampa, FL|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/tampa/technology-software-develpoment-summer-analyst-tampa-2025/287/72890201680)||
 |↳|Technology Summer Analyst, Software Development|41.66 - 57.29|Irving, TX|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/irving/technology-software-development-summer-analyst-irving-2025/287/72890201104)||
 |↳|Early ID Program, Technology|41.66 - 57.29|Irving, TX|Open✅|11/11/2024|[Apply Here](https://jobs.citi.com/job/irving/early-id-program-technology-2025-irving-texas/287/72584143264)||
 |↳|Early ID Program, Technology|41.66 - 57.29|Tampla, FL|Open✅|11/11/2024|[Apply Here](https://jobs.citi.com/job/tampa/early-id-program-technology-2025-tampa-florida/287/72584144496)||
+|Badger Meter|Software Engineering Intern||Milwaukee, WI|Open✅|11/16/2024|[Apply Here](https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_3515)||
+|Arevon|Data Management Intern||Scottsdale, AZ|Open✅|11/16/2024|[Apply Here](https://arevonenergy.com/careers/?gh_jid=4579356007)||
+|Rakuten|Software Engineer Intern, AI User Experience||Seattle, WA|Open✅|11/16/2024|[Apply Here](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Seattle-Washington/Intern---Software-Engineer--AI-User-Experience_1024070-1)||
+|Nordson|Software Engineering Intern||East Providence, RI|Open✅|11/16/2024|[Apply Here](https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ42119)||
+|↳|Software Engineering Intern||Carlsbad, CA|Open✅|10/12/2024|[Apply Here](https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Intern--Software-Engineering-Summer-Intern-_REQ41630)||
+|↳|Software Engineering Intern||Loveland, CO|Closed🔒|10/12/2024|||
+|↳|Digital Transformation Analyst Intern||Amherst, OH|Closed🔒|10/12/2024|||
+|Johnson & Johnson|Software Engineering Intern|31 - 59|Santa Clara, CA|Open✅|11/16/2024|[Apply Here](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2406221806W)||
+|↳|Digital Platform Intern|24.75 - $33|Titusville, NJ|Closed🔒|10/12/2024|||
+|↳|Technology Intern|24.75 - $33|<details><summary>8 locations<br><br><b></summary>Raritan, NJ<br>New Brunswick, NJ<br>Cambridge, MA<br>Jacksonville, FL<br>Titusville, NJ<br>Spring House, PA<br>Bridgewater, NJ<br>Palm Beach Gardens, FL</details><b>|Closed🔒|07/31/2024|||
+|Intuitive|Software Engineering Intern|33.58 - 58.5|Sunnyvale, CA|Open✅|11/16/2024|[Apply Here](https://careers.intuitive.com/en/jobs/744000026549305/JOB9702/software-engineering-intern/)||
 |Cadence|Software R&D Intern||Austin, TX|Open✅|11/15/2024|[Apply Here](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN-03/Software-R-D-Intern--Summer_R48025-1)|Graduate Students Only|
 |↳|Software Intern|28.6 - 53.12|San Jose, CA|Open✅|11/15/2024|[Apply Here](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R47859-1)||
 |↳|Software Intern, Machine Learning||San Jose, CA|Open✅|11/15/2024|[Apply Here](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE-10/Software-Intern--Machine-Learning_R48015-1)||
@@ -1168,8 +1180,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Digital Technology Innovation Intern - Undergrad|21 - 28.3|Remote|Closed🔒|10/12/2024|||
 |GW&K|Enterprise Data & Analytics Intern||Boston, MA|Closed🔒|10/12/2024|||
 |Kenvue|Tech & Data Intern|20 - 26|Skillman, NJ|Closed🔒|10/12/2024|||
-|Johnson & Johnson|Digital Platform Intern|24.75 - $33|Titusville, NJ|Closed🔒|10/12/2024|||
-|↳|Technology Intern|24.75 - $33|<details><summary>8 locations<br><br><b></summary>Raritan, NJ<br>New Brunswick, NJ<br>Cambridge, MA<br>Jacksonville, FL<br>Titusville, NJ<br>Spring House, PA<br>Bridgewater, NJ<br>Palm Beach Gardens, FL</details><b>|Closed🔒|07/31/2024|||
 |Hologic|R&D Software Engineering Intern|22 - 35|San Diego, CA|Closed🔒|10/12/2024|||
 |↳|Software Verification & Validation Intern|22 - 35|San Diego, CA|Closed🔒|10/12/2024|||
 |Wells Fargo|Technology Intern, Software Engineer|60.1|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Concord, CA<br>San Leandro, CA</details><b>|Closed🔒|10/12/2024|||
@@ -1178,9 +1188,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Analytics and Data Intern|40.87|<details><summary>6 locations<br><br><b></summary>Charlotte, NC<br>Chandler, AZ<br>Dallas, TX<br>Minneapolis, MN<br>West Des Moines, IA<br>Chandler, AZ</details><b>|Closed🔒|08/05/2024|||
 |↳|Technology Intern, Software or Data Engineer|48.08 - 60.10|<details><summary>8 locations<br><br><b></summary>Charlotte, NC<br>Chandler, AZ<br>Phoenix, AZ<br>Summit, NJ<br>Irving, TX<br>Addison, TX<br>Minneapolis, MN<br>Saint Louis, MO</details><b>|Closed🔒|07/17/2024|||
 |CAI|Software Developer Intern||Remote|Closed🔒|10/12/2024|||
-|Nordson|Software Engineering Intern||Carlsbad, CA|Open✅|10/12/2024|[Apply Here](https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Intern--Software-Engineering-Summer-Intern-_REQ41630)||
-|↳|Software Engineering Intern||Loveland, CO|Closed🔒|10/12/2024|||
-|↳|Digital Transformation Analyst Intern||Amherst, OH|Closed🔒|10/12/2024|||
 |EquipmentShare|Software Engineer Intern||Columbia, MO|Open✅|10/11/2024|[Apply Here](https://www.equipmentshare.com/careers/openings/6388126/intern-software-engineer-at-columbia-mo-corporate)||
 |↳|Embedded Engineering Intern||Columbia, MO|Closed🔒|10/11/2024|||
 |DriveTime|Software Engineering Intern||Tempe, AZ|Open✅|10/11/2024|[Apply Here](https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern--Summer-2025-_R9725)||
@@ -1853,7 +1860,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|IT Quality Engineer Intern||Westfield Center, OH|Closed🔒|09/11/2024|||
 |↳|DevSecOps Intern||Westfield Center, OH|Closed🔒|09/11/2024|||
 |Saviynt|Engineering Intern (UI), Software Engineering||Los Angeles, CA|Closed🔒|09/11/2024|||
-|Badger Meter|Software Engineering Intern||Milwaukee, WI|Closed🔒|09/11/2024|||
 |Wellmark|Data Analytics & Governance Intern||Des Moines, IA|Closed🔒|09/10/2024|||
 |Grammarly|Software Engineering Intern|46|Remote|Closed🔒|09/10/2024|||
 |Mutal of Omaha|Analytics Engineer Intern|23 - 26|Remote|Closed🔒|09/10/2024|||
