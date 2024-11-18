@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/17/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/18/2024.
 
 ## Internship Positions
 
-There are total of **2264 (991 open & 1273 closed)** internship positions listed. **19** new positions were added today.
+There are total of **2265 (991 open & 1274 closed)** internship positions listed. **1** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,23 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Motorola Solutions|Computer Engineer Intern||Lexington, SC|Open🛂|11/18/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Lexington-SC-SC07/Computer-Engineer-Intern---Summer-2025_R51639)|Sponsorship is only available to Graduate Students|
+|↳|Software Engineering Intern||Allen, TX|Open🛂|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2025_R50875)|Sponsorship is only available to Graduate Students|
+|↳|Audio Software Engineer Intern||Plantation, FL|Open🛂|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Audio-Software-Engineer-Intern---Summer-2025_R49989)|Sponsorship is only available to Graduate Students|
+|↳|Product and Data Research Intern||Allen, TX|Open🛂|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Product-and-Data-Research-Intern---Summer-2025_R50990)|Sponsorship is only available to Graduate Students|
+|↳|Supply Chain Data Analytics Intern||Chicago, IL|Open✅|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2025_R49479)||
+|↳|Supply Chain Data Analytics Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Schaumburg, IL</details><b>|Open✅|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analytics-Internship-2025_R49655)||
+|↳|Embedded Software Engineer Intern||Schaumburg, IL|Open🛂|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/XMLNAME-2025-Summer-Internship---Embedded-Software-Engineer_R51587-1)||
+|↳|Tableau Data Scientist Intern||Chicago, IL|Closed🔒|10/31/2024|||
+|↳|Software Engineer Intern, Critical Communication Networks||<details><summary>2 locations<br><br><b></summary>Schaumburg, IL<br>Chicago, IL</details><b>|Closed🔒|10/08/2024|||
+|↳|IT Data Analytics Intern||Chicago, IL|Closed🔒|10/06/2024||Sponsorship is only available to Graduate Students|
+|↳|Test Engineering Intern||Chicago, IL|Open🛂|09/30/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Test-Engineering-Internship-2025_R49680)||
+|↳|Software Engineer Intern||Plantation, FL|Open🛂|09/19/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineer-Intern---Summer-2025_R50157)||
+|↳|Software Development Intern||Remote|Closed🔒|09/17/2024|||
+|↳|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Schaumburg, IL<br>Chicago, IL</details><b>|Closed🔒|09/17/2024|||
+|↳|Android Applications Developer Intern||Chicago, IL|Closed🔒|09/06/2024|||
+|↳|Google Applications Developer Intern|22 - 26|New York, NY|Closed🔒|08/21/2024|||
+|↳|Android Platform Software Engineering Intern||Schaumburg, IL|Closed🔒|07/31/2024||Sponsorship is only available to Graduate Students|
 |Johnson & Johnson|Front End Software Engineering Intern|31 - 59|Santa Clara, CA|Open✅|11/17/2024|[Apply Here](https://jobs.jnj.com/en/jobs/2406221506w/front-end-software-engineering-intern)||
 |↳|Software Engineering Intern|31 - 59|Santa Clara, CA|Open✅|11/16/2024|[Apply Here](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2406221806W)||
 |↳|Digital Platform Intern|24.75 - $33|Titusville, NJ|Closed🔒|10/12/2024|||
@@ -85,7 +102,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Intern, Machine Learning||San Jose, CA|Open✅|11/15/2024|[Apply Here](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE-10/Software-Intern--Machine-Learning_R48015-1)||
 |↳|Software Engineering Intern||Remote|Closed🔒|11/08/2024|||
 |↳|WFO Application Engineer Intern||San Jose, CA|Open✅|09/13/2024|[Apply Here](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47392-2)||
-|Electric Power Engineers|Software Engineering Intern||Austin, TX|Open✅|11/15/2024|[Apply Here](https://careers-epeconsulting.icims.com/jobs/1514/software-engineering-intern/job)||
+|Electric Power Engineers|Software Engineering Intern||Austin, TX|Closed🔒|11/15/2024|||
 |CVS Health|Software Engineering Intern - Undergraduate|48|<details><summary>4 locations<br><br><b></summary>New York, NY<br>Hartford, CT<br>Wellesley, MA<br>Irving, TX</details><b>|Open✅|11/15/2024|[Apply Here](https://jobs.cvshealth.com/us/en/job/R0409095/Software-Engineering-Undergraduate-Internship-Summer-2025)||
 |↳|Software Engineering Intern - Graduate|55|<details><summary>4 locations<br><br><b></summary>New York, NY<br>Hartford, CT<br>Wellesley, MA<br>Irving, TX</details><b>|Open✅|11/15/2024|[Apply Here](https://jobs.cvshealth.com/us/en/job/R0409096/Software-Engineering-Graduate-Internship-Summer-2025)||
 |↳|Data Analytics Engineering Intern - Graduate|55|<details><summary>4 locations<br><br><b></summary>New York, NY<br>Hartford, CT<br>Wellesley, MA<br>Irving, TX</details><b>|Open✅|11/10/2024|[Apply Here](https://jobs.cvshealth.com/us/en/job/R0409093/Data-Analytics-Engineering-Graduate-Internship-Summer-2025)||
@@ -340,22 +357,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Algorithm Developer Intern||Troy, MI|Open✅|10/01/2024|[Apply Here](https://www.aptiv.com/en/jobs/search/open-positions/J000671918)||
 |Ethic|Software Engineering Intern|28 - 38|New York, NY|Open✅|11/12/2024|[Apply Here](https://www.ethic.com/roles?gh_jid=6240297003)||
 |GlossGenius|Engineering Intern|25 - 50|New York, NY|Open✅|11/11/2024|[Apply Here](https://job-boards.greenhouse.io/glossgenius/jobs/6220947003)||
-|Motorola Solutions|Software Engineering Intern||Allen, TX|Open🛂|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2025_R50875)|Sponsorship is only avaliable to Graduate Students|
-|↳|Audio Software Engineer Intern||Plantation, FL|Open🛂|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Audio-Software-Engineer-Intern---Summer-2025_R49989)|Sponsorship is only avaliable to Graduate Students|
-|↳|Product and Data Research Intern||Allen, TX|Open🛂|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Product-and-Data-Research-Intern---Summer-2025_R50990)|Sponsorship is only avaliable to Graduate Students|
-|↳|Supply Chain Data Analytics Intern||Chicago, IL|Open✅|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2025_R49479)||
-|↳|Supply Chain Data Analytics Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Schaumburg, IL</details><b>|Open✅|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analytics-Internship-2025_R49655)||
-|↳|Embedded Software Engineer Intern||Schaumburg, IL|Open🛂|11/11/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/XMLNAME-2025-Summer-Internship---Embedded-Software-Engineer_R51587-1)||
-|↳|Tableau Data Scientist Intern||Chicago, IL|Closed🔒|10/31/2024|||
-|↳|Software Engineer Intern, Critical Communication Networks||<details><summary>2 locations<br><br><b></summary>Schaumburg, IL<br>Chicago, IL</details><b>|Closed🔒|10/08/2024|||
-|↳|IT Data Analytics Intern||Chicago, IL|Closed🔒|10/06/2024||Sponsorship is only avaliable to Graduate Students|
-|↳|Test Engineering Intern||Chicago, IL|Open🛂|09/30/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Test-Engineering-Internship-2025_R49680)||
-|↳|Software Engineer Intern||Plantation, FL|Open🛂|09/19/2024|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineer-Intern---Summer-2025_R50157)||
-|↳|Software Development Intern||Remote|Closed🔒|09/17/2024|||
-|↳|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Schaumburg, IL<br>Chicago, IL</details><b>|Closed🔒|09/17/2024|||
-|↳|Android Applications Developer Intern||Chicago, IL|Closed🔒|09/06/2024|||
-|↳|Google Applications Developer Intern|22 - 26|New York, NY|Closed🔒|08/21/2024|||
-|↳|Android Platform Software Engineering Intern||Schaumburg, IL|Closed🔒|07/31/2024||Sponsorship is only available to Graduate Students|
 |Alcon|Fiber Engineering Intern|45|Lake Forest, CA|Open✅|11/11/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2025-Intern---Fiber-Engineering_R-2024-35966)||
 |↳|R&D Intern||<details><summary>3 locations<br><br><b></summary>Fort Worth, TX<br>Lake Forest, CA<br>Johnson Creek Research Center, GA</details><b>|Closed🔒|09/03/2024|||
 |Cardinal Health|Software Engineering Intern|24|<details><summary>2 locations<br><br><b></summary>Dublin, OH<br>Remote</details><b>|Open✅|11/11/2024|[Apply Here](https://jobs.cardinalhealth.com/Search/JobDetails/software-engineering-internship-summer-2025/37947be6-b9a3-4547-af6d-ac58185fcf42?mytest)||
