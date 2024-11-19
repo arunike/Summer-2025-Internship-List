@@ -6,11 +6,11 @@ checkPosition.py
 checkDuplicate.py
 
 ## JSON Files
-intern_positions.json
-check_position.json
+data/intern_positions_*.json
+output/check_position.json
 
 ## Markdown Files
-duplicate_entries.md
+output/duplicate_entries.md
 
 ## Text Files
-last_run_date.txt
+output/last_run_date.txt
