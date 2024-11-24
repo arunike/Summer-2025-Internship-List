@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/23/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/24/2024.
 
 ## Internship Positions
 
-There are total of **2373 (941 open & 1432 closed)** internship positions listed. **34** new positions were added today.
+There are total of **2374 (942 open & 1432 closed)** internship positions listed. **1** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|AppLovin|Software Engineering Intern|70|Palo Alto, CA|Open✅|11/24/2024|[Apply Here](https://boards.greenhouse.io/applovin/jobs/4407678006)||
 |TRS|DevOps Engineer Intern||Austin, TX|Open✅|11/23/2024|[Apply Here](https://trs.csod.com/ux/ats/careersite/5/home/requisition/1160?c=trs)||
 |↳|IT Software Developer Intern|23 - 25|Austin, TX|Open✅|11/09/2024|[Apply Here](https://trs.csod.com/ux/ats/careersite/5/home/requisition/1157?c=trs)||
 |Zoetis|AI and Analytics Intern|32.5 - 36|Remote|Open✅|11/23/2024|[Apply Here](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/US-Remote/AI-and-Analytics-Intern_JR00016799-1)|Graduate Students Only|
@@ -1043,8 +1044,8 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern, System Testing||Roseville, CA|Closed🔒|10/25/2024|||
 |↳|Software Engineer Intern, System Testing||Rochester, MN|Closed🔒|10/25/2024|||
 |NetApp|Software Engineer Intern||<details><summary>5 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Boulder, CO<br>Witchita, KS<br>Cranberry, PA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/san-jose/intern-software-engineer/27600/71710315840)||
-|↳|Software Engineer Intern||<details><summary>4 locations<br><br><b></summary>RTP, NC<br>New York, NY<br>San Jose, CA<br>Vienna, VA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400)||
-|↳|Software Engineer Intern||RTP, NC|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-information-technology/27600/71710316816)||
+|↳|Solution Engineer Intern||<details><summary>4 locations<br><br><b></summary>RTP, NC<br>New York, NY<br>San Jose, CA<br>Vienna, VA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400)||
+|↳|Information Technology Intern||RTP, NC|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-information-technology/27600/71710316816)||
 |Staples|Software Engineer Intern||Framingham, MA|Closed🔒|10/24/2024|||
 |↳|Java Developer Intern||Framingham, MA|Closed🔒|10/13/2024|||
 |↳|Salesforce Developer Intern||Framingham, MA|Closed🔒|10/13/2024|||
