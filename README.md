@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/24/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/26/2024.
 
 ## Internship Positions
 
-There are total of **2374 (942 open & 1432 closed)** internship positions listed. **1** new positions were added today.
+There are total of **2382 (951 open & 1431 closed)** internship positions listed. **8** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,19 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|CrowdStrike|Engineer Intern, TechOps|38 - 45|Remote|Open✅|11/26/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-Intern---TechOps--Remote-_R21148)||
+|↳|Engineer Intern, TechOps|38 - 45|Remote|Open✅|11/26/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Data-Science-Intern---Summer-2025--EMEA--Remote-_R21192)||
+|↳|Software Engineering Intern|38 - 45|Remote|Open✅|11/19/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2025--Remote--US--CAN-_R21100)||
+|↳|Frontend Engineer Intern|38 - 45|Remote|Open✅|11/19/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Summer-2025--Remote--US--CAN-_R21099)||
+|↳|Sales Excellence Data Analytics Intern||Remote|Closed🔒|10/31/2024|||
+|↳|Sales Excellence Data Quality Intern||Remote|Open✅|10/31/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-TX/Sales-Excellence-Data-Quality-Intern---Summer-2025--Texas--Remote-_R20686)||
+|↳|Internal Tools Developer Intern|38 - 45|Remote|Closed🔒|10/03/2024|||
+|Hugging Face|Machine Learning Engineer Intern, Quantization||Remote|Open✅|11/26/2024|[Apply Here](https://apply.workable.com/huggingface/j/0E6AD680D1/)||
+|↳|Machine Learning Engineer Intern, WebML||Remote|Open✅|11/26/2024|[Apply Here](https://apply.workable.com/huggingface/j/DF8A55231A/)||
+|↳|Machine Learning Engineer Intern, Information Retrieval||Remote|Open✅|11/26/2024|[Apply Here](https://apply.workable.com/huggingface/j/61FEE855FC/)||
+|↳|Machine Learning Engineer Intern, Accelerate||Remote|Open✅|11/26/2024|[Apply Here](https://apply.workable.com/huggingface/j/F860248372/)||
+|↳|Machine Learning Engineer Internship, AI Energy Score||Remote|Open✅|11/26/2024|[Apply Here](https://apply.workable.com/huggingface/j/B952461BFF/)||
+|↳|Machine Learning Engineer Internship, Generative AI||Remote|Open✅|11/26/2024|[Apply Here](https://apply.workable.com/huggingface/j/07FBA391F1/)||
 |AppLovin|Software Engineering Intern|70|Palo Alto, CA|Open✅|11/24/2024|[Apply Here](https://boards.greenhouse.io/applovin/jobs/4407678006)||
 |TRS|DevOps Engineer Intern||Austin, TX|Open✅|11/23/2024|[Apply Here](https://trs.csod.com/ux/ats/careersite/5/home/requisition/1160?c=trs)||
 |↳|IT Software Developer Intern|23 - 25|Austin, TX|Open✅|11/09/2024|[Apply Here](https://trs.csod.com/ux/ats/careersite/5/home/requisition/1157?c=trs)||
@@ -222,11 +235,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern, Commercial Platform Team|22 - 25|<details><summary>2 locations<br><br><b></summary>Durham, NC<br>Remote</details><b>|Open✅|11/20/2024|[Apply Here](https://careers.labcorp.com/global/en/job/2441484/Software-Engineering-Intern-Commercial-Platform-Team)||
 |↳|Data Science Intern - Graduate|22 - 25|Durham, NC|Open✅|11/20/2024|[Apply Here](https://careers.labcorp.com/global/en/job/2439855/Graduate-Data-Science-Intern)||
 |↳|Software Quality Assurance Engineer Intern|22 - 25|<details><summary>2 locations<br><br><b></summary>Burlington, NC<br>Durham, NC</details><b>|Open✅|11/20/2024|[Apply Here](https://careers.labcorp.com/global/en/job/2439413/Software-Quality-Assurance-Engineer-Intern)||
-|CrowdStrike|Software Engineering Intern|38 - 45|Remote|Open✅|11/19/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2025--Remote--US--CAN-_R21100)||
-|↳|Frontend Engineer Intern|38 - 45|Remote|Open✅|11/19/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Summer-2025--Remote--US--CAN-_R21099)||
-|↳|Sales Excellence Data Analytics Intern||Remote|Closed🔒|10/31/2024|||
-|↳|Sales Excellence Data Quality Intern||Remote|Closed🔒|10/31/2024|||
-|↳|Internal Tools Developer Intern|38 - 45|Remote|Closed🔒|10/03/2024|||
 |Tanium|Business Intelligence & Data Analytics Intern||Emeryville, CA|Open✅|11/19/2024|[Apply Here](https://www.tanium.com/careers/6251461/)||
 |↳|Software Engineering Intern||Durham, NC|Open✅|09/16/2024|[Apply Here](https://www.tanium.com/careers/6187797)||
 |↳|Software Engineering Intern||Addison, TX|Open✅|09/16/2024|[Apply Here](https://www.tanium.com/careers/internship/6208649/)||
