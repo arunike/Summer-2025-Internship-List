@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/26/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/27/2024.
 
 ## Internship Positions
 
-There are total of **2382 (951 open & 1431 closed)** internship positions listed. **8** new positions were added today.
+There are total of **2376 (972 open & 1404 closed)** internship positions listed. **22** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,41 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Tesla|Embedded Software Engineer Intern, Tesla Bot|52.08 - 78.12|Palo Alto, CA|Open✅|11/27/2024|[Apply Here](https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-tesla-bot-summer-2025--231852)||
+|Mr. Cooper Group|Data Governance Intern, Xome|17.44 - 19.27|Remote|Open✅|11/27/2024|[Apply Here](https://careers.mrcooper.com/us/en/job/023086/2025-Virtual-Summer-Intern-Program-Xome-Data-Governance-Intern)||
+|↳|Information Security Intern|17.44 - 19.27|Remote|Open🛂|11/27/2024|[Apply Here](https://careers.mrcooper.com/us/en/job/022949/2025-Virtual-Summer-Intern-Program-Information-Security-Intern)||
+|↳|API Developer Portal Intern, XOME||Lewisville, TX|Open🛂|11/27/2024|[Apply Here](https://careers.mrcooper.com/us/en/job/023197/2025-Summer-Intern-Program-API-Developer-Portal-Intern-XOME-Onsite-DFW)||
+|↳|Data Engineer Intern||Lewisville, TX|Open🛂|11/27/2024|[Apply Here](https://careers.mrcooper.com/us/en/job/022975/2025-Summer-Virtual-Intern-Program-Data-Engineer-Intern-On-Site-Lewisville)||
+|↳|Data Engineer Intern||Dallas, TX|Open🛂|11/27/2024|[Apply Here](https://careers.mrcooper.com/us/en/job/022987/2025-Summer-Intern-Program-Data-Engineer-Intern-Onsite-DFW)||
+|↳|Machine Learning Engineer Intern||Dallas, TX|Open🛂|11/27/2024|[Apply Here](https://careers.mrcooper.com/us/en/job/023219/2025-Summer-Intern-Program-Machine-Learning-Engineer-DFW)||
+|Nintendo|IT Software Engineer Intern|30|Redmond, WA|Open✅|11/27/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/240000009X.html?src=CWS-10000)||
+|↳|Software Engineer Intern|30|Redmond, WA|Open✅|11/27/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/240000009V.html?src=CWS-10000)||
+|↳|Wireless Software Engineer Intern, NTD|40|Redmond, WA|Open✅|11/27/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/24000000BX.html?src=CWS-10000)||
+|↳|Networking Software Engineer Intern, NTD|40|Redmond, WA|Open✅|11/27/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/24000000BY.html?src=CWS-10000)||
+|↳|Machine Learning Software Engineer Intern, NTD|40|Redmond, WA|Open✅|11/27/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/24000000BW.html?src=CWS-10000)||
+|↳|Installers Software Engineer Intern, NTD|40|Redmond, WA|Open✅|11/27/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/24000000BV.html?src=CWS-10000)||
+|↳|GPU Tools Software Engineer Intern, NTD|40|Redmond, WA|Open✅|11/27/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/24000000BU.html?src=CWS-10000)||
+|↳|CPU Debugger Software Engineer Intern, NTD|40|Redmond, WA|Open✅|11/27/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/24000000BR.html?src=CWS-10000)||
+|Neuralink|Embedded Software Engineer Intern|35|Fremont, CA|Open✅|11/27/2024|[Apply Here](https://neuralink.com/careers/apply/?gh_jid=6283663003)||
+|↳|Software Engineer Intern, Site Reliability Engineer|35|Fremont, CA|Open✅|11/27/2024|[Apply Here](https://neuralink.com/careers/apply/?gh_jid=5469298003)||
+|↳|Software Engineer Intern|31.5|Austin, TX|Closed🔒|08/11/2024|||
+|↳|Software Engineer Intern|35|Fremont, CA|Closed🔒|08/11/2024|||
+|Visa|Data Storage Intern||Highlands Ranch, CO|Open✅|11/27/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF79704J)||
+|↳|Data Engineer Intern||Austin, TX|Open✅|11/27/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF79815X)||
+|↳|Software Engineer Intern||Bellevue, WA|Open✅|11/27/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF79761T)||
+|↳|Software Engineer Intern||Highlands Ranch, CO|Open✅|11/27/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF79762A)||
+|↳|Staff Machine Learning Scientist, Intern - PhD||Austin, TX|Open✅|11/27/2024|[Apply Here](https://corporate.visa.com/en/jobs/REF77773P)||
+|↳|Site Reliability Engineer Intern||Austin, TX|Closed🔒|11/02/2024|||
+|↳|Site Reliability Engineer Intern||Highlands Ranch, CO|Closed🔒|11/02/2024|||
+|↳|Associate Data Scientist, Intern, Cybersecurity||Ashburn, VA|Closed🔒|11/02/2024|||
+|↳|Systems Engineer Intern|26 - 31|Highlands Ranch, CO|Closed🔒|10/12/2024|||
+|↳|Software Engineer Intern|26 - 31|Miami, FL|Closed🔒|10/12/2024|||
+|↳|Data Engineer Intern||Austin, TX|Closed🔒|09/20/2024|||
+|↳|Data Engineer Intern||Foster City, CA|Closed🔒|09/20/2024|||
+|↳|Software Engineer Intern||Atlanta, GA|Closed🔒|09/17/2024|||
+|↳|Software Engineer Intern|27 - 31|Austin, TX|Closed🔒|09/17/2024|||
+|↳|Software Engineer Intern||Foster City, CA|Closed🔒|09/17/2024|||
+|↳|Software Engineer Intern||Ashburn, VA|Closed🔒|09/17/2024|||
 |CrowdStrike|Engineer Intern, TechOps|38 - 45|Remote|Open✅|11/26/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-Intern---TechOps--Remote-_R21148)||
 |↳|Engineer Intern, TechOps|38 - 45|Remote|Open✅|11/26/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Data-Science-Intern---Summer-2025--EMEA--Remote-_R21192)||
 |↳|Software Engineering Intern|38 - 45|Remote|Open✅|11/19/2024|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2025--Remote--US--CAN-_R21100)||
@@ -837,21 +872,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Test Engineer Intern|18 - 35|Oak Brook, IL|Closed🔒|09/04/2024|||
 |↳|System Engineer Intern|18 - 35|<details><summary>2 locations<br><br><b></summary>Oak Brook, IL<br>Lombard, IL</details><b>|Closed🔒|09/04/2024|||
 |↳|Software Engineer Intern|20.5 - 35|Sioux Falls, SD|Open✅|09/04/2024|[Apply Here](https://careers.cnh.com/job/20960241/software-engineer-intern-sioux-falls-sd/)||
-|Visa|Site Reliability Engineer Intern||Austin, TX|Closed🔒|11/02/2024|||
-|↳|Site Reliability Engineer Intern||Highlands Ranch, CO|Closed🔒|11/02/2024|||
-|↳|Data Engineer Intern||Austin, TX|Closed🔒|11/02/2024|||
-|↳|Associate Data Scientist, Intern, Cybersecurity||Ashburn, VA|Closed🔒|11/02/2024|||
-|↳|Data Storage Intern|26 - 31|Highlands Ranch, CO|Closed🔒|10/12/2024|||
-|↳|Systems Engineer Intern|26 - 31|Highlands Ranch, CO|Closed🔒|10/12/2024|||
-|↳|Software Engineer Intern|26 - 31|Miami, FL|Closed🔒|10/12/2024|||
-|↳|Data Engineer Intern||Austin, TX|Closed🔒|09/20/2024|||
-|↳|Data Engineer Intern||Foster City, CA|Closed🔒|09/20/2024|||
-|↳|Software Engineer Intern||Atlanta, GA|Closed🔒|09/17/2024|||
-|↳|Software Engineer Intern|27 - 31|Austin, TX|Closed🔒|09/17/2024|||
-|↳|Software Engineer Intern||Foster City, CA|Closed🔒|09/17/2024|||
-|↳|Software Engineer Intern||Bellevue, WA|Closed🔒|09/17/2024|||
-|↳|Software Engineer Intern||Ashburn, VA|Closed🔒|09/17/2024|||
-|↳|Software Engineer Intern||Highlands Ranch, CO|Closed🔒|09/17/2024|||
 |ServiceNow|Software Engineer Intern, Innovation Team||Remote|Closed🔒|11/02/2024|||
 |↳|Software Engineer Intern, Digital Technology|53.13|Santa Clara, CA|Closed🔒|09/17/2024|||
 |↳|Software Quality Engineer Intern|41.69 - 47.82|Santa Clara, CA|Closed🔒|09/07/2024|||
@@ -859,28 +879,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Cognex|Software Engineering Intern||Wauwatosa, WI|Closed🔒|11/02/2024|||
 |Moog|Software Engineering Intern|25 - 30|Torrance, CA|Closed🔒|11/01/2024|||
 |↳|IT Computer Science Intern|22.5 - 28|Buffalo, NY|Closed🔒|11/01/2024|||
-|Costco|IT Intern, Application Security|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, BI & Analytics - Data Analytics|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, OMS Engineering (UI/UX)|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Software Engineer (ECM Content Services)|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Cyber Threat Hunt|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Cyber Threat Intelligence|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Data Analytics Engineering Operations|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Data Science|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Intranet IT team|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, IT Privacy|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, METS (Retail Media Network)|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Network Support|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Platform Security|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, SAP Security|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Software Developer (Digital Mobile)|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Software Engineer (Enterprise Core Services)|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Website Browse and Digital Labs|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, SAP Governance, Risk and Compliance Team|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, PowerApps Developer (ECM Digital Workflow)|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, International Ecommerce Business Readiness|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, Innovation|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
-|↳|IT Intern, eCommerce and Warehouse Fulfillment|20.5 - 30.9|Issaquah, WA|Closed🔒|11/01/2024|||
 |Chamberlain Group|myQ Middleware Intern||Oak Brook, IL|Open🛂|11/01/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Middleware--Summer-2025-_JR27801)||
 |↳|Software Test Automation Engineer Intern||Oak Brook, IL|Open🛂|11/01/2024|[Apply Here](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Oak-Brook-IL/Intern--SW-Test-Automation-Engineer--Summer-2025-_JR27866)||
 |↳|Test Automation Intern, Engineering||Elmhurst, IL|Closed🔒|10/15/2024|||
@@ -1392,8 +1390,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Security Engineering Intern||Chicago, IL|Closed🔒|10/09/2024|||
 |↳|Data Governance Intern||Chicago, IL|Closed🔒|10/09/2024|||
 |↳|Cloud Security Engineering Intern||Chicago, IL|Closed🔒|10/09/2024|||
-|Nintendo|IT Software Engineer Intern|30|Redmond, WA|Closed🔒|10/09/2024|||
-|↳|Software Engineer Intern|30|Redmond, WA|Open✅|10/09/2024|[Apply Here](https://careers.nintendo.com/job-openings/listing/240000009V.html)||
 |Warner Bros. Discovery|Software Engineering Co-Op, WB Games|31|Needham, MA|Closed🔒|10/09/2024||This is a 6 month internship|
 |↳|Software Engineering Co-Op, NetherRealm|31|Chicago, IL|Closed🔒|10/08/2024||This is a 6 month internship|
 |↳|Software Engineering Intern|43 - 47|New York, NY|Closed🔒|10/01/2024|||
@@ -2330,8 +2326,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Ambarella|Software Architecture Engineer Intern||Santa Clara, CA|Open✅|08/13/2024|[Apply Here](https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10650)||
 |↳|Software Engineer Intern||Santa Clara, CA|Open✅|08/08/2024|[Apply Here](https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10648)||
 |Geico|Software Development Intern|25.32 - $49.13|Remote|Closed🔒|08/13/2024|||
-|Neuralink|Software Engineer Intern|31.5|Austin, TX|Closed🔒|08/11/2024|||
-|↳|Software Engineer Intern|35|Fremont, CA|Closed🔒|08/11/2024|||
 |US Bank|Engineering Intern||Hopkins, MN|Closed🔒|08/10/2024|||
 |Cargill|Software Engineering Intern|24 - 34|Atlanta, GA|Closed🔒|08/10/2024|||
 |Belvedere Trading|Software Engineer Intern|48 - 60|Chicago, IL|Open✅|08/09/2024|[Apply Here](https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8)||
