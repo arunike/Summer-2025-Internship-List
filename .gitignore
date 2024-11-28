@@ -4,10 +4,12 @@ internByState_script.py
 internByStatus_script.py
 checkPosition.py
 checkDuplicate.py
+checkJSON.py
 
 ## JSON Files
 data/intern_positions_*.json
 output/check_position.json
+intern_positions_combined.json
 
 ## Markdown Files
 output/duplicate_entries.md
