@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/27/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/28/2024.
 
 ## Internship Positions
 
-There are total of **2374 (882 open & 1492 closed)** internship positions listed. **22** new positions were added today.
+There are total of **2383 (891 open & 1492 closed)** internship positions listed. **9** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,17 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Axiom Space|Software Application Engineering Intern|||Open🛂|11/28/2024|[Apply Here](https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Application-Engineering-Intern--Summer-2025-_JR100055-1)||
+|↳|EVA Software Engineering Intern|||Open🛂|11/28/2024|[Apply Here](https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/EVA-Software-Engineering-Intern--Summer-2025-_JR100060)||
+|Kinetic|Machine Learning Research Intern||Santa Ana, CA|Open✅|11/28/2024|[Apply Here](https://ats.rippling.com/en-CA/kinetic/jobs/890ad129-ac04-43dd-8cb5-8ed694ebaf60)||
+|Ribbon Communications|Machine Learning Intern||Westford, MA|Open✅|11/28/2024|[Apply Here](https://vhr-genband.wd1.myworkdayjobs.com/en-US/ribboncareers/job/Machine-Learning-Intern_REQ-2024-2181)||
+|Farm Credit|Software Developer Intern||Columbia, SC|Open✅|11/28/2024|[Apply Here](https://farmcredit.com/job/software-developer-intern/)||
+|Genesys|Software Engineer Intern|19.52 - 52.34|Indianapolis, IN|Open✅|11/28/2024|[Apply Here](https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Software-Engineer-Intern_JR105843-1)||
+|Vizient|Software Engineering Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Irving, TX</details><b>|Open✅|11/28/2024|[Apply Here](https://careers.vizientinc.com/careers/job/446702440552)||
+|↳|Software Engineering Intern|24|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Cape Girardeau, MO</details><b>|Open✅|10/26/2024|[Apply Here](https://careers.vizientinc.com/careers/job/446702425823)||
+|↳|Software Engineering Intern|24|Chicago, IL|Open✅|10/26/2024|[Apply Here](https://careers.vizientinc.com/careers/job/446702405284)|Graduate Students Only|
+|United Educators|Data Intern|25|Bethesda, MD|Open✅|11/28/2024|[Apply Here](https://www.ue.org/about-ue/careers/job-openings?gh_jid=4587174007)||
+|↳|Software Development Intern||Bethesda, MD|Open✅|11/28/2024|[Apply Here](https://www.ue.org/about-ue/careers/job-openings?gh_jid=4591809007)||
 |Tesla|Embedded Software Engineer Intern, Tesla Bot|52.08 - 78.12|Palo Alto, CA|Open✅|11/27/2024|[Apply Here](https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-tesla-bot-summer-2025--231852)||
 |Mr. Cooper Group|Data Governance Intern, Xome|17.44 - 19.27|Remote|Open✅|11/27/2024|[Apply Here](https://careers.mrcooper.com/us/en/job/023086/2025-Virtual-Summer-Intern-Program-Xome-Data-Governance-Intern)||
 |↳|Information Security Intern|17.44 - 19.27|Remote|Open🛂|11/27/2024|[Apply Here](https://careers.mrcooper.com/us/en/job/022949/2025-Virtual-Summer-Intern-Program-Information-Security-Intern)||
@@ -993,8 +1004,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|AI Research Engineer Intern||De Soto, KS|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38521)||
 |Lam Research|Software Development Intern|28 - 38|Remote|Closed🔒|10/26/2024|||
 |↳|Software Quality Assurance Engineering Intern|28 - 38|Waltham, MA|Open✅|10/26/2024|[Apply Here](https://careers.lamresearch.com/job/Waltham-Software-Quality-Assurance-Engineering-Intern-MA/1227072400/)||
-|Vizient|Software Engineering Intern|24|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Cape Girardeau, MO</details><b>|Open✅|10/26/2024|[Apply Here](https://careers.vizientinc.com/careers/job/446702425823)||
-|↳|Software Engineering Intern|24|Chicago, IL|Open✅|10/26/2024|[Apply Here](https://careers.vizientinc.com/careers/job/446702405284)|Graduate Students Only|
 |USAA|CFO Intern, Data||<details><summary>2 locations<br><br><b></summary>San Antonio, TX<br>Charlotte, NC</details><b>|Closed🔒|10/26/2024|||
 |↳|IT Intern|22 - 34|<details><summary>3 locations<br><br><b></summary>San Antonio, TX<br>Plano, TX<br>Phoenix, AZ</details><b>|Closed🔒|10/26/2024|||
 |Sanofi|Veeva and Appian COE Intern||Bridgewater, NJ|Closed🔒|10/26/2024|||
