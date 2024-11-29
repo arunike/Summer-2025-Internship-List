@@ -1,4 +1,5 @@
 ## Python Files
+internPositions_script.py
 internList_script.py
 internByState_script.py
 internByStatus_script.py
@@ -13,6 +14,7 @@ intern_positions_combined.json
 
 ## Markdown Files
 output/duplicate_entries.md
+internPositions_automationSteps.md
 
 ## Text Files
 output/last_run_date.txt
