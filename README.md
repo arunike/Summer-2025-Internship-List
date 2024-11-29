@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/28/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/29/2024.
 
 ## Internship Positions
 
-There are total of **2383 (891 open & 1492 closed)** internship positions listed. **9** new positions were added today.
+There are total of **2385 (893 open & 1492 closed)** internship positions listed. **2** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,14 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Nvidia|Software Engineering Intern, JAX|18 - 71|Santa Clara, CA|Open✅|11/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Summer-2025_JR1988824)||
+|↳|Quantum Computing Software Intern|18 - 71|Santa Clara, CA|Closed🔒|10/11/2024|||
+|↳|Software Engineer Intern - Ignite||Santa Clara, CA|Closed🔒|09/17/2024||Exclusive for 1st and 2nd year students|
+|↳|Software Engineering Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Software-Engineering_JR1986535)||
+|↳|Deep Learning Computer Architecture Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Deep-Learning-Computer-Architecture_JR1986533)||
+|↳|Systems Software Engineering Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Systems-Software-Engineering_JR1986534)||
+|↳|Artificial Intelligence and Deep Learning Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Artificial-Intelligence-and-Deep-Learning_JR1986536)||
+|Arc Boats|Software Engineering Intern|40|Torrance, CA|Open✅|11/29/2024|[Apply Here](https://arcboats.com/careers/software-engineer-intern)||
 |Axiom Space|Software Application Engineering Intern|||Open🛂|11/28/2024|[Apply Here](https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Application-Engineering-Intern--Summer-2025-_JR100055-1)||
 |↳|EVA Software Engineering Intern|||Open🛂|11/28/2024|[Apply Here](https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/EVA-Software-Engineering-Intern--Summer-2025-_JR100060)||
 |Kinetic|Machine Learning Research Intern||Santa Ana, CA|Open✅|11/28/2024|[Apply Here](https://ats.rippling.com/en-CA/kinetic/jobs/890ad129-ac04-43dd-8cb5-8ed694ebaf60)||
@@ -1358,7 +1366,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Alchemy|Engineering Intern||<details><summary>2 locations<br><br><b></summary>New York, NY<br>San Francisco, CA</details><b>|Closed🔒|10/11/2024|||
 |BCG|AI Software Engineer Intern, BCG X||<details><summary>4 locations<br><br><b></summary>Boston, MA<br>Los Angeles, CA<br>New York, NY<br>Pittsburgh, PA</details><b>|Closed🔒|10/11/2024||Graduate Students Only|
 |↳|Data Scientist Intern, BCG X||<details><summary>4 locations<br><br><b></summary>Boston, MA<br>Pittsburgh, PA<br>New York, NY<br>Los Angeles, CA</details><b>|Closed🔒|10/11/2024||Graduate Students Only|
-|Nvidia|Quantum Computing Software Intern|18 - 71|Santa Clara, CA|Closed🔒|10/11/2024|||
 |Fincons|Software Engineering Intern||Los Angeles, CA|Closed🔒|10/11/2024|||
 |Northwestern Mutual|Software Engineering Intern|16.5 - 30|Milwaukee, WI|Closed🔒|10/10/2024|||
 |↳|Data Analyst Intern|16.5 - 30|Milwaukee, WI|Closed🔒|10/10/2024|||
@@ -1836,11 +1843,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Engineering Intern|20 - 34||Open✅|08/15/2024|[Apply Here](https://careers.abb/us/en/job/92871477?utm_source=)||
 |Arity|Data Science Intern|20 - 42|Remote|Closed🔒|09/17/2024|||
 |↳|Software Engineering Intern|20 - 42|Remote|Closed🔒|08/31/2024|||
-|Nvdia|Software Engineer Intern - Ignite||Santa Clara, CA|Closed🔒|09/17/2024||Exclusive for 1st and 2nd year students|
-|↳|Software Engineering Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Software-Engineering_JR1986535)||
-|↳|Deep Learning Computer Architecture Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Deep-Learning-Computer-Architecture_JR1986533)||
-|↳|Systems Software Engineering Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Systems-Software-Engineering_JR1986534)||
-|↳|Artificial Intelligence and Deep Learning Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Artificial-Intelligence-and-Deep-Learning_JR1986536)||
 |State Street|Audit Data Analyst Intern|8.12 - 30.46|Boston, MA|Open✅|09/17/2024|[Apply Here](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Audit-Data-Analyst-Intern_R-757843)||
 |Expedition Technology|Deep Learning and Computer Vision Intern|32.5|Herndon, VA|Closed🔒|09/17/2024|||
 |↳|Software Engineer Intern|32.5|Herndon, VA|Closed🔒|09/17/2024|||
