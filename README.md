@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/29/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/30/2024.
 
 ## Internship Positions
 
-There are total of **2385 (893 open & 1492 closed)** internship positions listed. **2** new positions were added today.
+There are total of **2387 (895 open & 1492 closed)** internship positions listed. **2** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,8 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Empower|Software Engineer Intern|22 - 24|Hartford, CO|Open✅|11/30/2024|[Apply Here](https://jobs.empower.com/job/hartford/summer-2025-intern-software-engineer/42743/72534891424)||
+|↳|DevOps Engineer Intern|22 - 24|Hartford, CO|Open✅|11/30/2024|[Apply Here](https://jobs.empower.com/job/hartford/summer-2025-intern-devops-engineer/42743/72534890144)||
 |Nvidia|Software Engineering Intern, JAX|18 - 71|Santa Clara, CA|Open✅|11/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Summer-2025_JR1988824)||
 |↳|Quantum Computing Software Intern|18 - 71|Santa Clara, CA|Closed🔒|10/11/2024|||
 |↳|Software Engineer Intern - Ignite||Santa Clara, CA|Closed🔒|09/17/2024||Exclusive for 1st and 2nd year students|

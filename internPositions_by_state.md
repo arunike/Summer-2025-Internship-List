@@ -2,7 +2,7 @@
 
 This page provides a breakdown of internship opportunities by state. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/29/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 11/30/2024.
 
 ## Internship Positions
 
@@ -773,9 +773,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | ↳                                    | Software Engineer Intern (Code for Good)                                                     |                  | Closed🔒 | 07/01/2024   | Palo Alto, CA           |                                                                                                                                                                                           |
 
 ## Jobs in CO
-### Number of positions: 113 (Open: 44, Closed: 69)
+### Number of positions: 115 (Open: 46, Closed: 69)
 | Company                   | Job Title                                                                      | Hourly Pay ($)   | Status   | Date Added   | Location              | Application Link                                                                                                                                                       |
 |:--------------------------|:-------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Empower                   | DevOps Engineer Intern                                                         | 22 - 24          | Open✅   | 11/30/2024   | Hartford, CO          | [Apply Here](https://jobs.empower.com/job/hartford/summer-2025-intern-devops-engineer/42743/72534890144)                                                               |
+| ↳                         | Software Engineer Intern                                                       | 22 - 24          | Open✅   | 11/30/2024   | Hartford, CO          | [Apply Here](https://jobs.empower.com/job/hartford/summer-2025-intern-software-engineer/42743/72534891424)                                                             |
 | Visa                      | Data Storage Intern                                                            |                  | Open✅   | 11/27/2024   | Highlands Ranch, CO   | [Apply Here](https://corporate.visa.com/en/jobs/REF79704J)                                                                                                             |
 | ↳                         | Software Engineer Intern                                                       |                  | Open✅   | 11/27/2024   | Highlands Ranch, CO   | [Apply Here](https://corporate.visa.com/en/jobs/REF79762A)                                                                                                             |
 | ↳                         | Site Reliability Engineer Intern                                               |                  | Closed🔒 | 11/02/2024   | Highlands Ranch, CO   |                                                                                                                                                                        |
