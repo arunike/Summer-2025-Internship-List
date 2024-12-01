@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 11/30/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/01/2024.
 
 ## Internship Positions
 
-There are total of **2387 (895 open & 1492 closed)** internship positions listed. **2** new positions were added today.
+There are total of **2393 (901 open & 1492 closed)** internship positions listed. **6** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,12 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|The Washington Post|Android Apps Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Android-Apps_JR-90275000)||
+|↳|Creator Experience Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Creator-Experience_JR-90274998)||
+|↳|Site Engineering Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Site-Engineering_JR-90275001)||
+|↳|iOS Apps Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--iOS-Apps_JR-90274999)||
+|↳|Subscriptions Engineer Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Subscriptions-Engineer_JR-90274966)||
+|↳|Product Monetization Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Product-Monetization_JR-90274959)||
 |Empower|Software Engineer Intern|22 - 24|Hartford, CO|Open✅|11/30/2024|[Apply Here](https://jobs.empower.com/job/hartford/summer-2025-intern-software-engineer/42743/72534891424)||
 |↳|DevOps Engineer Intern|22 - 24|Hartford, CO|Open✅|11/30/2024|[Apply Here](https://jobs.empower.com/job/hartford/summer-2025-intern-devops-engineer/42743/72534890144)||
 |Nvidia|Software Engineering Intern, JAX|18 - 71|Santa Clara, CA|Open✅|11/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Summer-2025_JR1988824)||
