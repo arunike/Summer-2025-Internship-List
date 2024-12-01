@@ -7,7 +7,7 @@ The List is updated daily around 12:00 AM EST. The last update was on 12/01/2024
 
 ## Internship Positions
 
-There are total of **2393 (901 open & 1492 closed)** internship positions listed. **6** new positions were added today.
+There are total of **2394 (903 open & 1491 closed)** internship positions listed. **8** new positions were added today.
 
 ### Viewing Options:
 
@@ -37,6 +37,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|iOS Apps Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--iOS-Apps_JR-90274999)||
 |↳|Subscriptions Engineer Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Subscriptions-Engineer_JR-90274966)||
 |↳|Product Monetization Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Product-Monetization_JR-90274959)||
+|Hologic|R&D Software Engineering Intern|22 - 28|San Diego, CA|Open✅|12/01/2024|[Apply Here](https://careers.hologic.com/search/300000367219063/intern-r-d-software-engineering)||
+|↳|IT Applications Governance Intern|22 - 26|Marlborough, MA|Open✅|12/01/2024|[Apply Here](https://careers.hologic.com/en/search/300000367264584/intern-it-applications-governance)||
+|↳|Software Verification & Validation Intern|22 - 35|San Diego, CA|Closed🔒|10/12/2024|||
 |Empower|Software Engineer Intern|22 - 24|Hartford, CO|Open✅|11/30/2024|[Apply Here](https://jobs.empower.com/job/hartford/summer-2025-intern-software-engineer/42743/72534891424)||
 |↳|DevOps Engineer Intern|22 - 24|Hartford, CO|Open✅|11/30/2024|[Apply Here](https://jobs.empower.com/job/hartford/summer-2025-intern-devops-engineer/42743/72534890144)||
 |Nvidia|Software Engineering Intern, JAX|18 - 71|Santa Clara, CA|Open✅|11/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Summer-2025_JR1988824)||
@@ -1357,8 +1360,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Digital Technology Innovation Intern - Undergrad|21 - 28.3|Remote|Closed🔒|10/12/2024|||
 |GW&K|Enterprise Data & Analytics Intern||Boston, MA|Closed🔒|10/12/2024|||
 |Kenvue|Tech & Data Intern|20 - 26|Skillman, NJ|Closed🔒|10/12/2024|||
-|Hologic|R&D Software Engineering Intern|22 - 35|San Diego, CA|Closed🔒|10/12/2024|||
-|↳|Software Verification & Validation Intern|22 - 35|San Diego, CA|Closed🔒|10/12/2024|||
 |Wells Fargo|Technology Intern, Software Engineer|60.1|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Concord, CA<br>San Leandro, CA</details><b>|Closed🔒|10/12/2024|||
 |↳|Technology Intern, Cybersecurity|48.08|<details><summary>3 locations<br><br><b></summary>Charlotte, NC<br>Chandler, AZ<br>Phoenix, AZ</details><b>|Closed🔒|10/10/2024|||
 |↳|Technology Intern, Software or Data Engineer|60.10|New York, NY|Closed🔒|10/09/2024|||
