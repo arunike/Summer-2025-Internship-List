@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/01/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/03/2024.
 
 ## Internship Positions
 
-There are total of **2394 (903 open & 1491 closed)** internship positions listed. **8** new positions were added today.
+There are total of **2396 (905 open & 1491 closed)** internship positions listed. **2** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|GTI Energy|Software Developer Intern|17 - 28|Des Plain, IL|Open✅|12/03/2024|[Apply Here](https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=184e1bcd-38f4-4a1b-9523-4f4d1f27bee7)||
+|Raven|Computer Graphics Intern|20 - 50|<details><summary>4 locations<br><br><b></summary>Playa Vista, CA<br>Portland, ME<br>Middleton, WI<br>Sherman Oaks, CA</details><b>|Open✅|12/03/2024|[Apply Here](https://careers.ravensoftware.com/job/R023719/2025-US-Summer-Internship-Computer-Graphics)||
+|↳|Game Engineering Intern|20 - 50|<details><summary>11 locations<br><br><b></summary>Santa Monica, CA<br>Austin, TX<br>Carlsbad, CA<br>Middleton, WI<br>Los Angeles, CA<br>Irvine, CA<br>Novato, CA<br>Woodland Hills, CA<br>Foster City, CA<br>Boston, MA<br>Albany, NY</details><b>|Open✅|11/05/2024|[Apply Here](https://careers.ravensoftware.com/job/R023720/2025-US-Summer-Internship-Game-Engineering)||
 |The Washington Post|Android Apps Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Android-Apps_JR-90275000)||
 |↳|Creator Experience Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Creator-Experience_JR-90274998)||
 |↳|Site Engineering Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Site-Engineering_JR-90275001)||
@@ -837,7 +840,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern||Eagan, MN|Closed🔒|08/26/2024|||
 |Causeway Capital Management|Software Engineer Intern|38.46|Dallas, TX|Closed🔒|11/05/2024|||
 |One|Software Engineer Intern|25|Remote|Closed🔒|11/05/2024|||
-|Raven|Game Engineering Intern|20 - 50|<details><summary>11 locations<br><br><b></summary>Santa Monica, CA<br>Austin, TX<br>Carlsbad, CA<br>Middleton, WI<br>Los Angeles, CA<br>Irvine, CA<br>Novato, CA<br>Woodland Hills, CA<br>Foster City, CA<br>Boston, MA<br>Albany, NY</details><b>|Open✅|11/05/2024|[Apply Here](https://careers.ravensoftware.com/job/R023720/2025-US-Summer-Internship-Game-Engineering)||
 |Paramount|Software Engineering Intern|38 - 43|<details><summary>3 locations<br><br><b></summary>West Hollywood, CA<br>Burbank, CA<br>New York, NY</details><b>|Open✅|11/05/2024|[Apply Here](https://careers.paramount.com/job/West-Hollywood-Software-Engineering-Internships-%28Summer-2025%2C-Hybrid-NYCLA%29-CA-90069/1229684800)||
 |↳|Data Intern|38 - 43|<details><summary>3 locations<br><br><b></summary>Burbank, CA<br>West Hollywood, CA<br>New York, NY</details><b>|Open✅|11/05/2024|[Apply Here](https://careers.paramount.com/job/Burbank-Data-Internships-%28Summer-2025%2C-Hybrid-NYCLA%29-CA-91505/1229684100/)||
 |Kitware|Computer Vision Software Development Intern|20 - 30|<details><summary>3 locations<br><br><b></summary>Clifton Park, NY<br>Carrboro, NC<br>Minneapolis, MN</details><b>|Open✅|11/05/2024|[Apply Here](https://jobs.lever.co/kitware/c36a7fa6-8bd7-412c-ac6d-17cdaa3b0c56)||
