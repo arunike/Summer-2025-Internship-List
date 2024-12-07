@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/05/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/06/2024.
 
 ## Internship Positions
 
-There are total of **2417 (813 open & 1604 closed)** internship positions listed. **10** new positions were added today.
+There are total of **2420 (815 open & 1605 closed)** internship positions listed. **3** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|CodeSignal|Course Review Engineer Intern|20 - 30|Remote|Open✅|12/06/2024|[Apply Here](https://job-boards.greenhouse.io/codesignal/jobs/5391942004)||
+|Landis+Gyr|Software Development Intern|20 - 25|Alpharetta, GA|Open✅|12/06/2024|[Apply Here](https://careers.landisgyr.com/job/Alpharetta-Intern-Software-Development-GA-30004/1149280201/)||
+|IDEXX|Embedded Software Engineer Intern||Westbrook, ME|Open✅|12/06/2024|[Apply Here](https://careers.idexx.com/us/en/job/J-045600/Embedded-Software-Engineer-Intern-Summer-2025)||
 |Pixar|Software Research & Development Intern|30|Emeryville, CA|Open🛂|12/05/2024|[Apply Here](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Internships/job/Software-Research---Development-Intern---Summer-2025_R-03863)||
 |↳|Animation Technician Intern|25|Emeryville, CA|Open🛂|12/05/2024|[Apply Here](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Internships/job/Emeryville/Animation-Technician-Intern---Summer-2025_R-03854)||
 |↳|Pixar Undergraduate Program|22|Emeryville, CA|Open🛂|12/05/2024|[Apply Here](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Internships/job/Emeryville/Pixar-Undergraduate-Program--PUP----Summer-2025_R-03835)||
@@ -66,7 +69,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Salesforce Data Intern, Staples Promotional Products||St. Louis, MO|Open✅|12/04/2024|[Apply Here](https://careers.staples.com/en/job/st-louis/salesforce-data-intern-staples-promotional-products-hybrid-june-2025/44412/73626004416)||
 |↳|Data Engineering Intern Intern||Framingham, MA|Closed🔒|10/13/2024|||
 |↳|Software Engineer Intern, Technology/Engineering||Framingham, MA|Closed🔒|09/15/2024|||
-|GTI Energy|Software Developer Intern|17 - 28|Des Plain, IL|Open✅|12/03/2024|[Apply Here](https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=184e1bcd-38f4-4a1b-9523-4f4d1f27bee7)||
+|GTI Energy|Software Developer Intern|17 - 28|Des Plain, IL|Closed🔒|12/03/2024|||
 |Raven|Computer Graphics Intern|20 - 50|<details><summary>4 locations<br><br><b></summary>Playa Vista, CA<br>Portland, ME<br>Middleton, WI<br>Sherman Oaks, CA</details><b>|Open✅|12/03/2024|[Apply Here](https://careers.ravensoftware.com/job/R023719/2025-US-Summer-Internship-Computer-Graphics)||
 |↳|Game Engineering Intern|20 - 50|<details><summary>11 locations<br><br><b></summary>Santa Monica, CA<br>Austin, TX<br>Carlsbad, CA<br>Middleton, WI<br>Los Angeles, CA<br>Irvine, CA<br>Novato, CA<br>Woodland Hills, CA<br>Foster City, CA<br>Boston, MA<br>Albany, NY</details><b>|Open✅|11/05/2024|[Apply Here](https://careers.ravensoftware.com/job/R023720/2025-US-Summer-Internship-Game-Engineering)||
 |The Washington Post|Android Apps Intern||Washington, D.C.|Open✅|12/01/2024|[Apply Here](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Android-Apps_JR-90275000)||

@@ -2,11 +2,11 @@
 
 This page provides a breakdown of internship opportunities by state. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/05/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/06/2024.
 
 ## Internship Positions
 
-There are a total of **53** (including remote and unknown) states listed. **10** new positions were added today.
+There are a total of **53** (including remote and unknown) states listed. **3** new positions were added today.
 
 ### Viewing Options:
 If you prefer to view the positions sorted by statuses, check out the [Internship Opportunities by Status](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_status.md) page.
@@ -1070,9 +1070,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | ↳                               | Software Engineer Intern (Code for Good)                      |                  | Closed🔒 | 07/01/2024   | Tampa, FL                |                                                                                                                                                                                            |
 
 ## Jobs in GA
-### Number of positions: 76 (Open: 18, Closed: 58)
+### Number of positions: 77 (Open: 19, Closed: 58)
 | Company                | Job Title                                                                      | Hourly Pay ($)   | Status   | Date Added   | Location                          | Application Link                                                                                                                                        |
 |:-----------------------|:-------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Landis+Gyr             | Software Development Intern                                                    | 20 - 25          | Open✅   | 12/06/2024   | Alpharetta, GA                    | [Apply Here](https://careers.landisgyr.com/job/Alpharetta-Intern-Software-Development-GA-30004/1149280201/)                                             |
 | Northrop Grumman       | Software Engineering Intern                                                    | 17.5 - 40        | Closed🔒 | 11/21/2024   | Warners Robins, GA                |                                                                                                                                                         |
 | Mircosoft              | Explore Program Intern - First-Year Students                                   | 25.08 - 46.08    | Closed🔒 | 11/12/2024   | Atlanta, GA                       |                                                                                                                                                         |
 | ICE                    | Data Analyst Intern, DBA                                                       |                  | Open✅   | 11/10/2024   | Atlanta, GA                       | [Apply Here](https://careers.ice.com/jobs/9275)                                                                                                         |
@@ -1198,11 +1199,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | ↳         | Data Analytics Engineer Intern               |                  | Closed🔒 | 09/08/2024   | Boise, ID  |                                                         |
 
 ## Jobs in IL
-### Number of positions: 219 (Open: 58, Closed: 161)
+### Number of positions: 219 (Open: 57, Closed: 162)
 | Company                           | Job Title                                                                                         | Hourly Pay ($)   | Status   | Date Added   | Location                 | Application Link                                                                                                                                                                       |
 |:----------------------------------|:--------------------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Citadel                           | Software Engineer Intern                                                                          | 107.5 - 120      | Open✅   | 12/05/2024   | Chicago, IL              | [Apply Here](https://www.citadel.com/careers/details/software-engineer-2025-intern-us/)                                                                                                |
-| GTI Energy                        | Software Developer Intern                                                                         | 17 - 28          | Open✅   | 12/03/2024   | Des Plain, IL            | [Apply Here](https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=184e1bcd-38f4-4a1b-9523-4f4d1f27bee7)                |
+| GTI Energy                        | Software Developer Intern                                                                         | 17 - 28          | Closed🔒 | 12/03/2024   | Des Plain, IL            |                                                                                                                                                                                        |
 | Vizient                           | Software Engineering Intern                                                                       |                  | Open✅   | 11/28/2024   | Chicago, IL              | [Apply Here](https://careers.vizientinc.com/careers/job/446702440552)                                                                                                                  |
 | ↳                                 | Software Engineering Intern                                                                       | 24               | Open✅   | 10/26/2024   | Chicago, IL              | [Apply Here](https://careers.vizientinc.com/careers/job/446702425823)                                                                                                                  |
 | Motorola Solutions                | AI Powered Data & Analytics IT ADI Intern                                                         |                  | Closed🔒 | 11/23/2024   | Chicago, IL              |                                                                                                                                                                                        |
@@ -1712,16 +1713,17 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | T. Rowe Price                                       | Global Technology, Software Engineering Intern                                                |                  | Closed🔒 | 07/23/2024   | Owings Mills, MD       |                                                                                                                                                                                                  |
 
 ## Jobs in ME
-### Number of positions: 7 (Open: 3, Closed: 4)
-| Company            | Job Title                                             | Hourly Pay ($)   | Status   | Date Added   | Location     | Application Link                                                                                                                       |
-|:-------------------|:------------------------------------------------------|:-----------------|:---------|:-------------|:-------------|:---------------------------------------------------------------------------------------------------------------------------------------|
-| Raven              | Computer Graphics Intern                              | 20 - 50          | Open✅   | 12/03/2024   | Portland, ME | [Apply Here](https://careers.ravensoftware.com/job/R023719/2025-US-Summer-Internship-Computer-Graphics)                                |
-| L.L.Bean           | Data Analyst / Business Analyst Intern                |                  | Closed🔒 | 11/03/2024   | Freeport, ME |                                                                                                                                        |
-| ↳                  | Information Systems Security Intern                   |                  | Open✅   | 11/03/2024   | Freeport, ME | [Apply Here](https://llbean.wd1.myworkdayjobs.com/en-US/LLBean_Careers/job/Freeport-ME/Information-Systems-Security-Internship_JR8928) |
-| ↳                  | Software Developer Intern                             |                  | Closed🔒 | 11/03/2024   | Freeport, ME |                                                                                                                                        |
-| Tyler Technologies | Software Development Intern                           |                  | Open✅   | 09/24/2024   | Yarmouth, ME | [Apply Here](https://jobs.jobvite.com/careers/tylertech/job/o6Jrufwu)                                                                  |
-| Avangrid           | Data Analytics/Data Science Intern                    |                  | Closed🔒 | 09/01/2024   | Portland, ME |                                                                                                                                        |
-| ↳                  | Info. Technology, Business Analyst, Cyber, MIS Intern |                  | Closed🔒 | 09/01/2024   | Augusta, ME  |                                                                                                                                        |
+### Number of positions: 8 (Open: 4, Closed: 4)
+| Company            | Job Title                                             | Hourly Pay ($)   | Status   | Date Added   | Location      | Application Link                                                                                                                       |
+|:-------------------|:------------------------------------------------------|:-----------------|:---------|:-------------|:--------------|:---------------------------------------------------------------------------------------------------------------------------------------|
+| IDEXX              | Embedded Software Engineer Intern                     |                  | Open✅   | 12/06/2024   | Westbrook, ME | [Apply Here](https://careers.idexx.com/us/en/job/J-045600/Embedded-Software-Engineer-Intern-Summer-2025)                               |
+| Raven              | Computer Graphics Intern                              | 20 - 50          | Open✅   | 12/03/2024   | Portland, ME  | [Apply Here](https://careers.ravensoftware.com/job/R023719/2025-US-Summer-Internship-Computer-Graphics)                                |
+| L.L.Bean           | Data Analyst / Business Analyst Intern                |                  | Closed🔒 | 11/03/2024   | Freeport, ME  |                                                                                                                                        |
+| ↳                  | Information Systems Security Intern                   |                  | Open✅   | 11/03/2024   | Freeport, ME  | [Apply Here](https://llbean.wd1.myworkdayjobs.com/en-US/LLBean_Careers/job/Freeport-ME/Information-Systems-Security-Internship_JR8928) |
+| ↳                  | Software Developer Intern                             |                  | Closed🔒 | 11/03/2024   | Freeport, ME  |                                                                                                                                        |
+| Tyler Technologies | Software Development Intern                           |                  | Open✅   | 09/24/2024   | Yarmouth, ME  | [Apply Here](https://jobs.jobvite.com/careers/tylertech/job/o6Jrufwu)                                                                  |
+| Avangrid           | Data Analytics/Data Science Intern                    |                  | Closed🔒 | 09/01/2024   | Portland, ME  |                                                                                                                                        |
+| ↳                  | Info. Technology, Business Analyst, Cyber, MIS Intern |                  | Closed🔒 | 09/01/2024   | Augusta, ME   |                                                                                                                                        |
 
 ## Jobs in MI
 ### Number of positions: 46 (Open: 19, Closed: 27)
@@ -3314,9 +3316,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Trihydro  | Software Developer Intern |                  | Open✅   | 10/24/2024   | Laramie, WY | [Apply Here](https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/1036/0) |
 
 ## Jobs in Remote
-### Number of positions: 224 (Open: 60, Closed: 164)
+### Number of positions: 225 (Open: 61, Closed: 164)
 | Company                  | Job Title                                                                            | Hourly Pay ($)   | Status   | Date Added   | Location   | Application Link                                                                                                                                                                       |
 |:-------------------------|:-------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:-----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CodeSignal               | Course Review Engineer Intern                                                        | 20 - 30          | Open✅   | 12/06/2024   | Remote     | [Apply Here](https://job-boards.greenhouse.io/codesignal/jobs/5391942004)                                                                                                              |
 | Hagerty Consulting       | Software Developer Intern                                                            | 17 - 20          | Open✅   | 12/04/2024   | Remote     | [Apply Here](https://hagertyconsulting.hrmdirect.com/employment/job-opening.php?req=3261934&req_loc=496057&&&jbsrc=1014#job)                                                           |
 | Lifeway                  | Data Analyst Intern                                                                  |                  | Open✅   | 12/04/2024   | Remote     | [Apply Here](https://hq-lifeway.icims.com/jobs/26673/remote-summer-internship---data-analyst/job)                                                                                      |
 | ↳                        | Front End Intern, React Developer                                                    | 16 - 18          | Open✅   | 12/04/2024   | Remote     | [Apply Here](https://hq-lifeway.icims.com/jobs/26678/remote-summer-internship---front-end-%7c-react-developer/job)                                                                     |
