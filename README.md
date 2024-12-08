@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/07/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/08/2024.
 
 ## Internship Positions
 
-There are total of **2427 (822 open & 1605 closed)** internship positions listed. **7** new positions were added today.
+There are total of **2432 (827 open & 1605 closed)** internship positions listed. **5** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Alcon|Digital Platform Security Intern||Fort Worth, TX|Open✅|12/08/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/Summer-2025---Digital-Platform-Security-Intern_R-2024-36768)||
+|↳|R&D Surgical Software Engineering Intern|45|Lake Forest, CA|Open✅|12/08/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2025---R-D-Surgical-Software-Engineering-Intern_R-2024-36618)||
+|↳|Digital Deployment Intern||Fort Worth, TX|Open✅|12/08/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/Summer-2025-Intern---Digital-Deployment_R-2024-35867)||
+|↳|Fiber Engineering Intern|45|Lake Forest, CA|Open✅|11/11/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2025-Intern---Fiber-Engineering_R-2024-35966)||
+|↳|R&D Intern||<details><summary>3 locations<br><br><b></summary>Fort Worth, TX<br>Lake Forest, CA<br>Johnson Creek Research Center, GA</details><b>|Closed🔒|09/03/2024|||
+|Zipline|Data Analytics Intern|38 - 42|San Francisco, CA|Open✅|12/08/2024|[Apply Here](https://www.flyzipline.com/careers/open-roles/6284596003)||
+|↳|Software Engineering Intern, Enterprise Systems|40 - 44|San Francisco, CA|Open✅|12/08/2024|[Apply Here](https://www.flyzipline.com/careers/open-roles/6284597003)||
 |Ambrook|Software Engineer Intern|40|New York, NY|Open✅|12/07/2024|[Apply Here](https://jobs.lever.co/ambrook/df4de9bc-5786-40c5-9055-1cfcaa93a236)||
 |Bayer|Digital Farming Intern, Software Engineer|30 - 50|<details><summary>84 locations<br><br><b></summary>Palm Springs, CA<br>Burbank, CA<br>Anaheim, CA<br>Warden, WA<br>Othello, WA<br>Martinez, CA<br>Long Beach, CA<br>Mountain View, CA<br>Issaquah, WA<br>Kennewick, WA<br>San Diego, CA<br>Davis, CA<br>West Sacramento, CA<br>Richmond, CA<br>Emeryville, CA<br>San Francisco, CA<br>Irvine, CA<br>San Bernardino, CA<br>Sacramento, CA<br>Roseville, CA<br>Oakland, CA<br>Modesto, CA<br>Los Angeles, CA<br>Lancaster, CA<br>Escondido, CA<br>Corona, CA<br>Bakersfield, CA<br>Residence Based, WA<br>Laconner, WA<br>Mcfarland, CA<br>Huron, CA<br>Coalinga, CA<br>Arroyo Grande, CA<br>San Ramon, CA<br>Tacoma, WA<br>Spokane, WA<br>SeaTac, WA<br>Bremerton, WA<br>Santa Rosa, CA<br>Santa Clarita, CA<br>San Jose, CA<br>Seattle, WA<br>Lynnwood, WA<br>Bothell, WA<br>Colusa, CA<br>Esparto, CA<br>Milpitas, CA<br>Manteca, CA<br>Acampo, CA<br>Berkeley, CA<br>Sunnyvale, CA<br>Salinas, CA<br>Fremont, CA<br>Fresno, CA<br>Shafter, CA<br>El Centro, CA<br>Residence Based, CA<br>Woodland, CA<br>Williams, CA<br>Visalia, CA<br>Simi Valley, CA<br>San Juan Bautista, CA<br>Oxnard, CA<br>Pasadena, CA<br>Santa Ana, CA<br>Whittier, CA<br>Canoga Park, CA<br>Redlands, CA<br>Yorba Linda, CA<br>Ontario, CA<br>Pomona, CA<br>Huntington Beach, CA<br>Bell Gardens, CA<br>North Hollywood, CA<br>Hemet, CA<br>Indio, CA<br>Redding, CA<br>San Jose S, CA<br>Santa Barbara, CA<br>Seattle N, WA<br>Corona, CA<br>Riverside, CA<br>Beverly Hills, CA<br>Santa Monica, CA</details><b>|Open✅|12/07/2024|[Apply Here](https://talent.bayer.com/careers/job/562949963515223)||
 |Dassult Systemes|Software Engineer Intern||New York, NY|Open✅|12/07/2024|[Apply Here](https://www.3ds.com/careers/jobs/software-engineer-summer-intern-541954)||
@@ -39,7 +46,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Salesforce Developer Intern|32|Iselin, NJ|Open✅|12/07/2024|[Apply Here](https://www.3ds.com/careers/jobs/summer-intern-salesforce-developer-541757)||
 |↳|API Support Engineer Intern|22 - 40|Waltham, MA|Open✅|11/15/2024|[Apply Here](https://www.3ds.com/careers/jobs/internship-api-support-engineer-541551)||
 |↳|Software QA Engineer Intern|22 - 40|Waltham, MA|Closed🔒|09/20/2024|||
-|Cognizant|IoT Intern|25|Remote|Open✅|12/07/2024|[Apply Here](https://careers.cognizant.com/global-en/jobs/45353/iot-intern/)||
+|Cognizant|IoT Intern|25|Remote|Open🛂|12/07/2024|[Apply Here](https://careers.cognizant.com/global-en/jobs/45353/iot-intern/)||
 |CodeSignal|Course Review Engineer Intern|20 - 30|Remote|Open✅|12/06/2024|[Apply Here](https://job-boards.greenhouse.io/codesignal/jobs/5391942004)||
 |Landis+Gyr|Software Development Intern|20 - 25|Alpharetta, GA|Open✅|12/06/2024|[Apply Here](https://careers.landisgyr.com/job/Alpharetta-Intern-Software-Development-GA-30004/1149280201/)||
 |IDEXX|Embedded Software Engineer Intern||Westbrook, ME|Open✅|12/06/2024|[Apply Here](https://careers.idexx.com/us/en/job/J-045600/Embedded-Software-Engineer-Intern-Summer-2025)||
@@ -665,8 +672,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Algorithm Developer Intern||Troy, MI|Open✅|10/01/2024|[Apply Here](https://www.aptiv.com/en/jobs/search/open-positions/J000671918)||
 |Ethic|Software Engineering Intern|28 - 38|New York, NY|Closed🔒|11/12/2024|||
 |GlossGenius|Engineering Intern|25 - 50|New York, NY|Closed🔒|11/11/2024|||
-|Alcon|Fiber Engineering Intern|45|Lake Forest, CA|Open✅|11/11/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2025-Intern---Fiber-Engineering_R-2024-35966)||
-|↳|R&D Intern||<details><summary>3 locations<br><br><b></summary>Fort Worth, TX<br>Lake Forest, CA<br>Johnson Creek Research Center, GA</details><b>|Closed🔒|09/03/2024|||
 |Cardinal Health|Software Engineering Intern|24|<details><summary>2 locations<br><br><b></summary>Dublin, OH<br>Remote</details><b>|Open✅|11/11/2024|[Apply Here](https://jobs.cardinalhealth.com/Search/JobDetails/software-engineering-internship-summer-2025/37947be6-b9a3-4547-af6d-ac58185fcf42?mytest)||
 |Coalition|Data Intern, AI/ML and Data Engineering||San Francisco, CA|Open✅|11/11/2024|[Apply Here](https://careers.coalitioninc.com/job-posting/?gh_jid=4494887005)||
 |↳|Backend Engineer Intern||San Francisco, CA|Open✅|11/11/2024|[Apply Here](https://careers.coalitioninc.com/job-posting/?gh_jid=4493650005)||
