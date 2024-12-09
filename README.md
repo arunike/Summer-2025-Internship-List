@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/08/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/09/2024.
 
 ## Internship Positions
 
-There are total of **2432 (827 open & 1605 closed)** internship positions listed. **5** new positions were added today.
+There are total of **2439 (835 open & 1604 closed)** internship positions listed. **8** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,14 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Garmin|Software Engineering Intern|20 - 25|Yarmouth, ME|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14486)||
+|↳|Software Engineer Intern, Web/DevOps||Olathe, KS|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14220)||
+|↳|Software Engineering Intern|28 - 35|Boulder, CO|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14458)||
+|↳|Software Engineer Intern, Mobile||Olathe, KS|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14505)||
+|↳|Software Engineer Intern, Mobile||Chandler, AZ|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14813)||
+|↳|Software Engineer Intern||Tucson, AZ|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14449)||
+|↳|Software Engineer Intern||Tulsa, OK|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14353)||
+|↳|Software Engineer Intern|31 - 37|Brea, CA|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14416)||
 |Alcon|Digital Platform Security Intern||Fort Worth, TX|Open✅|12/08/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/Summer-2025---Digital-Platform-Security-Intern_R-2024-36768)||
 |↳|R&D Surgical Software Engineering Intern|45|Lake Forest, CA|Open✅|12/08/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2025---R-D-Surgical-Software-Engineering-Intern_R-2024-36618)||
 |↳|Digital Deployment Intern||Fort Worth, TX|Open✅|12/08/2024|[Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/Summer-2025-Intern---Digital-Deployment_R-2024-35867)||
@@ -2278,7 +2286,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|IoT/Ubicomp Summer Associate|70.31 - 80.72|<details><summary>2 locations<br><br><b></summary>New York, NY<br>Jersey City, NJ</details><b>|Open✅|08/29/2024|[Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210548060?utm_medium=jobboard&utm_campaign=Default%20Campaign&utm_content=2025%20IoT/Ubicomp%20Summer%20Associate&utm_term=210548060)|Graduate Students Only|
 |↳|Software Engineer Intern||<details><summary>12 locations<br><br><b></summary>Atlanta, GA<br>Austin, TX<br>Chicago, IL<br>Columbus, OH<br>Houston, TX<br>Jersey City, NJ<br>New York, NY<br>Palo Alto, CA<br>Plano, TX<br>Seattle, WA<br>Tampa, FL<br>Wilmington, DE</details><b>|Open🛂|07/01/2024|[Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527407)||
 |↳|Software Engineer Intern (Code for Good)||<details><summary>12 locations<br><br><b></summary>Atlanta, GA<br>Austin, TX<br>Chicago, IL<br>Columbus, OH<br>Houston, TX<br>Jersey City, NJ<br>New York, NY<br>Palo Alto, CA<br>Plano, TX<br>Seattle, WA<br>Tampa, FL<br>Wilmington, DE</details><b>|Closed🔒|07/01/2024|||
-|Garmin|Software Engineer Intern, Non-Embedded||Olathe, KS|Closed🔒|08/30/2024|||
 |Palantir|Software Engineer Intern|62.5|Devner, CO|Open✅|08/30/2024|[Apply Here](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249)||
 |↳|Forward Deployed Software Engineer Intern, Defense Tech|62.5|Washington, D.C.|Open✅|08/06/2024|[Apply Here](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b)||
 |↳|Software Engineer Intern, Defense Tech|62.5|Washington, D.C.|Open✅|08/06/2024|[Apply Here](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7)||

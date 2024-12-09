@@ -2,11 +2,11 @@
 
 This page provides a breakdown of internship opportunities by state. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/08/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/09/2024.
 
 ## Internship Positions
 
-There are a total of **53** (including remote and unknown) states listed. **5** new positions were added today.
+There are a total of **53** (including remote and unknown) states listed. **8** new positions were added today.
 
 ### Viewing Options:
 If you prefer to view the positions sorted by statuses, check out the [Internship Opportunities by Status](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_status.md) page.
@@ -112,9 +112,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Molex     | Engineering Intern              | 25 - 38          | Closed🔒 | 09/08/2024   | Conway, AR      |                    |
 
 ## Jobs in AZ
-### Number of positions: 50 (Open: 7, Closed: 43)
+### Number of positions: 52 (Open: 9, Closed: 43)
 | Company            | Job Title                                                                      | Hourly Pay ($)   | Status   | Date Added   | Location       | Application Link                                                                                                                                                |
 |:-------------------|:-------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Garmin             | Software Engineer Intern                                                       |                  | Open✅   | 12/09/2024   | Tucson, AZ     | [Apply Here](https://careers.garmin.com/careers-home/jobs/14449)                                                                                                |
+| ↳                  | Software Engineer Intern, Mobile                                               |                  | Open✅   | 12/09/2024   | Chandler, AZ   | [Apply Here](https://careers.garmin.com/careers-home/jobs/14813)                                                                                                |
 | Arevon             | Data Management Intern                                                         |                  | Closed🔒 | 11/16/2024   | Scottsdale, AZ |                                                                                                                                                                 |
 | Kimley-Horn        | Software Engineering Intern                                                    |                  | Closed🔒 | 11/07/2024   | Phoenix, AZ    |                                                                                                                                                                 |
 | CNH Industrial     | Artificial Intelligence Development Intern                                     | 20.5 - 45        | Closed🔒 | 11/02/2024   | Scottsdale, AZ |                                                                                                                                                                 |
@@ -167,9 +169,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Deloitte           | Software Engineering Summer Scholar                                            |                  | Closed🔒 | 08/05/2024   | Tempe, AZ      |                                                                                                                                                                 |
 
 ## Jobs in CA
-### Number of positions: 614 (Open: 281, Closed: 333)
+### Number of positions: 615 (Open: 282, Closed: 333)
 | Company                              | Job Title                                                                                    | Hourly Pay ($)   | Status   | Date Added   | Location                | Application Link                                                                                                                                                                          |
 |:-------------------------------------|:---------------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Garmin                               | Software Engineer Intern                                                                     | 31 - 37          | Open✅   | 12/09/2024   | Brea, CA                | [Apply Here](https://careers.garmin.com/careers-home/jobs/14416)                                                                                                                          |
 | Alcon                                | R&D Surgical Software Engineering Intern                                                     | 45               | Open✅   | 12/08/2024   | Lake Forest, CA         | [Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2025---R-D-Surgical-Software-Engineering-Intern_R-2024-36618)                      |
 | ↳                                    | Fiber Engineering Intern                                                                     | 45               | Open✅   | 11/11/2024   | Lake Forest, CA         | [Apply Here](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2025-Intern---Fiber-Engineering_R-2024-35966)                                      |
 | ↳                                    | R&D Intern                                                                                   |                  | Closed🔒 | 09/03/2024   | Lake Forest, CA         |                                                                                                                                                                                           |
@@ -786,9 +789,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | ↳                                    | Software Engineer Intern (Code for Good)                                                     |                  | Closed🔒 | 07/01/2024   | Palo Alto, CA           |                                                                                                                                                                                           |
 
 ## Jobs in CO
-### Number of positions: 115 (Open: 35, Closed: 80)
+### Number of positions: 116 (Open: 36, Closed: 80)
 | Company                   | Job Title                                                                      | Hourly Pay ($)   | Status   | Date Added   | Location              | Application Link                                                                                                                                                       |
 |:--------------------------|:-------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Garmin                    | Software Engineering Intern                                                    | 28 - 35          | Open✅   | 12/09/2024   | Boulder, CO           | [Apply Here](https://careers.garmin.com/careers-home/jobs/14458)                                                                                                       |
 | Empower                   | DevOps Engineer Intern                                                         | 22 - 24          | Closed🔒 | 11/30/2024   | Hartford, CO          |                                                                                                                                                                        |
 | ↳                         | Software Engineer Intern                                                       | 22 - 24          | Closed🔒 | 11/30/2024   | Hartford, CO          |                                                                                                                                                                        |
 | Visa                      | Data Storage Intern                                                            |                  | Open✅   | 11/27/2024   | Highlands Ranch, CO   | [Apply Here](https://corporate.visa.com/en/jobs/REF79704J)                                                                                                             |
@@ -1464,9 +1468,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Deloitte                      | Software Engineering Summer Scholar                       |                  | Closed🔒 | 08/05/2024   | Indianapolis, IN   |                                                                                                                                                                             |
 
 ## Jobs in KS
-### Number of positions: 21 (Open: 4, Closed: 17)
+### Number of positions: 22 (Open: 6, Closed: 16)
 | Company                      | Job Title                                                  | Hourly Pay ($)   | Status   | Date Added   | Location          | Application Link                                                                                                                          |
 |:-----------------------------|:-----------------------------------------------------------|:-----------------|:---------|:-------------|:------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| Garmin                       | Software Engineer Intern, Mobile                           |                  | Open✅   | 12/09/2024   | Olathe, KS        | [Apply Here](https://careers.garmin.com/careers-home/jobs/14505)                                                                          |
+| ↳                            | Software Engineer Intern, Web/DevOps                       |                  | Open✅   | 12/09/2024   | Olathe, KS        | [Apply Here](https://careers.garmin.com/careers-home/jobs/14220)                                                                          |
 | Panasonic                    | AI Research Engineer Intern                                |                  | Open✅   | 10/26/2024   | De Soto, KS       | [Apply Here](https://careers.na.panasonic.com/jobs/38521)                                                                                 |
 | ↳                            | Data Analytics Intern                                      |                  | Open✅   | 10/26/2024   | De Soto, KS       | [Apply Here](https://careers.na.panasonic.com/jobs/38517)                                                                                 |
 | T-Mobile                     | IT Associate Engineer Intern, Software                     | 20 - 40          | Closed🔒 | 10/25/2024   | Overland Park, KS |                                                                                                                                           |
@@ -1486,7 +1492,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | ↳                            | Software Engineer Intern R-3660                            |                  | Closed🔒 | 09/06/2024   | Lenexa, KS        |                                                                                                                                           |
 | ↳                            | Software Engineer Intern R-3677                            |                  | Closed🔒 | 09/06/2024   | Lenexa, KS        |                                                                                                                                           |
 | ↳                            | Software Engineer Intern, Data Pipeline Engineering        |                  | Closed🔒 | 09/06/2024   | Lenexa, KS        |                                                                                                                                           |
-| Garmin                       | Software Engineer Intern, Non-Embedded                     |                  | Closed🔒 | 08/30/2024   | Olathe, KS        |                                                                                                                                           |
 | AeroVironment                | Software Engineering Intern                                |                  | Open✅   | 08/27/2024   | Lawrence, KS      | [Apply Here](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/XMLNAME-2025-Summer-Internship---Software-Engineering_4871) |
 
 ## Jobs in KY
@@ -1717,9 +1722,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | T. Rowe Price                                       | Global Technology, Software Engineering Intern                                                |                  | Closed🔒 | 07/23/2024   | Owings Mills, MD       |                                                                                                                                                                                                  |
 
 ## Jobs in ME
-### Number of positions: 8 (Open: 4, Closed: 4)
+### Number of positions: 9 (Open: 5, Closed: 4)
 | Company            | Job Title                                             | Hourly Pay ($)   | Status   | Date Added   | Location      | Application Link                                                                                                                       |
 |:-------------------|:------------------------------------------------------|:-----------------|:---------|:-------------|:--------------|:---------------------------------------------------------------------------------------------------------------------------------------|
+| Garmin             | Software Engineering Intern                           | 20 - 25          | Open✅   | 12/09/2024   | Yarmouth, ME  | [Apply Here](https://careers.garmin.com/careers-home/jobs/14486)                                                                       |
 | IDEXX              | Embedded Software Engineer Intern                     |                  | Open✅   | 12/06/2024   | Westbrook, ME | [Apply Here](https://careers.idexx.com/us/en/job/J-045600/Embedded-Software-Engineer-Intern-Summer-2025)                               |
 | Raven              | Computer Graphics Intern                              | 20 - 50          | Open✅   | 12/03/2024   | Portland, ME  | [Apply Here](https://careers.ravensoftware.com/job/R023719/2025-US-Summer-Internship-Computer-Graphics)                                |
 | L.L.Bean           | Data Analyst / Business Analyst Intern                |                  | Closed🔒 | 11/03/2024   | Freeport, ME  |                                                                                                                                        |
@@ -2495,9 +2501,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | ↳                           | Software Engineer Intern (Code for Good)                       |                  | Closed🔒 | 07/01/2024   | Columbus, OH                        |                                                                                                                                                                                                           |
 
 ## Jobs in OK
-### Number of positions: 12 (Open: 4, Closed: 8)
+### Number of positions: 13 (Open: 5, Closed: 8)
 | Company                    | Job Title                                                                      | Hourly Pay ($)   | Status   | Date Added   | Location                  | Application Link                                                                                                                                                    |
 |:---------------------------|:-------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:--------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Garmin                     | Software Engineer Intern                                                       |                  | Open✅   | 12/09/2024   | Tulsa, OK                 | [Apply Here](https://careers.garmin.com/careers-home/jobs/14353)                                                                                                    |
 | Northrop Grumman           | Software Intern                                                                | 26.35 - 40       | Closed🔒 | 11/05/2024   | Oklahoma City, OK         |                                                                                                                                                                     |
 | FlightSafety International | Computer Science Intern                                                        |                  | Closed🔒 | 10/12/2024   | Broken Arrow, OK          |                                                                                                                                                                     |
 | Alfa Laval                 | Channel Development Intern                                                     | 17 - 20          | Closed🔒 | 10/01/2024   | Broken Arrow, OK          |                                                                                                                                                                     |
