@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/09/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/10/2024.
 
 ## Internship Positions
 
-There are total of **2439 (835 open & 1604 closed)** internship positions listed. **8** new positions were added today.
+There are total of **2443 (839 open & 1604 closed)** internship positions listed. **4** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Life Fitness|Software Engineering Intern||Franklin Park, IL|Open✅|12/10/2024|[Apply Here](https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Franklin-Park-IL/Software-Engineering-Intern_JR-023929)||
+|↳|IT Intern||Rosemont, IL|Open✅|12/10/2024|[Apply Here](https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Rosemont-IL/IT-Intern_JR-023925)||
+|Nasdaq|Data Services Intern||Atlanta, GA|Open✅|12/10/2024|[Apply Here](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Atlanta---Georgia/Data-Services-Intern---2025-Summer-Internship_R0020715)||
+|↳|Data Intelligence Intern||Atlanta, GA|Open✅|12/10/2024|[Apply Here](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Atlanta---Georgia/Data-Intelligence-Intern---2025-Summer-Internship_R0020736)||
 |Garmin|Software Engineering Intern|20 - 25|Yarmouth, ME|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14486)||
 |↳|Software Engineer Intern, Web/DevOps||Olathe, KS|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14220)||
 |↳|Software Engineering Intern|28 - 35|Boulder, CO|Open✅|12/09/2024|[Apply Here](https://careers.garmin.com/careers-home/jobs/14458)||
