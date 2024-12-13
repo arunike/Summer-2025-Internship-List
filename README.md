@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/12/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/13/2024.
 
 ## Internship Positions
 
-There are total of **2466 (861 open & 1605 closed)** internship positions listed. **17** new positions were added today.
+There are total of **2504 (899 open & 1605 closed)** internship positions listed. **38** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,58 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Glassdoor|iOS Software Engineer Intern|40|New York, NY|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/ios-software-engineer-intern-summer-2025-glassdoor-JV_IC1132348_KO0,40_KE41,50.htm?jl=1009563977519&cs=1_2d20b02c&s=21&t=ESR&pos=101&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977519&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-c6377bef9a83f3ce&cb=1734065467157&ctt=1734065653077&srs=EI_JOBS)||
+|↳|Front End Software Engineer Intern, Engineering|40|New York, NY|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1132348_KO0,46_KE47,56.htm?jl=1009563977533&cs=1_18fe46aa&s=21&t=ESR&pos=102&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977533&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-1c6f710369a454b6&cb=1734065467157&ctt=1734065648435&srs=EI_JOBS)||
+|↳|Front-end Software Engineer Intern, Registration|40|Chicago, IL|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1128808_KO0,46_KE47,56.htm?jl=1009563977547&cs=1_003bf64c&s=21&t=ESR&pos=103&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977547&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-a1c1753a1cceba50&cb=1734065467157&ctt=1734065623246&srs=EI_JOBS)||
+|↳|Front-end Software Engineer Intern, Rebuilding React|40|San Francisco, CA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1147401_KO0,46_KE47,56.htm?jl=1009563977546&cs=1_6bc56caf&s=21&t=ESR&pos=105&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977546&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-5cdf9b2785d84577&cb=1734065467157&ctt=1734065619341&srs=EI_JOBS)||
+|↳|Android Software Engineer Intern|40|San Francisco, CA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/android-software-engineer-intern-summer-2025-glassdoor-JV_IC1147401_KO0,44_KE45,54.htm?jl=1009563977534&cs=1_27f5240f&s=21&t=ESR&pos=106&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977534&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-a24978fa8b6348bd&cb=1734065467157&ctt=1734065611162&srs=EI_JOBS)||
+|↳|Android Software Engineer Intern|40|Atlanta, GA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/android-software-engineer-intern-summer-2025-glassdoor-JV_IC1155583_KO0,44_KE45,54.htm?jl=1009563977513&cs=1_766e5ffb&s=21&t=ESR&pos=107&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977513&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-1b45097bf2144f96&cb=1734065467157&ctt=1734065608897&srs=EI_JOBS)||
+|↳|Front-end Software Engineer Intern, Registration|40|New York, NY|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1132348_KO0,46_KE47,56.htm?jl=1009563977532&cs=1_80ab17aa&s=21&t=ESR&pos=108&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977532&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-0121c89e0c3ee219&cb=1734065467157&ctt=1734065606736&srs=EI_JOBS)||
+|↳|Front-end Software Engineer Intern, Rebuilding React|40|New York, NY|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1132348_KO0,46_KE47,56.htm?jl=1009563977528&cs=1_97c2bb67&s=21&t=ESR&pos=109&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977528&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-3745ea0ebe90f4f4&cb=1734065467157&ctt=1734065605545&srs=EI_JOBS)||
+|↳|iOS Software Engineer Intern|40|Chicago, IL|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/ios-software-engineer-intern-summer-2025-glassdoor-JV_IC1128808_KO0,40_KE41,50.htm?jl=1009563977515&cs=1_444ea761&s=21&t=ESR&pos=110&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977515&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-0c9349cd067a0396&cb=1734065467158&ctt=1734065600817&srs=EI_JOBS)||
+|↳|Front End Software Engineer Intern, Engineering|40|Chicago, IL|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1128808_KO0,46_KE47,56.htm?jl=1009563977524&cs=1_a357a849&s=21&t=ESR&pos=111&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977524&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-5c6a6f4e13ecdc01&cb=1734065467158&ctt=1734065600349&srs=EI_JOBS)||
+|↳|iOS Software Engineer Intern|40|San Francisco, CA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/ios-software-engineer-intern-summer-2025-glassdoor-JV_IC1147401_KO0,40_KE41,50.htm?jl=1009563977512&cs=1_a098c2c2&s=21&t=ESR&pos=113&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977512&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-e86560565a699d73&cb=1734065467158&ctt=1734065589097&srs=EI_JOBS)||
+|↳|Front-end Software Engineer Intern, Rebuilding React|40|Chicago, IL|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1128808_KO0,46_KE47,56.htm?jl=1009563977543&cs=1_1cd82987&s=21&t=ESR&pos=114&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977543&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-00dd878220595067&cb=1734065467158&ctt=1734065584867&srs=EI_JOBS)||
+|↳|iOS Software Engineer Intern|40|Atlanta, GA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/ios-software-engineer-intern-summer-2025-glassdoor-JV_IC1155583_KO0,40_KE41,50.htm?jl=1009563977514&cs=1_f46d3a84&s=21&t=ESR&pos=115&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977514&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-accd25c3ee410cbb&cb=1734065467158&ctt=1734065583223&srs=EI_JOBS)||
+|↳|Front-end Software Engineer Intern, Registration|40|Atlanta, GA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1155583_KO0,46_KE47,56.htm?jl=1009563977538&cs=1_8b366f16&s=21&t=ESR&pos=116&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977538&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-6f9e9f287a7e0aec&cb=1734065467158&ctt=1734065580824&srs=EI_JOBS)||
+|↳|Front-end Software Engineer Intern, Registration|40|San Francisco, CA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1147401_KO0,46_KE47,56.htm?jl=1009563977540&cs=1_11fc6601&s=21&t=ESR&pos=117&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977540&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-9876311e2e359491&cb=1734065467158&ctt=1734065577680&srs=EI_JOBS)||
+|↳|Front End Software Engineer Intern, Engineering|40|Atlanta, GA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1155583_KO0,46_KE47,56.htm?jl=1009563977529&cs=1_0d1cb0fd&s=21&t=ESR&pos=118&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977529&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-2bcd4420eee948b7&cb=1734065467158&ctt=1734065584739&srs=EI_JOBS)||
+|↳|Front End Software Engineer Intern, Engineering|40|San Francisco, CA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1147401_KO0,46_KE47,56.htm?jl=1009563977523&cs=1_7a15f758&s=21&t=ESR&pos=119&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977523&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-666f22ea6c214807&cb=1734065467158&ctt=1734065576008&srs=EI_JOBS)||
+|↳|Mobile SDET Engineer Intern|40|Atlanta, GA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/mobile-sdet-engineer-intern-summer-2025-glassdoor-JV_IC1155583_KO0,39_KE40,49.htm?jl=1009563977544&cs=1_e4ed93ef&s=21&t=ESR&pos=120&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977544&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-177f38e9f9138412&cb=1734065467158&ctt=1734065580866&srs=EI_JOBS)||
+|↳|Front-end Software Engineer Intern, Rebuilding React|40|Atlanta, GA|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1155583_KO0,46_KE47,56.htm?jl=1009563977535&cs=1_1a7ac989&s=21&t=ESR&pos=121&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977535&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-79ec6e0f971f2389&cb=1734065467158&ctt=1734065568227&srs=EI_JOBS)||
+|↳|Android Software Engineer Intern|40|New York, NY|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/android-software-engineer-intern-summer-2025-glassdoor-JV_IC1132348_KO0,44_KE45,54.htm?jl=1009563977522&cs=1_c8bd3027&s=21&t=ESR&pos=123&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977522&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-986b73de079e6ffe&cb=1734065467159&ctt=1734065565192&srs=EI_JOBS)||
+|↳|Android Software Engineer Intern|40|Chicago, IL|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/android-software-engineer-intern-summer-2025-glassdoor-JV_IC1128808_KO0,44_KE45,54.htm?jl=1009563977525&cs=1_0ba68ef0&s=21&t=ESR&pos=127&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977525&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-d2df9d16a50c5564&cb=1734065467159&ctt=1734065561470&srs=EI_JOBS)||
+|EBSCO|SAI Chatbot Development Intern|22 - 26|Remote|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1664/ai-chatbot-development-intern%2c-summer-2025/job)||
+|↳|Business/Data Analysis Intern|20 - 23|Remote|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1654/business-data-analysis-intern%2c-summer-2025/jobb)||
+|↳|Software Engineering Intern, Full Stack|22 - 26|Remote|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1653/intern---full-stack%2c-software-engineering%2c-summer-2025/job)||
+|↳|Software Engineering Intern|22 - 26|Remote|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1651/software-engineering-intern%2c-summer-2025/job)||
+|↳|Software Development Intern|22 - 26|Ipswich, MA|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1650/software-development-intern%2c-summer-2025/job)||
+|↳|Software Development Intern, Operations & Finance Development|22 - 26|Ipswich, MA|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1649/software-development-intern%2c-summer-2025/job)||
+|↳|Software Development Intern, Knowledge Graphs & Artificial Intelligence|22 - 26|Remote|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1648/software-development-intern---knowledge-graphs-%26-artificial-intelligence%2c-summer-2025/job)||
+|↳|Software Development Intern, Multi-Functional|23 - 26|Remote|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1644/software-development-intern%2c-summer-2025/job)||
+|↳|Software Engineering Intern, Hosting Hub|22 - 26|Ipswich, MA|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1643/software-engineering-intern%2c-summer-2025/job)||
+|↳|Software Development Intern|22 - 26|Remote|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1642/software-development-intern%2c-summer-2025/job)||
+|↳|Software Development/Analytics Intern, Configuration ART|22 - 26|Ipswich, MA|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1640/software-development-analytics-intern-%28configuration-art%29%2c-summer-2025/job)||
+|↳|DevOps Intern|22 - 26|Remote|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1639/devops-intern%2c-summer-2025/job)||
+|↳|Software Development Intern, IAM|22 - 26|Ipswich, MA|Open✅|12/13/2024|[Apply Here](https://careers-ebscoind.icims.com/jobs/1636/software-development-intern-iam%2c-summer-2025/job)||
+|QualiVerse|Back End Engineer Intern|||Open✅|12/13/2024|[Apply Here](https://c10labs.pinpointhq.com/en/postings/aecbf250-9ec8-4d73-a83e-5efc2628b087)||
+|Boston Scientific|Software Test Engineer Intern||Waltham, MA|Open✅|12/13/2024|[Apply Here](https://jobs.bostonscientific.com/job/Waltham-Software-Test-Engineer-Intern-MA/1241736900/)||
+|↳|CDx Software Engineering Intern||<details><summary>2 locations<br><br><b></summary>Arden Hills, MN<br>Houston, TX</details><b>|Closed🔒|09/26/2024|||
+|↳|EEG Software Engineer Intern||Maple Grove, MN|Closed🔒|09/10/2024|||
+|Charles River Analytics|Software Engineer Intern/Co-op, User Experience (HCI/HMI)||Cambridge, MA|Open🇺🇸|12/13/2024|[Apply Here](https://cra.com/job-listings/?gh_jid=6462876)||
+|Amazon|SDE Intern|47.84 - 96.15|<details><summary>4 locations<br><br><b></summary>Seattle, WA<br>Redmond, WA<br>Bellevue, WA<br>Palo Alto, CA</details><b>|Open✅|12/13/2024|[Apply Here](https://www.amazon.jobs/en/jobs/2852336/sde-intern-summer)||
+|↳|Software Development Engineer Intern|47.84 - 96.15|Seattle, WA|Open✅|10/18/2024|[Apply Here](https://amazon.jobs/en/jobs/2808739/software-development-engineer-internship-2025-us)||
+|↳|Sensor Embedded Software Intern, Amazon Robotics Sensor||North Reading, MA|Closed🔒|10/10/2024|||
+|↳|Software Dev Engineer Intern, Automated Reasoning|47.84 - 96.15|<details><summary>4 locations<br><br><b></summary>Seattle, WA<br>Arlington, VA<br>New York, NY<br>Portland, OR</details><b>|Closed🔒|10/05/2024|||
+|↳|Software Dev Engineer Intern, Machine Learning Apps, Accelerator, Annapurna ML|47.84 - 96.15|Cupertino, CA|Open✅|10/04/2024|[Apply Here](https://www.amazon.jobs/en/jobs/2794069/software-dev-engineer-intern-machine-learning-apps-accelerator-annapurna-ml)|Graduate Students Only|
+|↳|Software Dev Engineer Intern, Compiler, Annapurna ML|47.84 - 96.15|Cupertino, CA|Open✅|10/04/2024|[Apply Here](https://amazon.jobs/en/jobs/2794068/software-dev-engineer-intern-compiler-annapurna-ml)||
+|↳|Software Dev Engineer Intern, Embedded, Runtime, Storage, System & Performance, Annapurna ML|47.84 - 96.15|<details><summary>2 locations<br><br><b></summary>Seattle, WA<br>Cupertino, CA</details><b>|Open✅|10/04/2024|[Apply Here](https://amazon.jobs/en/jobs/2794071/software-dev-engineer-intern-embedded-runtime-storage-system-performance-annapurna-ml)||
+|↳|Data Engineering Intern|43.85 - 88.94|Seattle, WA|Open✅|09/03/2024|[Apply Here](https://amazon.jobs/en/jobs/2740350/data-engineer-summer-internship-2025-us)||
+|↳|Software Development Engineer Intern, Amazon Robotics||<details><summary>2 locations<br><br><b></summary>Westborough, MA<br>North Reading, MA</details><b>|Closed🔒|08/30/2024|||
+|↳|Systems Development Engineer Intern|42.88 - 97.45|Seattle, WA|Closed🔒|08/25/2024|||
+|↳|Security Engineer Intern|60.34 - 102.31|Seattle, WA|Open✅|08/25/2024|[Apply Here](https://amazon.jobs/en/jobs/2738657/security-engineer-summer-internship-2025-us)||
+|↳|Quality Assurance Engineer Intern|36.39 - 88.03|Seattle, WA|Closed🔒|08/25/2024|||
+|↳|Programmer Analyst Intern|29.9 - 76.88|Seattle, WA|Closed🔒|08/25/2024|||
 |Jack Henry|Software Engineer Intern, Credit Union Solutions|25|Allen, TX|Open✅|12/12/2024|[Apply Here](https://careers.jackhenry.com/job/allen/software-engineer-credit-union-solutions-intern-summer-2025-allen-tx/42859/74408110784)||
 |↳|Cybersecurity Engineer Intern|25|Remote|Closed🔒|11/20/2024|||
 |↳|Software Engineer Intern, Enterprise Account Origination|25|Allen, TX|Closed🔒|10/28/2024|||
@@ -68,7 +120,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |FormLabs|Embedded Software Intern||Somerville, MA|Open✅|12/12/2024|[Apply Here](https://careers.formlabs.com/job/6250792/apply/)||
 |↳|Desktop Software Intern||Somerville, MA|Open✅|12/12/2024|[Apply Here](https://careers.formlabs.com/job/6250770/apply/)||
 |↳|Python Software Intern|30 - 40|Somerville, MA|Closed🔒|11/06/2024|||
-|Docusign|Platform Software Engineer Intern|39 - 50|San Francisco, CA|Open✅|12/12/2024|[Apply Here](https://careers.docusign.com/jobs/25870)||
+|Docusign|Platform Software Engineer Intern|39 - 50|San Francisco, CA|Open🛂|12/12/2024|[Apply Here](https://careers.docusign.com/jobs/25870)||
 |↳|AI Engineer Intern, Employee Experience|31 - 40|San Francisco, CA|Open✅|12/12/2024|[Apply Here](https://careers.docusign.com/jobs/25879)||
 |UiPath|Software Engineer Intern - PhD||Bellvue, WA|Open✅|12/12/2024|[Apply Here](https://careers.uipath.com/careers/jobs/11730)||
 |↳|Software Engineer Intern||Bellvue, WA|Open✅|12/12/2024|[Apply Here](https://careers.uipath.com/careers/jobs/11731)||
@@ -1265,18 +1317,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Encore Global|IT Application Development Intern||Schiller Park , IL|Closed🔒|10/18/2024|||
 |↳|Data Analyst Intern||Schiller Park , IL|Closed🔒|10/18/2024|||
 |↳|IT Customer System Support Intern||Schiller Park , IL|Closed🔒|10/18/2024|||
-|Amazon|Software Development Engineer Intern|47.84 - 96.15|Seattle, WA|Open✅|10/18/2024|[Apply Here](https://amazon.jobs/en/jobs/2808739/software-development-engineer-internship-2025-us)||
-|↳|Sensor Embedded Software Intern, Amazon Robotics Sensor||North Reading, MA|Closed🔒|10/10/2024|||
-|↳|Software Dev Engineer Intern, Automated Reasoning|47.84 - 96.15|<details><summary>4 locations<br><br><b></summary>Seattle, WA<br>Arlington, VA<br>New York, NY<br>Portland, OR</details><b>|Closed🔒|10/05/2024|||
-|↳|Software Dev Engineer Intern, Machine Learning Apps, Accelerator, Annapurna ML|47.84 - 96.15|Cupertino, CA|Open✅|10/04/2024|[Apply Here](https://www.amazon.jobs/en/jobs/2794069/software-dev-engineer-intern-machine-learning-apps-accelerator-annapurna-ml)|Graduate Students Only|
-|↳|Software Dev Engineer Intern, Compiler, Annapurna ML|47.84 - 96.15|Cupertino, CA|Open✅|10/04/2024|[Apply Here](https://amazon.jobs/en/jobs/2794068/software-dev-engineer-intern-compiler-annapurna-ml)||
-|↳|Software Dev Engineer Intern, Embedded, Runtime, Storage, System & Performance, Annapurna ML|47.84 - 96.15|<details><summary>2 locations<br><br><b></summary>Seattle, WA<br>Cupertino, CA</details><b>|Open✅|10/04/2024|[Apply Here](https://amazon.jobs/en/jobs/2794071/software-dev-engineer-intern-embedded-runtime-storage-system-performance-annapurna-ml)||
-|↳|Data Engineering Intern|43.85 - 88.94|Seattle, WA|Open✅|09/03/2024|[Apply Here](https://amazon.jobs/en/jobs/2740350/data-engineer-summer-internship-2025-us)||
-|↳|Software Development Engineer Intern, Amazon Robotics||<details><summary>2 locations<br><br><b></summary>Westborough, MA<br>North Reading, MA</details><b>|Closed🔒|08/30/2024|||
-|↳|Systems Development Engineer Intern|42.88 - 97.45|Seattle, WA|Closed🔒|08/25/2024|||
-|↳|Security Engineer Intern|60.34 - 102.31|Seattle, WA|Open✅|08/25/2024|[Apply Here](https://amazon.jobs/en/jobs/2738657/security-engineer-summer-internship-2025-us)||
-|↳|Quality Assurance Engineer Intern|36.39 - 88.03|Seattle, WA|Closed🔒|08/25/2024|||
-|↳|Programmer Analyst Intern|29.9 - 76.88|Seattle, WA|Closed🔒|08/25/2024|||
 |Total Wine & More|Software Engineering Intern||Boca Raton, FL|Closed🔒|10/18/2024|||
 |Transparent Partners|Technology Intern||Chicago, IL|Closed🔒|10/18/2024|||
 |↳|Data & AnalyticsIntern||Chicago, IL|Closed🔒|10/18/2024|||
@@ -1750,8 +1790,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Cloud Engineer Intern||Worcester, MA|Closed🔒|09/08/2024|||
 |TSC|Software Engineer Intern||Silver Spring, MD|Closed🔒|09/26/2024|||
 |Interstates|Apps Programmer Intern||<details><summary>2 locations<br><br><b></summary>Sioux Falls, SD<br>Sioux Center, IA</details><b>|Open✅|09/26/2024|[Apply Here](https://careers.interstates.com/jobs/3526/job)||
-|Boston Scientific|CDx Software Engineering Intern||<details><summary>2 locations<br><br><b></summary>Arden Hills, MN<br>Houston, TX</details><b>|Closed🔒|09/26/2024|||
-|↳|EEG Software Engineer Intern||Maple Grove, MN|Closed🔒|09/10/2024|||
 |HNI|Software Engineering Intern||Muscatine, IA|Closed🔒|09/26/2024|||
 |Noblis|Software Development Intern|23 - 38|Reston, VA|Closed🔒|09/26/2024|||
 |↳|Information Security Intern|23 - 38|Reston, VA|Closed🔒|09/26/2024|||
