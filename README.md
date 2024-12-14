@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/13/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/14/2024.
 
 ## Internship Positions
 
-There are total of **2504 (899 open & 1605 closed)** internship positions listed. **38** new positions were added today.
+There are total of **2513 (909 open & 1604 closed)** internship positions listed. **10** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,42 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Affinius Capital|Software Engineering Intern||San Antonio, TX|Open✅|12/14/2024|[Apply Here](https://careers-affiniuscapital.icims.com/jobs/2203/application-developer-intern/job)||
+|Keysight|AI Software Developer Intern||Sacramento, CA|Open✅|12/14/2024|[Apply Here](https://jobs.keysight.com/external/jobs/46239/job)||
+|↳|Software Developer Intern, Aerospace and Defense|21.54 - 35.9|Colorado Springs, CO|Closed🔒|10/10/2024|||
+|↳|R&D Software Engineering Intern|21.54 - 35.9|Santa Rosa, CA|Closed🔒|10/10/2024|||
+|↳|R&D Software Intern|28.73 - 37.56|Colorado Springs, CO|Closed🔒|10/05/2024|||
+|↳|R&D Software Engineering Intern|34.08 - 39.32|Loveland, CO|Open🛂|10/05/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44473)||
+|↳|IT Engineer Intern|34.08 - 39.32|<details><summary>2 locations<br><br><b></summary>Colorado Springs, CO<br>Santa Clara, CA</details><b>|Open🛂|10/05/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44346)||
+|↳|R&D Software Intern|25 - 45|Santa Clara, CA|Closed🔒|10/05/2024|||
+|↳|R&D EDA Software Engineer Intern|46 - 59.48|<details><summary>2 locations<br><br><b></summary>Santa Rosa, CA<br>Calabasas, CA</details><b>|Closed🔒|09/05/2024||Graduate Students Only|
+|Rivian and Volkswagen Group Technologies|Software Engineering Intern, Thermal Controls|25 - 51|Tustin, CA|Open✅|12/14/2024|[Apply Here](https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/20591)||
+|ServiceNow|Associate Machine Learning DevOps Engineer Intern|55.18|Santa Clara, CA|Open✅|12/14/2024|[Apply Here](https://careers.servicenow.com/jobs/744000031815335/associate-machine-learning-devops-engineer-intern/)||
+|↳|Software Quality Engineer Intern|41.69 - 47.82|Santa Clara, CA|Open✅|12/14/2024|[Apply Here](https://careers.servicenow.com/jobs/744000011970750/software-quality-engineer-intern-summer-2025/)||
+|↳|ML Data Linguist Intern|41.69|Santa Clara, CA|Open✅|12/14/2024|[Apply Here](https://careers.servicenow.com/jobs/744000025364627/ml-data-linguist-intern/)||
+|↳|Information Security Engineer Intern, ServiceNow Security Organization|50.02|San Diego, CA|Open✅|12/14/2024|[Apply Here](https://careers.servicenow.com/jobs/744000019491725/servicenow-security-organization-sso-information-security-engineer-intern/)||
+|↳|Software Engineer Intern, Innovation Team||Remote|Closed🔒|11/02/2024|||
+|↳|Software Engineer Intern, Digital Technology|53.13|Santa Clara, CA|Closed🔒|09/17/2024|||
+|↳|Software Engineer Intern, UTG|53.13 - 55.58|Santa Clara, CA|Open✅|09/05/2024|[Apply Here](https://careers.servicenow.com/jobs/744000011666405/utg-software-engineer-internships-summer-2025/)||
+|Leidos|Data Scientist Intern|28.77 - 50.01|Arlington, VA|Open🇺🇸|12/14/2024|[Apply Here](https://careers.leidos.com/jobs/15355370-data-scientist-intern)||
+|↳|Data Analytics Intern|24.37 - 44.06|Huntsville, AL|Open🇺🇸|12/14/2024|[Apply Here](https://careers.leidos.com/jobs/15366042-data-analytics-intern)||
+|↳|Cyber Security Intern|20.65 - 37.33|Lexington, KY|Open🇺🇸|12/14/2024|[Apply Here](https://careers.leidos.com/jobs/15338452-cyber-security-intern)||
+|↳|GenAI Developer Intern|25.35 - 42.22|Remote|Closed🔒|11/23/2024|||
+|↳|Software Developer Intern|28.09 - 50.79|Remote|Closed🔒|11/23/2024|||
+|↳|Software Developer Intern|28.09 - 50.79|Washington, D.C.|Closed🔒|11/23/2024|||
+|↳|AI Explainability Engineer Intern|25.35 - 42.22|Remote|Closed🔒|11/09/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|Omaha, NE|Closed🔒|11/05/2024|||
+|↳|Interactive AI Developer Intern|25.35 - 42.22|Remote|Closed🔒|11/03/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|Reston, VA|Closed🔒|11/02/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|Gaithersburg, MD|Closed🔒|11/02/2024|||
+|↳|Database Development and Administration Intern|25.35 - 42.22|Bowie, MD|Closed🔒|10/19/2024|||
+|↳|Software Engineer Intern|23.35 - 44.22|Tucson, AZ|Closed🔒|10/15/2024|||
+|↳|Software Engineer Intern|23.35 - 42.22|Scott Air Force Base, IL|Closed🔒|10/05/2024|||
+|↳|Software Engineer Intern|23.35 - 42.22|Arlington, VA|Closed🔒|10/05/2024|||
+|↳|Embedded Software Engineer Intern|23.35 - 42.22|San Diego, CA|Closed🔒|10/05/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
+|↳|Data Science Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|Arlington, VA|Closed🔒|08/23/2024|||
 |Glassdoor|iOS Software Engineer Intern|40|New York, NY|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/ios-software-engineer-intern-summer-2025-glassdoor-JV_IC1132348_KO0,40_KE41,50.htm?jl=1009563977519&cs=1_2d20b02c&s=21&t=ESR&pos=101&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977519&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-c6377bef9a83f3ce&cb=1734065467157&ctt=1734065653077&srs=EI_JOBS)||
 |↳|Front End Software Engineer Intern, Engineering|40|New York, NY|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1132348_KO0,46_KE47,56.htm?jl=1009563977533&cs=1_18fe46aa&s=21&t=ESR&pos=102&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977533&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-1c6f710369a454b6&cb=1734065467157&ctt=1734065648435&srs=EI_JOBS)||
 |↳|Front-end Software Engineer Intern, Registration|40|Chicago, IL|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1128808_KO0,46_KE47,56.htm?jl=1009563977547&cs=1_003bf64c&s=21&t=ESR&pos=103&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977547&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-a1c1753a1cceba50&cb=1734065467157&ctt=1734065623246&srs=EI_JOBS)||
@@ -315,22 +351,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Skylo|Data Analyst Intern|18.75 - 25|Mountain View, CA|Closed🔒|11/23/2024|||
 |Samsung Research Amedrica|Research Scientist Intern|44 - 63|Irvine, CA|Open✅|11/23/2024|[Apply Here](https://sra.samsung.com/careers/detail/?id=7738227002&type=intern)|Graduate Students Only|
 |↳|Computational Imaging Intern|31 - 43|Plano, TX|Open✅|11/23/2024|[Apply Here](https://sra.samsung.com/careers/detail/?id=7740592002&type=intern)||
-|Leidos|GenAI Developer Intern|25.35 - 42.22|Remote|Closed🔒|11/23/2024|||
-|↳|Software Developer Intern|28.09 - 50.79|Remote|Closed🔒|11/23/2024|||
-|↳|Software Developer Intern|28.09 - 50.79|Washington, D.C.|Closed🔒|11/23/2024|||
-|↳|AI Explainability Engineer Intern|25.35 - 42.22|Remote|Closed🔒|11/09/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|Omaha, NE|Closed🔒|11/05/2024|||
-|↳|Interactive AI Developer Intern|25.35 - 42.22|Remote|Closed🔒|11/03/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|Reston, VA|Closed🔒|11/02/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|Gaithersburg, MD|Closed🔒|11/02/2024|||
-|↳|Database Development and Administration Intern|25.35 - 42.22|Bowie, MD|Closed🔒|10/19/2024|||
-|↳|Software Engineer Intern|23.35 - 44.22|Tucson, AZ|Closed🔒|10/15/2024|||
-|↳|Software Engineer Intern|23.35 - 42.22|Scott Air Force Base, IL|Closed🔒|10/05/2024|||
-|↳|Software Engineer Intern|23.35 - 42.22|Arlington, VA|Closed🔒|10/05/2024|||
-|↳|Embedded Software Engineer Intern|23.35 - 42.22|San Diego, CA|Closed🔒|10/05/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
-|↳|Data Science Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|Arlington, VA|Closed🔒|08/23/2024|||
 |Matroid|Software Engineer Intern, Infrastructure||Palo Alto, CA|Open✅|11/23/2024|[Apply Here](https://matroid.breezy.hr/p/3ccdad20c182-software-engineer-intern-infrastructure-summer-2025)||
 |↳|Computer Vision Intern Intern||Palo Alto, CA|Open✅|10/26/2024|[Apply Here](https://matroid.breezy.hr/p/22b948693d3f-computer-vision-intern-summer-2025)||
 |↳|Full Stack Engineer Intern, Computer Vision Products||Palo Alto, CA|Open✅|09/05/2024|[Apply Here](https://matroid.breezy.hr/p/79e27f665d2b-full-stack-engineer-intern-for-computer-vision-products-summer-2025)||
@@ -1051,10 +1071,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Test Engineer Intern|18 - 35|Oak Brook, IL|Closed🔒|09/04/2024|||
 |↳|System Engineer Intern|18 - 35|<details><summary>2 locations<br><br><b></summary>Oak Brook, IL<br>Lombard, IL</details><b>|Closed🔒|09/04/2024|||
 |↳|Software Engineer Intern|20.5 - 35|Sioux Falls, SD|Open✅|09/04/2024|[Apply Here](https://careers.cnh.com/job/20960241/software-engineer-intern-sioux-falls-sd/)||
-|ServiceNow|Software Engineer Intern, Innovation Team||Remote|Closed🔒|11/02/2024|||
-|↳|Software Engineer Intern, Digital Technology|53.13|Santa Clara, CA|Closed🔒|09/17/2024|||
-|↳|Software Quality Engineer Intern|41.69 - 47.82|Santa Clara, CA|Closed🔒|09/07/2024|||
-|↳|Software Engineer Intern, UTG|53.13 - 55.58|Santa Clara, CA|Open✅|09/05/2024|[Apply Here](https://jobs.smartrecruiters.com/ServiceNow/744000011666405)||
 |Cognex|Software Engineering Intern||Wauwatosa, WI|Closed🔒|11/02/2024|||
 |Moog|Software Engineering Intern|25 - 30|Torrance, CA|Closed🔒|11/01/2024|||
 |↳|IT Computer Science Intern|22.5 - 28|Buffalo, NY|Closed🔒|11/01/2024|||
@@ -1197,7 +1213,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Woodward|SWE Engineering Intern|21.7 - 30.07|<details><summary>4 locations<br><br><b></summary>Niles, IL<br>Santa Clarita, CA<br>Fort Collins, CO<br>Rockford, IL</details><b>|Closed🔒|10/25/2024|||
 |Versana|Tech Intern||New York, NY|Closed🔒|10/25/2024|||
 |Marvell|Software Engineer Intern - Bachelor's/ Master's|30 - 60|Santa Clara, CA|Closed🔒|10/25/2024|||
-|↳|Application Engineering Intern - Masters|26 - 52|Santa Clara, CA|Open✅|10/25/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Masters_2401785)||
+|↳|Application Engineering Intern - Masters|26 - 52|Santa Clara, CA|Open✅|10/25/2024|[Apply Here](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Masters_2401787)||
 |↳|Field Application Engineering Intern - Bachelor|22 - 43|Santa Clara, CA|Closed🔒|09/25/2024|||
 |↳|Application Engineering Intern - Bachelors|25 - 49|Santa Clara, CA|Closed🔒|09/24/2024|||
 |↳|Product Engineer Intern - Bachelors|22 - 44|Santa Clara, CA|Closed🔒|09/13/2024|||
@@ -1514,13 +1530,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Scientist Intern||San Diego, CA|Closed🔒|09/13/2024|||
 |↳|Cyber Intern|26.87 - 54.68|Annapolis Junction, MD|Open🇺🇸|09/11/2024|[Apply Here](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/XMLNAME-2025-Cyber-Internship_R0204015-1)||
 |JMP|Digital Experience Intern|15 - 49||Closed🔒|10/10/2024|||
-|Keysight|Software Developer Intern, Aerospace and Defense|21.54 - 35.9|Colorado Springs, CO|Closed🔒|10/10/2024|||
-|↳|R&D Software Engineering Intern|21.54 - 35.9|Santa Rosa, CA|Closed🔒|10/10/2024|||
-|↳|R&D Software Intern|28.73 - 37.56|Colorado Springs, CO|Closed🔒|10/05/2024|||
-|↳|R&D Software Engineering Intern|34.08 - 39.32|Loveland, CO|Open🛂|10/05/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44473)||
-|↳|IT Engineer Intern|34.08 - 39.32|<details><summary>2 locations<br><br><b></summary>Colorado Springs, CO<br>Santa Clara, CA</details><b>|Open🛂|10/05/2024|[Apply Here](https://jobs.keysight.com/external/jobs/44346)||
-|↳|R&D Software Intern|25 - 45|Santa Clara, CA|Closed🔒|10/05/2024|||
-|↳|R&D EDA Software Engineer Intern|46 - 59.48|<details><summary>2 locations<br><br><b></summary>Santa Rosa, CA<br>Calabasas, CA</details><b>|Closed🔒|09/05/2024||Graduate Students Only|
 |GM Financial|Cloud Engineer Intern||Arlington, TX|Closed🔒|10/10/2024|||
 |↳|DevOps Engineer Intern||Arlington, TX|Closed🔒|09/29/2024|||
 |↳|API Development Intern||Arlington, TX|Open✅|09/29/2024|[Apply Here](https://careers.gmfinancial.com/jobs/47979/job)||
