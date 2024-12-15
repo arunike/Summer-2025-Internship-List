@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 AM EST. The last update was on 12/14/2024.
+The List is updated daily around 12:00 AM EST. The last update was on 12/15/2024.
 
 ## Internship Positions
 
-There are total of **2513 (909 open & 1604 closed)** internship positions listed. **10** new positions were added today.
+There are total of **2516 (912 open & 1604 closed)** internship positions listed. **4** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Panasonic|IT Intern||Bridgeton, MO|Open✅|12/15/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38668)||
+|↳|Software Test Engineering Intern||Irvine, CA|Open✅|12/15/2024|[Apply Here](https://careers.na.panasonic.com/jobs/39684)||
+|↳|DevOps Intern||Irvine, CA|Open✅|12/15/2024|[Apply Here](https://careers.na.panasonic.com/jobs/39806)||
+|↳|Data Science Intern||Irvine, CA|Open✅|12/15/2024|[Apply Here](https://careers.na.panasonic.com/jobs/39225)||
+|↳|Software Engineering Intern|25 - 38|Irvine, CA|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/39222)||
+|↳|Data Analytics Intern||De Soto, KS|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38517)||
+|↳|AI Research Engineer Intern||De Soto, KS|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38521)||
 |Affinius Capital|Software Engineering Intern||San Antonio, TX|Open✅|12/14/2024|[Apply Here](https://careers-affiniuscapital.icims.com/jobs/2203/application-developer-intern/job)||
 |Keysight|AI Software Developer Intern||Sacramento, CA|Open✅|12/14/2024|[Apply Here](https://jobs.keysight.com/external/jobs/46239/job)||
 |↳|Software Developer Intern, Aerospace and Defense|21.54 - 35.9|Colorado Springs, CO|Closed🔒|10/10/2024|||
@@ -1182,10 +1189,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Information Security Intern, URBN||Philadelphia, PA|Closed🔒|10/26/2024|||
 |Jellyfish|Data Science Co-op||Remote|Open🛂|10/26/2024|[Apply Here](https://jobs.ashbyhq.com/jellyfish/76919978-8ded-44c4-9134-3e476e57cc25)||
 |AffiniPay|Software Development Intern||Remote|Open✅|10/26/2024|[Apply Here](https://www.affinipay.com/other-job-descriptions/?gh_jid=4413027006)||
-|Panasonic|Software Engineering Intern|25 - 38|Irvine, CA|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/39222)||
-|↳|Data Analytics Intern||De Soto, KS|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38517)||
-|↳|IT Intern||Bridgeton, MO|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38640)||
-|↳|AI Research Engineer Intern||De Soto, KS|Open✅|10/26/2024|[Apply Here](https://careers.na.panasonic.com/jobs/38521)||
 |Lam Research|Software Development Intern|28 - 38|Remote|Closed🔒|10/26/2024|||
 |↳|Software Quality Assurance Engineering Intern|28 - 38|Waltham, MA|Open✅|10/26/2024|[Apply Here](https://careers.lamresearch.com/job/Waltham-Software-Quality-Assurance-Engineering-Intern-MA/1227072400/)||
 |USAA|CFO Intern, Data||<details><summary>2 locations<br><br><b></summary>San Antonio, TX<br>Charlotte, NC</details><b>|Closed🔒|10/26/2024|||
