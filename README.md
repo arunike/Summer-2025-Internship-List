@@ -7,7 +7,7 @@ The List is updated daily around 12:00 AM EST. The last update was on 12/17/2024
 
 ## Internship Positions
 
-There are total of **2533 (929 open & 1604 closed)** internship positions listed. **17** new positions were added today.
+There are total of **2547 (943 open & 1604 closed)** internship positions listed. **31** new positions were added today.
 
 ### Viewing Options:
 
@@ -77,6 +77,26 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Systems Hardware Integration Engineer Intern|29|San Francisco, CA|Open✅|12/17/2024|[Apply Here](https://job-boards.greenhouse.io/astranis/jobs/4393048006)||
 |Hatch|Software Developer Intern|23 - 25|Fairfax, VA|Open✅|12/17/2024|[Apply Here](https://jobs.lever.co/hatchit/37a73565-d212-4099-a165-1a66c4bea089)||
 |↳|Data Science Intern|23 - 25|Fairfax, VA|Open✅|12/17/2024|[Apply Here](https://jobs.lever.co/hatchit/3bb0ac1f-670d-4ca8-be66-d857c6e275a9)||
+|Zscaler|AI Innovation Intern, People & Culture (HR)|25 - 50|San Jose, CA|Open✅|12/17/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595366007)||
+|↳|CXO Experiences & Programming Intern|25 - 50|San Jose, CA|Open✅|12/17/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595344007)||
+|↳|Artificial Intelligence/Machine Learning/Data Science Engineering Intern|25 - 50|San Jose, CA|Open✅|12/05/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595426007)||
+|↳|Software Engineering Intern, Front End|25 - 50|San Jose, CA|Open✅|12/05/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595408007)||
+|↳|Software Engineering Intern - Back End|25 - 50|San Jose, CA|Open✅|12/05/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595421007)||
+|↳|Site Reliability Engineering Intern|25 - 50|San Jose, CA|Open✅|12/05/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595430007)||
+|Trimble|Software Reliability Engineering Intern|22.07 - 28.13|Lake Oswego, OR|Open✅|12/17/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Reliability-Engineering-Intern_R46883)||
+|↳|Software Engineer Intern|22.07 - 28.13|Lake Oswego, OR|Open✅|12/17/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/PCEP-Software-Engineer-Intern_R46825)||
+|↳|Software Architecture Intern|22.07 - 28.13|Lake Oswego, OR|Open✅|12/17/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Architecture-Intern_R46910)||
+|↳|Software Testing Engineering Intern|22.07 - 28.13|Lake Oswego, OR|Open✅|12/17/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Testing-Engineering-Intern_R46866)||
+|↳|Business Intelligence Developer Intern|22.07 - 28.13|Lake Oswego, OR|Open✅|12/17/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Business-Intelligence-Developer-Intern_R46819)||
+|↳|Data Analyst Intern|22.07 - 28.13|Westminster, CO|Open✅|11/08/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Data-Analyst-Intern_R46852)||
+|↳|Software Engineer Intern||<details><summary>6 locations<br><br><b></summary>Westminster, CO<br>Knoxville, TN<br>Portland, OR<br>Dayton, OH<br>Princeton, NJ<br>Sunnyvale, CA</details><b>|Open🛂|08/28/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R45675)||
+|Xometry|Data Science Intern||North Bethesda, MD|Open✅|12/17/2024|[Apply Here](https://job-boards.greenhouse.io/xometry/jobs/4605600007)||
+|↳|Data Science Intern||Lexington, KY|Open✅|12/17/2024|[Apply Here](https://job-boards.greenhouse.io/xometry/jobs/4605614007)||
+|↳|Machine Learning Intern||Lexington, KY|Open✅|12/17/2024|[Apply Here](https://job-boards.greenhouse.io/xometry/jobs/4605626007)||
+|↳|Machine Learning Intern||North Bethesda, MD|Open✅|12/17/2024|[Apply Here](https://job-boards.greenhouse.io/xometry/jobs/4605623007)||
+|↳|Software Engineer Intern||North Bethesda, MD|Open✅|12/17/2024|[Apply Here](https://job-boards.greenhouse.io/xometry/jobs/4605574007)||
+|↳|Software Engineer Intern||Lexington, KY|Open✅|12/17/2024|[Apply Here](https://job-boards.greenhouse.io/xometry/jobs/4605589007)||
+|Gelber Group|Algorithmic Trading Intern||Chicago, IL|Open✅|12/17/2024|[Apply Here](https://job-boards.greenhouse.io/gelbergroup/jobs/4427083006)||
 |Staples|Software Engineering Intern, Quill||Lincolnshire, IL|Open✅|12/16/2024|[Apply Here](https://careers.staples.com/en/job/lincolnshire/software-engineering-intern-quill-hybrid-june-2025/44412/74491770848)||
 |↳|Sales Data Analyst Intern||Framingham, MA|Open✅|12/04/2024|[Apply Here](https://careers.staples.com/en/job/framingham/sales-data-analyst-intern-hybrid-june-2025/44412/73626002416)||
 |↳|Software Engineer Intern, UI Frontend||Framingham, MA|Open✅|12/04/2024|[Apply Here](https://careers.staples.com/en/job/framingham/software-engineer-intern-ui-frontend-hybrid-june-2025/44412/73989731680)||
@@ -289,10 +309,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Animation Technician Intern|25|Emeryville, CA|Open🛂|12/05/2024|[Apply Here](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Internships/job/Emeryville/Animation-Technician-Intern---Summer-2025_R-03854)||
 |↳|Pixar Undergraduate Program|22|Emeryville, CA|Open🛂|12/05/2024|[Apply Here](https://pixar.wd5.myworkdayjobs.com/en-US/Pixar_External_Internships/job/Emeryville/Pixar-Undergraduate-Program--PUP----Summer-2025_R-03835)||
 |Republic Finance|.NET Developer Intern||Plano, TX|Open✅|12/05/2024|[Apply Here](https://jobs.republicfinance.com/jobs/11216/job)||
-|Zscaler|Artificial Intelligence/Machine Learning/Data Science Engineering Intern|25 - 50|San Jose, CA|Open✅|12/05/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595426007)||
-|↳|Software Engineering Intern, Front End|25 - 50|San Jose, CA|Open✅|12/05/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595408007)||
-|↳|Software Engineering Intern - Back End|25 - 50|San Jose, CA|Open✅|12/05/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595421007)||
-|↳|Site Reliability Engineering Intern|25 - 50|San Jose, CA|Open✅|12/05/2024|[Apply Here](https://boards.greenhouse.io/zscaler/jobs/4595430007)||
 |Remitly|Intern|||Open✅|12/05/2024|[Apply Here](https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Summer-Internship-2025_R_103161)||
 |↳|Software Development Engineer Intern|47|Seattle, WA|Open✅|11/19/2024|[Apply Here](https://careers.remitly.com/job/21288444/software-development-engineer-intern-seattle-wa/)||
 |Citadel|Software Engineer Intern|107.5 - 120|Chicago, IL|Open✅|12/05/2024|[Apply Here](https://www.citadel.com/careers/details/software-engineer-2025-intern-us/)||
@@ -973,8 +989,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Product Cybersecurity Engineer|25|Golden, CO|Open✅|11/08/2024|[Apply Here](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Product-Cybersecurity-Engineer_JR30476-2)||
 |↳|Software Engineering Intern, Mobile|25|<details><summary>3 locations<br><br><b></summary>Golden, CO<br>Boulder, CO<br>Remote</details><b>|Closed🔒|10/22/2024|||
 |↳|Software Operations Engineer Intern||Carmel, IN|Closed🔒|09/05/2024|||
-|Trimble|Data Analyst Intern|22.07 - 28.13|Westminster, CO|Open✅|11/08/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Data-Analyst-Intern_R46852)||
-|↳|Software Engineer Intern||<details><summary>6 locations<br><br><b></summary>Westminster, CO<br>Knoxville, TN<br>Portland, OR<br>Dayton, OH<br>Princeton, NJ<br>Sunnyvale, CA</details><b>|Open🛂|08/28/2024|[Apply Here](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R45675)||
 |Jacobs|Agile Software Engineer Intern||Hudson, NH|Open🇺🇸|11/08/2024|[Apply Here](https://careers.jacobs.com/en_US/careers/JobDetail/Agile-Software-Engineer-Intern/19796)||
 |Northwood|FPGA Engineer Intern||El Segundo, CA|Open✅|11/07/2024|[Apply Here](https://jobs.ashbyhq.com/NorthwoodSpace/28ae3bd4-ce64-4f15-b4dd-835f860216ad)||
 |↳|Software Engineer Intern||El Segundo, CA|Open✅|11/07/2024|[Apply Here](https://jobs.ashbyhq.com/NorthwoodSpace/385cac5a-45c0-4ffc-8aec-163c765c469f)||
