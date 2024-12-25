@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 12/24/2024.
+The List is updated daily around 12:00 PM PST. The last update was on 12/25/2024.
 
 ## Internship Positions
 
-There are total of **2639 (1039 open & 1600 closed)** internship positions listed. **20** new positions were added today.
+There are total of **2644 (1044 open & 1600 closed)** internship positions listed. **5** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,30 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Leidos|Cyber AI Intern|24.37 - 44.06|Arlington, VA|Open🇺🇸|12/25/2024|[Apply Here](https://careers.leidos.com/jobs/15373327-cyber-ai-intern)||
+|↳|Cyber Research Intern|24.37 - 44.06|Arlington, VA|Open🇺🇸|12/25/2024|[Apply Here](https://careers.leidos.com/jobs/15373328-cyber-research-intern)||
+|↳|Data Science Intern|24.37 - 44.06|Remote|Open🇺🇸|12/25/2024|[Apply Here](https://careers.leidos.com/jobs/15397429-data-science-intern)||
+|↳|AI/ML Intern - Aerospace|20.65 - 37.33|Huntsville, AL|Open🇺🇸|12/25/2024|[Apply Here](https://careers.leidos.com/jobs/15400968-aerospace-ai-slash-ml-intern-summer-2025)||
+|↳|Software Systems Intern|24.37 - 44.06|Reston, VA|Open🇺🇸|12/25/2024|[Apply Here](https://careers.leidos.com/jobs/15403239-software-systems-intern)||
+|↳|Data Scientist Intern|28.77 - 50.01|Arlington, VA|Open🇺🇸|12/14/2024|[Apply Here](https://careers.leidos.com/jobs/15355370-data-scientist-intern)||
+|↳|Data Analytics Intern|24.37 - 44.06|Huntsville, AL|Open🇺🇸|12/14/2024|[Apply Here](https://careers.leidos.com/jobs/15386416-data-analytics-intern)||
+|↳|Cyber Security Intern|20.65 - 37.33|Lexington, KY|Open🇺🇸|12/14/2024|[Apply Here](https://careers.leidos.com/jobs/15338452-cyber-security-intern)||
+|↳|GenAI Developer Intern|25.35 - 42.22|Remote|Closed🔒|11/23/2024|||
+|↳|Software Developer Intern|28.09 - 50.79|Remote|Closed🔒|11/23/2024|||
+|↳|Software Developer Intern|28.09 - 50.79|Washington, D.C.|Closed🔒|11/23/2024|||
+|↳|AI Explainability Engineer Intern|25.35 - 42.22|Remote|Closed🔒|11/09/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|Omaha, NE|Closed🔒|11/05/2024|||
+|↳|Interactive AI Developer Intern|25.35 - 42.22|Remote|Closed🔒|11/03/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|Reston, VA|Closed🔒|11/02/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|Gaithersburg, MD|Closed🔒|11/02/2024|||
+|↳|Database Development and Administration Intern|25.35 - 42.22|Bowie, MD|Closed🔒|10/19/2024|||
+|↳|Software Engineer Intern|23.35 - 44.22|Tucson, AZ|Closed🔒|10/15/2024|||
+|↳|Software Engineer Intern|23.35 - 42.22|Scott Air Force Base, IL|Closed🔒|10/05/2024|||
+|↳|Software Engineer Intern|23.35 - 42.22|Arlington, VA|Closed🔒|10/05/2024|||
+|↳|Embedded Software Engineer Intern|23.35 - 42.22|San Diego, CA|Closed🔒|10/05/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
+|↳|Data Science Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
+|↳|Software Engineer Intern|25.35 - 42.22|Arlington, VA|Closed🔒|08/23/2024|||
 |The Scion Group|Web Development Intern||Chicago, IL|Open✅|12/24/2024|[Apply Here](https://thesciongroup.com/career/?gh_jid=7724617002)||
 |Merck|Data Science Intern|20.62 - 54.94|North Wales, PA|Open✅|12/24/2024|[Apply Here](https://jobs.merck.com/us/en/job/R324192/2025-University-Recruiting-Data-Science-Intern)||
 |↳|Data Visualization Intern|20.62 - 54.94|North Wales, PA|Open✅|12/24/2024|[Apply Here](https://jobs.merck.com/us/en/job/R326650/2025-University-Recruiting-Data-Visualization-Intern)||
@@ -282,25 +306,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineer Intern, Innovation Team||Remote|Closed🔒|11/02/2024|||
 |↳|Software Engineer Intern, Digital Technology|53.13|Santa Clara, CA|Closed🔒|09/17/2024|||
 |↳|Software Engineer Intern, UTG|53.13 - 55.58|Santa Clara, CA|Open✅|09/05/2024|[Apply Here](https://careers.servicenow.com/jobs/744000011666405/utg-software-engineer-internships-summer-2025/)||
-|Leidos|Data Scientist Intern|28.77 - 50.01|Arlington, VA|Open🇺🇸|12/14/2024|[Apply Here](https://careers.leidos.com/jobs/15355370-data-scientist-intern)||
-|↳|Data Analytics Intern|24.37 - 44.06|Huntsville, AL|Open🇺🇸|12/14/2024|[Apply Here](https://careers.leidos.com/jobs/15366042-data-analytics-intern)||
-|↳|Cyber Security Intern|20.65 - 37.33|Lexington, KY|Open🇺🇸|12/14/2024|[Apply Here](https://careers.leidos.com/jobs/15338452-cyber-security-intern)||
-|↳|GenAI Developer Intern|25.35 - 42.22|Remote|Closed🔒|11/23/2024|||
-|↳|Software Developer Intern|28.09 - 50.79|Remote|Closed🔒|11/23/2024|||
-|↳|Software Developer Intern|28.09 - 50.79|Washington, D.C.|Closed🔒|11/23/2024|||
-|↳|AI Explainability Engineer Intern|25.35 - 42.22|Remote|Closed🔒|11/09/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|Omaha, NE|Closed🔒|11/05/2024|||
-|↳|Interactive AI Developer Intern|25.35 - 42.22|Remote|Closed🔒|11/03/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|Reston, VA|Closed🔒|11/02/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|Gaithersburg, MD|Closed🔒|11/02/2024|||
-|↳|Database Development and Administration Intern|25.35 - 42.22|Bowie, MD|Closed🔒|10/19/2024|||
-|↳|Software Engineer Intern|23.35 - 44.22|Tucson, AZ|Closed🔒|10/15/2024|||
-|↳|Software Engineer Intern|23.35 - 42.22|Scott Air Force Base, IL|Closed🔒|10/05/2024|||
-|↳|Software Engineer Intern|23.35 - 42.22|Arlington, VA|Closed🔒|10/05/2024|||
-|↳|Embedded Software Engineer Intern|23.35 - 42.22|San Diego, CA|Closed🔒|10/05/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
-|↳|Data Science Intern|25.35 - 42.22|<details><summary>2 locations<br><br><b></summary>Aurora, CO<br>Chantilly, VA</details><b>|Closed🔒|09/25/2024|||
-|↳|Software Engineer Intern|25.35 - 42.22|Arlington, VA|Closed🔒|08/23/2024|||
 |Glassdoor|iOS Software Engineer Intern|40|New York, NY|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/ios-software-engineer-intern-summer-2025-glassdoor-JV_IC1132348_KO0,40_KE41,50.htm?jl=1009563977519&cs=1_2d20b02c&s=21&t=ESR&pos=101&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977519&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-c6377bef9a83f3ce&cb=1734065467157&ctt=1734065653077&srs=EI_JOBS)||
 |↳|Front End Software Engineer Intern, Engineering|40|New York, NY|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1132348_KO0,46_KE47,56.htm?jl=1009563977533&cs=1_18fe46aa&s=21&t=ESR&pos=102&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977533&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-1c6f710369a454b6&cb=1734065467157&ctt=1734065648435&srs=EI_JOBS)||
 |↳|Front-end Software Engineer Intern, Registration|40|Chicago, IL|Open✅|12/13/2024|[Apply Here](https://www.glassdoor.com/job-listing/front-end-software-engineer-intern-summer-2025-glassdoor-JV_IC1128808_KO0,46_KE47,56.htm?jl=1009563977547&cs=1_003bf64c&s=21&t=ESR&pos=103&src=GD_JOB_AD&guid=00000193be5b2cd899426481a86ec77b&jobListingId=1009563977547&ea=1&ao=1136043&vt=w&jrtk=5-yul1-0-1iev5mbd3gcue800-a1c1753a1cceba50&cb=1734065467157&ctt=1734065623246&srs=EI_JOBS)||
