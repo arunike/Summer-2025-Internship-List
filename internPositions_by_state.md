@@ -2,11 +2,11 @@
 
 This page provides a breakdown of internship opportunities by state. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 12/25/2024.
+The List is updated daily around 12:00 PM PST. The last update was on 12/26/2024.
 
 ## Internship Positions
 
-There are a total of **53** (including remote and unknown) states listed. **5** new positions were added today.
+There are a total of **53** (including remote and unknown) states listed. **1** new positions were added today.
 
 ### Viewing Options:
 If you prefer to view the positions sorted by statuses, check out the [Internship Opportunities by Status](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_status.md) page.
@@ -3521,9 +3521,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Trihydro  | Software Developer Intern |                  | Open✅   | 10/24/2024   | Laramie, WY | [Apply Here](https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/1036/0) |
 
 ## Jobs in Remote
-### Number of positions: 249 (Open: 87, Closed: 162)
+### Number of positions: 250 (Open: 88, Closed: 162)
 | Company                  | Job Title                                                                            | Hourly Pay ($)   | Status   | Date Added   | Location   | Application Link                                                                                                                                                                       |
 |:-------------------------|:-------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:-----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ATPCO                    | Software Engineering Intern                                                          |                  | Open✅   | 12/26/2024   | Remote     | [Apply Here](https://www.smartrecruiters.com/ATPCO1/744000033632967-software-engineer-intern)                                                                                          |
 | Leidos                   | Data Science Intern                                                                  | 24.37 - 44.06    | Open🇺🇸   | 12/25/2024   | Remote     | [Apply Here](https://careers.leidos.com/jobs/15397429-data-science-intern)                                                                                                             |
 | ↳                        | GenAI Developer Intern                                                               | 25.35 - 42.22    | Closed🔒 | 11/23/2024   | Remote     |                                                                                                                                                                                        |
 | ↳                        | Software Developer Intern                                                            | 28.09 - 50.79    | Closed🔒 | 11/23/2024   | Remote     |                                                                                                                                                                                        |

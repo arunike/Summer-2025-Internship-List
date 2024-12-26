@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 12/25/2024.
+The List is updated daily around 12:00 PM PST. The last update was on 12/26/2024.
 
 ## Internship Positions
 
-There are total of **2644 (1044 open & 1600 closed)** internship positions listed. **5** new positions were added today.
+There are total of **2645 (1045 open & 1600 closed)** internship positions listed. **1** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|ATPCO|Software Engineering Intern||Remote|Open✅|12/26/2024|[Apply Here](https://www.smartrecruiters.com/ATPCO1/744000033632967-software-engineer-intern)||
 |Leidos|Cyber AI Intern|24.37 - 44.06|Arlington, VA|Open🇺🇸|12/25/2024|[Apply Here](https://careers.leidos.com/jobs/15373327-cyber-ai-intern)||
 |↳|Cyber Research Intern|24.37 - 44.06|Arlington, VA|Open🇺🇸|12/25/2024|[Apply Here](https://careers.leidos.com/jobs/15373328-cyber-research-intern)||
 |↳|Data Science Intern|24.37 - 44.06|Remote|Open🇺🇸|12/25/2024|[Apply Here](https://careers.leidos.com/jobs/15397429-data-science-intern)||
