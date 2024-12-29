@@ -3,8 +3,8 @@ internPositions_script.py
 internList_script.py
 internByState_script.py
 internByStatus_script.py
-checkPosition.py
-checkDuplicate.py
+checkPositions.py
+checkStatus.py
 checkJSON.py
 
 ## JSON Files
@@ -13,7 +13,7 @@ output/check_position.json
 intern_positions_combined.json
 
 ## Markdown Files
-output/duplicate_entries.md
+output/error_entries.md
 internPositions_automationSteps.md
 
 ## Text Files
