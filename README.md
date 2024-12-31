@@ -7,7 +7,7 @@ The List is updated daily around 12:00 PM PST. The last update was on 12/31/2024
 
 ## Internship Positions
 
-There are total of **2651 (723 open & 1928 closed)** internship positions listed. **0** new positions were added today.
+There are total of **2657 (729 open & 1928 closed)** internship positions listed. **6** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,25 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Locus Robotics|Robotics Test Engineering Intern, Software/Systems Testing||Nashua, NH|Open✅|12/31/2024|[Apply Here](https://job-boards.greenhouse.io/locusrobotics/jobs/4612983007?gh_src=f5adf3cb7usb)||
+|↳|Software Engineering Intern, Full Stack Applications||Wilmington, MA|Open✅|12/31/2024|[Apply Here](https://job-boards.greenhouse.io/locusrobotics/jobs/4612935007)||
+|↳|Software Engineering Intern, Robotic Behaviors||Wilmington, MA|Open✅|12/31/2024|[Apply Here](https://job-boards.greenhouse.io/locusrobotics/jobs/4612914007)||
+|Tempus|Software Engineering Summer Analyst, Security|25|Chicago, IL|Open✅|12/31/2024|[Apply Here](https://boards.greenhouse.io/tempus/jobs/7787180002)||
+||Intern|25|<details><summary>5 locations<br><br><b></summary>Newark, OH<br>Cincinnati, OH<br>Louisville, KY<br>Springfield, OH<br>Orlando, FL</details><b>|Open✅|12/31/2024|[Apply Here](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=240c962c-34e6-4020-81fa-177e0ae26923)||
+|Amazon|Software Development Engineer Intern, Specialized Co-Op|49.37 - 56.25|<details><summary>4 locations<br><br><b></summary>Sunnyvale, CA<br>New York, NY<br>Seattle, WA<br>Bellevue, WA</details><b>|Open✅|12/31/2024|[Apply Here](https://www.amazon.jobs/en/jobs/2863580/software-development-engineer-intern-specialized-co-op-summer-2025-us)|Co-op Only|
+|↳|SDE Intern|47.84 - 96.15|<details><summary>4 locations<br><br><b></summary>Seattle, WA<br>Redmond, WA<br>Bellevue, WA<br>Palo Alto, CA</details><b>|Open✅|12/13/2024|[Apply Here](https://www.amazon.jobs/en/jobs/2852336/sde-intern-summer)||
+|↳|Software Development Engineer Intern|47.84 - 96.15|Seattle, WA|Open✅|10/18/2024|[Apply Here](https://amazon.jobs/en/jobs/2808739/software-development-engineer-internship-2025-us)||
+|↳|Sensor Embedded Software Intern, Amazon Robotics Sensor||North Reading, MA|Closed🔒|10/10/2024|||
+|↳|Software Dev Engineer Intern, Automated Reasoning|47.84 - 96.15|<details><summary>4 locations<br><br><b></summary>Seattle, WA<br>Arlington, VA<br>New York, NY<br>Portland, OR</details><b>|Closed🔒|10/05/2024|||
+|↳|Software Dev Engineer Intern, Machine Learning Apps, Accelerator, Annapurna ML|47.84 - 96.15|Cupertino, CA|Open✅|10/04/2024|[Apply Here](https://www.amazon.jobs/en/jobs/2794069/software-dev-engineer-intern-machine-learning-apps-accelerator-annapurna-ml)|Graduate Students Only|
+|↳|Software Dev Engineer Intern, Compiler, Annapurna ML|47.84 - 96.15|Cupertino, CA|Open✅|10/04/2024|[Apply Here](https://amazon.jobs/en/jobs/2794068/software-dev-engineer-intern-compiler-annapurna-ml)||
+|↳|Software Dev Engineer Intern, Embedded, Runtime, Storage, System & Performance, Annapurna ML|47.84 - 96.15|<details><summary>2 locations<br><br><b></summary>Seattle, WA<br>Cupertino, CA</details><b>|Open✅|10/04/2024|[Apply Here](https://amazon.jobs/en/jobs/2794071/software-dev-engineer-intern-embedded-runtime-storage-system-performance-annapurna-ml)||
+|↳|Data Engineering Intern|43.85 - 88.94|Seattle, WA|Open✅|09/03/2024|[Apply Here](https://amazon.jobs/en/jobs/2740350/data-engineer-summer-internship-2025-us)||
+|↳|Software Development Engineer Intern, Amazon Robotics||<details><summary>2 locations<br><br><b></summary>Westborough, MA<br>North Reading, MA</details><b>|Closed🔒|08/30/2024|||
+|↳|Systems Development Engineer Intern|42.88 - 97.45|Seattle, WA|Closed🔒|08/25/2024|||
+|↳|Security Engineer Intern|60.34 - 102.31|Seattle, WA|Closed🔒|08/25/2024|||
+|↳|Quality Assurance Engineer Intern|36.39 - 88.03|Seattle, WA|Closed🔒|08/25/2024|||
+|↳|Programmer Analyst Intern|29.9 - 76.88|Seattle, WA|Closed🔒|08/25/2024|||
 |Thermo Fisher Scientific|Artificial Intelligence Intern||Pittsburgh, PA|Open✅|12/30/2024|[Apply Here](https://jobs.thermofisher.com/global/en/job/R-01282270/Artificial-Intelligence-Internship)||
 |↳|Data Science Technician Manufacturing Operations Support Intern|21 - 26.5|Carlsbad, CA|Open✅|12/30/2024|[Apply Here](https://jobs.thermofisher.com/global/en/job/R-01269764/Data-Science-Technician-Manufacturing-Operations-Support-Intern)||
 |↳|Sr. Data Science Intern|29 - 38.5|Guilford, CT|Open✅|12/30/2024|[Apply Here](https://jobs.thermofisher.com/global/en/job/R-01288971/Sr-Data-Science-Intern)||
@@ -354,19 +373,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|CDx Software Engineering Intern||<details><summary>2 locations<br><br><b></summary>Arden Hills, MN<br>Houston, TX</details><b>|Closed🔒|09/26/2024|||
 |↳|EEG Software Engineer Intern||Maple Grove, MN|Closed🔒|09/10/2024|||
 |Charles River Analytics|Software Engineer Intern/Co-op, User Experience (HCI/HMI)||Cambridge, MA|Open✅|12/13/2024|[Apply Here](https://cra.com/job-listings/?gh_jid=6462876)||
-|Amazon|SDE Intern|47.84 - 96.15|<details><summary>4 locations<br><br><b></summary>Seattle, WA<br>Redmond, WA<br>Bellevue, WA<br>Palo Alto, CA</details><b>|Open✅|12/13/2024|[Apply Here](https://www.amazon.jobs/en/jobs/2852336/sde-intern-summer)||
-|↳|Software Development Engineer Intern|47.84 - 96.15|Seattle, WA|Open✅|10/18/2024|[Apply Here](https://amazon.jobs/en/jobs/2808739/software-development-engineer-internship-2025-us)||
-|↳|Sensor Embedded Software Intern, Amazon Robotics Sensor||North Reading, MA|Closed🔒|10/10/2024|||
-|↳|Software Dev Engineer Intern, Automated Reasoning|47.84 - 96.15|<details><summary>4 locations<br><br><b></summary>Seattle, WA<br>Arlington, VA<br>New York, NY<br>Portland, OR</details><b>|Closed🔒|10/05/2024|||
-|↳|Software Dev Engineer Intern, Machine Learning Apps, Accelerator, Annapurna ML|47.84 - 96.15|Cupertino, CA|Open✅|10/04/2024|[Apply Here](https://www.amazon.jobs/en/jobs/2794069/software-dev-engineer-intern-machine-learning-apps-accelerator-annapurna-ml)|Graduate Students Only|
-|↳|Software Dev Engineer Intern, Compiler, Annapurna ML|47.84 - 96.15|Cupertino, CA|Open✅|10/04/2024|[Apply Here](https://amazon.jobs/en/jobs/2794068/software-dev-engineer-intern-compiler-annapurna-ml)||
-|↳|Software Dev Engineer Intern, Embedded, Runtime, Storage, System & Performance, Annapurna ML|47.84 - 96.15|<details><summary>2 locations<br><br><b></summary>Seattle, WA<br>Cupertino, CA</details><b>|Open✅|10/04/2024|[Apply Here](https://amazon.jobs/en/jobs/2794071/software-dev-engineer-intern-embedded-runtime-storage-system-performance-annapurna-ml)||
-|↳|Data Engineering Intern|43.85 - 88.94|Seattle, WA|Open✅|09/03/2024|[Apply Here](https://amazon.jobs/en/jobs/2740350/data-engineer-summer-internship-2025-us)||
-|↳|Software Development Engineer Intern, Amazon Robotics||<details><summary>2 locations<br><br><b></summary>Westborough, MA<br>North Reading, MA</details><b>|Closed🔒|08/30/2024|||
-|↳|Systems Development Engineer Intern|42.88 - 97.45|Seattle, WA|Closed🔒|08/25/2024|||
-|↳|Security Engineer Intern|60.34 - 102.31|Seattle, WA|Closed🔒|08/25/2024|||
-|↳|Quality Assurance Engineer Intern|36.39 - 88.03|Seattle, WA|Closed🔒|08/25/2024|||
-|↳|Programmer Analyst Intern|29.9 - 76.88|Seattle, WA|Closed🔒|08/25/2024|||
 |Jack Henry|Software Engineer Intern, Credit Union Solutions|25|Allen, TX|Closed🔒|12/12/2024|||
 |↳|Cybersecurity Engineer Intern|25|Remote|Closed🔒|11/20/2024|||
 |↳|Software Engineer Intern, Enterprise Account Origination|25|Allen, TX|Closed🔒|10/28/2024|||
