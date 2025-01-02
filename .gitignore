@@ -8,8 +8,7 @@ checkStatus.py
 checkJSON.py
 
 ## JSON Files
-data/intern_positions_*.json
-output/check_position.json
+
 intern_positions_combined.json
 
 ## Markdown Files
@@ -18,3 +17,8 @@ internPositions_automationSteps.md
 
 ## Text Files
 output/last_run_date.txt
+
+## Folder
+data/
+output/
+test/
