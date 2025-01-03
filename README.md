@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 01/01/2025.
+The List is updated daily around 12:00 PM PST. The last update was on 01/03/2025.
 
 ## Internship Positions
 
-There are total of **2669 (741 open & 1928 closed)** internship positions listed. **11** new positions were added today.
+There are total of **2674 (746 open & 1928 closed)** internship positions listed. **5** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|FINRA|Data Analytics/Data Science Intern|24 - 28|<details><summary>2 locations<br><br><b></summary>Rockville, MD<br>New York, NY</details><b>|Open✅|01/03/2025|[Apply Here](https://finra.wd1.myworkdayjobs.com/en-US/FINRA/job/Rockville-MD-Job-Posting/XMLNAME-2025-Summer-Intern---Data-Analytics-Data-Science_R-008777)||
+|Digital.ai|Software Engineering Intern|27|Remote|Open✅|01/03/2025|[Apply Here](https://digital.ai/why-digital-ai/careers/current-job-openings/?gh_jid=6304866003)||
+|Blue Cross NC|Marketing Data and Customer Engagement Intern - Masters|27|Remote|Open✅|01/03/2025|[Apply Here](https://careers.bluecrossnc.com/global/en/job/RQ0016384/Marketing-Data-and-Customer-Engagement-Intern-Master-s-student)||
+|↳|.net Developer Intern|18 - 36|Remote|Open✅|01/03/2025|[Apply Here](https://careers.bluecrossnc.com/global/en/job/RQ0016377/-net-Developer-Intern)||
+|↳|Software Engineering Intern|18 - 36|Remote|Open✅|01/03/2025|[Apply Here](https://careers.bluecrossnc.com/global/en/job/RQ0016386/Software-Engineering-Intern)||
 |Waters|Software Engineering Intern||New Castle, DE|Open✅|01/01/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21472/2024-21472/job)||
 |↳|Applications Testing Intern||New Castle, DE|Open✅|01/01/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21481/intern%2c-applications-testing/job)||
 |↳|System Test Engineer Intern||New Castle, DE|Open✅|01/01/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21474/intern%2c-system-test-engineer/job)||

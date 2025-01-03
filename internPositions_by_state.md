@@ -2,11 +2,11 @@
 
 This page provides a breakdown of internship opportunities by state. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 01/01/2025.
+The List is updated daily around 12:00 PM PST. The last update was on 01/03/2025.
 
 ## Internship Positions
 
-There are a total of **53** (including remote and unknown) states listed. **11** new positions were added today.
+There are a total of **53** (including remote and unknown) states listed. **5** new positions were added today.
 
 ### Viewing Options:
 If you prefer to view the positions sorted by statuses, check out the [Internship Opportunities by Status](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_status.md) page.
@@ -1804,7 +1804,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Morgan Stanley                     | Technology Analyst Program                                                                        |                  | Closed🔒 | 06/17/2024   | Boston, MA        |                                                                                                                                                                  |
 
 ## Jobs in MD
-### Number of positions: 44 (Open: 11, Closed: 33)
+### Number of positions: 45 (Open: 12, Closed: 33)
 | Company                                             | Job Title                                                                                     | Hourly Pay ($)   | Status   | Date Added   | Location               | Application Link                                                                                                                                                                                 |
 |:----------------------------------------------------|:----------------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Thermo Fisher Scientific                            | Data Science Intern                                                                           | 21.5 - 28.75     | Open🛂   | 12/30/2024   | Frederick, MD          | [Apply Here](https://jobs.thermofisher.com/global/en/job/R-01276429/Data-Science-Intern)                                                                                                         |
@@ -1851,6 +1851,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Textron Systems                                     | Information Technology Intern                                                                 |                  | Closed🔒 | 09/02/2024   | Hunt Valley, MD        |                                                                                                                                                                                                  |
 | Boeing                                              | Engineering Intern                                                                            | 22.39 - 45.83    | Closed🔒 | 08/14/2024   | Germantown, MD         |                                                                                                                                                                                                  |
 | T. Rowe Price                                       | Global Technology, Software Engineering Intern                                                |                  | Closed🔒 | 07/23/2024   | Owings Mills, MD       |                                                                                                                                                                                                  |
+| FINRA                                               | Data Analytics/Data Science Intern                                                            | 24 - 28          | Open✅   | 01/03/2025   | Rockville, MD          | [Apply Here](https://finra.wd1.myworkdayjobs.com/en-US/FINRA/job/Rockville-MD-Job-Posting/XMLNAME-2025-Summer-Intern---Data-Analytics-Data-Science_R-008777)                                     |
 
 ## Jobs in ME
 ### Number of positions: 9 (Open: 3, Closed: 6)
@@ -2350,7 +2351,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Generac       | Firmware Engineer Intern |                  | Closed🔒 | 10/01/2024   | Reno, NV   |                    |
 
 ## Jobs in NY
-### Number of positions: 265 (Open: 64, Closed: 201)
+### Number of positions: 266 (Open: 65, Closed: 201)
 | Company                             | Job Title                                                                                         | Hourly Pay ($)   | Status   | Date Added   | Location             | Application Link                                                                                                                                                                                                                                                              |
 |:------------------------------------|:--------------------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:---------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Amazon                              | Software Development Engineer Intern, Specialized Co-Op                                           | 49.37 - 56.25    | Open✅   | 12/31/2024   | New York, NY         | [Apply Here](https://www.amazon.jobs/en/jobs/2863580/software-development-engineer-intern-specialized-co-op-summer-2025-us)                                                                                                                                                   |
@@ -2618,6 +2619,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Capstone                            | Software Engineering Intern                                                                       | 28 - 32          | Closed🔒 | 06/15/2024   | New York, NY         |                                                                                                                                                                                                                                                                               |
 | Global Atlantic Financial Group     | Global Atlantic Intern Program                                                                    |                  | Open✅   | 05/23/2024   | New York, NY         | [Apply Here](https://boards.greenhouse.io/gainternships/jobs/5594014)                                                                                                                                                                                                         |
 | Goldman Sachs                       | Summer Analyst Program, Technology                                                                |                  | Open✅   | 05/19/2024   | Albany, NY           | [Apply Here](https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2025-summer-analyst-program)                                                                                                                                                     |
+| FINRA                               | Data Analytics/Data Science Intern                                                                | 24 - 28          | Open✅   | 01/03/2025   | New York, NY         | [Apply Here](https://finra.wd1.myworkdayjobs.com/en-US/FINRA/job/Rockville-MD-Job-Posting/XMLNAME-2025-Summer-Intern---Data-Analytics-Data-Science_R-008777)                                                                                                                  |
 
 ## Jobs in OH
 ### Number of positions: 48 (Open: 9, Closed: 39)
@@ -3553,7 +3555,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Trihydro  | Software Developer Intern |                  | Closed🔒 | 10/24/2024   | Laramie, WY |                    |
 
 ## Jobs in Remote
-### Number of positions: 250 (Open: 62, Closed: 188)
+### Number of positions: 254 (Open: 66, Closed: 188)
 | Company                  | Job Title                                                                            | Hourly Pay ($)   | Status   | Date Added   | Location   | Application Link                                                                                                                                                                       |
 |:-------------------------|:-------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:-----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ATPCO                    | Software Engineering Intern                                                          |                  | Open✅   | 12/26/2024   | Remote     | [Apply Here](https://www.smartrecruiters.com/ATPCO1/744000033632967-software-engineer-intern)                                                                                          |
@@ -3806,6 +3808,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | GE Healthcare            | Information Technology Development Intern                                            |                  | Closed🔒 | 08/15/2024   | Remote     |                                                                                                                                                                                        |
 | Geico                    | Software Development Intern                                                          | 25.32 - $49.13   | Closed🔒 | 08/13/2024   | Remote     |                                                                                                                                                                                        |
 | Databento                | Software Engineer Intern                                                             |                  | Closed🔒 | 07/19/2024   | Remote     |                                                                                                                                                                                        |
+| Blue Cross NC            | .net Developer Intern                                                                | 18 - 36          | Open✅   | 01/03/2025   | Remote     | [Apply Here](https://careers.bluecrossnc.com/global/en/job/RQ0016377/-net-Developer-Intern)                                                                                            |
+| ↳                        | Marketing Data and Customer Engagement Intern - Masters                              | 27               | Open✅   | 01/03/2025   | Remote     | [Apply Here](https://careers.bluecrossnc.com/global/en/job/RQ0016384/Marketing-Data-and-Customer-Engagement-Intern-Master-s-student)                                                   |
+| ↳                        | Software Engineering Intern                                                          | 18 - 36          | Open✅   | 01/03/2025   | Remote     | [Apply Here](https://careers.bluecrossnc.com/global/en/job/RQ0016386/Software-Engineering-Intern)                                                                                      |
+| Digital.ai               | Software Engineering Intern                                                          | 27               | Open✅   | 01/03/2025   | Remote     | [Apply Here](https://digital.ai/why-digital-ai/careers/current-job-openings/?gh_jid=6304866003)                                                                                        |
 
 ## Jobs in Unknown
 ### Number of positions: 44 (Open: 19, Closed: 25)
