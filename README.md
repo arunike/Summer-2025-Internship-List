@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 01/03/2025.
+The List is updated daily around 12:00 PM PST. The last update was on 01/04/2025.
 
 ## Internship Positions
 
-There are total of **2674 (746 open & 1928 closed)** internship positions listed. **5** new positions were added today.
+There are total of **2680 (752 open & 1928 closed)** internship positions listed. **6** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,11 +31,19 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|DUIT|Software Intern|20 - 30|Baltimore, MD|Open✅|01/04/2025|[Apply Here](https://dstaffing.bamboohr.com/careers/181)||
+|Virtu|Quantitative Trading Intern|100 - 125|<details><summary>3 locations<br><br><b></summary>Austin, TX<br>Chicago, IL<br>New York, NY</details><b>|Open✅|01/04/2025|[Apply Here](https://job-boards.greenhouse.io/virtu/jobs/7424419002)||
+|↳|Site Reliability Engineer Intern|50 - 62.5|New York, NY|Open✅|01/04/2025|[Apply Here](https://job-boards.greenhouse.io/virtu/jobs/6440066002)||
+|↳|Software Engineer Intern|100 - 125|<details><summary>2 locations<br><br><b></summary>New York, NY<br>Austin, TX</details><b>|Open✅|01/04/2025|[Apply Here](https://job-boards.greenhouse.io/virtu/jobs/7520504002)||
+|Plug Power|Software Engineering Intern|21 - 25|Rochester, NY|Open✅|01/04/2025|[Apply Here](https://plugpower.wd5.myworkdayjobs.com/en-US/Plug_Power_Inc/job/Rochester-Innovation-Center/Software-Engineering-Intern_R6224-1)||
+|Auctane|Software Engineering Intern, Fullstack||Austin, TX|Open✅|01/04/2025|[Apply Here](https://job-boards.greenhouse.io/auctane/jobs/6305040003)||
+|↳|Software Engineering Intern||Austin, TX|Open✅|12/22/2024|[Apply Here](https://job-boards.greenhouse.io/auctane/jobs/6301367003)||
 |FINRA|Data Analytics/Data Science Intern|24 - 28|<details><summary>2 locations<br><br><b></summary>Rockville, MD<br>New York, NY</details><b>|Open✅|01/03/2025|[Apply Here](https://finra.wd1.myworkdayjobs.com/en-US/FINRA/job/Rockville-MD-Job-Posting/XMLNAME-2025-Summer-Intern---Data-Analytics-Data-Science_R-008777)||
 |Digital.ai|Software Engineering Intern|27|Remote|Open✅|01/03/2025|[Apply Here](https://digital.ai/why-digital-ai/careers/current-job-openings/?gh_jid=6304866003)||
 |Blue Cross NC|Marketing Data and Customer Engagement Intern - Masters|27|Remote|Open✅|01/03/2025|[Apply Here](https://careers.bluecrossnc.com/global/en/job/RQ0016384/Marketing-Data-and-Customer-Engagement-Intern-Master-s-student)||
 |↳|.net Developer Intern|18 - 36|Remote|Open✅|01/03/2025|[Apply Here](https://careers.bluecrossnc.com/global/en/job/RQ0016377/-net-Developer-Intern)||
 |↳|Software Engineering Intern|18 - 36|Remote|Open✅|01/03/2025|[Apply Here](https://careers.bluecrossnc.com/global/en/job/RQ0016386/Software-Engineering-Intern)||
+|Centerfield|Software Engineering Intern|28 - 30|Los Angeles, CA|Open✅|01/03/2025|[Apply Here](https://jobs.lever.co/centerfield/bed26b9e-48e7-476e-a6a2-0f1e0a91053c)||
 |Waters|Software Engineering Intern||New Castle, DE|Open✅|01/01/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21472/2024-21472/job)||
 |↳|Applications Testing Intern||New Castle, DE|Open✅|01/01/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21481/intern%2c-applications-testing/job)||
 |↳|System Test Engineer Intern||New Castle, DE|Open✅|01/01/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21474/intern%2c-system-test-engineer/job)||
@@ -190,7 +198,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Backend Development Intern|||Open✅|12/22/2024|[Apply Here](https://www.nexje.com/backend-development-intern--nexje-career)||
 |RapidSOS|Implementation Engineering Intern|30|Remote|Open✅|12/22/2024|[Apply Here](https://job-boards.greenhouse.io/rapidsos/jobs/4607074007)||
 |Shopify|Engineering and Data Intern||Remote|Open✅|12/22/2024|[Apply Here](https://www.shopify.com/careers/engineering-and-data-internships-summer-2025_8f38c8b3-606d-47bc-ac83-e6ce1767c8bd)||
-|Auctane|Software Engineering Intern||Austin, TX|Open✅|12/22/2024|[Apply Here](https://job-boards.greenhouse.io/auctane/jobs/6301367003)||
 |Illumio|Application Developer Intern|30|Sunnyvale, CA|Open✅|12/22/2024|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7781602002)||
 |↳|CloudOps Intern|37 - 47|Sunnyvale, CA|Open✅|12/22/2024|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7785206002)||
 |↳|Technology Exploration Intern|37 - 45|Sunnyvale, CA|Open✅|12/22/2024|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7773921002)||
@@ -2663,7 +2670,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |HPR|Software Engineering Intern||Needham, MA|Closed🔒|08/02/2024|||
 |Confluent|Software Engineering Intern||Austin, TX|Closed🔒|08/01/2024|||
 |Sentry|Software Engineering Intern|53.13|San Francisco, CA|Closed🔒|08/01/2024|||
-|Virtu|Developer Intern|100 - 125|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>New York, NY</details><b>|Open✅|07/30/2024|[Apply Here](https://job-boards.greenhouse.io/virtu/jobs/7520504002)||
 |Marshall Wace|Technology Intern|65.1 - 78.13|New York, NY|Closed🔒|07/30/2024|||
 |Sensata|Software Engineer Intern||Attleboro, MA|Closed🔒|07/27/2024|||
 |Castleton Commodities International|Data Science Machine Learning Intern||Stamford, CT|Closed🔒|07/27/2024|||
