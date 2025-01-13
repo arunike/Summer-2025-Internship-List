@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 01/10/2025.
+The List is updated daily around 12:00 PM PST. The last update was on 01/13/2025.
 
 ## Internship Positions
 
-There are total of **2787 (861 open & 1926 closed)** internship positions listed. **9** new positions were added today.
+There are total of **2793 (867 open & 1926 closed)** internship positions listed. **6** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,21 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Dropbox|Software Engineering Intern, Go To Market|43.75 - 50|Remote|Open✅|01/13/2025|[Apply Here](https://jobs.dropbox.com/listing/6506822)||
+|↳|Support Engineering Intern|43.75 - 50|Remote|Open✅|12/24/2024|[Apply Here](https://jobs.dropbox.com/listing/6466846)||
+|↳|Software Engineer Intern|50 - 59.37|Remote|Open✅|12/18/2024|[Apply Here](https://jobs.dropbox.com/listing/6479042)||
+|↳|Data Science Intern|50 - 59.37|Remote|Closed🔒|10/18/2024|||
+|Autodesk|Frontend Software Engineer Intern|24.91 - 84.5|San Francisco, CA|Open✅|01/13/2025|[Apply Here](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/San-Francisco-CA-USA/Intern--Frontend-Software-Engineer_24WD82753)||
+|↳|Data Analyst Intern|24.91 - 84.5|Remote|Closed🔒|11/08/2024|||
+|↳|Software Engineer Intern|24.91 - 84.5|<details><summary>4 locations<br><br><b></summary>Remote<br>Novi, WI<br>Denver, CO<br>Portland, OR</details><b>|Closed🔒|11/06/2024|||
+|↳|Cloud Infrastructure Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/14/2024|||
+|↳|Full Stack Software Engineer Intern|24.91 - 84.5|Remote|Closed🔒|10/12/2024|||
+|↳|Data Scientist Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/03/2024|||
+|↳|Software Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|09/24/2024|||
+|StepStone|Private Wealth Data Science Intern||Orlando, FL|Open✅|01/13/2025|[Apply Here](https://www.stepstonegroup.com/current-opportunities/?gh_jid=6530606)||
+|Affirm|Software Engineering Intern|55|San Francisco, CA|Open✅|01/13/2025|[Apply Here](https://job-boards.greenhouse.io/affirm/jobs/6228633003)||
+|ActBlue|Intern||Remote|Open✅|01/13/2025|[Apply Here](https://secure.actblue.com/available-positions?gh_jid=7808519002)||
+|Nuro|Systems Engineering Intern, Validation|30 - 40|Mountain View, CA|Open✅|01/13/2025|[Apply Here](https://www.nuro.ai/careersitem?gh_jid=6523346)||
 |Brewer Science|Software Engineer Intern||Remote|Open✅|01/10/2025|[Apply Here](https://www.brewerscience.com/about-us/company/careers/job-postings/?gnk=job&gni=8a78839f93dc3a50019447ab85144326)||
 |GE Healthcare|Information Technology Development Program Intern||Remote|Open✅|01/10/2025|[Apply Here](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4012213EXTERNALENGLOBAL/Information-Technology-Development-Program-Internship)||
 |Ele|Software Development Intern|15 - 25|San Jose, CA|Open✅|01/10/2025|[Apply Here](https://www.elekta.com/company/careers/jobs/?job=R2024-2430)||
@@ -319,9 +334,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|IT Emerging Talent Intern|20.62 - 54.94|<details><summary>3 locations<br><br><b></summary>Rahway, NJ<br>West Point, PA<br>Austin, TX</details><b>|Closed🔒|09/08/2024|||
 |The Flatiron Institute|Research Interns, Initiative for Computational Catalysis|20 - 25|New York, NY|Open✅|12/24/2024|[Apply Here](https://apply.interfolio.com/159676)||
 |↳|Research Interns, Initiative for Computational Catalysis|20 - 25|New York, NY|Open✅|12/24/2024|[Apply Here](https://apply.interfolio.com/157760)||
-|Dropbox|Support Engineering Intern|43.75 - 50|Remote|Open✅|12/24/2024|[Apply Here](https://jobs.dropbox.com/listing/6466846)||
-|↳|Software Engineer Intern|50 - 59.37|Remote|Open✅|12/18/2024|[Apply Here](https://jobs.dropbox.com/listing/6479042)||
-|↳|Data Science Intern|50 - 59.37|Remote|Closed🔒|10/18/2024|||
 |CommScope|Software Quality Assurance Engineering Intern||Lowell, MA|Closed🔒|12/24/2024|||
 |↳|Enablement and Development Intern||Shakopee, MN|Closed🔒|12/24/2024|||
 |↳|Software Engineering Intern||Santa Ana, CA|Closed🔒|12/24/2024|||
@@ -1274,12 +1286,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern, Partner Engineering|35|New York, NY|Closed🔒|11/05/2024|||
 |↳|Software Engineering Intern, Post Trade Engineering|35|New York, NY|Closed🔒|11/05/2024|||
 |↳|Site Reliability Engineering Intern|35|New York, NY|Closed🔒|11/05/2024|||
-|Autodesk|Data Analyst Intern|24.91 - 84.5|Remote|Closed🔒|11/08/2024|||
-|↳|Software Engineer Intern|24.91 - 84.5|<details><summary>4 locations<br><br><b></summary>Remote<br>Novi, WI<br>Denver, CO<br>Portland, OR</details><b>|Closed🔒|11/06/2024|||
-|↳|Cloud Infrastructure Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/14/2024|||
-|↳|Full Stack Software Engineer Intern|24.91 - 84.5|Remote|Closed🔒|10/12/2024|||
-|↳|Data Scientist Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/03/2024|||
-|↳|Software Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|09/24/2024|||
 |ATLAS SP Partners|ASPire Technology Intern|41.67 - 46.87|Raleigh, NC|Closed🔒|11/08/2024|||
 |Chainguard|Software Engineer Intern, Packaging|30 - 35||Closed🔒|11/08/2024|||
 |Indico Data|Software Engineer Intern|25 - 30|Remote|Closed🔒|11/08/2024|||
