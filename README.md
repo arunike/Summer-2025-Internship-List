@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 01/14/2025.
+The List is updated daily around 12:00 PM PST. The last update was on 01/15/2025.
 
 ## Internship Positions
 
-There are total of **2851 (925 open & 1926 closed)** internship positions listed. **60** new positions were added today.
+There are total of **2857 (928 open & 1929 closed)** internship positions listed. **6** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,15 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Illumio|CloudSecure Intern|47|Sunnyvale, CA|Open✅|01/15/2025|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7798649002)||
+|↳|Core Policy/Data Platform Intern|37|Sunnyvale, CA|Open✅|01/15/2025|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7801449002)||
+|↳|Core Unified Platform Intern|37 - 47|Sunnyvale, CA|Open✅|01/15/2025|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7798653002)||
+|↳|Engineering Intern, CloudSecure|47|Sunnyvale, CA|Open✅|01/15/2025|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7798645002)|Graduate Students Only|
+|↳|Engineering Intern, Core PCE Platform|37 - 47|Sunnyvale, CA|Open✅|01/15/2025|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7782437002)||
+|↳|Engineering Intern, Core PPM Platform|37 - 47|Sunnyvale, CA|Open✅|01/15/2025|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7782594002)||
+|↳|Application Developer Intern|30|Sunnyvale, CA|Closed🔒|12/22/2024|||
+|↳|CloudOps Intern|37 - 47|Sunnyvale, CA|Closed🔒|12/22/2024|||
+|↳|Technology Exploration Intern|37 - 45|Sunnyvale, CA|Closed🔒|12/22/2024|||
 |Schrödinger|Software Development Intern, PyMOL|46.87|Remote|Open✅|01/14/2025|[Apply Here](https://job-boards.greenhouse.io/schrdinger/jobs/6322785003#app)||
 |Wells Fargo|Sophomore Discovery Fellowship Program|25 - 30|<details><summary>2 locations<br><br><b></summary>Charlotte, NC<br>New York, NY</details><b>|Open🛂|01/14/2025|[Apply Here](https://www.wellsfargojobs.com/en/jobs/r-425086/2025-wells-fargo-sophomore-discovery-fellowship-program/)||
 |↳|Technology Intern, Software Engineer|60.1|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Concord, CA<br>San Leandro, CA</details><b>|Closed🔒|10/12/2024|||
@@ -68,7 +77,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Network Infrastructure Intern|25.52 - 36.45|Germantown, MD|Open✅|01/14/2025|[Apply Here](https://echostar.wd5.myworkdayjobs.com/en-US/echostar/job/MD-Germantown/Network-Infrastructure-Intern_R0004569)||
 |↳|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Germantown, MD<br>Gaithersburg, MD</details><b>|Closed🔒|09/15/2024|||
 |Exiger|Data Analyst Intern|25|McLean, VA|Open✅|01/14/2025|[Apply Here](https://www.exiger.com/careers/?gh_jid=5416848004)||
-|↳|Junior Implementation Intern|25|McLean, VA|Open✅|01/14/2025|[Apply Here](https://www.exiger.com/careers/?gh_jid=5416831004)||
+|↳|Junior Implementation Intern|25|Richmond, VA|Open✅|01/14/2025|[Apply Here](https://www.exiger.com/careers/?gh_jid=5416831004)||
 |↳|Software Development Intern|25|McLean, VA|Open✅|01/14/2025|[Apply Here](https://www.exiger.com/careers/?gh_jid=5072707004)||
 |Fox Corporation|FOX Technology Intern||Tempe, AZ|Open✅|01/14/2025|[Apply Here](https://www.foxcareers.com/Search/JobDetail/R50026997/summer-2025-fox-technology-internship-program-tempe-az-fox-corporation)||
 |Gen|Software Engineering Intern||Tempe, AZ|Open✅|01/14/2025|[Apply Here](https://gen.wd1.myworkdayjobs.com/en-US/careers/job/USA---Arizona-Tempe/Software-Engineering-Intern_53911-1)||
@@ -458,9 +467,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Backend Development Intern|||Open✅|12/22/2024|[Apply Here](https://www.nexje.com/backend-development-intern--nexje-career)||
 |RapidSOS|Implementation Engineering Intern|30|Remote|Open✅|12/22/2024|[Apply Here](https://job-boards.greenhouse.io/rapidsos/jobs/4607074007)||
 |Shopify|Engineering and Data Intern||Remote|Open✅|12/22/2024|[Apply Here](https://www.shopify.com/careers/engineering-and-data-internships-summer-2025_8f38c8b3-606d-47bc-ac83-e6ce1767c8bd)||
-|Illumio|Application Developer Intern|30|Sunnyvale, CA|Open✅|12/22/2024|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7781602002)||
-|↳|CloudOps Intern|37 - 47|Sunnyvale, CA|Open✅|12/22/2024|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7785206002)||
-|↳|Technology Exploration Intern|37 - 45|Sunnyvale, CA|Open✅|12/22/2024|[Apply Here](https://www.illumio.com/company/job-listing?gh_jid=7773921002)||
 |Element Biosciences|Software Development Intern|25 - 40|San Diego, CA|Open✅|12/22/2024|[Apply Here](https://job-boards.greenhouse.io/elementbiosciences/jobs/5396838004)||
 |↳|AI Intern|25 - 40|San Diego, CA|Open✅|12/22/2024|[Apply Here](https://job-boards.greenhouse.io/elementbiosciences/jobs/5396848004)||
 |insitro|Data Science & Machine Learning Intern||San Francisco, CA|Open✅|12/22/2024|[Apply Here](https://job-boards.greenhouse.io/insitro/jobs/4426675006)||
