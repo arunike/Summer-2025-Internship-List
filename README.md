@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 01/16/2025.
+The List is updated daily around 12:00 PM PST. The last update was on 01/17/2025.
 
 ## Internship Positions
 
-There are total of **2934 (1005 open & 1929 closed)** internship positions listed. **86** new positions were added today.
+There are total of **2953 (1024 open & 1929 closed)** internship positions listed. **19** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,32 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Greystone|Full Stack Engineer Intern|27|New York, NY|Open✅|01/17/2025|[Apply Here](https://recruiting.ultipro.com/GRE1013GIT/JobBoard/4f866dba-368d-433e-bb2c-bfd2dd0b1efc/OpportunityDetail?opportunityId=dc50ec62-bb1a-4569-a352-af06932d0033)||
+|TGS|IT Infrastructure Intern||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/IT-Infrastructure-Intern_R628)||
+|↳|Data Lake Intern||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Data-Lake-Intern_R623)||
+|↳|Data Science Intern, Research & Technology||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Data-Science-Intern_R618)||
+|↳|Geoscience AI/ML Researcher Intern||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Geoscience-AI-ML-Researcher-Intern_R617)|Graduate Students Only|
+|↳|Cyber Security Intern||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Cyber-Security-Intern_R631)||
+|↳|Software API Development Intern||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Software-API-Development-Intern_R630)||
+|↳|Software API Infrastructure Intern||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Software-API-Infrastructure-Intern_R629)||
+|↳|Data Science Intern, DMS||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Data-Science-Intern_R615)||
+|Copart|AI / ML Intern||Dallas, TX|Open✅|01/17/2025|[Apply Here](https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/AI---ML-Intern_JR100688)||
+|↳|Network Engineering Intern||Dallas, TX|Open✅|01/17/2025|[Apply Here](https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Network-Engineering-Intern_JR100769)||
+|↳|DevOps Intern||Dallas, TX|Open✅|01/17/2025|[Apply Here](https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/DevOps-Intern_JR100725)||
+|↳|Software Engineering Intern||Dallas, TX|Open✅|01/17/2025|[Apply Here](https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR100727)||
+|↳|UI Developer Intern||Dallas, TX|Open✅|01/17/2025|[Apply Here](https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/UI-Developer-Intern_JR100738)||
+|↳|SDET Java Intern||Dallas, TX|Open✅|01/17/2025|[Apply Here](https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/SDET-Java-Intern_JR100706)||
+|AEG|Application Development Intern, Global Technology|19 - 21|Los Angeles, CA|Open✅|01/17/2025|[Apply Here](https://aegworldwide.com/careers/jobs/AEG7921/summer-intern%2C-application-development-%E2%80%93-global-technology?gh_jid=7812731002)||
+|↳|Data Engineer Intern, LA Kings|19 - 21|Los Angeles, CA|Open✅|01/17/2025|[Apply Here](https://aegworldwide.com/careers/jobs/KINGS7814/summer-intern%2C-data-engineer%E2%80%94la-kings?gh_jid=7734441002)||
+|Garrett|Engineering Internship, Software|25 - 35|Torrence, CA|Open✅|01/17/2025|[Apply Here](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11950)||
+|Autodesk|Software Engineer Intern|24.91 - 84.5|Remote|Open✅|01/17/2025|[Apply Here](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/AMER---United-States---California---OffsiteHome/Intern--Software-Engineer_24WD82838-2)||
+|↳|Frontend Software Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|01/13/2025|||
+|↳|Data Analyst Intern|24.91 - 84.5|Remote|Closed🔒|11/08/2024|||
+|↳|Software Engineer Intern|24.91 - 84.5|<details><summary>4 locations<br><br><b></summary>Remote<br>Novi, WI<br>Denver, CO<br>Portland, OR</details><b>|Closed🔒|11/06/2024|||
+|↳|Cloud Infrastructure Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/14/2024|||
+|↳|Full Stack Software Engineer Intern|24.91 - 84.5|Remote|Closed🔒|10/12/2024|||
+|↳|Data Scientist Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/03/2024|||
+|↳|Software Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|09/24/2024|||
 |Hallmark Media|Technology Intern|17.27|Los Angeles, CA|Open✅|01/16/2025|[Apply Here](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=72571&clientkey=477B620764F4A7BADB21CD8BE2241D3A)||
 |Hasbro|Software Development Engineer Intern|39 - 44|Renton, WA|Open✅|01/16/2025|[Apply Here](https://careers.hasbro.com/careers/job/68746235255)||
 |F5|Software Engineer Intern|35 - 53|<details><summary>2 locations<br><br><b></summary>Seattle, WA<br>San Jose, CA</details><b>|Open✅|01/16/2025|[Apply Here](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Engineer-Intern_RP1032466)||
@@ -236,13 +262,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Support Engineering Intern|43.75 - 50|Remote|Open✅|12/24/2024|[Apply Here](https://jobs.dropbox.com/listing/6466846)||
 |↳|Software Engineer Intern|50 - 59.37|Remote|Open✅|12/18/2024|[Apply Here](https://jobs.dropbox.com/listing/6479042)||
 |↳|Data Science Intern|50 - 59.37|Remote|Closed🔒|10/18/2024|||
-|Autodesk|Frontend Software Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|01/13/2025|||
-|↳|Data Analyst Intern|24.91 - 84.5|Remote|Closed🔒|11/08/2024|||
-|↳|Software Engineer Intern|24.91 - 84.5|<details><summary>4 locations<br><br><b></summary>Remote<br>Novi, WI<br>Denver, CO<br>Portland, OR</details><b>|Closed🔒|11/06/2024|||
-|↳|Cloud Infrastructure Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/14/2024|||
-|↳|Full Stack Software Engineer Intern|24.91 - 84.5|Remote|Closed🔒|10/12/2024|||
-|↳|Data Scientist Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|10/03/2024|||
-|↳|Software Engineer Intern|24.91 - 84.5|San Francisco, CA|Closed🔒|09/24/2024|||
 |StepStone|Private Wealth Data Science Intern||Orlando, FL|Open✅|01/13/2025|[Apply Here](https://www.stepstonegroup.com/current-opportunities/?gh_jid=6530606)||
 |Affirm|Software Engineering Intern|55|San Francisco, CA|Open✅|01/13/2025|[Apply Here](https://job-boards.greenhouse.io/affirm/jobs/6228633003)||
 |ActBlue|Intern||Remote|Open✅|01/13/2025|[Apply Here](https://secure.actblue.com/available-positions?gh_jid=7808519002)||
