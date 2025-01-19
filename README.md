@@ -3,11 +3,11 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 01/17/2025.
+The List is updated daily around 12:00 PM PST. The last update was on 01/19/2025.
 
 ## Internship Positions
 
-There are total of **2953 (1024 open & 1929 closed)** internship positions listed. **19** new positions were added today.
+There are total of **2959 (1031 open & 1928 closed)** internship positions listed. **7** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +31,17 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Empower|Software Engineer Intern, Financial Planning|22 - 24|Boston, MA|Open🛂|01/19/2025|[Apply Here](https://empower.wd12.myworkdayjobs.com/en-US/empower/job/MA-Boston---Federal-St/Summer-2025-Intern---Software-Engineer--Financial-Planning_R0050472)||
+|↳|Software Engineer Intern, Customer Digital Experience|22 - 24|Boston, MA|Open✅|01/14/2025|[Apply Here](https://empower.wd12.myworkdayjobs.com/en-US/empower/job/MA-Boston---Federal-St/Summer-2025-Intern---Software-Engineer--Customer-Digital-Experience_R0050441)||
+|↳|Software Engineer Intern|22 - 24|Hartford, CO|Closed🔒|11/30/2024|||
+|↳|DevOps Engineer Intern|22 - 24|Hartford, CO|Closed🔒|11/30/2024|||
+|Squarespace|Software Engineering Intern|54|New York, NY|Open✅|01/19/2025|[Apply Here](https://www.squarespace.com/careers/jobs/6526521)||
+|NOV|Software Engineering Intern||Houston, TX|Open✅|01/19/2025|[Apply Here](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/32949/)||
+|K12 Coalition|Junior Software Development Engineer Intern, Test|25|Remote|Open✅|01/19/2025|[Apply Here](https://secure7.saashr.com/ta/6206026.careers?CareersSearch=&ein_id=118950017&lang=en-US)||
+|Mathworks|Software Engineer Intern, Test||Natick, MA|Open✅|01/19/2025|[Apply Here](https://www.mathworks.com/company/jobs/opportunities/35128-software-engineer-in-test-intern)||
+|↳|Engineering Development Group Intern||Natick, MA|Open✅|08/27/2024|[Apply Here](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?source=19813&s_eid=Rci_19813)||
+|TechSmith|Software Engineer Intern, Full Stack|27||Open🛂|01/19/2025|[Apply Here](https://jobs.jobvite.com/techsmith/job/oMBgvfwS)||
+|↳|Software Test Engineer Intern|27||Open🛂|01/19/2025|[Apply Here](https://jobs.jobvite.com/techsmith/job/o3hvufw3)||
 |Greystone|Full Stack Engineer Intern|27|New York, NY|Open✅|01/17/2025|[Apply Here](https://recruiting.ultipro.com/GRE1013GIT/JobBoard/4f866dba-368d-433e-bb2c-bfd2dd0b1efc/OpportunityDetail?opportunityId=dc50ec62-bb1a-4569-a352-af06932d0033)||
 |TGS|IT Infrastructure Intern||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/IT-Infrastructure-Intern_R628)||
 |↳|Data Lake Intern||Houston, TX|Open✅|01/17/2025|[Apply Here](https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Data-Lake-Intern_R623)||
@@ -251,9 +262,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Tech Incubation Intern|44 - 63|Mountain View, CA|Open✅|12/18/2024|[Apply Here](https://sra.samsung.com/careers/detail/?id=7761601002&type=intern)|Graduate Students Only|
 |↳|Research Scientist Intern|44 - 63|Irvine, CA|Open✅|11/23/2024|[Apply Here](https://sra.samsung.com/careers/detail/?id=7738227002&type=intern)|Graduate Students Only|
 |↳|Computational Imaging Intern|31 - 43|Plano, TX|Open✅|11/23/2024|[Apply Here](https://sra.samsung.com/careers/detail/?id=7740592002&type=intern)||
-|Empower|Software Engineer Intern, Customer Digital Experience|22 - 24|Boston, MA|Open✅|01/14/2025|[Apply Here](https://empower.wd12.myworkdayjobs.com/en-US/empower/job/MA-Boston---Federal-St/Summer-2025-Intern---Software-Engineer--Customer-Digital-Experience_R0050441)||
-|↳|Software Engineer Intern|22 - 24|Hartford, CO|Closed🔒|11/30/2024|||
-|↳|DevOps Engineer Intern|22 - 24|Hartford, CO|Closed🔒|11/30/2024|||
 |Roche|Software Engineer Intern, Digital Pathology|27 - 50|Santa Clara, CA|Open✅|01/14/2025|[Apply Here](https://careers.roche.com/global/en/job/202412-131693/2025-Summer-Intern-Software-Engineer-Digital-Pathology)||
 |↳|Software Development Engineer Intern, Test|45 - 50|Santa Clara, CA|Open✅|01/14/2025|[Apply Here](https://careers.roche.com/global/en/job/202412-132260/2025-Summer-Intern-Software-Development-Engineer-in-Test)||
 |↳|Data Analytics Intern, Test|25 - 40|Carlsbad, CA|Open✅|01/14/2025|[Apply Here](https://careers.roche.com/global/en/job/202412-132690/2025-Summer-Intern-Data-Analytics)||
@@ -2707,7 +2715,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Information Technology Intern, Infrastructure||Dallas, TX|Closed🔒|08/30/2024|||
 |Federal Home Loan Bank of Chicago|Application Development Intern||Chicago, IL|Closed🔒|09/06/2024|||
 |↳|Modern Engineering Intern||Chicago, IL|Closed🔒|09/06/2024|||
-|TechSmith|Software Engineer Intern, Full Stack|27||Closed🔒|09/06/2024|||
 |Arup|Software Development Intern|26 - 37|New York, NY|Closed🔒|09/06/2024|||
 |Blue Origin|Honeybee Robotics Software Engineering Intern - Undergraduate||Los Angeles, CA|Closed🔒|09/06/2024|||
 |↳|Software Applications Engineering Intern - Undergraduate|28.67|<details><summary>2 locations<br><br><b></summary>Seattle, WA<br>Space Coast, FL</details><b>|Closed🔒|09/04/2024|||
@@ -2841,7 +2848,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |US Foods|Software Engineer Intern||Rosemont, IL|Closed🔒|08/28/2024|||
 |↳|COBOL Programmer Intern||Rosemont, IL|Closed🔒|08/28/2024|||
 |Truist|Technology and Innovation Intern||<details><summary>2 locations<br><br><b></summary>Charlotte, NC<br>Atlanta, GA</details><b>|Closed🔒|08/27/2024|||
-|Mathworks|Engineering Development Group Intern||Natick, MA|Open✅|08/27/2024|[Apply Here](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?source=19813&s_eid=Rci_19813)||
 |AeroVironment|Software Engineering Intern||<details><summary>9 locations<br><br><b></summary>Simi Valley, CA<br>Lawrence, KS<br>Minneapolis, MN<br>Huntsville, AL<br>Arlington, VA<br>Moorpark, CA<br>Melbourne, FL<br>Petaluma, CA<br>San Diego, CA</details><b>|Open✅|08/27/2024|[Apply Here](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/XMLNAME-2025-Summer-Internship---Software-Engineering_4871)||
 |Dow|Information Systems/Information Technology Intern||<details><summary>2 locations<br><br><b></summary>Midland, MI<br>Houston, TX</details><b>|Closed🔒|08/26/2024|||
 |Nextdoor|Software Engineer Intern|48.75|San Francisco, CA|Closed🔒|08/25/2024|||
