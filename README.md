@@ -3,11 +3,9 @@
 
 This page provides a breakdown of internship opportunities by status. The table below lists the companies, job titles, locations, status, date added, application links, and notes for each internship position.
 
-The List is updated daily around 12:00 PM PST. The last update was on 01/20/2025.
-
 ## Internship Positions
 
-There are total of **2991 (1064 open & 1927 closed)** internship positions listed. **33** new positions were added today.
+There are total of **2993 (1066 open & 1927 closed)** internship positions listed. **2** new positions were added today.
 
 ### Viewing Options:
 
@@ -31,6 +29,21 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Red Hat|Software Engineering Intern||Boston, MA|Open✅|01/21/2025|[Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineering-Intern_R-041920)||
+|↳|Software Engineering Intern R-041167||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Closed🔒|09/05/2024|||
+|↳|Software Engineering Intern R-041327||Raleigh, NC|Closed🔒|09/05/2024|||
+|↳|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Closed🔒|09/05/2024|||
+|↳|Technical Analyst Intern||Raleigh, NC|Closed🔒|09/05/2024|||
+|↳|Data Science Intern||Raleigh, NC|Closed🔒|09/05/2024|||
+|Citi|Data Science Summer Analyst, Strategic Advisory Solutions Group|52.08 - 70.31|New York, NY|Open✅|01/21/2025|[Apply Here](https://jobs.citi.com/job/new-york/banking-strategic-advisory-solutions-group-data-science-summer-analyst-new-york-city-us-2026/287/76088054960)||
+|↳|Technology Summer Analyst, Software Development|41.66 - 57.29|New York, NY|Closed🔒|11/16/2024|||
+|↳|Technology Summer Analyst, Cybersecurity|41.66 - 57.29|Tampa, FL|Closed🔒|11/15/2024|||
+|↳|Technology Summer Analyst, Cybersecurity|41.66 - 57.29|Irving, TX|Closed🔒|11/15/2024|||
+|↳|Technology Summer Analyst, Software Development|41.66 - 57.29|Jacksonville, FL|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/jacksonville/technology-software-development-summer-analyst-jacksonville-2025/287/72890203360)||
+|↳|Technology Summer Analyst, Software Development|41.66 - 57.29|Tampa, FL|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/tampa/technology-software-develpoment-summer-analyst-tampa-2025/287/72890201680)||
+|↳|Technology Summer Analyst, Software Development|41.66 - 57.29|Irving, TX|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/irving/technology-software-development-summer-analyst-irving-2025/287/72890201104)||
+|↳|Early ID Program, Technology|41.66 - 57.29|Irving, TX|Closed🔒|11/11/2024|||
+|↳|Early ID Program, Technology|41.66 - 57.29|Tampla, FL|Closed🔒|11/11/2024|||
 |GOBankingRates|Data Quality Intern||Remote|Open✅|01/20/2025|[Apply Here](https://www.gobankingrates.com/careers-job-opening/?gh_jid=4518166005)||
 |Datadog|Software Engineer Intern, SRE|52.08 - 57.29|New York, NY|Open✅|01/20/2025|[Apply Here](https://careers.datadoghq.com/detail/6514971)||
 |↳|Security Engineer Intern|52.08 - 57.29|New York, NY|Open✅|01/20/2025|[Apply Here](https://careers.datadoghq.com/detail/6387880)||
@@ -1187,14 +1200,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Analytics Intern||Remote|Closed🔒|09/10/2024|||
 |↳|Embedded Software Engineer Intern||Pella, IA|Closed🔒|09/10/2024|||
 |↳|IT Software Engineer Intern||Pella, IA|Closed🔒|09/10/2024|||
-|Citi|Technology Summer Analyst, Software Development|41.66 - 57.29|New York, NY|Closed🔒|11/16/2024|||
-|↳|Technology Summer Analyst, Cybersecurity|41.66 - 57.29|Tampa, FL|Closed🔒|11/15/2024|||
-|↳|Technology Summer Analyst, Cybersecurity|41.66 - 57.29|Irving, TX|Closed🔒|11/15/2024|||
-|↳|Technology Summer Analyst, Software Development|41.66 - 57.29|Jacksonville, FL|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/jacksonville/technology-software-development-summer-analyst-jacksonville-2025/287/72890203360)||
-|↳|Technology Summer Analyst, Software Development|41.66 - 57.29|Tampa, FL|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/tampa/technology-software-develpoment-summer-analyst-tampa-2025/287/72890201680)||
-|↳|Technology Summer Analyst, Software Development|41.66 - 57.29|Irving, TX|Open🛂|11/15/2024|[Apply Here](https://jobs.citi.com/job/irving/technology-software-development-summer-analyst-irving-2025/287/72890201104)||
-|↳|Early ID Program, Technology|41.66 - 57.29|Irving, TX|Closed🔒|11/11/2024|||
-|↳|Early ID Program, Technology|41.66 - 57.29|Tampla, FL|Closed🔒|11/11/2024|||
 |Badger Meter|Software Engineering Intern||Milwaukee, WI|Open✅|11/16/2024|[Apply Here](https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_3515)||
 |Arevon|Data Management Intern||Scottsdale, AZ|Closed🔒|11/16/2024|||
 |Rakuten|Software Engineer Intern, AI User Experience||Seattle, WA|Closed🔒|11/16/2024|||
@@ -2769,11 +2774,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Stevens Capital Management|Developer Intern||Radnor, PA|Open✅|09/06/2024|[Apply Here](https://boards.greenhouse.io/scm/jobs/721888?gh_src=9a5dd53e1us)||
 |Demiurge|Engineering Intern||Remote|Closed🔒|09/06/2024|||
 |Slack|Software Engineer Intern|46 - 58|<details><summary>8 locations<br><br><b></summary>San Francisco, CA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Bellevue, WA<br>Dallas, TX<br>Atlanta, GA<br>Indianapolis, IN</details><b>|Closed🔒|09/05/2024|||
-|Red Hat|Software Engineering Intern R-041167||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Closed🔒|09/05/2024|||
-|↳|Software Engineering Intern R-041327||Raleigh, NC|Closed🔒|09/05/2024|||
-|↳|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Closed🔒|09/05/2024|||
-|↳|Technical Analyst Intern||Raleigh, NC|Closed🔒|09/05/2024|||
-|↳|Data Science Intern||Raleigh, NC|Closed🔒|09/05/2024|||
 |EY|Core Business Services - Launch Intern, Technology Track|32.45 - 36.96|<details><summary>11 locations<br><br><b></summary>Denver, CO<br>Atlanta, GA<br>Chicago, IL<br>Boston, MA<br>Charlotte, NC<br>Hoboken, NJ<br>New York, NY<br>Philadelphia, PA<br>Houston, TX<br>McLean, VA<br>Seattle, WA</details><b>|Closed🔒|09/05/2024|||
 |Fortrea|AIML Rapid Development Studio Intern||Remote|Closed🔒|09/05/2024|||
 |↳|IT Intern||Remote|Closed🔒|09/05/2024|||
