@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **2993 (1066 open & 1927 closed)** internship positions listed. **2** new positions were added today.
+There are total of **3024 (1099 open & 1925 closed)** internship positions listed. **32** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,11 +29,50 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Typeface|Software Engineer Intern|40 - 60|<details><summary>2 locations<br><br><b></summary>Palo Alto, CA<br>Seattle, WA</details><b>|Open✅|01/23/2025|[Apply Here](https://boards.greenhouse.io/typeface/jobs/4630685007)||
+|↳|Product Security Intern|40 - 60|<details><summary>2 locations<br><br><b></summary>Palo Alto, CA<br>Seattle, WA</details><b>|Open✅|01/23/2025|[Apply Here](https://boards.greenhouse.io/typeface/jobs/4630757007)||
+|↳|ML Engineer Intern|40 - 60|<details><summary>2 locations<br><br><b></summary>Palo Alto, CA<br>Seattle, WA</details><b>|Open✅|01/23/2025|[Apply Here](https://boards.greenhouse.io/typeface/jobs/4628437007)|Graduate Students Only|
+|↳|Applied AI Research Intern - PhD|40 - 60|<details><summary>2 locations<br><br><b></summary>Palo Alto, CA<br>Seattle, WA</details><b>|Open✅|01/23/2025|[Apply Here](https://boards.greenhouse.io/typeface/jobs/4630050007)||
+|TIFIN|Machine Learning, Engineering Intern, Quant||<details><summary>3 locations<br><br><b></summary>Boulder, CO<br>New York, NY<br>Charlotte, NC</details><b>|Open✅|01/23/2025|[Apply Here](https://tifin.com/careers/apply/?gh_jid=5364468004)||
+|Spotify|Product & Technology Intern||New York, NY|Open✅|01/23/2025|[Apply Here](https://www.lifeatspotify.com/jobs/2025-summer-internship-product-technology-new-york-city)||
+|↳|Content Platform Research Scientist Intern - PhD||New York, NY|Open✅|01/23/2025|[Apply Here](https://www.lifeatspotify.com/jobs/2025-summer-internship-content-platform-research-scientist-phd-nyc)||
+|↳|Research Scientist Intern - PhD||New York, NY|Open✅|01/23/2025|[Apply Here](https://www.lifeatspotify.com/jobs/2025-summer-internship-tech-research-scientist-phd-nyc-2)||
+|↳|Research Scientist Intern, Interdisciplinary - PhD||New York, NY|Open✅|01/23/2025|[Apply Here](https://www.lifeatspotify.com/jobs/2025-summer-internship-tech-research-scientist-phd-nyc)||
+|Samsung Semiconductor|Machine Learning Engineer Intern, VLMs |28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6334297003)|PhD Only|
+|↳|Visualization Engineer Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6320154003)||
+|↳|Machine Learning Engineer Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6331707003)|Graduate Students Only|
+|↳|Machine Learning Research Scientist Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6330312003)||
+|↳|AI Device Research Scientist Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6320932003)|PhD Only|
+|↳|AI/ML Software Engineer Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6320983003)|PhD Only|
+|↳|CXL Deep Memory Research Scientist Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6318080003)|PhD Only|
+|↳|Data Parallel Programming Research Scientist Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6320811003)|PhD Only|
+|↳|Machine Learning Research Scientist Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6321337003)|PhD Only|
+|↳|Memory Solutions Research Engineer Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6321033003)|PhD Only|
+|↳|Storage Systems Research Scientist Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6320867003)|PhD Only|
+|↳|System Software Engineer Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6321162003)||
+|↳|System Software Engineer Intern, CXL|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6335484003)||
+|↳|DRAM Applications Intern|28 - 62|San Jose, CA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6322891003)||
+|↳|Gen AI Engineer Intern|28 - 62|San Jose, CA|Open✅|01/09/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6313867003)||
+|↳|Data Engineer Intern|28 - 62|San Jose, CA|Open✅|01/01/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6309715003)||
+|↳|High Capacity SSD Software Ecosystem Intern|28 - 62|San Jose, CA|Open✅|01/01/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6309707003)||
+|↳|Memory Software Ecosystem Intern|28 - 62|San Jose, CA|Open✅|01/01/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6309703003)||
+|J.B Hunt|Application Development Intern, Engineering & Technology||Lowell, AR|Open✅|01/23/2025|[Apply Here](https://careers.jbhunt.com/jobdescription?JbReqID=00560796)||
+|Insulet|DevOps Engineering Intern|23 - 27.5|San Diego, CA|Open✅|01/23/2025|[Apply Here](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineering--June---August-2025--On-site-_REQ-2025-0002)||
+|↳|R&D Engineering Operations Intern|23 - 27.5|San Diego, CA|Open✅|01/23/2025|[Apply Here](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/San-Diego-California/Intern--R-D-Engineering-Operations--June---August-2025--On-site-_REQ-2025-0001)||
+|Flagship Pioneering|Computational Biology and Machine Learning Intern||Cambridge, MA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/flagshippioneeringinc/jobs/7817937002)||
+|↳|AI Research Scientist Intern||Cambridge, MA|Open✅|01/23/2025|[Apply Here](https://job-boards.greenhouse.io/flagshippioneeringinc/jobs/7706239002)|Graduate Students Only|
+|Gemini|Software Engineering Intern|50|Remote|Open✅|01/23/2025|[Apply Here](https://boards.greenhouse.io/embed/job_app?for=gemini&token=6551575)||
+|ebay|Software Engineering Intern|34 - 53|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>Portland, OR<br>New York, NY<br>Bellevue, WA</details><b>|Open✅|01/23/2025|[Apply Here](https://app.ripplematch.com/v2/public/job/82f324c7/details)||
+|↳|Software Engineering Intern - PhD|62 - 64|San Jose, CA|Open✅|11/13/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/396bd6b0/details?tl=69d93cf4)||
+|↳|Mobile Software Engineer Intern|34 - 44|Portland, OR|Closed🔒|11/06/2024|||
+|↳|Data Science Intern, Analytics|47 - 53|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>Bellevue, WA<br>New York, NY</details><b>|Closed🔒|11/06/2024|||
+|SOLV Energy|OTI Systems/DevOps Intern|20 - 22|San Diego, CA|Open✅|01/23/2025|[Apply Here](https://solvenergy.wd1.myworkdayjobs.com/en-US/SOLV_External_Career/job/San-Diego-CA-Renewable-Group/OTI-Systems-DevOps-Intern_J11055)||
+|↳|Procurement Data Analyst Intern|20 - 22|San Diego, CA|Open✅|01/23/2025|[Apply Here](https://solvenergy.wd1.myworkdayjobs.com/en-US/SOLV_External_Career/job/San-Diego-CA-Renewable-Group/Procurement-Data-Analyst-Intern_J11032)||
 |Red Hat|Software Engineering Intern||Boston, MA|Open✅|01/21/2025|[Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineering-Intern_R-041920)||
 |↳|Software Engineering Intern R-041167||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Closed🔒|09/05/2024|||
-|↳|Software Engineering Intern R-041327||Raleigh, NC|Closed🔒|09/05/2024|||
+|↳|Software Engineering Intern R-041327||Raleigh, NC|Open✅|09/05/2024|[Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Software-Engineering-Intern_R-041327)||
 |↳|Data Engineer Intern||<details><summary>2 locations<br><br><b></summary>Boston, MA<br>Raleigh, NC</details><b>|Closed🔒|09/05/2024|||
-|↳|Technical Analyst Intern||Raleigh, NC|Closed🔒|09/05/2024|||
+|↳|Technical Analyst Intern||Raleigh, NC|Open✅|09/05/2024|[Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Technical-Analyst-Internship_R-041169)||
 |↳|Data Science Intern||Raleigh, NC|Closed🔒|09/05/2024|||
 |Citi|Data Science Summer Analyst, Strategic Advisory Solutions Group|52.08 - 70.31|New York, NY|Open✅|01/21/2025|[Apply Here](https://jobs.citi.com/job/new-york/banking-strategic-advisory-solutions-group-data-science-summer-analyst-new-york-city-us-2026/287/76088054960)||
 |↳|Technology Summer Analyst, Software Development|41.66 - 57.29|New York, NY|Closed🔒|11/16/2024|||
@@ -77,10 +116,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|ITSM Developer Intern||Libertyville, IL|Closed🔒|10/26/2024|||
 |Toast|Software Engineer Intern|38|Boston, MA|Open✅|01/20/2025|[Apply Here](https://careers.toasttab.com/jobs/software-engineer-intern-summer-2025-boston-massachusetts-united-states)||
 |Xylem|Data Analytics Intern|24.37 - 39.01|Irvine, CA|Open✅|01/20/2025|[Apply Here](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Irvine-California/Data-Analytics-Intern_R39652)||
-|Findhelp|Software Engineer Summer Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Madison, WI</details><b>|Open✅|01/20/2025|[Apply Here](https://findhelp.com/careers/software-engineer-intern)||
+|Findhelp|Software Engineer Summer Intern||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Madison, WI</details><b>|Open🛂|01/20/2025|[Apply Here](https://findhelp.com/careers/software-engineer-intern)||
 |Chipotle|IT Delivery Intern|24.04 - 30.54|Columbus, OH|Open✅|01/20/2025|[Apply Here](https://jobs.chipotle.com/job/columbus/it-delivery-internship/282/76152241888)||
 |↳|IT Personalization Intern|27.4 - 35.34|Newport Beach, CA|Open✅|01/20/2025|[Apply Here](https://jobs.chipotle.com/job/newport-beach/it-personalization-internship/282/76152225792)||
-|↳|Junior Software Developer Intern|27.4 - 35.34|Newport Beach, CA|Open✅|01/20/2025|[Apply Here](https://jobs.chipotle.com/job/newport-beach/junior-software-developer-internship/282/76152164448)||
+|↳|Junior Software Developer Intern|27.4 - 35.34|Newport Beach, CA|Closed🔒|01/20/2025|||
 |Motorola Solutions|Android Applications Developer Intern||Chicago, IL|Open✅|01/20/2025|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2025_R53167)|Sponsorship is only available to Graduate Students|
 |↳|Software Developer Intern, Systems & Solutions||Chicago, IL|Closed🔒|12/12/2024|||
 |↳|Supply Chain Data Analyst Intern||Chicago, IL|Closed🔒|11/23/2024|||
@@ -398,10 +437,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Samsara|Software Engineering Intern|35.63 - 52.4|San Francisco, CA|Open✅|01/09/2025|[Apply Here](https://www.samsara.com/company/careers/roles/6295077)||
 |↳|Operations Data Analyst Co-Op|27.42 - 41.48|Remote|Open✅|01/09/2025|[Apply Here](https://www.samsara.com/company/careers/roles/6440097)|This is a 6-month co-op|
 |↳|Automation Engineer Intern|38.41 - 45.19|Remote|Closed🔒|10/03/2024|||
-|Samsung Semiconductor|Gen AI Engineer Intern|28 - 62|San Jose, CA|Open✅|01/09/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6313867003)||
-|↳|Data Engineer Intern|28 - 62|San Jose, CA|Open✅|01/01/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6309715003)||
-|↳|High Capacity SSD Software Ecosystem Intern|28 - 62|San Jose, CA|Open✅|01/01/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6309707003)||
-|↳|Memory Software Ecosystem Intern|28 - 62|San Jose, CA|Open✅|01/01/2025|[Apply Here](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6309703003)||
 |OPENLANE|Software Engineer Intern||<details><summary>2 locations<br><br><b></summary>Mesa, AZ<br>Remote</details><b>|Closed🔒|01/09/2025|||
 |Lenovo|Data Science Intern||Morrisville, NC|Open✅|01/09/2025|[Apply Here](https://jobs.lenovo.com/en_US/careers/JobDetail/Data-Science-Intern/63353)||
 |↳|Data Scientist Intern||Morrisville, NC|Closed🔒|09/27/2024|||
@@ -1390,10 +1425,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Development Engineer Intern, Test|40.62 - 59.37|Foster City, CA|Closed🔒|09/29/2024|||
 |↳|Test Automation Engineer Intern|40.62 - 59.37|Foster City, CA|Closed🔒|09/29/2024|||
 |↳|Enterprise Data Governance Intern|40.62 - 59.37|Foster City, CA|Open✅|09/29/2024|[Apply Here](https://zoox.com/careers/e3119088-e245-4592-ba5e-4436e26a2a23)||
-|ebay|Software Engineering Intern - PhD|62 - 64|San Jose, CA|Open✅|11/13/2024|[Apply Here](https://app.ripplematch.com/v2/public/job/396bd6b0/details?tl=69d93cf4)||
-|↳|Mobile Software Engineer Intern|34 - 44|Portland, OR|Closed🔒|11/06/2024|||
-|↳|Data Science Intern, Analytics|47 - 53|<details><summary>3 locations<br><br><b></summary>San Jose, CA<br>Bellevue, WA<br>New York, NY</details><b>|Closed🔒|11/06/2024|||
-|↳|Software Engineering Intern|34 - 53|<details><summary>4 locations<br><br><b></summary>San Jose, CA<br>Portland, OR<br>Bellevue, WA<br>New York, NY</details><b>|Closed🔒|10/16/2024|||
 |JM Family|Software Engineering Intern||Deerfield Beach, FL|Closed🔒|11/13/2024|||
 |↳|Data Analyst Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
 |↳|Data Analytics Intern||Deerfield Beach, FL|Closed🔒|10/26/2024|||
