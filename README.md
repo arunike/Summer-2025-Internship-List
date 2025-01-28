@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3057 (1126 open & 1931 closed)** internship positions listed. **15** new positions were added today.
+There are total of **3064 (1135 open & 1929 closed)** internship positions listed. **10** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,10 +29,26 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Randolph-Brooks Federal Credit Union|IT Web Intern, Angular|20|San Antonio, TX|Open✅|01/28/2025|[Apply Here](https://rbfcu.wd5.myworkdayjobs.com/en-US/RBFCUCareers/job/San-Antonio-Texas-Area/IT-Web-College-Intern---Angular_013780-1)||
+|↳|IT Audit/Data Analytics Intern|20|San Antonio, TX|Open✅|01/28/2025|[Apply Here](https://rbfcu.wd5.myworkdayjobs.com/en-US/RBFCUCareers/job/San-Antonio-Texas-Area/Audit-College-Intern_013744-1)||
+|↳|Mortgage Technology Intern|20|San Antonio, TX|Open✅|01/28/2025|[Apply Here](https://rbfcu.wd5.myworkdayjobs.com/en-US/RBFCUCareers/job/San-Antonio-Texas-Area/Mortgage-Technology-College-Intern_013767-1)||
+|Fujitsu|Software Development Intern||Richardson, TX|Open✅|01/28/2025|[Apply Here](https://jobs.fnc.fujitsu.com/job/Richardson-Software-Development-Intern-TX-75082/1223628700/)||
+|Point72|Technology Intern, Software Engineer|65.1|New York, NY|Open✅|01/28/2025|[Apply Here](https://careers.point72.com/CSJobDetail?jobName=2025-technology-internship-software-engineer&jobCode=IVS-0012690)||
+|↳|Quantitative Researcher Intern|125 - 156.25|New York, NY|Open✅|01/28/2025|[Apply Here](https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-researcher-internship&jobCode=CSS-0012295)|PhD Only|
+|↳|Data Analyst Intern|52|New York, NY|Closed🔒|09/19/2024|||
+|↳|Data Engineer Intern, Proprietary Research|67.7 - 80.72|New York, NY|Closed🔒|08/19/2024|||
+|↳|Data Scientist Intern, Proprietary Research|65.1 - 78.12|New York, NY|Closed🔒|08/19/2024|||
+|↳|Quantitative Developer Intern|125 - 156|New York, NY|Open✅|05/23/2024|[Apply Here](https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293)||
+|Workiva|Software Engineering Intern|40|Remote|Open✅|01/28/2025|[Apply Here](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/XMLNAME-2025-Summer-Intern---Software-Engineering_R9770)||
+|↳|Data Engineering Intern|40|Devner, CO|Closed🔒|08/30/2024|||
+|↳|Machine Learning Engineering Intern|40|Remote|Closed🔒|08/23/2024|||
+|↳|Data Science Intern|40|Remote|Closed🔒|08/23/2024|||
+|Energy Solutions|Software Engineering Intern||Remote|Open✅|01/28/2025|[Apply Here](https://job-boards.greenhouse.io/energysolutions/jobs/4618927007)||
+|Addepar|Software Engineer Intern, Analysis Workflow|34 - 53|Remote|Open✅|01/28/2025|[Apply Here](https://boards.greenhouse.io/addepar1/jobs/7802318002)||
+|↳|Software Engineer Intern, Research|34 - 53|Remote|Open✅|01/28/2025|[Apply Here](https://boards.greenhouse.io/addepar1/jobs/7830853002)||
 |Verily|Software Engineering Intern, Personal Health Records|47.6 - 55.77|Boston, MA|Open✅|01/27/2025|[Apply Here](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Boston-Massachusetts/Software-Engineering-Intern--Personal-Health-Records_REQ-99)||
 |↳|Data Scientist Evaluation Intern|45.67 - 53.85|<details><summary>3 locations<br><br><b></summary>San Bruno, CA<br>San Francisco, CA<br>Mountain View, CA</details><b>|Open✅|01/27/2025|[Apply Here](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/San-Bruno-California/Data-Scientist-Evaluation-Intern_REQ-21)||
 |Texas Comptroller of Public Accounts|Programmer Analyst Summer Intern, Comptoller||Austin, TX|Open✅|01/27/2025|[Apply Here](https://capps.taleo.net/careersection/ex/jobdetail.ftl?job=00047600)||
-|Fujitsu|Software Development Intern||Richardson, TX|Open✅|01/27/2025|[Apply Here](https://fujitsu.referrals.selectminds.com/jobs/software-engineering-intern-summer-2025-10807)||
 |AppFolio|Software Engineer Intern|40 - 48|<details><summary>2 locations<br><br><b></summary>Santa Barbara, CA<br>San Diego, CA</details><b>|Open✅|01/27/2025|[Apply Here](https://www.appfolio.com/open-roles?p=job%2FoXljvfwQ&__jvst=Job%20Posting)||
 |Motorola Solutions|Software Engineering Intern, JavaScript/Node.js||Remote|Open✅|01/27/2025|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/California-Southern-Remote-Work/Software-Engineering-Intern--JavaScript-Nodejs----2025-Summer-Internship_R53314)||
 |↳|Android Applications Developer Intern||Chicago, IL|Open✅|01/20/2025|[Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2025_R53167)|Sponsorship is only available to Graduate Students|
@@ -2241,11 +2257,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Textron Systems|Software Engineer Intern, Weapons||Wilmington, MA|Closed🔒|10/04/2024|||
 |↳|Information Technology Intern||New Orleans, LA|Open✅|09/02/2024|[Apply Here](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?src=SNS-102&job=1384906)||
 |↳|Information Technology Intern||Hunt Valley, MD|Closed🔒|09/02/2024|||
-|Point72|Technolog Intern, Software Engineer||New York, NY|Closed🔒|10/04/2024|||
-|↳|Data Analyst Intern|52|New York, NY|Closed🔒|09/19/2024|||
-|↳|Data Engineer Intern, Proprietary Research|67.7 - 80.72|New York, NY|Closed🔒|08/19/2024|||
-|↳|Data Scientist Intern, Proprietary Research|65.1 - 78.12|New York, NY|Closed🔒|08/19/2024|||
-|↳|Quantitative Developer Intern|125 - 156|New York, NY|Open✅|05/23/2024|[Apply Here](https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293)||
 |Trane Technologies|Software Development Engineering Intern||La Crosse, WI|Closed🔒|10/03/2024|||
 |↳|Software Engineering Intern||La Crosse, WI|Closed🔒|09/12/2024|||
 |↳|Information Technology Intern|23 - 32.24|Davidson, NC|Closed🔒|09/05/2024|||
@@ -2908,10 +2919,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Zip|Software Engineer Intern|68.75|San Francisco, CA|Closed🔒|08/31/2024|||
 |CNA Insurance|Technology Intern, Engineering||Chicago, IL|Closed🔒|08/31/2024|||
 |Societe Generale|Software Devloper Summer Analyst|44.27|New York, NY|Closed🔒|08/31/2024|||
-|Workiva|Data Engineering Intern|40|Devner, CO|Closed🔒|08/30/2024|||
-|↳|Machine Learning Engineering Intern|40|Remote|Closed🔒|08/23/2024|||
-|↳|Data Science Intern|40|Remote|Closed🔒|08/23/2024|||
-|↳|Software Engineer Intern|40|Remote|Closed🔒|08/23/2024|||
 |JP Morgan|Immersive Technology Summer Associate, Computer Graphics/3D/AR/VR|70.31 - 80.72|<details><summary>2 locations<br><br><b></summary>New York, NY<br>Jersey City, NJ</details><b>|Open✅|08/30/2024|[Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210548057?utm_medium=jobboard&utm_campaign=Default%20Campaign&utm_content=2025%20Immersive%20Technology%20(Computer%20Graphics/3D/AR/VR)%20Summer%20Associate&utm_term=210548057)||
 |↳|IoT/Ubicomp Summer Associate|70.31 - 80.72|<details><summary>2 locations<br><br><b></summary>New York, NY<br>Jersey City, NJ</details><b>|Open✅|08/29/2024|[Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210548060?utm_medium=jobboard&utm_campaign=Default%20Campaign&utm_content=2025%20IoT/Ubicomp%20Summer%20Associate&utm_term=210548060)|Graduate Students Only|
 |↳|Software Engineer Intern||<details><summary>12 locations<br><br><b></summary>Atlanta, GA<br>Austin, TX<br>Chicago, IL<br>Columbus, OH<br>Houston, TX<br>Jersey City, NJ<br>New York, NY<br>Palo Alto, CA<br>Plano, TX<br>Seattle, WA<br>Tampa, FL<br>Wilmington, DE</details><b>|Closed🔒|07/01/2024|||
