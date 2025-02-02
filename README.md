@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3125 (1195 open & 1930 closed)** internship positions listed. **41** new positions were added today.
+There are total of **3140 (1210 open & 1930 closed)** internship positions listed. **15** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,28 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Mercedes-Benz Research & Development North America|Programming Accelerators Intern, Embedded Systems|28 - 32|Sunnyvale, CA|Open✅|02/02/2025|[Apply Here](https://jobs.lever.co/MBRDNA/0965cb64-3489-42a1-b691-16306b36094f)||
+|Prudential Financial|Fixed Income Sophomore Externship Program, Technology Solutions Group||Newark, NJ|Open🛂|02/02/2025|[Apply Here](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2025-Fixed-Income--Sophomore-Externship-Program--Technology-Solutions-Group-_R-120036-1)||
+|↳|Coding and Software Development Intern|36 - 38|Newark, NJ|Open🛂|01/31/2025|[Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2025-Investments--Coding-and-Software-Development-Internship-Program_R-120027-1)||
+|↳|Technology & Data, Software Engineering Intern|36 - 38|Newark, NJ|Open🛂|01/31/2025|[Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2025-Technology---Data--Software-Engineering-Internship-Program_R-119963)||
+|↳|Technology & Data, Software Engineering Intern|36 - 38|Newark, NJ|Closed🔒|08/02/2024|||
+|Hunter Industries|Software QA Engineer Intern|25|San Marcos, CA|Open✅|02/02/2025|[Apply Here](https://recruiting2.ultipro.com/HUN1007HUIND/JobBoard/9d4c9b3a-f0e0-45f2-8b3c-5fb03c6eb7f5/OpportunityDetail?opportunityId=26761847-9eeb-4f5d-92e9-7b04d6492a26)||
+|↳|Software Engineer Intern|25|San Marcos, CA|Open✅|02/02/2025|[Apply Here](https://recruiting2.ultipro.com/HUN1007HUIND/JobBoard/9d4c9b3a-f0e0-45f2-8b3c-5fb03c6eb7f5/OpportunityDetail?opportunityId=e43d22fd-e854-4a73-b8c2-f8222e084ef0)||
+|↳|SEO & Data Analyst Intern|25|San Marcos, CA|Open✅|02/02/2025|[Apply Here](https://recruiting2.ultipro.com/HUN1007HUIND/JobBoard/9d4c9b3a-f0e0-45f2-8b3c-5fb03c6eb7f5/OpportunityDetail?opportunityId=4004b9e6-2741-4322-9eca-e44f1a029abe)||
+|CAES|Software Engineering Intern|30 - 35|San Jose, CA|Open✅|02/02/2025|[Apply Here](https://careers.caes.com/careers-home/jobs/7741)||
+|The Baldwin Group|Technology Intern, Westwood Insurance Agency|25|Woodland Hills, CA|Open✅|02/02/2025|[Apply Here](https://baldwinriskpartners.wd1.myworkdayjobs.com/en-US/BRP/job/Woodland-Hills-California-US/Technology-Intern---Westwood-Insurance-Agency_JR107279-1?q=internship)||
+|Box|Software Engineer Intern|45|Redwood City, CA|Open✅|02/02/2025|[Apply Here](https://box.eightfold.ai/careers/job/584142642674)||
+|PROS Holdings|Software Engineer Intern||Houston, TX|Open✅|02/02/2025|[Apply Here](https://pros.wd5.myworkdayjobs.com/en-US/PROS_Careers/job/XMLNAME-2025-Summer-Intern---Software-Engineer_R3231)||
+|JLL|Software Engineering Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>New York, NY</details><b>|Open🛂|02/02/2025|[Apply Here](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Software-Engineering-Summer-2025-Internship---New-York--NY_REQ408220-1)||
+|↳|Data Center Intern||New York, NY|Open🛂|01/14/2025|[Apply Here](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/New-York-NY/Data-Center-Summer-2025-Internship_REQ404016)||
+|↳|Mobile Engineering Services Intern||<details><summary>2 locations<br><br><b></summary>Phoenix, AZ<br>Remote</details><b>|Open🛂|01/14/2025|[Apply Here](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Phoenix-AZ/Mobile-Engineering-Services-Summer-2025-Internship---Remote--Arizona-_REQ403666)||
+|↳|Data Analysis Intern||Chicago, IL|Open🛂|01/14/2025|[Apply Here](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Data-Analysis-Summer-2025-Internship---Chicago--IL_REQ402725)||
+|↳|Technology Solutions Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>New York, NY</details><b>|Open🛂|01/14/2025|[Apply Here](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Technology-Solutions-Summer-2025-Internship---Chicago--IL-or-New-York--NY_REQ402732)||
+|SGNL|Software Engineering Intern||Remote|Open✅|02/02/2025|[Apply Here](https://sgnl.ai/careers/?gh_jid=4524131005)||
+|Modern Treasury|Software Engineer Intern|52.88|San Francisco, CA|Open✅|02/02/2025|[Apply Here](https://jobs.ashbyhq.com/moderntreasury/86d9109c-cc0a-4f1f-a1ba-46b73195cb56)||
+|Together AI|Engineering Intern||San Francisco, CA|Open✅|02/02/2025|[Apply Here](https://job-boards.greenhouse.io/togetherai/jobs/4555193007)||
+|↳|Research Intern||San Francisco, CA|Open✅|02/02/2025|[Apply Here](https://job-boards.greenhouse.io/togetherai/jobs/4523387007)||
+|QuantCo|Deep Learning Engineer Intern, Medical Imaging||New York, NY|Open✅|02/02/2025|[Apply Here](https://jobs.lever.co/quantco-/91732d59-8a88-479d-beb8-8464ad600d15)|Graduate Students Only|
 |BambooHR|AI Engineering/Data Science Intern||Lindon, UT|Open✅|01/31/2025|[Apply Here](https://www.bamboohr.com/careers/application?gh_jid=5417968004)||
 |↳|Software Developer Intern||Lindon, UT|Open✅|01/31/2025|[Apply Here](https://www.bamboohr.com/careers/application?gh_jid=5425276004)||
 |↳|Website Intern||Lindon, UT|Open✅|01/31/2025|[Apply Here](https://www.bamboohr.com/careers/application?gh_jid=5416217004)||
@@ -75,9 +97,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Space Ops Software Engineer Intern, Traffic Coordination System for Space|21.44 - 37.55|Colorado Springs, CO|Open🇺🇸|12/18/2024|[Apply Here](https://jobs.parsons.com/jobs/space-ops-software-engineer-intern-summer-2025-colorado-springs-r-160740-jobs--internship-program--)||
 |↳|Space Ops Software Engineer Intern, DoD Research and Development|21.44 - 37.55|Colorado Springs, CO|Open🇺🇸|11/19/2024|[Apply Here](https://jobs.parsons.com/jobs/space-ops-software-engineer-intern-summer-2025-colorado-springs-r-160748-jobs--internship-program--)||
 |↳|Software Developer Intern|21.44 - 37.55|<details><summary>2 locations<br><br><b></summary>Denver, CO<br>Colorado Springs, CO</details><b>|Closed🔒|10/07/2024|||
-|Prudential Financial|Coding and Software Development Intern|36 - 38|Newark, NJ|Open🛂|01/31/2025|[Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2025-Investments--Coding-and-Software-Development-Internship-Program_R-120027-1)||
-|↳|Technology & Data, Software Engineering Intern|36 - 38|Newark, NJ|Open🛂|01/31/2025|[Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2025-Technology---Data--Software-Engineering-Internship-Program_R-119963)||
-|↳|Technology & Data, Software Engineering Intern|36 - 38|Newark, NJ|Closed🔒|08/02/2024|||
 |webAI|Machine Learning Engineer Intern||Austin, TX|Open✅|01/31/2025|[Apply Here](https://job-boards.greenhouse.io/webai/jobs/4634778007)||
 |↳|Software Engineer Intern||Austin, TX|Open✅|01/31/2025|[Apply Here](https://job-boards.greenhouse.io/webai/jobs/4634751007)||
 |Ameriprise Financial|Technology Intern||Minneapolis, MN|Open✅|01/31/2025|[Apply Here](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Technology-Intern_R24_0000002803)||
@@ -586,10 +605,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Analyst Intern, Fixed Income Markets|30|New York, NY|Open✅|11/10/2024|[Apply Here](https://careers.ice.com/jobs/9290)||
 |↳|Infrastructure Development & Automation Intern||<details><summary>2 locations<br><br><b></summary>Atlanta, GA<br>Jacksonville, FL</details><b>|Closed🔒|11/10/2024|||
 |↳|Developer Intern, Risk Solutions||Atlanta, GA|Open✅|11/10/2024|[Apply Here](https://careers.ice.com/jobs/9255)||
-|JLL|Data Center Intern||New York, NY|Open🛂|01/14/2025|[Apply Here](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/New-York-NY/Data-Center-Summer-2025-Internship_REQ404016)||
-|↳|Mobile Engineering Services Intern||<details><summary>2 locations<br><br><b></summary>Phoenix, AZ<br>Remote</details><b>|Open🛂|01/14/2025|[Apply Here](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Phoenix-AZ/Mobile-Engineering-Services-Summer-2025-Internship---Remote--Arizona-_REQ403666)||
-|↳|Data Analysis Intern||Chicago, IL|Open🛂|01/14/2025|[Apply Here](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Data-Analysis-Summer-2025-Internship---Chicago--IL_REQ402725)||
-|↳|Technology Solutions Intern||<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>New York, NY</details><b>|Open🛂|01/14/2025|[Apply Here](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Technology-Solutions-Summer-2025-Internship---Chicago--IL-or-New-York--NY_REQ402732)||
 |OCLC|Software Engineer Intern||Dublin, OH|Open✅|01/14/2025|[Apply Here](https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Software-Engineer-Intern_R0003466)||
 |↳|Test Engineer Intern||Dublin, OH|Open✅|01/14/2025|[Apply Here](https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Test-Engineer-Intern_R0003438)||
 |↳|Information Security Intern||Dublin, OH|Closed🔒|11/20/2024|||
