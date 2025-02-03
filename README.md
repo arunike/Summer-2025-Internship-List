@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3139 (745 open & 2394 closed)** internship positions listed. **0** new positions were added today.
+There are total of **3146 (752 open & 2394 closed)** internship positions listed. **7** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|RedPeg|Creative Technologist Intern|15 - 16.5|Alexandria, VA|Open✅|02/03/2025|[Apply Here](https://redpeg.applytojob.com/apply/bG2lvvHUuA/2025-Summer-Internship-Creative-Technologist)||
+|Persistent Systems|Embedded Software Engineer Intern|25 - 30|New York, NY|Open✅|02/03/2025|[Apply Here](https://careers-persistentsystems.icims.com/jobs/1999/intern---embedded-software-engineer-%28summer-2025%29/job)||
+|↳|Software Test Engineer Intern|25 - 30|New York, NY|Open✅|02/03/2025|[Apply Here](https://careers-persistentsystems.icims.com/jobs/2000/intern---software-test-engineer-%28summer-2025%29/job)||
+|Magna|Research Engineer Intern, Full Stack||Troy, MI|Open✅|02/03/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Research-Engineer-Intern---Full-Stack_R00168497)||
+|Hastings Insurance|IT Infrastructure Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Hasting, MI</details><b>|Open✅|02/03/2025|[Apply Here](https://recruiting.ultipro.com/HAS1004HMIC/JobBoard/db515d06-6363-4b1d-ba96-ee65007fea9b/OpportunityDetail?opportunityId=e927190e-792b-4a26-a0b6-73615bc855d8)||
+|↳|Application Development Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Hasting, MI</details><b>|Open✅|02/03/2025|[Apply Here](https://recruiting.ultipro.com/HAS1004HMIC/JobBoard/db515d06-6363-4b1d-ba96-ee65007fea9b/OpportunityDetail?opportunityId=8d280a04-e3a5-4882-810f-3ac8e95c201a)||
+|↳|Data & Business Intelligence Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Hasting, MI</details><b>|Open✅|02/03/2025|[Apply Here](https://recruiting.ultipro.com/HAS1004HMIC/JobBoard/db515d06-6363-4b1d-ba96-ee65007fea9b/OpportunityDetail?opportunityId=7915738b-dffd-47e2-b0fc-c4d9e2a367bd)||
 |Mercedes-Benz Research & Development North America|Programming Accelerators Intern, Embedded Systems|28 - 32|Sunnyvale, CA|Open✅|02/02/2025|[Apply Here](https://jobs.lever.co/MBRDNA/0965cb64-3489-42a1-b691-16306b36094f)||
 |Prudential Financial|Fixed Income Sophomore Externship Program, Technology Solutions Group||Newark, NJ|Open🛂|02/02/2025|[Apply Here](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2025-Fixed-Income--Sophomore-Externship-Program--Technology-Solutions-Group-_R-120036-1)||
 |↳|Coding and Software Development Intern|36 - 38|Newark, NJ|Open🛂|01/31/2025|[Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2025-Investments--Coding-and-Software-Development-Internship-Program_R-120027-1)||
