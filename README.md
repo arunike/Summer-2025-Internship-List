@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3202 (808 open & 2394 closed)** internship positions listed. **57** new positions were added today.
+There are total of **3203 (809 open & 2394 closed)** internship positions listed. **1** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Advanced Purification Engineering Corp|Web Developer Intern||City of Industry, CA|Open✅|02/09/2025|[Apply Here](https://recruiting2.ultipro.com/CUL1000CULL2/JobBoard/13980c6a-67fd-46e3-9ea5-6e47f7ee324a/OpportunityDetail?opportunityId=2681e1ad-b37a-4f07-86d1-1070f2e7d904)||
 |Kargo|Data Analytics Intern|20|New York, NY|Open✅|02/08/2025|[Apply Here](https://www.kargo.com/careers?gh_jid=4639909007)||
 |↳|Machine Learning Intern|20|New York, NY|Open✅|02/08/2025|[Apply Here](https://www.kargo.com/careers?gh_jid=4640621007)||
 |↳|Software Engineering Intern|20|New York, NY|Open✅|02/08/2025|[Apply Here](https://www.kargo.com/careers?gh_jid=4640097007)||

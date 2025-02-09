@@ -4,7 +4,7 @@ This page provides a breakdown of internship opportunities by state. The table b
 
 ## Internship Positions
 
-There are a total of **53** (including remote and unknown) states listed. **57** new positions were added today.
+There are a total of **53** (including remote and unknown) states listed. **1** new positions were added today.
 
 ### Viewing Options:
 If you prefer to view the positions sorted by statuses, check out the [Internship Opportunities by Status](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_status.md) page.
@@ -184,9 +184,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Deloitte           | Software Engineering Summer Scholar                                            |                  | Closed🔒 | 08/05/2024   | Tempe, AZ      |                                                                                                                                                                 |
 
 ## Jobs in CA
-### Number of positions: 837 (Open: 276, Closed: 561)
+### Number of positions: 838 (Open: 277, Closed: 561)
 | Company                                            | Job Title                                                                                            | Hourly Pay ($)   | Status   | Date Added   | Location                | Application Link                                                                                                                                                                        |
 |:---------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Advanced Purification Engineering Corp             | Web Developer Intern                                                                                 |                  | Open✅   | 02/09/2025   | City of Industry, CA    | [Apply Here](https://recruiting2.ultipro.com/CUL1000CULL2/JobBoard/13980c6a-67fd-46e3-9ea5-6e47f7ee324a/OpportunityDetail?opportunityId=2681e1ad-b37a-4f07-86d1-1070f2e7d904)           |
 | Ambry Genetics                                     | Software Engineering Intern - Graduate                                                               | 30               | Open✅   | 02/08/2025   | Aliso Viejo, CA         | [Apply Here](https://recruiting.ultipro.com/AMB1001AMGEN/JobBoard/bcdd10b1-192e-e264-1203-f18eb6dd40c1/OpportunityDetail?opportunityId=35cf545b-998b-4f12-8a50-4a258b1d04b1)            |
 | AppLovin                                           | Software Engineering Intern                                                                          | 70               | Open✅   | 02/08/2025   | Palo Alto, CA           | [Apply Here](https://boards.greenhouse.io/applovin/jobs/4406605006)                                                                                                                     |
 | Avathon                                            | Software Engineer I Intern                                                                           |                  | Open✅   | 02/08/2025   | Pleasanton, CA          | [Apply Here](https://avathon.com/company/careers-job-listing/?gh_jid=4414054005)                                                                                                        |
