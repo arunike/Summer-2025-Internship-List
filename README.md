@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3203 (809 open & 2394 closed)** internship positions listed. **1** new positions were added today.
+There are total of **3227 (832 open & 2395 closed)** internship positions listed. **24** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,12 +29,39 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Vimeo|Frontend Platform Intern|30 - 35|New York, NY|Open✅|02/12/2025|[Apply Here](https://job-boards.greenhouse.io/vimeo/jobs/6608281)||
+|↳|Software Engineering Intern, Platform|30 - 35|New York, NY|Open✅|02/12/2025|[Apply Here](https://job-boards.greenhouse.io/vimeo/jobs/6608213)||
+|↳|Software Engineer Intern, Library|30 - 35|New York, NY|Open✅|02/12/2025|[Apply Here](https://job-boards.greenhouse.io/vimeo/jobs/6605783)||
+|↳|Software Engineer Intern, Viewer Home|30 - 35|New York, NY|Open✅|02/12/2025|[Apply Here](https://job-boards.greenhouse.io/vimeo/jobs/6605119)||
+|↳|Video Playback Engineering Intern|30 - 35|New York, NY|Open✅|02/12/2025|[Apply Here](https://job-boards.greenhouse.io/vimeo/jobs/6608182)||
+|Okta|Software Engineer Intern, Salesforce||San Francisco, CA|Open✅|02/12/2025|[Apply Here](https://app.ripplematch.com/v2/public/job/44cc4ef7/details?tl=63ca4dda7)||
+|↳|Software Engineer Intern|||Closed🔒|09/07/2024|||
+|↳|Machine Learning Engineer Intern|||Closed🔒|09/07/2024|||
+|Werfen|IT Intern||Bedford, MAA|Open✅|02/12/2025|[Apply Here](https://careers-werfen.icims.com/jobs/8269/it-intern/job)||
+|↳|Data Analyst Intern||Bedford, MAA|Open✅|02/12/2025|[Apply Here](https://careers-werfen.icims.com/jobs/8263/data-analyst-intern/job)||
+|↳|Software Engineering Intern||Bedford, MAA|Open✅|02/12/2025|[Apply Here](https://careers-werfen.icims.com/jobs/8321/software-engineering-intern/job)||
+|Waters Corporation|Software Engineering Intern||New Castle, DE|Open✅|02/12/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21472/intern%2c-software-engineering/job)||
+|↳|Cloud Engineer Intern||Milford, MA|Open✅|02/12/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21583/intern%2c-cloud-engineer/job)||
+|↳|Digital Experience Developer Intern||Milford, MA|Open✅|02/12/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21603/intern%2c-generative-ai-%26-machine-learning/job)||
+|↳|Software Development Intern||Milford, MA|Open✅|02/12/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21595/intern%2c-software-development/job)||
+|↳|Salesforce AI Research Intern||Milford, MA|Open✅|02/12/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21633/intern%2c-salesforce-ai-research/job)||
+|↳|Generative AI and Machine Learning Intern||Milford, MA|Open✅|02/12/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21948/intern%2c-generative-ai-and-machine-learning/job)||
+|↳|Data AnalyticsIntern||Milford, MA|Open✅|02/12/2025|[Apply Here](https://uscareers-waters.icims.com/jobs/21966/intern%2c-data-analytics/job)||
+|Tatari|Software Engineer Intern, Backend|36.45 - 46.87|San Francisco, CA|Open✅|02/12/2025|[Apply Here](https://www.tatari.tv/careers/job-posting?gh_jid=7858825002)||
+|↳|Software Engineer Intern, Backend|36.45 - 46.87|New York, NY|Open✅|02/12/2025|[Apply Here](https://www.tatari.tv/careers/job-posting?gh_jid=7858826002)||
+|↳|Software Engineer Intern, Backend|36.45 - 46.87|Los Angeles, CA|Open✅|02/12/2025|[Apply Here](https://www.tatari.tv/careers/job-posting?gh_jid=7858827002)||
+|Raptor Maps|Software Engineering Intern||Boston, MA|Open✅|02/12/2025|[Apply Here](https://jobs.lever.co/RaptorMaps/0aef0674-977a-4d3a-a27f-0fe369b744e3)||
+|Lamini|Machine Learning Engineering Intern||Menlo Park, CA|Open✅|02/12/2025|[Apply Here](https://jobs.lever.co/laminiai/03b01dd3-62d1-42ba-8453-0c090a1a6791)||
+|BD|R&D Intern, Software Engineering||San Diego, CA|Open✅|02/12/2025|[Apply Here](https://jobs.bd.com/job/san-diego/summer-intern-r-and-d-intern-software-engineering-hybrid/159/77258735472)||
+|↳|Edge Intern, Technology & Global Services||Franklin Lakes, NJ|Closed🔒|12/11/2024|||
+|Stonebranch|Software Engineer Intern, C||Alpharetta, GA|Open✅|02/12/2025|[Apply Here](https://stonebranch.bamboohr.com/careers/346)||
+|Weber Shandwick|Data Engineering Intern|20|Washington, D.C.|Open✅|02/12/2025|[Apply Here](https://webershandwick.com/work-at-weber/careers?gh_jid=7842831002)||
+|↳|Data Science Intern|20|Washington, D.C.|Closed🔒|02/08/2025|||
 |Advanced Purification Engineering Corp|Web Developer Intern||City of Industry, CA|Open✅|02/09/2025|[Apply Here](https://recruiting2.ultipro.com/CUL1000CULL2/JobBoard/13980c6a-67fd-46e3-9ea5-6e47f7ee324a/OpportunityDetail?opportunityId=2681e1ad-b37a-4f07-86d1-1070f2e7d904)||
 |Kargo|Data Analytics Intern|20|New York, NY|Open✅|02/08/2025|[Apply Here](https://www.kargo.com/careers?gh_jid=4639909007)||
 |↳|Machine Learning Intern|20|New York, NY|Open✅|02/08/2025|[Apply Here](https://www.kargo.com/careers?gh_jid=4640621007)||
 |↳|Software Engineering Intern|20|New York, NY|Open✅|02/08/2025|[Apply Here](https://www.kargo.com/careers?gh_jid=4640097007)||
 |Cepheid|Software Engineer Intern|30|Sunnyvale, CA|Open✅|02/08/2025|[Apply Here](https://jobs.danaher.com/global/en/job/DANAGLOBALR1281972EXTERNALENGLOBAL/Software-Engineering-Intern)||
-|Weber Shandwick|Data Science Intern|20|Washington, D.C.|Open✅|02/08/2025|[Apply Here](https://webershandwick.com/work-at-weber/careers)||
 |SoFi|Data Scientist Intern, Borrow|40 - 50|San Francisco, CA|Open🛂|02/08/2025|[Apply Here](https://www.sofi.com/careers/sofi-university)||
 |Viant|Engineering Intern, Corp IT|25|Irvine, CA|Open✅|02/08/2025|[Apply Here](https://jobs.lever.co/viantinc/ee308817-86a9-45aa-8a63-840f0c0d4873)||
 |Comcast Spectacor|Software Engineering Intern||Philadelphia, PA|Open✅|02/08/2025|[Apply Here](https://comcast-spectacor.teamworkonline.com/teamwork/r.cfm?i=158366)||
@@ -1160,7 +1187,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Artificial Intelligence and Deep Learning Intern|18 - 71|<details><summary>2 locations<br><br><b></summary>Santa Clara, CA<br>Remote</details><b>|Open✅|08/29/2024|[Apply Here](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Artificial-Intelligence-and-Deep-Learning_JR1986536)||
 |GitHub|Software Engineer Intern|32.16 - 85.38|Remote|Closed🔒|12/11/2024|||
 |↳|Software Engineer Intern, IT|25.96 - 68.89|Remote|Closed🔒|12/11/2024|||
-|BD|Edge Intern, Technology & Global Services||Franklin Lakes, NJ|Closed🔒|12/11/2024|||
 |Cisco|Software Engineer Intern - PhD|22.91 - 67.7|San Jose, CA|Closed🔒|12/11/2024|||
 |↳|Full Stack Intern, Meraki|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Closed🔒|08/28/2024|||
 |↳|Firmware Features Intern, Meraki|22.91 - 60.7|<details><summary>3 locations<br><br><b></summary>San Francisco, CA<br>Chicago, IL<br>Remote</details><b>|Closed🔒|08/28/2024|||
@@ -2951,8 +2977,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Covar|Machine Learning Intern||Durham, NC|Closed🔒|09/07/2024|||
 |Crusoe|University Software Engineer Intern||San Francisco, CA|Closed🔒|09/07/2024|||
 |Northern Trust|Technology Intern||Chicago, IL|Closed🔒|09/07/2024|||
-|Okta|Software Engineer Intern|||Closed🔒|09/07/2024|||
-|↳|Machine Learning Engineer Intern|||Closed🔒|09/07/2024|||
 |Builders FirstSource|IT CRM Analytics Intern||<details><summary>4 locations<br><br><b></summary>Remote<br>Raleigh, NC<br>Denver, CO<br>Irving, TX</details><b>|Closed🔒|09/06/2024|||
 |NISC|Applications & Data Analyst Intern||<details><summary>3 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND<br>Ceder Rapids, IA</details><b>|Closed🔒|09/06/2024|||
 |↳|Database Conversion Programming Intern||<details><summary>2 locations<br><br><b></summary>Lake Saint Louis, MO<br>Mandan, ND</details><b>|Closed🔒|09/06/2024|||
