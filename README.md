@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3227 (832 open & 2395 closed)** internship positions listed. **24** new positions were added today.
+There are total of **3234 (839 open & 2395 closed)** internship positions listed. **7** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,14 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Method|Software Engineer Intern|50|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>New York, NY</details><b>|Open✅|02/13/2025|[Apply Here](https://jobs.ashbyhq.com/method/e1e444cd-804b-4e04-ad35-af6f23285854)||
+|Brinks Home|Software Engineer Intern||Farmers Branch, TX|Open✅|02/13/2025|[Apply Here](https://jobs.jobvite.com/brinkshome/job/oKwqvfwV)||
+|7-Eleven|Software Engineer Intern||Irving, TX|Open✅|02/13/2025|[Apply Here](https://careers.7-eleven.com/job/irving/software-engineer-intern/45445/77346928592)||
+|↳|Supply Chain Data Scientist Intern||Irving, TX|Open✅|01/31/2025|[Apply Here](https://careers.7-eleven.com/job/irving/supply-chain-data-scientist-intern/45445/76708737104)||
+|Amentum|Software Engineering Intern||Houston, TX|Open🛂|02/13/2025|[Apply Here](https://www.amentumcareers.com/jobs/2025-summer-software-engineering-internship-houston-texas-united-states)||
+|Honda Research Institute|Robotics Software Engineering Intern||Mountain View, CA|Open✅|02/13/2025|[Apply Here](https://usa.honda-ri.com/-/robotics-software-engineering-intern)|Graduate Students Only|
+|↳|3D Computer Vision Intern Intern||Mountain View, CA|Open✅|02/13/2025|[Apply Here](https://usa.honda-ri.com/-/3d-computer-vision-intern)|PhD Only|
+|Lakeview|IT Intern||<details><summary>2 locations<br><br><b></summary>Los Angeles, CA<br>Coral Gables, FL</details><b>|Open✅|02/13/2025|[Apply Here](https://careers.bayview.com/lls/jobs/7280)||
 |Vimeo|Frontend Platform Intern|30 - 35|New York, NY|Open✅|02/12/2025|[Apply Here](https://job-boards.greenhouse.io/vimeo/jobs/6608281)||
 |↳|Software Engineering Intern, Platform|30 - 35|New York, NY|Open✅|02/12/2025|[Apply Here](https://job-boards.greenhouse.io/vimeo/jobs/6608213)||
 |↳|Software Engineer Intern, Library|30 - 35|New York, NY|Open✅|02/12/2025|[Apply Here](https://job-boards.greenhouse.io/vimeo/jobs/6605783)||
@@ -207,7 +215,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Quantum Technology Intern - Doctorate|52 - 60|Malibu, CA|Open🇺🇸|10/18/2024|[Apply Here](https://jobs.lever.co/dodmg/0983908c-9e64-4706-ba7d-a0453b9e12bd)||
 |↳|Quantum Technology Intern - Masters|43 - 48|Malibu, CA|Open🇺🇸|10/18/2024|[Apply Here](https://jobs.lever.co/dodmg/7dce176a-5852-4ae8-a3c5-74eb88c02681)||
 |↳|Quantum Technology Intern - Undergrad|30 - 35|Malibu, CA|Open🇺🇸|10/18/2024|[Apply Here](https://jobs.lever.co/dodmg/20f625ab-f596-475c-8342-fcb0e7a0788c)||
-|7-Eleven|Supply Chain Data Scientist Intern||Irving, TX|Open✅|01/31/2025|[Apply Here](https://careers.7-eleven.com/job/irving/supply-chain-data-scientist-intern/45445/76708737104)||
 |AVA Labs|Engineering Intern|30|Brooklyn, NY|Open✅|01/31/2025|[Apply Here](https://job-boards.greenhouse.io/avalabs/jobs/5403422004)||
 |BorgWarner|Software Engineering Intern||Hazel Park, MI|Open✅|01/31/2025|[Apply Here](https://www.borgwarner.com/careers/job-search?id=R2025-0392)||
 |↳|Web Application Intern||Auburn Hills, MI|Open✅|01/14/2025|[Apply Here](https://www.borgwarner.com/careers/job-search?id=R2024-4642)||
