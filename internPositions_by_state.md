@@ -4,7 +4,7 @@ This page provides a breakdown of internship opportunities by state. The table b
 
 ## Internship Positions
 
-There are a total of **54** (including remote and unknown) states listed. **26** new positions were added today.
+There are a total of **54** (including remote and unknown) states listed. **3** new positions were added today.
 
 ### Viewing Options:
 If you prefer to view the positions sorted by statuses, check out the [Internship Opportunities by Status](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_status.md) page.
@@ -3280,18 +3280,19 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Fidelity  | Technology Intern - Undergrad                              | 26.04 - 36.45    | Closed🔒 | 09/16/2024   | Smithfield, RI      |                                                                                                                                                             |
 
 ## Jobs in SC
-### Number of positions: 9 (Open: 1, Closed: 8)
-| Company            | Job Title                                                                      | Hourly Pay ($)   | Status   | Date Added   | Location             | Application Link                                                    |
-|:-------------------|:-------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:---------------------|:--------------------------------------------------------------------|
-| Farm Credit        | Software Developer Intern                                                      |                  | Open✅   | 11/28/2024   | Columbia, SC         | [Apply Here](https://farmcredit.com/job/software-developer-intern/) |
-| Motorola Solutions | Computer Engineer Intern                                                       |                  | Closed🔒 | 11/18/2024   | Lexington, SC        |                                                                     |
-| Schneider Electric | Computer Science Intern                                                        |                  | Closed🔒 | 11/14/2024   | Columbia, SC         |                                                                     |
-| MITRE              | Data Science Intern, Operations Research, Math and Statistics                  |                  | Closed🔒 | 10/29/2024   | Shaw AFB, SC         |                                                                     |
-| ↳                  | Cyber or Information Security Intern                                           | 17.18 - 26.04    | Closed🔒 | 09/12/2024   | Shaw AFB, SC         |                                                                     |
-| ↳                  | Software Engineering or Computer Science Intern                                | 17.18 - 26.04    | Closed🔒 | 09/12/2024   | Shaw AFB, SC         |                                                                     |
-| Vermeer            | Systems Engineer Intern                                                        |                  | Closed🔒 | 09/10/2024   | Piedmont, SC         |                                                                     |
-| Boeing             | Engineering Intern                                                             | 22.39 - 45.83    | Closed🔒 | 08/14/2024   | North Charleston, SC |                                                                     |
-| ↳                  | Information Technology & Data Analytics, and Digital Aviation Solutions Intern | 22.39 - 34.45    | Closed🔒 | 08/14/2024   | Charleston, SC       |                                                                     |
+### Number of positions: 10 (Open: 2, Closed: 8)
+| Company            | Job Title                                                                      | Hourly Pay ($)   | Status   | Date Added   | Location             | Application Link                                                           |
+|:-------------------|:-------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:---------------------|:---------------------------------------------------------------------------|
+| Scout Motors       | AI Implementation Intern, Production                                           | 23               | Open🛂   | 02/15/2025   | Columbia, SC         | [Apply Here](https://job-boards.greenhouse.io/scoutmotors/jobs/4652398007) |
+| Farm Credit        | Software Developer Intern                                                      |                  | Open✅   | 11/28/2024   | Columbia, SC         | [Apply Here](https://farmcredit.com/job/software-developer-intern/)        |
+| Motorola Solutions | Computer Engineer Intern                                                       |                  | Closed🔒 | 11/18/2024   | Lexington, SC        |                                                                            |
+| Schneider Electric | Computer Science Intern                                                        |                  | Closed🔒 | 11/14/2024   | Columbia, SC         |                                                                            |
+| MITRE              | Data Science Intern, Operations Research, Math and Statistics                  |                  | Closed🔒 | 10/29/2024   | Shaw AFB, SC         |                                                                            |
+| ↳                  | Cyber or Information Security Intern                                           | 17.18 - 26.04    | Closed🔒 | 09/12/2024   | Shaw AFB, SC         |                                                                            |
+| ↳                  | Software Engineering or Computer Science Intern                                | 17.18 - 26.04    | Closed🔒 | 09/12/2024   | Shaw AFB, SC         |                                                                            |
+| Vermeer            | Systems Engineer Intern                                                        |                  | Closed🔒 | 09/10/2024   | Piedmont, SC         |                                                                            |
+| Boeing             | Engineering Intern                                                             | 22.39 - 45.83    | Closed🔒 | 08/14/2024   | North Charleston, SC |                                                                            |
+| ↳                  | Information Technology & Data Analytics, and Digital Aviation Solutions Intern | 22.39 - 34.45    | Closed🔒 | 08/14/2024   | Charleston, SC       |                                                                            |
 
 ## Jobs in SD
 ### Number of positions: 4 (Open: 2, Closed: 2)
@@ -3336,9 +3337,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Deloitte                                      | Software Engineering Summer Scholar     |                  | Closed🔒 | 08/05/2024   | Nashville, TN   |                                                                                                                                                                         |
 
 ## Jobs in TX
-### Number of positions: 315 (Open: 95, Closed: 220)
+### Number of positions: 316 (Open: 96, Closed: 220)
 | Company                              | Job Title                                                                                         | Hourly Pay ($)   | Status   | Date Added   | Location           | Application Link                                                                                                                                                                                                    |
 |:-------------------------------------|:--------------------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cotton Holdings                      | Software Engineer Intern                                                                          | 15 - 16          | Open✅   | 02/15/2025   | Houston, TX        | [Apply Here](https://cottonholdings.pinpointhq.com/en/postings/748c8b21-5d67-49f7-8e2d-bec291be03e5)                                                                                                                |
 | Cadence                              | Software Architect Intern                                                                         |                  | Open✅   | 02/14/2025   | Austin, TX         | [Apply Here](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Architect-Internship--Summer-2025-_R49140-1)                                                                          |
 | ↳                                    | Software R&D Intern                                                                               |                  | Open✅   | 01/08/2025   | Austin, TX         | [Apply Here](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN-03/Software-R-D-Intern--Summer_R48497)                                                                                         |
 | 7-Eleven                             | Software Engineer Intern                                                                          |                  | Open✅   | 02/13/2025   | Irving, TX         | [Apply Here](https://careers.7-eleven.com/job/irving/software-engineer-intern/45445/77346928592)                                                                                                                    |
@@ -3688,9 +3690,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Goldman Sachs  | Summer Analyst Program, Technology                                             |                  | Open✅   | 05/19/2024   | Salt Lake City, UT        | [Apply Here](https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2025-summer-analyst-program) |
 
 ## Jobs in VA
-### Number of positions: 161 (Open: 33, Closed: 128)
+### Number of positions: 162 (Open: 34, Closed: 128)
 | Company                         | Job Title                                                                      | Hourly Pay ($)   | Status   | Date Added   | Location            | Application Link                                                                                                                                                            |
 |:--------------------------------|:-------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Scout Motors                    | Platform Engineering / Data Platform Intern                                    | 25               | Open🛂   | 02/15/2025   | Tysons, VA          | [Apply Here](https://job-boards.greenhouse.io/scoutmotors/jobs/4648664007)                                                                                                  |
 | Alarm.com                       | Software Engineer Intern                                                       |                  | Open✅   | 02/08/2025   | Tysons, VA          | [Apply Here](https://boards.greenhouse.io/alarmcom/jobs/7843271002)                                                                                                         |
 | Hatch                           | Generative AI Intern                                                           | 23 - 25          | Open✅   | 02/08/2025   | Fairfax, VA         | [Apply Here](https://jobs.lever.co/hatchit/bb82a213-a9ce-449e-a4a7-25b167891993)                                                                                            |
 | ↳                               | Data Science Intern                                                            | 23 - 25          | Closed🔒 | 12/17/2024   | Fairfax, VA         |                                                                                                                                                                             |

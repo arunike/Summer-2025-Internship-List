@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3258 (864 open & 2394 closed)** internship positions listed. **26** new positions were added today.
+There are total of **3261 (867 open & 2394 closed)** internship positions listed. **3** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Cotton Holdings|Software Engineer Intern|15 - 16|Houston, TX|Open✅|02/15/2025|[Apply Here](https://cottonholdings.pinpointhq.com/en/postings/748c8b21-5d67-49f7-8e2d-bec291be03e5)||
+|Scout Motors|Platform Engineering / Data Platform Intern|25|Tysons, VA|Open🛂|02/15/2025|[Apply Here](https://job-boards.greenhouse.io/scoutmotors/jobs/4648664007)||
+|↳|AI Implementation Intern, Production|23|Columbia, SC|Open🛂|02/15/2025|[Apply Here](https://job-boards.greenhouse.io/scoutmotors/jobs/4652398007)||
 |Cognitive Capital|Software Engineer Intern|30 - 40|Chicago, IL|Open✅|02/14/2025|[Apply Here](https://www.cogcap.com/careers/7/software-developer-intern-summer-2025)||
 |ImageTrend|Software Developer Intern|20|Remote|Open✅|02/14/2025|[Apply Here](https://careers.jobscore.com/careers/imagetrend/jobs/software-developer-intern-dXeFB2cZPhqPUi4uWxLF5F)||
 |CrowdStrike|Software Engineering Intern, GTM||Remote|Open✅|02/14/2025|[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/GTM-Software-Engineering-Intern--Remote-_R21979)||
