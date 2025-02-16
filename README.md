@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3261 (867 open & 2394 closed)** internship positions listed. **3** new positions were added today.
+There are total of **3268 (874 open & 2394 closed)** internship positions listed. **7** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|ParkHub|AI & Machine Learning Intern||Dallas, TX|Open✅|02/16/2025|[Apply Here](https://parkhub.com/careers/?gnk=job&gni=8a78859e94d8da90019506632bb1129a)||
+|↳|Full Stack Intern||Dallas, TX|Open✅|02/16/2025|[Apply Here](https://parkhub.com/careers/?gnk=job&gni=8a78859e94d8da900195065b95e109ee)||
+|↳|Data Engineering Intern||Dallas, TX|Open✅|02/16/2025|[Apply Here](https://parkhub.com/careers/?gnk=job&gni=8a78859e94d8da900195063581007171)||
+|Modular|GenAI Libraries Intern|35 - 70|Los Altos, CA|Open✅|02/16/2025|[Apply Here](https://www.modular.com/company/career-post?4529905005&gh_jid=4529905005)||
+|↳|Models Intern|35 - 70|Los Altos, CA|Open✅|02/16/2025|[Apply Here](https://www.modular.com/company/career-post?4522833005&gh_jid=4522833005)||
+|↳|Models & Tools Intern|35 - 70|Los Altos, CA|Open✅|02/16/2025|[Apply Here](https://www.modular.com/company/career-post?4529901005&gh_jid=4529901005)||
+|↳|E2E Optimizations Intern|35 - 70|Los Altos, CA|Open✅|02/16/2025|[Apply Here](https://www.modular.com/company/career-post?4529902005&gh_jid=4529902005)||
 |Cotton Holdings|Software Engineer Intern|15 - 16|Houston, TX|Open✅|02/15/2025|[Apply Here](https://cottonholdings.pinpointhq.com/en/postings/748c8b21-5d67-49f7-8e2d-bec291be03e5)||
 |Scout Motors|Platform Engineering / Data Platform Intern|25|Tysons, VA|Open🛂|02/15/2025|[Apply Here](https://job-boards.greenhouse.io/scoutmotors/jobs/4648664007)||
 |↳|AI Implementation Intern, Production|23|Columbia, SC|Open🛂|02/15/2025|[Apply Here](https://job-boards.greenhouse.io/scoutmotors/jobs/4652398007)||
@@ -79,11 +86,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Intern, Machine Learning||San Jose, CA|Closed🔒|11/15/2024|||
 |↳|Software Engineering Intern||Remote|Closed🔒|11/08/2024|||
 |↳|WFO Application Engineer Intern||San Jose, CA|Open✅|09/13/2024|[Apply Here](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47392-2)||
-|First American|Software Engineering Intern||Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/software-engineering-intern/39054/76920310880)||
-|↳|Data Analytics Intern||Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/data-analytics-intern/39054/76920310736)||
-|↳|Data Scientist Intern||Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/data-scientist-intern/39054/76920310816)||
-|↳|Data Science Intern||Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/data-science-intern/39054/76329250928)||
-|↳|Software Engineer - UNdergraduate||Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/2025-first-american-internship-undergraduate-software-engineer/39054/77386527568)||
+|First American|Software Engineering Intern|40 - 45|Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/software-engineering-intern/39054/76920310880)||
+|↳|Data Analytics Intern|40 - 45|Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/data-analytics-intern/39054/76920310736)||
+|↳|Data Scientist Intern|40 - 45|Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/data-scientist-intern/39054/76920310816)||
+|↳|Data Science Intern|40 - 45|Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/data-science-intern/39054/76329250928)||
+|↳|Software Engineer - UNdergraduate|24 - 26|Santa Ana, CA|Open✅|02/14/2025|[Apply Here](https://careers.firstam.com/job/santa-ana/2025-first-american-internship-undergraduate-software-engineer/39054/77386527568)||
 |Hudl|Data Analyst Intern, FP&A|15 - 15.5|Lincoln, NE|Open✅|02/14/2025|[Apply Here](https://job-boards.greenhouse.io/hudl/jobs/6601544)||
 |↳|Software Engineer Intern|30 - 34|Lincoln, NE|Closed🔒|08/19/2024|||
 |Method|Software Engineer Intern|50|<details><summary>2 locations<br><br><b></summary>Austin, TX<br>New York, NY</details><b>|Open✅|02/13/2025|[Apply Here](https://jobs.ashbyhq.com/method/e1e444cd-804b-4e04-ad35-af6f23285854)||
