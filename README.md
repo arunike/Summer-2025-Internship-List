@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3268 (751 open & 2517 closed)** internship positions listed. **0** new positions were added today.
+There are total of **3281 (768 open & 2513 closed)** internship positions listed. **17** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,40 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Ayar Labs|Platform Engineer Intern|15 - 49|Cary, NC|Open✅|02/25/2025|[Apply Here](https://careers-sas.icims.com/jobs/38869/summer-2025---platform-engineer-intern/job)||
+|Merck & Co|Machine Learning Engineer Intern||<details><summary>2 locations<br><br><b></summary>Cambridge, MA<br>West Point, PA</details><b>|Open✅|02/25/2025|[Apply Here](https://jobs.merck.com/us/en/job/R333860)||
+|Gen|Software Engineering Intern|21.67 - 32.5|Mountain View, CA|Open✅|02/25/2025|[Apply Here](https://gen.wd1.myworkdayjobs.com/en-US/careers/job/USA---California-Mountain-View/Software-Engineering-Intern_53912)||
+|↳|Software Engineering Intern, NortonLifeLock||Tempe, AZ|Open✅|02/25/2025|[Apply Here](https://gen.wd1.myworkdayjobs.com/en-US/careers/job/USA---Arizona-Tempe/Software-Engineering-Intern_53911-1)||
+|↳|Software Engineering Intern, Cloud||Tempe, AZ|Open✅|02/25/2025|[Apply Here](https://gen.wd1.myworkdayjobs.com/en-US/careers/job/USA---Arizona-Tempe/Software-Engineering-Intern_53913)||
+|Snowflake|Software Engineer Intern, Infrastucture Automation|45 - 55|San Mateo, CA|Open✅|02/25/2025|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUSA1457938A2BC40889F566E0C5989F171EXTERNALENUSAE5B6C6CE1654BB78FFDAB14BA72D983/Software-Engineer-Intern-Infrastructure-Automation-Summer-2025)||
+|↳|Software Engineer Intern, Core Engineering|45 - 55|San Mateo, CA|Open✅|02/25/2025|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUS3DB7A5C205CA450D9BB2ABEEE2143697EXTERNALENUS6B9EADD4D00A46AB812FA9DFCE661FED/Software-Engineer-Intern-Core-Engineering-Summer-2025)||
+|↳|Software Engineer Intern, Core Engineering|45 - 55|Bellevue, WA|Open✅|02/25/2025|[Apply Here](https://careers.snowflake.com/us/en/job/SNCOUS3DB7A5C205CA450D9BB2ABEEE2143697EXTERNALENUS7B22DD319D5B46F58B3FA27BE052FC06/Software-Engineer-Intern-Core-Engineering-Summer-2025)||
+|↳|Software Engineer Intern, AI/ML|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, AI/ML|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, Database Engineering|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, Database Engineering|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
+|↳|Software Engineer Intern, Infrastucture Automation|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
+|Savance|Software Developer Intern||Commerce Township, MI|Open✅|02/25/2025|[Apply Here](https://www.savance.com/careers/software-developer-intern/)||
+|Stride|Web Development Intern||Remote|Open✅|02/25/2025|[Apply Here](https://stride.nyc/careers/web-development-intern)||
+|Rakuten|Software Engineer Intern, AI User Experience|30 - 50|San Mateo, CA|Open✅|02/25/2025|[Apply Here](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Intern---Software-Engineering--AI-User-Experience_1025036)||
+|↳|Cloud Infrastructure Intern|30 - 35|Boston, MA|Open✅|02/25/2025|[Apply Here](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Boston-Massachusetts/Intern---Cloud-Infrastructure_1025040)||
+|↳|Software Engineer Intern, AI User Experience||Seattle, WA|Closed🔒|11/16/2024|||
+|Disney|Software Engineering Intern|40|Morrisville, NC|Open✅|02/25/2025|[Apply Here](https://www.disneycareers.com/en/job/morrisville/software-engineering-intern-morrisville-nc-summer-2025/391/77749002672)||
+|↳|Technology Software Engineering Intern, Disney Entertainment and ESPN|40|Seattle, WA|Open✅|02/25/2025|[Apply Here](https://www.disneycareers.com/en/job/seattle/disney-entertainment-and-espn-technology-software-engineering-intern-seattle-wa-summer-2025/391/77762107984)||
+|↳|Software Research & Development Intern|30|Emeryville, CA|Closed🔒|12/17/2024||Graduate Students Only|
+|↳|IT Support Intern|25|Emeryville, CA|Closed🔒|12/17/2024|||
+|↳|Software Engineering Intern, Disney Entertainment and ESPN Technology|40|<details><summary>3 locations<br><br><b></summary>Santa Monica, CA<br>Burbank, CA<br>Glendale, CA</details><b>|Closed🔒|10/07/2024|||
+|↳|Machine Learning Engineer Intern, Disney Entertainment and ESPN Technology|40|<details><summary>2 locations<br><br><b></summary>Santa Monica, CA<br>Seattle, WA</details><b>|Closed🔒|10/07/2024|||
+|↳|Technology Intern, Lucasfilm|30 - 45|San Francisco, CA|Closed🔒|10/07/2024|||
+|↳|Technology Intern, Walt Disney Animation Studios|30 - 45|Burbank, CA|Closed🔒|10/07/2024|||
+|↳|Technology Intern, The Walt Disney Studios|30 - 45|Burbank, CA|Closed🔒|10/07/2024|||
+|↳|Software Engineering Intern, Disney Entertainment and ESPN Technology|30 - 45|Bristol, CT|Closed🔒|10/07/2024|||
+|↳|Data Analyst Intern, Enterprise Technology||<details><summary>2 locations<br><br><b></summary>Orlando, FL<br>Burbank, CA</details><b>|Closed🔒|10/07/2024|||
+|↳|Software Engineering Intern, Enterprise Technology||<details><summary>2 locations<br><br><b></summary>Orlando, FL<br>Burbank, CA</details><b>|Closed🔒|10/07/2024|||
+|↳|Software Engineering Intern, Disney Experiences||Orlando, FL|Closed🔒|10/07/2024|||
+|Velera|Front End Engineer Intern|20|Remote|Open✅|02/25/2025|[Apply Here](https://velera.wd5.myworkdayjobs.com/en-US/VeleraCareers/job/Remote-USA/Summer-2025-Intern---Client-Service-Delivery--Engineering-_7695)||
+|↳|Technology Intern, Information|20|Remote|Open✅|02/25/2025|[Apply Here](https://velera.wd5.myworkdayjobs.com/en-US/VeleraCareers/job/Remote-USA/Summer-2025-Intern---Technology---Information_7721)||
+|Benco Dental|Software Engineering Intern|20|Pittston, PA|Open✅|02/25/2025|[Apply Here](https://benco.hrmdirect.com/employment/view.php?req=3322563&jbsrc=1014&location=4ce157be-e909-5a09-4ff6-38789a730d81)||
 |ParkHub|AI & Machine Learning Intern||Dallas, TX|Open✅|02/16/2025|[Apply Here](https://parkhub.com/careers/?gnk=job&gni=8a78859e94d8da90019506632bb1129a)||
 |↳|Full Stack Intern||Dallas, TX|Open✅|02/16/2025|[Apply Here](https://parkhub.com/careers/?gnk=job&gni=8a78859e94d8da900195065b95e109ee)||
 |↳|Data Engineering Intern||Dallas, TX|Open✅|02/16/2025|[Apply Here](https://parkhub.com/careers/?gnk=job&gni=8a78859e94d8da900195063581007171)||
@@ -750,7 +784,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Junior Implementation Intern|25|Richmond, VA|Open✅|01/14/2025|[Apply Here](https://www.exiger.com/careers/?gh_jid=5416831004)||
 |↳|Software Development Intern|25|McLean, VA|Open✅|01/14/2025|[Apply Here](https://www.exiger.com/careers/?gh_jid=5072707004)||
 |Fox Corporation|FOX Technology Intern||Tempe, AZ|Closed🔒|01/14/2025|||
-|Gen|Software Engineering Intern||Tempe, AZ|Closed🔒|01/14/2025|||
 |ICE|Software Development Engineer Intern, Test||Atlanta, GA|Closed🔒|01/14/2025|||
 |↳|Cybersecurity Intern||Atlanta, GA|Closed🔒|01/14/2025|||
 |↳|Developer Intern, C++||Atlanta, GA|Closed🔒|01/14/2025||Graduate Students Only|
@@ -1074,7 +1107,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern, Front-End|50|Remote|Closed🔒|11/10/2024|||
 |↳|Software Engineering Intern||New York, NY|Closed🔒|08/01/2024|||
 |Dynon|Software Engineering Intern|24 - 27|<details><summary>2 locations<br><br><b></summary>Canby, OR<br>Woodinville, WA</details><b>|Open✅|12/21/2024|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bccdce60-8e1d-4e11-9f47-c504ec18a454&ccId=19000101_000001&jobId=533269&source=IN&lang=en_US&ittk=7UBIKRWYLZ)||
-|Granite|Software Engineering Intern||Quincy, MA|Open✅|12/21/2024|[Apply Here](https://myjobs.adp.com/granitecareers/cx/job-details?__tx_annotation=false&rb=INDEED&reqId=5001090752206)||
+|Granite|Software Engineering Intern||Quincy, MA|Open✅|12/21/2024|[Apply Here](https://myjobs.adp.com/granitecareers/cx/job-details?__tx_annotation=false&reqId=5001090752206)||
 |Transamerica|Financial Data Engineer Intern|22 - 24|Remote|Closed🔒|12/18/2024|||
 |Meta|Embedded Software Engineer Intern||Burlingame, CA|Closed🔒|12/18/2024||Graduate Students Only|
 |↳|Data Engineer Intern|38.25 - 68.75|<details><summary>5 locations<br><br><b></summary>Sunnyvale, CA<br>Menlo Park, CA<br>Seattle, WA<br>Burlingame, CA<br>New York, NY</details><b>|Open✅|10/10/2024|[Apply Here](https://www.metacareers.com/jobs/1668648587034930)||
@@ -1096,17 +1129,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Research & Development Intern|30|Emeryville, CA|Closed🔒|12/05/2024|||
 |↳|Animation Technician Intern|25|Emeryville, CA|Closed🔒|12/05/2024|||
 |↳|Pixar Undergraduate Program|22|Emeryville, CA|Closed🔒|12/05/2024|||
-|Disney|Software Research & Development Intern|30|Emeryville, CA|Closed🔒|12/17/2024||Graduate Students Only|
-|↳|IT Support Intern|25|Emeryville, CA|Closed🔒|12/17/2024|||
-|↳|Software Engineering Intern, Disney Entertainment and ESPN Technology|40|<details><summary>3 locations<br><br><b></summary>Santa Monica, CA<br>Burbank, CA<br>Glendale, CA</details><b>|Closed🔒|10/07/2024|||
-|↳|Machine Learning Engineer Intern, Disney Entertainment and ESPN Technology|40|<details><summary>2 locations<br><br><b></summary>Santa Monica, CA<br>Seattle, WA</details><b>|Closed🔒|10/07/2024|||
-|↳|Technology Intern, Lucasfilm|30 - 45|San Francisco, CA|Closed🔒|10/07/2024|||
-|↳|Technology Intern, Walt Disney Animation Studios|30 - 45|Burbank, CA|Closed🔒|10/07/2024|||
-|↳|Technology Intern, The Walt Disney Studios|30 - 45|Burbank, CA|Closed🔒|10/07/2024|||
-|↳|Software Engineering Intern, Disney Entertainment and ESPN Technology|30 - 45|Bristol, CT|Closed🔒|10/07/2024|||
-|↳|Data Analyst Intern, Enterprise Technology||<details><summary>2 locations<br><br><b></summary>Orlando, FL<br>Burbank, CA</details><b>|Closed🔒|10/07/2024|||
-|↳|Software Engineering Intern, Enterprise Technology||<details><summary>2 locations<br><br><b></summary>Orlando, FL<br>Burbank, CA</details><b>|Closed🔒|10/07/2024|||
-|↳|Software Engineering Intern, Disney Experiences||Orlando, FL|Closed🔒|10/07/2024|||
 |Little Caesars|Platform Engineering Intern||Detroit, MI|Closed🔒|12/17/2024|||
 |↳|Cyber Security Architecture Intern||Detroit, MI|Closed🔒|11/19/2024|||
 |↳|Data and Analytics Intern||Detroit, MI|Closed🔒|11/19/2024|||
@@ -1533,7 +1555,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|IT Software Engineer Intern||Pella, IA|Closed🔒|09/10/2024|||
 |Badger Meter|Software Engineering Intern||Milwaukee, WI|Closed🔒|11/16/2024|||
 |Arevon|Data Management Intern||Scottsdale, AZ|Closed🔒|11/16/2024|||
-|Rakuten|Software Engineer Intern, AI User Experience||Seattle, WA|Closed🔒|11/16/2024|||
 |Nordson|Software Engineering Intern||East Providence, RI|Closed🔒|11/16/2024|||
 |↳|Software Engineering Intern||Carlsbad, CA|Closed🔒|10/12/2024|||
 |↳|Software Engineering Intern||Loveland, CO|Closed🔒|10/12/2024|||
@@ -2092,14 +2113,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Data Science Intern, Insurance||Alpharetta, GA|Closed🔒|10/26/2024||Graduate Students Only|
 |↳|Healthcare Data Science Intern||Alpharetta, GA|Closed🔒|10/26/2024|||
 |↳|Gen AI Data Science Intern||Alpharetta, GA|Closed🔒|10/26/2024||Graduate Students Only|
-|Snowflake|Software Engineer Intern, AI/ML|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
-|↳|Software Engineer Intern, AI/ML|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
-|↳|Software Engineer Intern, Database Engineering|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
-|↳|Software Engineer Intern, Database Engineering|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
-|↳|Software Engineer Intern, Infrastucture Automation|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
-|↳|Software Engineer Intern, Infrastucture Automation|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
-|↳|Software Engineer Intern, Core Engineering|45 - 55|San Mateo, CA|Closed🔒|10/26/2024|||
-|↳|Software Engineer Intern, Core Engineering|45 - 55|Bellevue, WA|Closed🔒|10/26/2024|||
 |Woodward|SWE Engineering Intern|21.7 - 30.07|<details><summary>4 locations<br><br><b></summary>Niles, IL<br>Santa Clarita, CA<br>Fort Collins, CO<br>Rockford, IL</details><b>|Closed🔒|10/25/2024|||
 |Versana|Tech Intern||New York, NY|Closed🔒|10/25/2024|||
 |Marvell|Software Engineer Intern - Bachelor's/ Master's|30 - 60|Santa Clara, CA|Closed🔒|10/25/2024|||
