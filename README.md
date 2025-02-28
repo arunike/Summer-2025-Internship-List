@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3311 (802 open & 2509 closed)** internship positions listed. **34** new positions were added today.
+There are total of **3332 (827 open & 2505 closed)** internship positions listed. **26** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,46 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|PTC|Software Development Intern||Boston, MA|Open✅|02/27/2025|[Apply Here](https://careers.ptc.com/careers/job/137464959392)||
+|↳|Software Engineering Intern, Arena||San Mateo, CA|Closed🔒|11/10/2024|||
+|↳|Onshape Software Development Intern||Boston, MA|Closed🔒|11/10/2024|||
+|↳|Release Engineering Intern||Boston, MA|Closed🔒|10/30/2024|||
+|↳|Platform Team Intern||Boston, MA|Closed🔒|10/30/2024|||
+|↳|Onshape SysOps Intern||Boston, MA|Closed🔒|10/30/2024|||
+|↳|Web Optimization Intern||Boston, MA|Closed🔒|10/30/2024|||
+|↳|Arena Application Software Engineering Intern||San Mateo, CA|Closed🔒|10/16/2024|||
+|↳|R&D Software Engineering Intern||Boston, MA|Closed🔒|10/16/2024|||
+|KLA|Software Engineering Intern||Milpitas, CA|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer---Intern_2527845-1)||
+|↳|Software Intern||Milpitas, CA|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Internship_2427256-2)|Graduate Students Only|
+|↳|Software Engineering Intern, C++, Unix||Milpitas, CA|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2426711-2)|Graduate Students Only|
+|↳|Algorithm Engineering Intern, Image Processing|32 - 40|Ann Arbor, MI|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2424580-1)|PhD Only|
+|↳|Software Intern, CUDA||Milpitas, CA|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Intern-for-Enterprise-IOT-and-Data-Science_2427100-1)|Graduate Students Only|
+|↳|Software Engineer Intern, AI/ML|22.1 - 42.5|Austin, TX|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2426147)||
+|↳|Data Science and SW Engineering Intern|27 - 49|Ann Arbor, MI|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Data-Science-and-SW-Engineering-Intern_2427228-3)||
+|↳|AI Scientist Intern|40 - 50|Ann Arbor, MI|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-Scientist-Intern_2427258-2)|Graduate Students Only|
+|↳|Algorithm Engineering Intern||<details><summary>2 locations<br><br><b></summary>Ann Arbor, MI<br>Remote</details><b>|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2425947-3)|PhD Only|
+|↳|Algorithm Engineering Intern|25 - 32|Ann Arbor, MI|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Algorithms-Engineering-Intern_2426888-2)||
+|↳|Software Engineering Intern||Ann Arbor, MI|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2427004-2)||
+|↳|Software Engineering Intern, AR/VR (C++, C# and JavaScript)||Milpitas, CA|Open✅|02/27/2025|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern---AR-VR--C----C--and-JavaScript-_2426831-1)||
+|↳|Applications Engineering Intern||Milpitas, CA|Closed🔒|11/14/2024|||
+|↳|Artificial Intelligence Intern||Milpitas, CA|Closed🔒|11/14/2024|||
+|↳|Research Scientist Intern, Deep Learning|26 - 48|Milpitas, CA|Open✅|11/14/2024|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Research-Scientist-Internship--Deep-Learning_2425835)|Graduate Students Only|
+|↳|Software Intern||Ann Arbor, MI|Closed🔒|10/15/2024|||
+|↳|Software Engineer Intern, AI/ML||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Milpitas, CA</details><b>|Closed🔒|10/12/2024|||
+|Reliance|Software Engineer Intern|21 - 26|Cypress, CA|Open✅|02/27/2025|[Apply Here](https://careers.reliance.com/jobs/1865)||
+|Venturi Astrolab|Robotics Software Engineering Intern|30|Hawthorne, CA|Open✅|02/27/2025|[Apply Here](https://astrolab.pinpointhq.com/en/postings/b0b0b414-bbbd-4173-93c4-bb5324d063d1)||
+|Trepp|Data Science Intern|20|New York, NY|Open🛂|02/27/2025|[Apply Here](https://www.trepp.com/joining-trepp?gh_jid=6668351)||
+|Magna|Computer Vision & Simulation Engineer Intern||Troy, MI|Open✅|02/27/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Computer-Vision---Simulation-Engineer-Intern_R00173675)||
+|↳|Robotics AI Algorithm Intern||Troy, MI|Open✅|02/27/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Robotics-AI-Algorithm-Intern_R00173681)|Graduate Students Only|
+|↳|Computer Vision/AI Intern||Troy, MI|Open✅|02/27/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Computer-Vision-AI-Intern_R00173668)|Graduate Students Only|
+|↳|Robotics Controls Intern||Troy, MI|Open✅|02/27/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Robotics-Controls-Intern_R00173677)|Graduate Students Only|
+|↳|Robotics AI Software Intern||Troy, MI|Open✅|02/27/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Robotics-AI-Software-Intern_R00171191)|Graduate Students Only|
+|↳|Robotics Implementation Intern||Troy, MI|Open✅|02/27/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Robotics-Implementation-Intern_R00171197)||
+|↳|Robotics AI Implementation & Test Intern||Troy, MI|Open✅|02/27/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Robotics-AI-Implementation---Test-Intern_R00171213)||
+|↳|Data Analytics, Simulation, &IoT, AMI Intern||Troy, MI|Open✅|02/27/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Data-Analytics--Simulation---IoT--AMI-Intern_R00168523)|Graduate Students Only|
+|↳|WaveLogic Software Intern|26.5 - 37.5|Atlanta, GA|Open✅|02/27/2025|[Apply Here](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/WaveLogic-Software-Intern_R027220)||
+|↳|Research Engineer Intern, Full Stack||Troy, MI|Open✅|02/03/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Research-Engineer-Intern---Full-Stack_R00168497)||
+|Sixth Street|Engineering Intern|49.47 - 57.29|New York, NY|Open✅|02/27/2025|[Apply Here](https://sixthstreet.com/current-opportunities/?gh_jid=6483829003)||
 |GCM Grosvenor|Software Engineering Intern||Chicago, IL|Open✅|02/26/2025|[Apply Here](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/6266879003)||
 |↳|Cybersecurity Intern||Chicago, IL|Open✅|10/30/2024|[Apply Here](https://boards.greenhouse.io/gcmgrosvenor/jobs/6236635003)||
 |LivePerson|AI/ML Engineer Intern||Remote|Open🛂|02/26/2025|[Apply Here](https://boards.greenhouse.io/liveperson/jobs/6645625)||
@@ -267,7 +307,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |RedPeg|Creative Technologist Intern|15 - 16.5|Alexandria, VA|Open✅|02/03/2025|[Apply Here](https://redpeg.applytojob.com/apply/bG2lvvHUuA/2025-Summer-Internship-Creative-Technologist)||
 |Persistent Systems|Embedded Software Engineer Intern|25 - 30|New York, NY|Open✅|02/03/2025|[Apply Here](https://careers-persistentsystems.icims.com/jobs/1999/intern---embedded-software-engineer-%28summer-2025%29/job)||
 |↳|Software Test Engineer Intern|25 - 30|New York, NY|Open✅|02/03/2025|[Apply Here](https://careers-persistentsystems.icims.com/jobs/2000/intern---software-test-engineer-%28summer-2025%29/job)||
-|Magna|Research Engineer Intern, Full Stack||Troy, MI|Open✅|02/03/2025|[Apply Here](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Research-Engineer-Intern---Full-Stack_R00168497)||
 |Hastings Insurance|IT Infrastructure Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Hasting, MI</details><b>|Open✅|02/03/2025|[Apply Here](https://recruiting.ultipro.com/HAS1004HMIC/JobBoard/db515d06-6363-4b1d-ba96-ee65007fea9b/OpportunityDetail?opportunityId=e927190e-792b-4a26-a0b6-73615bc855d8)||
 |↳|Application Development Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Hasting, MI</details><b>|Open✅|02/03/2025|[Apply Here](https://recruiting.ultipro.com/HAS1004HMIC/JobBoard/db515d06-6363-4b1d-ba96-ee65007fea9b/OpportunityDetail?opportunityId=8d280a04-e3a5-4882-810f-3ac8e95c201a)||
 |↳|Data & Business Intelligence Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Hasting, MI</details><b>|Open✅|02/03/2025|[Apply Here](https://recruiting.ultipro.com/HAS1004HMIC/JobBoard/db515d06-6363-4b1d-ba96-ee65007fea9b/OpportunityDetail?opportunityId=7915738b-dffd-47e2-b0fc-c4d9e2a367bd)||
@@ -1661,15 +1700,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern||Irving, TX|Closed🔒|11/14/2024|||
 |↳|Data Scientist Intern||Irving, TX|Closed🔒|11/14/2024|||
 |↳|Data Visualization Intern||Irving, TX|Closed🔒|11/14/2024|||
-|KLA|Software Engineering Intern||Milpitas, CA|Closed🔒|11/14/2024|||
-|↳|Applications Engineering Intern||Milpitas, CA|Closed🔒|11/14/2024|||
-|↳|Artificial Intelligence Intern||Milpitas, CA|Closed🔒|11/14/2024|||
-|↳|Research Scientist Intern, Deep Learning|26 - 48|Milpitas, CA|Open✅|11/14/2024|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Research-Scientist-Internship--Deep-Learning_2425835)|Graduate Students Only|
-|↳|Software Intern||Ann Arbor, MI|Closed🔒|10/15/2024|||
-|↳|Software Engineer Intern, AI/ML||Austin, TX|Closed🔒|10/15/2024|||
-|↳|Algorithm Engineering Intern||Ann Arbor, MI|Open✅|10/15/2024|[Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2425227)|PhD Only|
-|↳|Algorithm Engineering Intern, Image Processing|32 - 40|Ann Arbor, MI|Closed🔒|10/15/2024||PhD Only|
-|↳|Software Engineer Intern, AI/ML||<details><summary>2 locations<br><br><b></summary>Austin, TX<br>Milpitas, CA</details><b>|Closed🔒|10/12/2024|||
 |Rocket Labs|Web Software Intern||Albuquerque, NM|Closed🔒|11/14/2024|||
 |↳|Software Intern||Littleton, CO|Closed🔒|10/02/2024|||
 |Waymo|Intern, Eval & Inference Team - BS/MS|48.08 - 50.48|Mountain View, CA|Closed🔒|11/14/2024|||
@@ -1835,15 +1865,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Automated Test Software Engineer Intern|21 - 40|Niles, IL|Closed🔒|09/05/2024|||
 |↳|Application Software Development Intern|21 - 40|Niles, IL|Closed🔒|09/05/2024|||
 |↳|Engineering Intern, Cloud Operations Monitoring||Niles, IL|Closed🔒|09/05/2024|||
-|PTC|Software Engineering Intern, Arena||San Mateo, CA|Closed🔒|11/10/2024|||
-|↳|Onshape Software Development Intern||Boston, MA|Closed🔒|11/10/2024|||
-|↳|Release Engineering Intern||Boston, MA|Closed🔒|10/30/2024|||
-|↳|Platform Team Intern||Boston, MA|Closed🔒|10/30/2024|||
-|↳|Onshape SysOps Intern||Boston, MA|Closed🔒|10/30/2024|||
-|↳|Software Development Intern||Boston, MA|Closed🔒|10/30/2024|||
-|↳|Web Optimization Intern||Boston, MA|Closed🔒|10/30/2024|||
-|↳|Arena Application Software Engineering Intern||San Mateo, CA|Closed🔒|10/16/2024|||
-|↳|R&D Software Engineering Intern||Boston, MA|Closed🔒|10/16/2024|||
 |ModMed|Mobile Intern||Boca Raton, FL|Closed🔒|11/10/2024|||
 |↳|Data Engineering Intern||Boca Raton, FL|Closed🔒|11/10/2024|||
 |↳|Data Science Intern||Boca Raton, FL|Closed🔒|11/10/2024|||
