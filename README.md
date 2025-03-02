@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3334 (769 open & 2565 closed)** internship positions listed. **0** new positions were added today.
+There are total of **3341 (776 open & 2565 closed)** internship positions listed. **7** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|ThredUp|Fintech Software Engineering Intern|35|Okland, CA|Open✅|03/01/2025|[Apply Here](https://careers.thredup.com/us/en/job/THRTHRUS950EXTERNALENUS/Fintech-Software-Engineering-Intern)||
+|↳|Software Engineering Intern, Data Engineering|50|Okland, CA|Open✅|03/01/2025|[Apply Here](https://careers.thredup.com/us/en/job/956/Software-Engineering-Intern-Data-Engineering)||
+|C&S Wholesale Grocers|Cyber Security Intern|23|Edison, NJ|Open🛂|03/01/2025|[Apply Here](https://careers.cswg.com/edison-nj/cyber-security-intern-summer-2025/0505726DC487424D8DF9D3B29183D86E/job)||
+|↳|Data Analyst Intern|23|Edison, NJ|Open🛂|03/01/2025|[Apply Here](https://careers.cswg.com/edison-nj/data-analyst-intern-summer-2025/3F1A4B338C114CC8AC0B727F6D6CEFC0/job)||
+|↳|Application Migration Intern, Mainframe|23|Keene, NH|Open🛂|03/01/2025|[Apply Here](https://careers.cswg.com/keene-nh/application-migration-intern-mainframe-summer-2025/61DEE23A86E44284A9E2A3DF8531306F/job)||
+|↳|Data Science Intern|23|Edison, NJ|Open🛂|03/01/2025|[Apply Here](https://careers.cswg.com/edison-nj/data-science-intern-summer-2025/979F709907034D76B562371449566E1A/job)||
+|↳|Web Application Intern|23|Houston, TX|Open🛂|03/01/2025|[Apply Here](https://careers.cswg.com/houston-tx/web-application-intern-summer-2025/264F59BF27CE42F8A5CA600C2185535D/job)||
 |SNC|Software Engineer Intern|18.13 - 31.72|Folsom, CA|Open✅|02/28/2025|[Apply Here](https://snc.wd1.myworkdayjobs.https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Folsom-CA/Software-Engineer-Intern--Summer-2025_R0026823)||
 |↳|Software Engineer Intern||Plano, TX|Closed🔒|10/08/2024|||
 |↳|Software Engineer Intern|18.13 - 31.72|<details><summary>6 locations<br><br><b></summary>Lone Tree, CO<br>Hagerstown, MD<br>Herndon, VA<br>beavercreek, OH<br>Plano, TX<br>Sparks, NV</details><b>|Closed🔒|10/08/2024|||
@@ -1995,7 +2002,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Twitch|Security Engineering Intern|42.5|San Francisco, CA|Open✅|11/06/2024|[Apply Here](https://www.twitch.tv/jobs/careers/7706308002/)||
 |↳|Mobile Engineering Intern|42.5|San Francisco, CA|Open✅|11/06/2024|[Apply Here](https://www.twitch.tv/jobs/careers/7699674002/)|Undergrad Only|
 |↳|Software Engineering Intern - Undergrad|42.5|San Francisco, CA|Open✅|11/06/2024|[Apply Here](https://www.twitch.tv/jobs/careers/7682566002/)||
-|Thomson Reuters|Software Engineer Intern|| Frisco, TX|Closed🔒|11/05/2024|||
+|Thomson Reuters|Software Engineer Intern||Frisco, TX|Closed🔒|11/05/2024|||
 |↳|Software Engineer Intern||Eagan, MN|Closed🔒|08/26/2024|||
 |Causeway Capital Management|Software Engineer Intern|38.46|Dallas, TX|Closed🔒|11/05/2024|||
 |One|Software Engineer Intern|25|Remote|Closed🔒|11/05/2024|||
