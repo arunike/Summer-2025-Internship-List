@@ -4,7 +4,7 @@ This page provides a breakdown of internship opportunities by state. The table b
 
 ## Internship Positions
 
-There are a total of **54** (including remote and unknown) states listed. **7** new positions were added today.
+There are a total of **54** (including remote and unknown) states listed. **2** new positions were added today.
 
 ### Viewing Options:
 If you prefer to view the positions sorted by statuses, check out the [Internship Opportunities by Status](https://github.com/arunike/Summer-2025-Internship-List/blob/main/internPositions_by_status.md) page.
@@ -189,9 +189,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | Deloitte              | Software Engineering Summer Scholar                                            |                  | Closed🔒 | 08/05/2024   | Tempe, AZ      |                                                                                                                                                                 |
 
 ## Jobs in CA
-### Number of positions: 869 (Open: 259, Closed: 610)
+### Number of positions: 870 (Open: 260, Closed: 610)
 | Company                                            | Job Title                                                                                            | Hourly Pay ($)   | Status   | Date Added   | Location                | Application Link                                                                                                                                                                                        |
 |:---------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:-----------------|:---------|:-------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Clorox                                             | Data Engineer Intern                                                                                 |                  | Open✅   | 03/02/2025   | Pleasanton, CA          | [Apply Here](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Pleasanton-CPC-CA---USA/Data-Engineer-Intern_18258-1)                                                                           |
 | ThredUp                                            | Fintech Software Engineering Intern                                                                  | 35               | Open✅   | 03/01/2025   | Okland, CA              | [Apply Here](https://careers.thredup.com/us/en/job/THRTHRUS950EXTERNALENUS/Fintech-Software-Engineering-Intern)                                                                                         |
 | ↳                                                  | Software Engineering Intern, Data Engineering                                                        | 50               | Open✅   | 03/01/2025   | Okland, CA              | [Apply Here](https://careers.thredup.com/us/en/job/956/Software-Engineering-Intern-Data-Engineering)                                                                                                    |
 | SNC                                                | Software Engineer Intern                                                                             | 18.13 - 31.72    | Open✅   | 02/28/2025   | Folsom, CA              | [Apply Here](https://snc.wd1.myworkdayjobs.https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Folsom-CA/Software-Engineer-Intern--Summer-2025_R0026823)                                     |
@@ -2434,9 +2435,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 | HCSC      | Associate Developer Intern | 17.5 - 36.76     | Closed🔒 | 10/15/2024   | Helena, MT |                    |
 
 ## Jobs in NC
-### Number of positions: 135 (Open: 23, Closed: 112)
+### Number of positions: 136 (Open: 24, Closed: 112)
 | Company                    | Job Title                                                                  | Hourly Pay ($)   | Status   | Date Added   | Location          | Application Link                                                                                                                                                                                                    |
 |:---------------------------|:---------------------------------------------------------------------------|:-----------------|:---------|:-------------|:------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Clorox                     | Machine Learning Engineer Intern                                           |                  | Open✅   | 03/02/2025   | Durham, NC        | [Apply Here](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Machine-Learning-Engineer-Intern_18293-1)                                                                   |
 | Ayar Labs                  | Platform Engineer Intern                                                   | 15 - 49          | Open✅   | 02/25/2025   | Cary, NC          | [Apply Here](https://careers-sas.icims.com/jobs/38869/summer-2025---platform-engineer-intern/job)                                                                                                                   |
 | Disney                     | Software Engineering Intern                                                | 40               | Open✅   | 02/25/2025   | Morrisville, NC   | [Apply Here](https://www.disneycareers.com/en/job/morrisville/software-engineering-intern-morrisville-nc-summer-2025/391/77749002672)                                                                               |
 | Aig                        | Technology Intern                                                          | 32.2 - 37.03     | Open✅   | 01/31/2025   | Charlotte, NC     | [Apply Here](https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2025---Early-Career---Technology---Summer-Intern---United-States--Jersey-City--NJ---Charlotte--NC--or-Houston--TX-_JR2404562) |

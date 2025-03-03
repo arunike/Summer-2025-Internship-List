@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3341 (776 open & 2565 closed)** internship positions listed. **7** new positions were added today.
+There are total of **3343 (778 open & 2565 closed)** internship positions listed. **2** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,8 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Clorox|Data Engineer Intern||Pleasanton, CA|Open✅|03/02/2025|[Apply Here](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Pleasanton-CPC-CA---USA/Data-Engineer-Intern_18258-1)||
+|↳|Machine Learning Engineer Intern||Durham, NC|Open✅|03/02/2025|[Apply Here](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Machine-Learning-Engineer-Intern_18293-1)|Graduate Students Only|
 |ThredUp|Fintech Software Engineering Intern|35|Okland, CA|Open✅|03/01/2025|[Apply Here](https://careers.thredup.com/us/en/job/THRTHRUS950EXTERNALENUS/Fintech-Software-Engineering-Intern)||
 |↳|Software Engineering Intern, Data Engineering|50|Okland, CA|Open✅|03/01/2025|[Apply Here](https://careers.thredup.com/us/en/job/956/Software-Engineering-Intern-Data-Engineering)||
 |C&S Wholesale Grocers|Cyber Security Intern|23|Edison, NJ|Open🛂|03/01/2025|[Apply Here](https://careers.cswg.com/edison-nj/cyber-security-intern-summer-2025/0505726DC487424D8DF9D3B29183D86E/job)||
