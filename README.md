@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3343 (778 open & 2565 closed)** internship positions listed. **2** new positions were added today.
+There are total of **3348 (783 open & 2565 closed)** internship positions listed. **5** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Bloom Energy|Data Science Intern - Master's/Ph.D|52 - 58|San Jose, CA|Open✅|03/03/2025|[Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Data-Science-Intern----Master-s--PhD_JR-19472)||
+|↳|Quality Data Analysis Engineering Intern||San Jose, CA|Open✅|03/03/2025|[Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Quality-Data-Analysis-Engineering-Intern_JR-19474)||
+|↳|Data Analytics Intern, Service Operations|30 - 33|San Jose, CA|Open✅|03/03/2025|[Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Data-Analytics---Service-Operations-Intern_JR-19469)||
+|↳|RMCC Software Engineering Intern|52 - 58|San Jose, CA|Open✅|03/03/2025|[Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/RMCC-Software-Engineering-Intern_JR-19470)||
+|↳|Quality Data Analysis Engineering Intern|34.5 - 37.5|Freemont, CA|Open✅|03/03/2025|[Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/Fremont-California/Quality-Data-Analysis-Engineering-Intern_JR-19497)||
 |Clorox|Data Engineer Intern||Pleasanton, CA|Open✅|03/02/2025|[Apply Here](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Pleasanton-CPC-CA---USA/Data-Engineer-Intern_18258-1)||
 |↳|Machine Learning Engineer Intern||Durham, NC|Open✅|03/02/2025|[Apply Here](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Machine-Learning-Engineer-Intern_18293-1)|Graduate Students Only|
 |ThredUp|Fintech Software Engineering Intern|35|Okland, CA|Open✅|03/01/2025|[Apply Here](https://careers.thredup.com/us/en/job/THRTHRUS950EXTERNALENUS/Fintech-Software-Engineering-Intern)||
