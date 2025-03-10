@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3348 (783 open & 2565 closed)** internship positions listed. **5** new positions were added today.
+There are total of **3379 (816 open & 2563 closed)** internship positions listed. **33** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,45 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Bae Systems|Software Engineering Intern|26.24 - 35.42|Rome, NY|Open🇺🇸|03/09/2025|[Apply Here](https://jobs.baesystems.com/global/en/job/109537BR/Software-Engineering-Intern-On-Site)||
+|↳|Software Intern|28.45 - 38.43|Greenlawn, NY|Open🇺🇸|03/09/2025|[Apply Here](https://jobs.baesystems.com/global/en/job/110023BR/Software-Intern-Summer-2025)||
+|↳|Software Engineering Intern III|25.32 - 34.2|Greenlawn, NY|Open🇺🇸|03/09/2025|[Apply Here](https://jobs.baesystems.com/global/en/job/107643BR/Software-Engineering-Intern-III-Summer-2025)||
+|↳|Software Engineering Intern|25.32 - 34.2|San Diego, CA|Open🇺🇸|03/09/2025|[Apply Here](https://jobs.baesystems.com/global/en/job/110390BR/Software-Engineering-Intern-Summer-2025)||
+|↳|GXP Software Engineering Intern|25.32 - 34.2|San Diego, CA|Open🇺🇸|03/09/2025|[Apply Here](https://jobs.baesystems.com/global/en/job/107847BR/GXP-Software-Engineering-Intern)||
+|↳|Software Engineering Intern II|23.26 - 31.39|<details><summary>4 locations<br><br><b></summary>Nashua, NH<br>Hudson, NH<br>Merrimack, NH<br>Manchester, NH</details><b>|Open🇺🇸|03/09/2025|[Apply Here](https://jobs.baesystems.com/global/en/job/107642BR/Software-Engineering-Intern-II-Summer-2025)||
+|↳|Software Engineering Intern|23.71 - 32.02|Fort Worth, TX|Open🇺🇸|03/09/2025|[Apply Here](https://jobs.baesystems.com/global/en/job/110193BR/Software-Engineering-Intern-Summer-2025)||
+|↳|Software Engineering Intern I|21.42 - 29.8|Manassas, VA|Open🇺🇸|03/09/2025|[Apply Here](https://jobs.baesystems.com/global/en/job/110601BR/Software-Engineering-Intern-I-Summer-2025)||
+|↳|Data Science Intern|23.02 - 31.09|Fort Worth, TX|Closed🔒|10/05/2024|||
+|↳|Data Analyst Intern|23.26 - 31.39|Nashua, NH|Closed🔒|10/05/2024|||
+|ThousandEyes|Software Engineering Intern, Integrations Platform||San Francisco, CA|Open🛂|03/09/2025|[Apply Here](https://job-boards.greenhouse.io/thousandeyes/jobs/6688518)||
+|↳|Software Engineering Intern, Subscription Management Platform||San Francisco, CA|Open🛂|03/09/2025|[Apply Here](https://job-boards.greenhouse.io/thousandeyes/jobs/6679514)||
+|Costco|Application Security Intern|21 - 31.9|Issaquah, WA|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9622)||
+|↳|Application Integration Intern|21 - 31.9|Issaquah, WA|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9639)||
+|↳|Data & Analytics Intern, BI Engineer|21 - 31.9|Issaquah, WA|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9633)||
+|↳|Data Analytics Intern, Engineering Operations|21 - 31.9|Issaquah, WA|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9644)||
+|↳|Data & Analytics Intern, Merchandising POD|21 - 31.9|Issaquah, WA|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9643)||
+|↳|Data Science Intern|21 - 31.9|Issaquah, WA|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9620)||
+|↳|ECM Digital Workflow Intern, PowerApps Developer|21 - 31.9|Issaquah, WA|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9642)||
+|↳|FICO Cloud Development Intern|21 - 31.9|Issaquah, WA|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9641)||
+|↳|Performance Test Analyst Intern|21 - 31.9|Issaquah, WA|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9628)||
+|↳|SDET Intern, Costco Logistics|21 - 31.9|Schaumburg, IL|Open✅|03/09/2025|[Apply Here](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=9638)||
+|iconectiv|Software Engineer Intern||Bridgewater, NJ|Open🇺🇸|03/09/2025|[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7cf2fb51-6207-4e4f-bc51-66e9507c846b&ccid=19000101_000001&jobId=543461)||
+|Harbinger Motors|Software Engineering Intern, Firmware|25 - 35|Garden Grove, CA|Open✅|03/09/2025|[Apply Here](https://job-boards.greenhouse.io/harbingermotors/jobs/4668505007)||
+|PlugShare|Software Engineering Intern|22|Los Angeles, CA|Open✅|03/09/2025|[Apply Here](https://jobs.jobvite.com/evgo/job/oIzzvfw5)||
+|↳|Firmware Development Intern|22 - 33|El Segundo, CA|Open✅|03/09/2025|[Apply Here](https://jobs.jobvite.com/evgo/job/ouNyvfw4)||
+|↳|Enterprise IT Intern|22|El Segundo, CA|Open✅|03/09/2025|[Apply Here](https://jobs.jobvite.com/evgo/job/oGfxvfwH)||
+|Tencent|Game Ops Intern||Los Angeles, CA|Open✅|03/09/2025|[Apply Here](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Los-Angeles/Game-Ops-Intern_R104975)||
+|↳|Applied Machine Learning Intern|20 - 30|Pal Alto, CA|Open✅|03/09/2025|[Apply Here](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Palo-Alto/Applied-Machine-Learning-Intern_R104953)|Graduate Students Only|
+|↳|Site Reliability Engineer Intern||Los Angeles, CA|Open✅|03/09/2025|[Apply Here](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Los-Angeles/Site-Reliability-Engineer-Intern_R104956)||
+|↳|Data Science Intern||Pal Alto, CA|Open✅|03/09/2025|[Apply Here](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Palo-Alto/Data-Science-Intern_R104890-1)||
+|↳|Data Science Intern, Tencent Games||Pal Alto, CA|Open✅|03/09/2025|[Apply Here](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Palo-Alto/Data-Science-Intern_R104892-1)||
+|↳|Quality Assurance Intern||Pal Alto, CA|Open✅|03/09/2025|[Apply Here](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Palo-Alto/Quality-Assurance-Intern_R104968)||
+|↳|Backend Development Intern|36.45 - 56.25|Los Angeles, CA|Closed🔒|09/12/2024|||
+|↳|Software Engineer Intern||Los Angeles, CA|Closed🔒|09/10/2024|||
+|Bright Horizons|Enterprise Products Intern|20 - 30|Newton, MA|Open✅|03/09/2025|[Apply Here](https://careers.brighthorizons.com/us/en/job/JR-113913/2025-Enterprise-Products-Internship-Hybrid)||
+|ThredUp|Machine Learning Engineer Intern|35|Scottsdale, AZ|Open✅|03/09/2025|[Apply Here](https://thredup.wd1.myworkdayjobs.com/en-US/thredup_Careers/job/Scottsdale-AZ/Machine-Learning-Engineer_951)||
+|↳|Fintech Software Engineering Intern|35|Okland, CA|Open✅|03/01/2025|[Apply Here](https://careers.thredup.com/us/en/job/THRTHRUS950EXTERNALENUS/Fintech-Software-Engineering-Intern)||
+|↳|Software Engineering Intern, Data Engineering|50|Okland, CA|Open✅|03/01/2025|[Apply Here](https://careers.thredup.com/us/en/job/956/Software-Engineering-Intern-Data-Engineering)||
 |Bloom Energy|Data Science Intern - Master's/Ph.D|52 - 58|San Jose, CA|Open✅|03/03/2025|[Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Data-Science-Intern----Master-s--PhD_JR-19472)||
 |↳|Quality Data Analysis Engineering Intern||San Jose, CA|Open✅|03/03/2025|[Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Quality-Data-Analysis-Engineering-Intern_JR-19474)||
 |↳|Data Analytics Intern, Service Operations|30 - 33|San Jose, CA|Open✅|03/03/2025|[Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Data-Analytics---Service-Operations-Intern_JR-19469)||
@@ -36,8 +75,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Quality Data Analysis Engineering Intern|34.5 - 37.5|Freemont, CA|Open✅|03/03/2025|[Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/Fremont-California/Quality-Data-Analysis-Engineering-Intern_JR-19497)||
 |Clorox|Data Engineer Intern||Pleasanton, CA|Open✅|03/02/2025|[Apply Here](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Pleasanton-CPC-CA---USA/Data-Engineer-Intern_18258-1)||
 |↳|Machine Learning Engineer Intern||Durham, NC|Open✅|03/02/2025|[Apply Here](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Machine-Learning-Engineer-Intern_18293-1)|Graduate Students Only|
-|ThredUp|Fintech Software Engineering Intern|35|Okland, CA|Open✅|03/01/2025|[Apply Here](https://careers.thredup.com/us/en/job/THRTHRUS950EXTERNALENUS/Fintech-Software-Engineering-Intern)||
-|↳|Software Engineering Intern, Data Engineering|50|Okland, CA|Open✅|03/01/2025|[Apply Here](https://careers.thredup.com/us/en/job/956/Software-Engineering-Intern-Data-Engineering)||
 |C&S Wholesale Grocers|Cyber Security Intern|23|Edison, NJ|Open🛂|03/01/2025|[Apply Here](https://careers.cswg.com/edison-nj/cyber-security-intern-summer-2025/0505726DC487424D8DF9D3B29183D86E/job)||
 |↳|Data Analyst Intern|23|Edison, NJ|Open🛂|03/01/2025|[Apply Here](https://careers.cswg.com/edison-nj/data-analyst-intern-summer-2025/3F1A4B338C114CC8AC0B727F6D6CEFC0/job)||
 |↳|Application Migration Intern, Mainframe|23|Keene, NH|Open🛂|03/01/2025|[Apply Here](https://careers.cswg.com/keene-nh/application-migration-intern-mainframe-summer-2025/61DEE23A86E44284A9E2A3DF8531306F/job)||
@@ -2535,10 +2572,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Deutsche Bank|Technology, Data and Innovation Intern|44.27|Cary, NC|Open✅|10/05/2024|[Apply Here](https://db.recsolu.com/external/requisitions/vuuwuFfzzsGmhlnhPxJQeA)||
 |↳|Quant Intern||New York, NY|Closed🔒|09/03/2024|||
 |↳|Technology, Data and Innovation Intern|52|New York, NY|Closed🔒|08/13/2024|||
-|Bae Systems|Data Science Intern|23.02 - 31.09|Fort Worth, TX|Closed🔒|10/05/2024|||
-|↳|Systems Engineering Intern IV|29.79 - 40.21|<details><summary>2 locations<br><br><b></summary>Hudson, NH<br>Manchester, NH</details><b>|Closed🔒|10/05/2024|||
-|↳|Data Analyst Intern|23.26 - 31.39|Nashua, NH|Closed🔒|10/05/2024|||
-|↳|Software Engineering Intern|25.32 - 34.2|San Diego, CA|Closed🔒|08/29/2024|||
 |Beckman Coulter Diagnostics|IT/Analytics Computer Science Intern|30|Brea, CA|Closed🔒|10/05/2024|||
 |↳|Software Engineer Intern|30|Chaska, MN|Closed🔒|09/18/2024|||
 |Legrand|Cybersecurity Intern|22 - 25|Carlsbad, CA|Closed🔒|10/05/2024|||
@@ -2997,8 +3030,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Curtiss Wright|Firmware Engineering Intern||Newton, PA|Closed🔒|09/12/2024|||
 |Blackstone|Software Engineer Summer Analyst|65.1|New York, NY|Closed🔒|09/12/2024|||
 |↳|Data Analyst Summer Analyst|57.29|New York, NY|Closed🔒|09/12/2024|||
-|Tencent|Backend Development Intern|36.45 - 56.25|Los Angeles, CA|Closed🔒|09/12/2024|||
-|↳|Software Engineer Intern||Los Angeles, CA|Closed🔒|09/10/2024|||
 |TransUnion|Data Science Intern|22 - 40|<details><summary>2 locations<br><br><b></summary>Chicago, IL<br>Alpharetta, GA</details><b>|Closed🔒|09/11/2024|||
 |RELX|Data Science Intern||Raleigh, NC|Closed🔒|09/11/2024|||
 |↳|Software Engineer Intern||Raleigh, NC|Closed🔒|09/11/2024|||
