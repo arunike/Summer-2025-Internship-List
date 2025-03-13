@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3420 (857 open & 2563 closed)** internship positions listed. **42** new positions were added today.
+There are total of **3429 (866 open & 2563 closed)** internship positions listed. **6** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,16 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|PJT Partners|Technology Summer Analyst|36.45|New York, NY|Open✅|03/12/2025|[Apply Here](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2025-Technology-Summer-Intern-Program_R0002917)|Undergrad Only|
+|Tricentis|DevOps Marketing Intern||Austin, TX|Open✅|03/12/2025|[Apply Here](https://tricentis.wd1.myworkdayjobs.com/en-US/Tricentis_Careers/job/Austin-Texas/DevOps-Marketing-Intern---Summer-2025_JR104586)||
+|Figure|Full-Stack Developer Intern||San Jose, CA|Open✅|03/12/2025|[Apply Here](https://job-boards.greenhouse.io/figureai/jobs/4451543006)||
+|↳|Embedded Software Intern||San Jose, CA|Open✅|03/12/2025|[Apply Here](https://job-boards.greenhouse.io/figureai/jobs/4452423006)||
+|↳|TeleOp Controls Intern|50 - 80|San Jose, CA|Open✅|03/12/2025|[Apply Here](https://job-boards.greenhouse.io/figureai/jobs/4452489006)||
+|↳|Full-Stack Engineer Intern||Sunnyvale, CA|Closed🔒|08/15/2024|||
+|Favor|Software Engineering Intern||Austin, TX|Open✅|03/12/2025|[Apply Here](https://jobs.lever.co/askfavor/3540e7d0-dd72-4583-94a6-176854b38bdf)||
+|IMO Health|Software Engineering Intern|20 - 22|Rosemont, IL|Open✅|03/11/2025|[Apply Here](https://jobs.lever.co/imo-online/a0891032-89c9-466a-a630-71aee319fa4f)||
+|NineDot|Data Engineering Intern|25|Brooklyn, NY|Open✅|03/11/2025|[Apply Here](https://jobs.lever.co/ninedot/7b3b3b3b-1b3b-4b3b-8b3b-3b3b3b3b3b3b)||
+|wordware|Engineering Intern||San Francisco, CA|Open✅|03/11/2025|[Apply Here](https://jobs.ashbyhq.com/wordware.ai/07dc0d12-1efc-4a70-8375-a171578ed7ca)||
 |State Street|Cloud Engineer Intern|8.12 - 30.46|Quincy, MA|Open✅|03/10/2025|[Apply Here](https://careers.statestreet.com/global/en/job/R-768684/Cloud-Engineer-Summer-Internship-2025)||
 |↳|Software engineer Intern|8.12 - 30.46|Burlington, MA|Open✅|03/10/2025|[Apply Here](https://careers.statestreet.com/global/en/job/R-769046/Software-engineer-Internship)||
 |↳|Cloud Engineer Intern, CRD|8.12 - 30.46|Burlington, MA|Open✅|03/10/2025|[Apply Here](https://careers.statestreet.com/global/en/job/R-768165/Cloud-Engineer-Internship-CRD-Charles-River-Development)||
@@ -3364,7 +3374,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Kohler|Software Engineering Intern, Kohler Ventures||Palo Alto, CA|Closed🔒|08/17/2024|||
 |PIMCO|Technology Analyst Intern, Software Engineering|52.88|Newport Beach, CA|Closed🔒|08/17/2024|||
 |Macquarie|Technology Intern||Houston, TX|Closed🔒|08/15/2024|||
-|Figure|Full-Stack Engineer Intern||Sunnyvale, CA|Closed🔒|08/15/2024|||
 |Boeing|Information Technology & Data Analytics, and Digital Aviation Solutions Intern|22.39 - 34.45|<details><summary>32 locations<br><br><b></summary>Everett, WA<br>Saint Charles, MO<br>Huntsville, AL<br>Salt Lake City, UT<br>Charleston, SC<br>Oklahoma City, OK<br>Berkeley, MO<br>Huntington Beach, CA<br>Hazelwood, MO<br>El Segundo, CA<br>Herndon, VA<br>Plano, TX<br>Arlington, VA<br>Ridley Park, PA<br>Tukwila, WA<br>North Charleston, SC<br>Englewood, CO<br>Fairfax, VA<br>Colorado Springs, CO<br>Chicago, IL<br>Seal Beach, CA<br>Mukilteo, WA<br>Atlanta, GA<br>Long Beach, CA<br>Renton, WA<br>Dallas, TX<br>Seattle, WA<br>Auburn, WA<br>Bellevue, WA<br>San Antonio, TX<br>Kent, WA<br>Mesa, AZ</details><b>|Closed🔒|08/14/2024|||
 |↳|Engineering Intern|22.39 - 45.83|<details><summary>66 locations<br><br><b></summary>Seattle, WA<br>Hill Air Force Base, UT<br>Huntsville, AL<br>Portland, OR<br>Richmond, VA<br>Washington, D.C.<br>Tinker Air Force Base, OK<br>Oklahoma City, OK<br>Madison, AL<br>Leesburg, VA<br>Arlington, VA<br>North Charleston, SC<br>Heath, OH<br>Englewood, CO<br>Fairfax, VA<br>Colorado Springs, CO<br>Seal Beach, CA<br>Maryland Heights, MO<br>Chantilly, VA<br>Dallas, TX<br>Virginia Beach, VA<br>Springfield, VA<br>Pleasanton, CA<br>San Antonio, TX<br>San Luis Obispo, CA<br>Saint Charles, MO<br>Salt Lake City, UT<br>Charleston, SC<br>Smithfield, PA<br>Orlando, FL<br>Berkeley, MO<br>Miami, FL<br>Huntington Beach, CA<br>Hazelwood, MO<br>Germantown, MD<br>El Segundo, CA<br>Albuquerque, NM<br>Fort Walton Beach, FL<br>Titusville, FL<br>China Lake Acres, CA<br>Herndon, VA<br>Swansea, IL<br>O'Fallon, IL<br>Ridley Park, PA<br>Tukwila, WA<br>John F Kennedy Space Center, FL<br>Jacksonville, FL<br>Edwards Air Force Base, CA<br>Scott Air Force Base, IL<br>Mountain View, CA<br>Houston, TX<br>California, MD<br>Belleville, IL<br>Mukilteo, WA<br>Long Beach, CA<br>Puyallup, WA<br>Renton, WA<br>Mascoutah, IL<br>Layton, UT<br>Los Angeles, CA<br>Auburn, WA<br>Philadelphia, PA<br>Everett, WA<br>Kent, WA<br>Mesa, AZ<br>New Orleans, LA</details><b>|Closed🔒|08/14/2024|||
 |Martin|Software Engineering Intern||Chambersburg, PA|Closed🔒|08/14/2024|||
