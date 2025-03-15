@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3429 (866 open & 2563 closed)** internship positions listed. **6** new positions were added today.
+There are total of **3440 (877 open & 2563 closed)** internship positions listed. **16** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,43 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Acuity|Front End Software Engineering Intern||Remote|Open✅|03/14/2025|[Apply Here](https://careers.acuityinc.com/job/Atlanta-Summer-Internship-Front-End-Software-Engineering-GA-30309/1272516400/)||
+|↳|Programmer Intern||<details><summary>2 locations<br><br><b></summary>Sheboygan, WI<br>Remote</details><b>|Closed🔒|09/15/2024|||
+|Posit|Software Engineer Intern, Connect||Remote|Open✅|03/14/2025|[Apply Here](https://posit.co/job-detail/?gh_jid=6506107003)||
+|Verint|Software Engineer Intern|25 - 30|Remote|Open✅|03/14/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3225)||
+|↳|Software Engineer Intern|25 - 30|Columbia, MD|Open✅|03/14/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3267)||
+|↳|Data Engineer Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3108)||
+|↳|Cloud Ops Coordinator Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3088)||
+|↳|Data Analyst/Scientist Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3083)||
+|↳|Dev Ops/Cloud Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3073)||
+|↳|Automation Engineer Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3076)||
+|Trellis Company|Software Engineer Intern|25 - 35|Remote|Open✅|03/14/2025|[Apply Here](https://boards.greenhouse.io/trelliscompany/jobs/4573500005)||
+|G2|Ruby on Rails Software Engineer Intern|24|Chicago, IL|Open✅|03/14/2025|[Apply Here](https://job-boards.greenhouse.io/g2crowd/jobs/6702352)||
+|↳|Data Analytics Intern|24|Chicago, IL|Open✅|03/14/2025|[Apply Here](https://job-boards.greenhouse.io/g2crowd/jobs/6702388)||
+|Spothero|Mobile Engineer Intern, Android|25|Chicago, IL|Open✅|03/14/2025|[Apply Here](https://spothero.com/careers/6698181)||
+|Salesforce|Software Engineer Intern|50 - 54|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>Seattle, WA</details><b>|Open✅|03/14/2025|[Apply Here](https://careers.salesforce.com/en/jobs/jr287066/summer-2025-intern-data-engineer/)||
+|↳|Software Engineering Intern, BT||Dallas, TX|Closed🔒|12/31/2024||Avaliable only to rising Sophomores|
+|↳|Database Engineer Intern|46 - 53|<details><summary>2 locations<br><br><b></summary>Bellevue, WA<br>Seattle, WA</details><b>|Closed🔒|12/22/2024|||
+|↳|AI Scientist Intern|54 - 65|<details><summary>2 locations<br><br><b></summary>Cambridge, MA<br>San Francisco, CA</details><b>|Closed🔒|12/22/2024|||
+|↳|Salesforce AI Research Intern|58 - 65|Palo Alto, CA|Open✅|12/22/2024|[Apply Here](https://careers.salesforce.com/en/jobs/jr268422/summer-2025-intern-salesforce-ai-research/)|Graduate Students Only|
+|↳|DevOps Engineer Intern|46 - 58|Burlington, MA|Closed🔒|12/22/2024|||
+|↳|AI Software Engineer Intern|52 - 65|Palo Alto, CA|Closed🔒|12/22/2024|||
+|↳|Data Analyst Intern||<details><summary>2 locations<br><br><b></summary>Dallas, TX<br>Atlanta, GA</details><b>|Closed🔒|12/11/2024|||
+|↳|Data Science Intern, Slack|58 - 65|San Francisco, CA|Closed🔒|10/15/2024|||
+|↳|Site Reliability Engineer Intern|58 - 65|Burlington, MA|Closed🔒|10/15/2024|||
+|↳|Tableau AI/ML Intern - PhD|60 - 65|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>Bellevue, WA</details><b>|Closed🔒|10/15/2024|||
+|↳|AI Software Engineer Intern|58 - 65|Palo Alto, CA|Closed🔒|10/10/2024|||
+|↳|Software Engineer Intern, Security/Government|46 - 65|<details><summary>4 locations<br><br><b></summary>Bellevue, WA<br>Seattle, WA<br>Atlanta, GA<br>San Francisco, CA</details><b>|Closed🔒|08/24/2024|||
+|↳|Systems Engineer Intern|46 - 65|<details><summary>6 locations<br><br><b></summary>Bellevue, WA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Cambridge, MA<br>San Francisco, CA</details><b>|Closed🔒|08/23/2024|||
+|↳|Software Engineer Intern|48 - 58|<details><summary>8 locations<br><br><b></summary>San Francisco, CA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Bellevue, WA<br>Dallas, TX<br>Atlanta, GA<br>Indianapolis, IN</details><b>|Closed🔒|08/06/2024|||
+|↳|Futureforce Tech Equality Summit, Intern|43 - 52||Closed🔒|05/19/2024|||
+|SonicWall|Gen AI Development Intern||Remote|Open✅|03/14/2025|[Apply Here](https://job-boards.greenhouse.io/sonicwall/jobs/6632796)||
+|↳|Platform Engineering Intern||Remote|Open✅|03/14/2025|[Apply Here](https://job-boards.greenhouse.io/sonicwall/jobs/6632714)||
+|↳|Data Plane Engineer Intern||Remote|Open✅|03/14/2025|[Apply Here](https://job-boards.greenhouse.io/sonicwall/jobs/6631686)||
+|↳|Developer Intern||Remote|Open✅|03/14/2025|[Apply Here](https://job-boards.greenhouse.io/sonicwall/jobs/6631645)||
+|Airbus|Paint Shop Data Analyst Intern||Mobile Area, AL|Open✅|03/14/2025|[Apply Here](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mobile-Area-AL/Summer-Internship---Paint-Shop-Data-Analyst_JR10319392)||
+|↳|ADU Shop Data Analyst Intern||Mobile Area, AL|Open✅|03/14/2025|[Apply Here](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mobile-Area-AL/Summer-Internship---ADU-Shop-Data-Analyst_JR10319435)||
+|Arvinas|Computational Chemistry & Artificial Intelligence Intern||Remote|Open✅|03/14/2025|[Apply Here](https://job-boards.greenhouse.io/arvinas/jobs/6491254003)||
 |PJT Partners|Technology Summer Analyst|36.45|New York, NY|Open✅|03/12/2025|[Apply Here](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2025-Technology-Summer-Intern-Program_R0002917)|Undergrad Only|
 |Tricentis|DevOps Marketing Intern||Austin, TX|Open✅|03/12/2025|[Apply Here](https://tricentis.wd1.myworkdayjobs.com/en-US/Tricentis_Careers/job/Austin-Texas/DevOps-Marketing-Intern---Summer-2025_JR104586)||
 |Figure|Full-Stack Developer Intern||San Jose, CA|Open✅|03/12/2025|[Apply Here](https://job-boards.greenhouse.io/figureai/jobs/4451543006)||
@@ -907,16 +944,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Machine Learning Engineering Intern||Boston, MA|Closed🔒|10/10/2024|||
 |ARSIEM|Computer Science Intern||Baltimore, MD|Open🇺🇸|01/16/2025|[Apply Here](https://jobs.lever.co/arsiem/527641ac-a93f-4898-9879-5556ac28f56d)||
 |↳|Software/AI Developer Intern||Baltimore, MD|Open✅|01/16/2025|[Apply Here](https://jobs.lever.co/arsiem/385fb9dd-ece3-46e5-84b2-53d51b8adf91)||
-|Verint|Software Engineer Intern 3102|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3102)||
-|↳|Software Engineer Intern 3180|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3080)||
-|↳|Software Engineer Intern 3075|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3075)||
-|↳|Software Engineer Intern 3079|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3079)||
-|↳|Software Engineer Intern 3087|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3087)||
-|↳|Data Engineer Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3108)||
-|↳|Cloud Ops Coordinator Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3088)||
-|↳|Data Analyst/Scientist Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3083)||
-|↳|Dev Ops/Cloud Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3073)||
-|↳|Automation Engineer Intern|25 - 30|Remote|Open✅|01/16/2025|[Apply Here](https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3076)||
 |ITHAKA|Software Engineering Intern, Platform Engineering|20|Remote|Open✅|01/16/2025|[Apply Here](https://www.ithaka.org/job/4517719005/)||
 |Capital One|Technology Early Intern||McLean, VA|Closed🔒|01/16/2025||Exclusive for incoming Junior Students|
 |↳|Technology Intern|72.92 - 77.6|<details><summary>3 locations<br><br><b></summary>McLean, VA<br>Richmond, VA<br>Plano, TX</details><b>|Closed🔒|01/16/2025|||
@@ -1191,21 +1218,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Engineering Intern, Full Stack Applications||Wilmington, MA|Closed🔒|12/31/2024|||
 |↳|Software Engineering Intern, Robotic Behaviors||Wilmington, MA|Closed🔒|12/31/2024|||
 |Park National Bank|Intern|25|<details><summary>5 locations<br><br><b></summary>Newark, OH<br>Cincinnati, OH<br>Louisville, KY<br>Springfield, OH<br>Orlando, FL</details><b>|Open✅|12/31/2024|[Apply Here](https://recruiting.ultipro.com/PAR1025PNATB/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=240c962c-34e6-4020-81fa-177e0ae26923)||
-|Salesforce|Software Engineering Intern, BT||Dallas, TX|Closed🔒|12/31/2024||Avaliable only to rising Sophomores|
-|↳|Database Engineer Intern|46 - 53|<details><summary>2 locations<br><br><b></summary>Bellevue, WA<br>Seattle, WA</details><b>|Closed🔒|12/22/2024|||
-|↳|AI Scientist Intern|54 - 65|<details><summary>2 locations<br><br><b></summary>Cambridge, MA<br>San Francisco, CA</details><b>|Closed🔒|12/22/2024|||
-|↳|Salesforce AI Research Intern|58 - 65|Palo Alto, CA|Open✅|12/22/2024|[Apply Here](https://careers.salesforce.com/en/jobs/jr268422/summer-2025-intern-salesforce-ai-research/)|Graduate Students Only|
-|↳|DevOps Engineer Intern|46 - 58|Burlington, MA|Closed🔒|12/22/2024|||
-|↳|AI Software Engineer Intern|52 - 65|Palo Alto, CA|Closed🔒|12/22/2024|||
-|↳|Data Analyst Intern||<details><summary>2 locations<br><br><b></summary>Dallas, TX<br>Atlanta, GA</details><b>|Closed🔒|12/11/2024|||
-|↳|Data Science Intern, Slack|58 - 65|San Francisco, CA|Closed🔒|10/15/2024|||
-|↳|Site Reliability Engineer Intern|58 - 65|Burlington, MA|Closed🔒|10/15/2024|||
-|↳|Tableau AI/ML Intern - PhD|60 - 65|<details><summary>2 locations<br><br><b></summary>San Francisco, CA<br>Bellevue, WA</details><b>|Closed🔒|10/15/2024|||
-|↳|AI Software Engineer Intern|58 - 65|Palo Alto, CA|Closed🔒|10/10/2024|||
-|↳|Software Engineer Intern, Security/Government|46 - 65|<details><summary>4 locations<br><br><b></summary>Bellevue, WA<br>Seattle, WA<br>Atlanta, GA<br>San Francisco, CA</details><b>|Closed🔒|08/24/2024|||
-|↳|Systems Engineer Intern|46 - 65|<details><summary>6 locations<br><br><b></summary>Bellevue, WA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Cambridge, MA<br>San Francisco, CA</details><b>|Closed🔒|08/23/2024|||
-|↳|Software Engineer Intern|48 - 58|<details><summary>8 locations<br><br><b></summary>San Francisco, CA<br>Boston, MA<br>Seattle, WA<br>Burlington, MA<br>Bellevue, WA<br>Dallas, TX<br>Atlanta, GA<br>Indianapolis, IN</details><b>|Closed🔒|08/06/2024|||
-|↳|Futureforce Tech Equality Summit, Intern|43 - 52||Closed🔒|05/19/2024|||
 |Thermo Fisher Scientific|Artificial Intelligence Intern||Pittsburgh, PA|Closed🔒|12/30/2024|||
 |↳|Data Science Technician Manufacturing Operations Support Intern|21 - 26.5|Carlsbad, CA|Closed🔒|12/30/2024|||
 |↳|Sr. Data Science Intern|29 - 38.5|Guilford, CT|Closed🔒|12/30/2024|||
@@ -2965,7 +2977,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Noah Medical|Software Engineer Intern|24 - 31|San Carlos, CA|Closed🔒|09/16/2024|||
 |Citizens|Software Engineer Intern, Enterprise Technology & Security||<details><summary>4 locations<br><br><b></summary>Johnson, RI<br>Iselin, NJ<br>Phoenix, AZ<br>Westwood, MA</details><b>|Closed🔒|09/16/2024|||
 |Best Buy|Associate Software Engineering Intern||Richfield, MN|Closed🔒|09/16/2024|||
-|Acuity|Programmer Intern||<details><summary>2 locations<br><br><b></summary>Sheboygan, WI<br>Remote</details><b>|Closed🔒|09/15/2024|||
 |Johns Hopkins University Applied Physics Laboratory|Algorithm Developer Intern, Artificial Intelligence, Machine Learning, and Information Fusion||Laurel, MD|Closed🔒|09/15/2024|||
 |↳|Cyber Security Intern, Cyber Dominance||Laurel, MD|Closed🔒|09/15/2024|||
 |↳|Software Developer Intern, Tactical System Prototyping and Deployment||Laurel, MD|Closed🔒|09/15/2024|||
