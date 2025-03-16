@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3440 (877 open & 2563 closed)** internship positions listed. **16** new positions were added today.
+There are total of **3445 (882 open & 2563 closed)** internship positions listed. **5** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,11 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Franklin Templeton|Digital Technology Intern, AI - Undergrad|28 - 34|<details><summary>3 locations<br><br><b></summary>San Ramon, CA<br>San Mateo, CA<br>New York, NY</details><b>|Open✅|03/16/2025|[Apply Here](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Ramon-California-United-States-of-America/FTT-Digital-Technology---AI---Undergrad-Intern_861503)||
+|↳|AI & Digital Transformation Intern - Undergrad|34|<details><summary>3 locations<br><br><b></summary>San Ramon, CA<br>New York, NY<br>Short Hills, NJ</details><b>|Open✅|03/16/2025|[Apply Here](https://franklintempleton.wd5.myworkdayjobs.com/en-US/invitation-only/job/San-Ramon-California-United-States-of-America/AI---Digital-Transformation---Undergrad-Intern_861501)||
+|↳|HNW Wealth Management Technology Intern - Undergrad|34|New York, NY|Open✅|03/16/2025|[Apply Here](https://franklintempleton.wd5.myworkdayjobs.com/en-US/invitation-only/job/NY1MFL19FT/HNW-Wealth-Management-Technology---Undergrad-Intern_861488)||
+|↳|Enterprise Data & Analytics Intern - Undergrad|34|Baltimore, MD|Open✅|03/16/2025|[Apply Here](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-BAL1201-Baltimore/Enterprise-Data---Analytics---Undergrad-Intern_861482)||
+|NRECA|Artificial Intelligence Applications Intern||Arlington, VA|Open✅|03/16/2025|[Apply Here](https://nreca.wd1.myworkdayjobs.com/en-US/External/job/Artificial-Intelligence-Applications-Intern_R2025-722)||
 |Acuity|Front End Software Engineering Intern||Remote|Open✅|03/14/2025|[Apply Here](https://careers.acuityinc.com/job/Atlanta-Summer-Internship-Front-End-Software-Engineering-GA-30309/1272516400/)||
 |↳|Programmer Intern||<details><summary>2 locations<br><br><b></summary>Sheboygan, WI<br>Remote</details><b>|Closed🔒|09/15/2024|||
 |Posit|Software Engineer Intern, Connect||Remote|Open✅|03/14/2025|[Apply Here](https://posit.co/job-detail/?gh_jid=6506107003)||
