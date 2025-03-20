@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3469 (908 open & 2561 closed)** internship positions listed. **28** new positions were added today.
+There are total of **3477 (916 open & 2561 closed)** internship positions listed. **8** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,14 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Wealth.com|Applied Scientist Intern, AI/ML|25|Remote|Open✅|03/19/2025|[Apply Here](https://jobs.lever.co/WealthFinancialTechnologies/84c7ccc3-774c-47e3-a0e6-696a5e99f537)|Graduate Students Only|
+|Hunt|Software Developer Intern||Dallas, TX|Open✅|03/19/2025|[Apply Here](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/666)||
+|WM|Software Engineer Intern, Collections Operations Optimization Center||Houston, TX|Open✅|03/19/2025|[Apply Here](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2330150)||
+|Wurl|Full Stack Software Engineer Intern Intern||Remote|Open✅|03/19/2025|[Apply Here](https://job-boards.greenhouse.io/wurljobs/jobs/4454109006)||
+|Pitney Bowes|Software Engineering Intern||Shelton, CT|Open🛂|03/19/2025|[Apply Here](https://careers.pitneybowes.com/global/en/job/R19675/Software-Engineering-Intern-Onsite)||
+|↳|Presort Data Product Engineering Intern||Shelton, CT|Open🛂|03/19/2025|[Apply Here](https://careers.pitneybowes.com/global/en/job/R19698/Presort-Data-Product-Engineering-Intern-Summer-2025-Shelton-CT)||
+|HARMAN|Web Tools Intern|21 - 38|Novi, MI|Open✅|03/19/2025|[Apply Here](https://jobsearch.harman.com/en_US/careers/JobDetail/Summer-Intern-Web-Tools/25408)||
+|↳|Software Engineering Intern|21 - 38|Novi, MI|Open✅|03/19/2025|[Apply Here](https://jobsearch.harman.com/en_US/careers/JobDetail/Summer-Intern-Software-Engineering/25515)||
 |PMG|Data & Analytics Intern||Dallas, TX|Open✅|03/18/2025|[Apply Here](https://job-boards.greenhouse.io/pmg/jobs/7824941002)||
 |↳|AI & Software Engineering Intern||Austin, TX|Open✅|01/25/2025|[Apply Here](https://www.pmg.com/careers/job/7824900002)||
 |Pico|C Developer Intern||Woburn, MA|Open✅|03/18/2025|[Apply Here](https://boards.greenhouse.io/picoquantitativetrading/jobs/4415028006)||
