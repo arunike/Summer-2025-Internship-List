@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3477 (916 open & 2561 closed)** internship positions listed. **8** new positions were added today.
+There are total of **3484 (923 open & 2561 closed)** internship positions listed. **7** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,13 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|AssetWorks|Software Test Automation Engineer Intern||Plano, TX|Open✅|03/21/2025|[Apply Here](https://volarisgroup.wd3.myworkdayjobs.com/en-US/AssetWorks/job/United-States---Plano-TX/Software-Test-Automation-Engineer-Intern_R56761-1)||
+|↳|QA Intern||San Antonio, TX|Open✅|03/21/2025|[Apply Here](https://volarisgroup.wd3.myworkdayjobs.com/en-US/AssetWorks/job/United-States---San-Antonio-Texas/QA-Intern_R56729-2)||
+|↳|Software Development Intern||Plano, TX|Open✅|03/21/2025|[Apply Here](https://volarisgroup.wd3.myworkdayjobs.com/en-US/AssetWorks/job/United-States---Plano-TX/Software-Development-Intern_R56760-1)||
+|Walter P Moore|Software Developer Intern||Austin, TX|Open✅|03/21/2025|[Apply Here](https://careers-walterpmoore.icims.com/jobs/3563/software-developer-intern/job)||
+|BigHat Biosciences|Data Science Intern||San Mateo, CA|Open✅|03/21/2025|[Apply Here](https://bighatbiosciences.pinpointhq.com/en/postings/49e9d54e-b7fb-4fe3-af73-27ff9b8cf4b4)||
+|↳|Machine Learning Intern||San Mateo, CA|Open✅|03/21/2025|[Apply Here](https://bighatbiosciences.pinpointhq.com/en/postings/0c816e4e-cf7a-4b6c-bfb8-7a643cf2724d)||
+|SoundCloud|Web Software Engineering Intern|17.81|Los Angeles, CA|Open✅|03/21/2025|[Apply Here](https://boards.greenhouse.io/soundcloud71/jobs/7924207002)||
 |Wealth.com|Applied Scientist Intern, AI/ML|25|Remote|Open✅|03/19/2025|[Apply Here](https://jobs.lever.co/WealthFinancialTechnologies/84c7ccc3-774c-47e3-a0e6-696a5e99f537)|Graduate Students Only|
 |Hunt|Software Developer Intern||Dallas, TX|Open✅|03/19/2025|[Apply Here](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/666)||
 |WM|Software Engineer Intern, Collections Operations Optimization Center||Houston, TX|Open✅|03/19/2025|[Apply Here](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2330150)||
