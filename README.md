@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3484 (923 open & 2561 closed)** internship positions listed. **7** new positions were added today.
+There are total of **3497 (936 open & 2561 closed)** internship positions listed. **13** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,19 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|ASSA ABLOY|Firmware Engineering Intern||Lake Forest, CA|Open✅|03/22/2025|[Apply Here](https://assaabloy.jobs2web.com/job/Lake-Forest-Firmware-Engineering-Intern-CA-92610/1182525201)||
+|Crestron Electronics|Software Engineering Intern, Device Drivers||Plano, TX|Open🛂|03/22/2025|[Apply Here](https://globalus242.dayforcehcm.com/CandidatePortal/en-US/crestron/Posting/View/2456)||
+|↳|Firmware Engineering Intern, BSP||Plano, TX|Open🛂|03/22/2025|[Apply Here](https://globalus242.dayforcehcm.com/CandidatePortal/en-US/crestron/Posting/View/2428)||
+|↳|Firmware Engineering Intern, Test Automation||Rockleigh, NJ|Open🛂|03/22/2025|[Apply Here](https://globalus242.dayforcehcm.com/CandidatePortal/en-US/crestron/Posting/View/2409)||
+|↳|FQuality Engineering Intern, UC Windows||Rockleigh, NJ|Open🛂|03/22/2025|[Apply Here](https://globalus242.dayforcehcm.com/CandidatePortal/en-US/crestron/Posting/View/2386)||
+|Versant Health|IT ePMO Intern||Remote|Open✅|03/22/2025|[Apply Here](https://jobs.dayforcehcm.com/en-US/versanthealth/VersantHealth/jobs/13252)||
+|↳|IT Application Development Intern||Remote|Open✅|03/22/2025|[Apply Here](https://jobs.dayforcehcm.com/en-US/versanthealth/VersantHealth/jobs/13270)||
+|ABC Fitness|IT Corporate Apps Intern|25|Remote|Open✅|03/22/2025|[Apply Here](https://abcfinancial.wd5.myworkdayjobs.com/en-US/ABCFinancialServices/job/Remote-United-States/IT-Corporate-Apps-Intern_REQ-03802)||
+|↳|Software Engineer Intern, SQL Development|25|Remote|Open✅|03/22/2025|[Apply Here](https://abcfinancial.wd5.myworkdayjobs.com/en-US/ABCFinancialServices/job/Remote-United-States/Software-Engineer---SQL-Development---Intern_REQ-03809)||
+|↳|Software Development Intern, Full Stack|25|Remote|Open✅|03/22/2025|[Apply Here](https://abcfinancial.wd5.myworkdayjobs.com/en-US/ABCFinancialServices/job/Remote-United-States/Software-Development-Intern--Full-Stack-_REQ-03724)||
+|↳|Software Development Intern, Java|25|Remote|Open✅|03/22/2025|[Apply Here](https://abcfinancial.wd5.myworkdayjobs.com/en-US/ABCFinancialServices/job/Remote-United-States/Software-Development-Intern--Java-_REQ-03725)||
+|Norstella|Software Engineering Intern||Remote|Open✅|03/22/2025|[Apply Here](https://careers.norstella.com/jobs/15824364-software-engineering-intern)||
+|↳|Software Engineering / Machine Learning Intern||Remote|Open✅|03/22/2025|[Apply Here](https://careers.norstella.com/jobs/15824367-software-engineering-slash-machine-learning-intern)||
 |AssetWorks|Software Test Automation Engineer Intern||Plano, TX|Open✅|03/21/2025|[Apply Here](https://volarisgroup.wd3.myworkdayjobs.com/en-US/AssetWorks/job/United-States---Plano-TX/Software-Test-Automation-Engineer-Intern_R56761-1)||
 |↳|QA Intern||San Antonio, TX|Open✅|03/21/2025|[Apply Here](https://volarisgroup.wd3.myworkdayjobs.com/en-US/AssetWorks/job/United-States---San-Antonio-Texas/QA-Intern_R56729-2)||
 |↳|Software Development Intern||Plano, TX|Open✅|03/21/2025|[Apply Here](https://volarisgroup.wd3.myworkdayjobs.com/en-US/AssetWorks/job/United-States---Plano-TX/Software-Development-Intern_R56760-1)||
