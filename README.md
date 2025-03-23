@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3497 (936 open & 2561 closed)** internship positions listed. **13** new positions were added today.
+There are total of **3500 (939 open & 2561 closed)** internship positions listed. **3** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,10 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Vantage|Software Engineering Intern|37.5 - 43.75|New York, NY|Open✅|03/23/2025|[Apply Here](https://www.vantage.sh/careers/?ashby_jid=58a681f5-4de1-43d7-8d5d-ca7b3ec963bb)||
+|↳|Development Intern, NA|20 - 25|<details><summary>2 locations<br><br><b></summary>Denver, CO<br>Ashburn, VA</details><b>|Closed🔒|11/15/2024|||
+|UTZ Brands|Web Development Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Hanover, PA</details><b>|Open✅|03/23/2025|[Apply Here](https://myjobs.adp.com/utzexternalcareer1/cx/job-details?reqId=5001109951300)||
+|↳|IT Infrastructure Intern||Hanover, PA|Open✅|03/23/2025|[Apply Here](https://myjobs.adp.com/utzexternalcareer1/cx/job-details?reqId=5001108100600)||
 |ASSA ABLOY|Firmware Engineering Intern||Lake Forest, CA|Open✅|03/22/2025|[Apply Here](https://assaabloy.jobs2web.com/job/Lake-Forest-Firmware-Engineering-Intern-CA-92610/1182525201)||
 |Crestron Electronics|Software Engineering Intern, Device Drivers||Plano, TX|Open🛂|03/22/2025|[Apply Here](https://globalus242.dayforcehcm.com/CandidatePortal/en-US/crestron/Posting/View/2456)||
 |↳|Firmware Engineering Intern, BSP||Plano, TX|Open🛂|03/22/2025|[Apply Here](https://globalus242.dayforcehcm.com/CandidatePortal/en-US/crestron/Posting/View/2428)||
@@ -1879,8 +1883,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Test Engineering Intern||San Jose, CA|Closed🔒|08/30/2024|||
 |↳|Software Engineering Intern|35.1 - 45.63|San Jose, CA|Closed🔒|08/29/2024|||
 |AMP|Robotics Software Intern|20 - 40|Louisville, CO|Closed🔒|11/15/2024|||
-|Vantage|Development Intern, NA|20 - 25|<details><summary>2 locations<br><br><b></summary>Denver, CO<br>Ashburn, VA</details><b>|Closed🔒|11/15/2024|||
-|↳|Data Centers Intern||<details><summary>2 locations<br><br><b></summary>Denver, CO<br>Ashburn, VA</details><b>|Open✅|10/30/2024|[Apply Here](https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Vantage-Data-Centers-Intern--NA_R16328)||
 |B. Braun Medical|R&D Intern, Software Development||Allentown, PA|Closed🔒|11/14/2024|||
 |TickPick|Software Engineer Intern|23 - 26|New York, NY|Closed🔒|11/14/2024|||
 |Lockheed Martin|Software Engineer Intern, Fusion||Fort Worth, TX|Closed🔒|11/14/2024|||
@@ -2310,6 +2312,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Infrastructure Engineering Intern||Irving, TX|Closed🔒|10/30/2024|||
 |DecisionRx|Software Engineering Intern||<details><summary>2 locations<br><br><b></summary>Indianapolis, IN<br>Remote</details><b>|Closed🔒|10/30/2024|||
 |BizMerlinHR|Software Engineering Intern||Remote|Closed🔒|10/30/2024|||
+|Vantage Data Centers|Data Centers Intern||<details><summary>2 locations<br><br><b></summary>Denver, CO<br>Ashburn, VA</details><b>|Open✅|10/30/2024|[Apply Here](https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Vantage-Data-Centers-Intern--NA_R16328)||
 |Rf-Smart|Software Development Intern|25|<details><summary>2 locations<br><br><b></summary>Jacksonville, FL<br>Highlands Ranch, CO</details><b>|Closed🔒|10/30/2024|||
 |↳|DevOps Intern|20|Jacksonville, FL|Closed🔒|10/30/2024|||
 |↳|Software Support Engineer Intern|25|<details><summary>2 locations<br><br><b></summary>Jacksonville, FL<br>Denver, CO</details><b>|Closed🔒|10/30/2024|||
