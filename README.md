@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3500 (939 open & 2561 closed)** internship positions listed. **3** new positions were added today.
+There are total of **3503 (942 open & 2561 closed)** internship positions listed. **3** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,9 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Strategic Education|Application Development Intern, Software Engineer (UI)|19.5 - 29.75|Remote|Open✅|03/24/2025|[Apply Here](https://strayer.wd1.myworkdayjobs.com/en-US/SEI/job/Remote/Application-Development---Software-Engineer---UI--Intern_R26817)||
+|TrustLab|Python Developer Intern, Internal Tools||Pal Alto, CA|Open✅|03/24/2025|[Apply Here](https://ats.rippling.com/trustlab-careers/jobs/1e8644a0-24c7-4a6b-b6b7-8af3ec872872)||
+|Veolia|Data Analyst Intern|20 - 25|Paramus, NJ|Open✅|03/24/2025|[Apply Here](https://jobs.veolia.com/en/job/paramus/data-analyst-intern/3091/22846495872)||
 |Vantage|Software Engineering Intern|37.5 - 43.75|New York, NY|Open✅|03/23/2025|[Apply Here](https://www.vantage.sh/careers/?ashby_jid=58a681f5-4de1-43d7-8d5d-ca7b3ec963bb)||
 |↳|Development Intern, NA|20 - 25|<details><summary>2 locations<br><br><b></summary>Denver, CO<br>Ashburn, VA</details><b>|Closed🔒|11/15/2024|||
 |UTZ Brands|Web Development Intern||<details><summary>2 locations<br><br><b></summary>Remote<br>Hanover, PA</details><b>|Open✅|03/23/2025|[Apply Here](https://myjobs.adp.com/utzexternalcareer1/cx/job-details?reqId=5001109951300)||
