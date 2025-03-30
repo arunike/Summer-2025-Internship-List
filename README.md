@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3541 (981 open & 2560 closed)** internship positions listed. **39** new positions were added today.
+There are total of **3547 (987 open & 2560 closed)** internship positions listed. **6** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,17 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Lumentum|Software Engineering Intern|27.2 - 53.25|San Jose, CA|Open✅|03/29/2025|[Apply Here](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/USA---CA---San-Jose-Ridder/Software-Development-Intern_2025469)||
+|NetApp|Software Engineer Intern, Generative AI||San Jose, CA|Open✅|03/29/2025|[Apply Here](https://careers.netapp.com/job/san-jose/software-engineer-intern-generative-ai/27600/79189792416)||
+|↳|IT Software Engineer Intern||RTP, NC|Open✅|03/29/2025|[Apply Here](https://careers.netapp.com/job/research-triangle-park/it-software-engineer-intern/27600/79189792432)||
+|↳|Software Engineer Intern||<details><summary>5 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Boulder, CO<br>Witchita, KS<br>Cranberry, PA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/san-jose/intern-software-engineer/27600/71710315840)||
+|↳|Solution Engineer Intern||<details><summary>4 locations<br><br><b></summary>RTP, NC<br>New York, NY<br>San Jose, CA<br>Vienna, VA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400)||
+|↳|Information Technology Intern||RTP, NC|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-information-technology/27600/71710316816)||
+|Avande|Software Developer Intern||<details><summary>3 locations<br><br><b></summary>Chicago, IL<br>Houston, TX<br>Seattle, WA</details><b>|Open✅|03/29/2025|[Apply Here](https://careers.avanade.com/en-US/job/Seattle/Data-Science-Intern/27600/79189792416)||
+|Docusign|Software Engineer Intern|31 - 38|Seattle, WA|Open✅|03/29/2025|[Apply Here](https://careers.docusign.com/jobs/26617)||
+|↳|Platform Software Engineer Intern|39 - 50|San Francisco, CA|Closed🔒|12/12/2024|||
+|↳|AI Engineer Intern, Employee Experience|31 - 40|San Francisco, CA|Closed🔒|12/12/2024|||
+|Definitive Healthcare|Data Intern||Framingham, MA|Open✅|03/29/2025|[Apply Here](https://boards.greenhouse.io/definitivehc/jobs/5489192004)||
 |Curri|Software Engineer Intern|30|Remote|Open✅|03/27/2025|[Apply Here](https://jobs.lever.co/curri/2615a18f-60a2-41b2-a42b-53ae2703fa21)||
 |Seurat|Application Engineering Intern||Wilmington, MA|Open✅|03/27/2025|[Apply Here](https://job-boards.greenhouse.io/seurat/jobs/4544053005)||
 |Tatari|Data Science Analyst Intern|36.45 - 46.87|New York, NY|Open✅|03/27/2025|[Apply Here](https://www.tatari.tv/careers/job-posting?gh_jid=7928312002)||
@@ -1589,8 +1600,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |FormLabs|Embedded Software Intern||Somerville, MA|Closed🔒|12/12/2024|||
 |↳|Desktop Software Intern||Somerville, MA|Closed🔒|12/12/2024|||
 |↳|Python Software Intern|30 - 40|Somerville, MA|Closed🔒|11/06/2024|||
-|Docusign|Platform Software Engineer Intern|39 - 50|San Francisco, CA|Closed🔒|12/12/2024|||
-|↳|AI Engineer Intern, Employee Experience|31 - 40|San Francisco, CA|Closed🔒|12/12/2024|||
 |UiPath|Software Engineer Intern - PhD||Bellvue, WA|Closed🔒|12/12/2024|||
 |↳|Software Engineer Intern||Bellvue, WA|Closed🔒|12/12/2024|||
 |General Dynamics - Mission Systems|Software Engineering Intern|25 - 28|Pittsfield, MA|Closed🔒|12/12/2024|||
@@ -2428,9 +2437,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Software Test Engineering Intern||Huntsville, AL|Closed🔒|10/25/2024|||
 |↳|Software Engineering Intern||Dallas, TX|Closed🔒|10/25/2024|||
 |↳|Software Engineering Intern||Huntsville, AL|Closed🔒|10/25/2024|||
-|NetApp|Software Engineer Intern||<details><summary>5 locations<br><br><b></summary>San Jose, CA<br>RTP, NC<br>Boulder, CO<br>Witchita, KS<br>Cranberry, PA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/san-jose/intern-software-engineer/27600/71710315840)||
-|↳|Solution Engineer Intern||<details><summary>4 locations<br><br><b></summary>RTP, NC<br>New York, NY<br>San Jose, CA<br>Vienna, VA</details><b>|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400)||
-|↳|Information Technology Intern||RTP, NC|Open✅|10/24/2024|[Apply Here](https://careers.netapp.com/job/research-triangle-park/intern-information-technology/27600/71710316816)||
 |Trihydro|Software Developer Intern||<details><summary>2 locations<br><br><b></summary>Fort Collins, CO<br>Laramie, WY</details><b>|Closed🔒|10/24/2024|||
 |Pega|Software Engineer Intern, Orion||Waltham, MA|Closed🔒|10/24/2024|||
 |↳|Software Engineering Intern, Customer Decision Hub||Waltham, MA|Closed🔒|10/01/2024|||
