@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3547 (987 open & 2560 closed)** internship positions listed. **6** new positions were added today.
+There are total of **3559 (998 open & 2561 closed)** internship positions listed. **12** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,19 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Bio-Rad|Software Engineering Intern, Testing||Hercules, CA|Open✅|04/07/2025|[Apply Here](https://careers.bio-rad.com/jobs/software-engineering-intern-hercules-california-united-states-65ad661a-d8bb-404f-a414-3bf14d026837)||
+|↳|Software Engineering Intern||Hercules, CA|Open✅|04/07/2025|[Apply Here](https://careers.bio-rad.com/jobs/software-engineer-intern-hercules-california-united-states-aa4e30ee-e623-4262-bdfc-ff2559fc28a9)||
+|Coherent|Software Engineer Intern||San Jose, CA|Open✅|04/07/2025|[Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2007131)||
+|↳|AI Intern||Newtown, CT|Open✅|04/07/2025|[Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2007081)||
+|↳|IT Security Intern||Santa Clara, CA|Open✅|04/07/2025|[Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2006970)||
+|↳|Web Parametrics Intern||Santa Clara, CA|Open✅|04/07/2025|[Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2006697)||
+|↳|Software Test Development Intern||Fremont, CA|Open✅|04/07/2025|[Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2006823)||
+|↳|Enterprise Software Development Intern||Fremont, CA|Open✅|04/07/2025|[Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2007033)||
+|↳|Data Science, AI and Business Analytics Intern||Santa Clara, CA|Open✅|04/07/2025|[Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2007034)||
+|Omnidian|Software Engineer Intern||Seattle, WA|Open✅|04/07/2025|[Apply Here](https://jobs.lever.co/omnidian/4d20aa4f-b634-45a0-8c6c-035cf6d87726)||
+|Amentum|Software Requirements Engineer Intern||Huntsville, AL|Open🛂|04/07/2025|[Apply Here](https://www.amentumcareers.com/jobs/software-requirements-engineer-intern-huntsville-alabama-united-states)||
+|↳|Artificial Intelligence Intern||Houston, TX|Open🛂|04/07/2025|[Apply Here](https://www.amentumcareers.com/jobs/summer-2025-software-engineer-intern-artificial-intelligence-houston-texas-united-states)||
+|↳|Software Engineering Intern||Houston, TX|Closed🔒|02/13/2025|||
 |Lumentum|Software Engineering Intern|27.2 - 53.25|San Jose, CA|Open✅|03/29/2025|[Apply Here](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/USA---CA---San-Jose-Ridder/Software-Development-Intern_2025469)||
 |NetApp|Software Engineer Intern, Generative AI||San Jose, CA|Open✅|03/29/2025|[Apply Here](https://careers.netapp.com/job/san-jose/software-engineer-intern-generative-ai/27600/79189792416)||
 |↳|IT Software Engineer Intern||RTP, NC|Open✅|03/29/2025|[Apply Here](https://careers.netapp.com/job/research-triangle-park/it-software-engineer-intern/27600/79189792432)||
@@ -527,7 +540,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Brinks Home|Software Engineer Intern||Farmers Branch, TX|Open✅|02/13/2025|[Apply Here](https://jobs.jobvite.com/brinkshome/job/oKwqvfwV)||
 |7-Eleven|Software Engineer Intern||Irving, TX|Open✅|02/13/2025|[Apply Here](https://careers.7-eleven.com/job/irving/software-engineer-intern/45445/77346928592)||
 |↳|Supply Chain Data Scientist Intern||Irving, TX|Open✅|01/31/2025|[Apply Here](https://careers.7-eleven.com/job/irving/supply-chain-data-scientist-intern/45445/76708737104)||
-|Amentum|Software Engineering Intern||Houston, TX|Open🛂|02/13/2025|[Apply Here](https://www.amentumcareers.com/jobs/2025-summer-software-engineering-internship-houston-texas-united-states)||
 |Honda Research Institute|Robotics Software Engineering Intern||Mountain View, CA|Open✅|02/13/2025|[Apply Here](https://usa.honda-ri.com/-/robotics-software-engineering-intern)|Graduate Students Only|
 |↳|3D Computer Vision Intern Intern||Mountain View, CA|Open✅|02/13/2025|[Apply Here](https://usa.honda-ri.com/-/3d-computer-vision-intern)|PhD Only|
 |Lakeview|IT Intern||<details><summary>2 locations<br><br><b></summary>Los Angeles, CA<br>Coral Gables, FL</details><b>|Open✅|02/13/2025|[Apply Here](https://careers.bayview.com/lls/jobs/7280)||
