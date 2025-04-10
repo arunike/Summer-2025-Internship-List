@@ -5,7 +5,7 @@ This page provides a breakdown of internship opportunities by status. The table 
 
 ## Internship Positions
 
-There are total of **3559 (998 open & 2561 closed)** internship positions listed. **12** new positions were added today.
+There are total of **3591 (1030 open & 2561 closed)** internship positions listed. **32** new positions were added today.
 
 ### Viewing Options:
 
@@ -29,6 +29,41 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 
 |**Company**|**Job Title**|**Hourly Pay ($)**|**Location**|**Status**|**Date Added**|**Application Link**|**Notes**|
 |-----------|-------------|------------------|------------|----------|--------------|--------------------|-------|
+|Proofpoint|DevOps Intern||Dreper, UT|Open✅|04/10/2025|[Apply Here](https://proofpoint.wd5.myworkdayjobs.com/en-US/proofpointcareers/job/Draper-UT/DevOps-Intern_R12165)||
+|↳|Security Research Engineer Intern|||Open✅|04/10/2025|[Apply Here](https://proofpoint.wd5.myworkdayjobs.com/en-US/proofpointcareers/job/California/Security-Research-Engineer-Intern_R12161)||
+|↳|Software Engineering Intern||Sunnyvale, CA|Open✅|04/10/2025|[Apply Here](https://proofpoint.wd5.myworkdayjobs.com/en-US/proofpointcareers/job/Sunnyvale-CA/Software-Engineering-Intern_R12159)||
+|↳|Software Engineering Intern, People Protection||Sunnyvale, CA|Open✅|04/10/2025|[Apply Here](https://proofpoint.wd5.myworkdayjobs.com/en-US/proofpointcareers/job/Sunnyvale-CA/Software-Engineering-Intern_R12160)||
+|↳|Software Engineering Intern, Results-Oriented Engineering||<details><summary>3 locations<br><br><b></summary>Sunnyvale, CA<br>Pittsburgh, PA<br>Draper, UT</details><b>|Open✅|04/10/2025|[Apply Here](https://proofpoint.wd5.myworkdayjobs.com/en-US/proofpointcareers/job/Sunnyvale-CA/Software-Engineering-Intern_R12139)||
+|↳|Software Engineering Intern, Front-End||<details><summary>3 locations<br><br><b></summary>Sunnyvale, CA<br>Pittsburgh, PA<br>Draper, UT</details><b>|Open✅|04/10/2025|[Apply Here](https://proofpoint.wd5.myworkdayjobs.com/en-US/proofpointcareers/job/Sunnyvale-CA/Software-Engineering-Intern_R12140)||
+|LiveRamp|Software Engineering Intern|30|San Francisco, CA|Open✅|04/10/2025|[Apply Here](https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Intern--Software-Engineering_JR011519)||
+|↳|Data Science Co-Op||San Francisco, CA|Open✅|01/07/2025|[Apply Here](https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Data-Science-Co-Op_JR011408)||
+|AMETEK|Software Engineering Intern|20.83 - 23.43|Atlanta, GA|Open✅|04/10/2025|[Apply Here](https://jobs.ametek.com/job/Atlanta-Software-Engineering-Intern-GA-30339/1280668100)||
+|↳|Software Engineering Intern|20.83 - 23.43|Herndon, VA|Open✅|04/10/2025|[Apply Here](https://jobs.ametek.com/job/Herndon-Software-Engineering-Intern-VA-20171/1280672200)||
+|Citizens|Software Engineer Intern||Johnston, RI|Open✅|04/10/2025|[Apply Here](https://jobs.citizensbank.com/job/johnston/software-engineer-summer-intern/288/79796233088)||
+|↳|Software Engineer Intern, Enterprise Technology & Security||<details><summary>4 locations<br><br><b></summary>Johnson, RI<br>Iselin, NJ<br>Phoenix, AZ<br>Westwood, MA</details><b>|Closed🔒|09/16/2024|||
+|Delinea|Software Engineering Intern||Lehi, UT|Open✅|04/10/2025|[Apply Here](https://jobs.ashbyhq.com/delinea/c20f90dc-e242-4431-b2ee-559d4f4c359a)||
+|Qualtrics|Software Engineering Intern, Collect Platform||Provo, UT|Open✅|04/10/2025|[Apply Here](https://www.qualtrics.com/careers/us/en/job/6780079/Software-Engineering-Intern-Collect-Platform)||
+|↳|Software Engineering Intern, Voice|23.5 - 39|Seattle, WA|Open✅|04/10/2025|[Apply Here](https://www.qualtrics.com/careers/us/en/job/6783987/Software-Engineer-Intern-Voice)||
+|↳|Machine Learning Engineer Intern|49.73 - 65.1|Seattle, WA|Closed🔒|01/16/2025|||
+|United Regional|Robotic Process Automation Engineer Intern||Wichita Falls, TX|Open✅|04/10/2025|[Apply Here](https://careers.unitedregional.org/en/sites/unitedregionalcareers/job/10835)||
+|VulcanForms|Software Engineering Intern||Devens, MA|Open✅|04/10/2025|[Apply Here](https://vulcanforms.bamboohr.com/careers/446)||
+|MoneyLion|AI Content Intern||New York, NY|Open✅|04/10/2025|[Apply Here](https://www.moneylion.com/careers-apply/?gh_jid=5497848004)||
+|↳|Backend Java Engineering Intern||New York, NY|Open✅|04/10/2025|[Apply Here](https://www.moneylion.com/careers-apply/?gh_jid=5497867004)||
+|↳|Data Science Intern||New York, NY|Open✅|04/10/2025|[Apply Here](https://www.moneylion.com/careers-apply/?gh_jid=5497807004)||
+|Glean|Software Engineer Intern||Palo Alto, CA|Open✅|04/10/2025|[Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4552477005)||
+|ZEISS|Advanced Development & Design Research Intern Cloud Computing|23 - 29|Dublin, CA|Open✅|04/10/2025|[Apply Here](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Cloud-Computing_JR_1040760-1)||
+|↳|Advanced Development & Design Research Intern Detectors|23 - 29|Dublin, CA|Open✅|04/10/2025|[Apply Here](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Detectors_JR_1040759-1)||
+|↳|Advanced Development & Design Research Intern Image Quality|23 - 29|Dublin, CA|Open✅|04/10/2025|[Apply Here](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Image-Quality_JR_1040761)||
+|Socure|Data Science Intern, DI||Remote|Open✅|04/10/2025|[Apply Here](https://socure.wd1.myworkdayjobs.com/en-US/SocureCareers/job/Remote---USA/Data-Science-Intern---DI_JR512)||
+|↳|Data Science Intern, FPF||Remote|Open✅|04/10/2025|[Apply Here](https://socure.wd1.myworkdayjobs.com/en-US/SocureCareers/job/Remote---USA/Data-Science-Intern_JR510)||
+|↳|Data Science Intern, DocV||Remote|Open✅|04/10/2025|[Apply Here](https://socure.wd1.myworkdayjobs.com/en-US/SocureCareers/job/Remote---USA/Data-Science-Intern---DocV_JR511)||
+|CyberArk|Site Reliability Engineer Intern|32 - 40|Newton, MA|Open✅|04/10/2025|[Apply Here](https://www.cyberark.com/careers/all-job-openings/job-post/?job_id=744000053184825)||
+|↳|AI GTM Intern|32 - 40|Newton, MA|Open✅|04/10/2025|[Apply Here](https://www.cyberark.com/careers/all-job-openings/job-post/?job_id=744000052969960)||
+|American Cancer Society|Cybersecurity Services Intern|15|<details><summary>8 locations<br><br><b></summary>Atlanta, GA<br>Boston, MA<br>Charlotte, NC<br>Dallas, TX<br>Miami, FL<br>New York, NY<br>Raleigh, NC<br>Richmond, VA</details><b>|Open✅|04/10/2025|[Apply Here](https://jobs.cancer.org/job/Atlanta-Data-Science-Intern-GA-30303/1280672200)||
+|↳|Data Engineering Intern|20|<details><summary>3 locations<br><br><b></summary>Boston, MA<br>Hartford, CT<br>Philadelphia, PA</details><b>|Open✅|04/10/2025|[Apply Here](https://jobs.cancer.org/job/boston/intern-data-engineering/79/78909176256)||
+|Henry Schein|Big Data Intern|15 - 24|Remote|Open✅|04/10/2025|[Apply Here](https://henryschein.wd1.myworkdayjobs.com/en-US/External_Careers/job/New-York---Remote/Big-Data-Summer-Intern_R129407)||
+|Smith Micro|AI & Data Science Intern||Aliso Viejo, CA|Open✅|04/10/2025|[Apply Here](https://www.smithmicro.com/careers/job/?jobid=f21bfad8-72b3-4a15-88e2-1eb9fddcdc97)||
+|↳|Engineering Intern||Pittsburgh, PA|Open✅|04/10/2025|[Apply Here](https://www.smithmicro.com/careers/job/?jobid=2bfc8694-31d8-4843-bab1-731075b9b15b)||
 |Bio-Rad|Software Engineering Intern, Testing||Hercules, CA|Open✅|04/07/2025|[Apply Here](https://careers.bio-rad.com/jobs/software-engineering-intern-hercules-california-united-states-65ad661a-d8bb-404f-a414-3bf14d026837)||
 |↳|Software Engineering Intern||Hercules, CA|Open✅|04/07/2025|[Apply Here](https://careers.bio-rad.com/jobs/software-engineer-intern-hercules-california-united-states-aa4e30ee-e623-4262-bdfc-ff2559fc28a9)||
 |Coherent|Software Engineer Intern||San Jose, CA|Open✅|04/07/2025|[Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2007131)||
@@ -1092,7 +1127,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Intern||Las Vegas, NV|Open✅|01/16/2025|[Apply Here](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Intern---Las-Vegas-Sands-Corp_R24_0521)||
 |Ingredion|Data Engineer Intern|20 - 25|Westchester, IL|Closed🔒|01/16/2025|||
 |Owens & Minor|Data Analytics Intern||Mechanicsville, VA|Open✅|01/16/2025|[Apply Here](https://owensminor.wd1.myworkdayjobs.com/en-US/OMCareers/job/Data-Analytics-Intern_REQ_24_19281)||
-|Qualtrics|Machine Learning Engineer Intern|49.73 - 65.1|Seattle, WA|Closed🔒|01/16/2025|||
 |T. Rowe Price|Software Engineering Intern, Global Technology|25 - 35|Baltimore, MD|Closed🔒|01/16/2025|||
 |Zoetis|TDS AI Micro Tools Developer Intern|16 - 40.3|Remote|Open✅|01/16/2025|[Apply Here](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/US-Remote/TDS-AI-Micro-Tools-Developer-Intern_JR00016907-1)||
 |↳|ZTD Cloud FinOps Intern|16 - 40.3|<details><summary>2 locations<br><br><b></summary>Kalamazoo, MI<br>Parsippany, NJ</details><b>|Closed🔒|01/16/2025|||
@@ -1345,7 +1379,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |↳|Information Technology Intern|30 - 50|Palo Alto, CA|Closed🔒|01/07/2025|||
 |↳|Machine Learning Software Engineer Intern|30 - 50|Palo Alto, CA|Closed🔒|01/07/2025|||
 |↳|Software Engineering Intern, Distributed Systems|30 - 50|Palo Alto, CA|Closed🔒|01/07/2025|||
-|LiveRamp|Data Science Co-Op||San Francisco, CA|Open✅|01/07/2025|[Apply Here](https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Data-Science-Co-Op_JR011408)||
 |MyFitnessPal|iOS Engineer Intern|25|Remote|Open✅|01/07/2025|[Apply Here](https://boards.greenhouse.io/myfitnesspal/jobs/6510193)||
 |↳|Machine Learning Intern|25|Remote|Open✅|01/07/2025|[Apply Here](https://boards.greenhouse.io/myfitnesspal/jobs/6510462)||
 |↳|Platform Engineer Intern|25|Remote|Open✅|01/07/2025|[Apply Here](https://boards.greenhouse.io/myfitnesspal/jobs/6510362)||
@@ -3095,7 +3128,6 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |Valeo|Machine Learning Software Engineer Intern|23.4 - 29.9|San Mateo, CA|Closed🔒|09/16/2024|||
 |Playground|Software Engineer Intern|45 - 60|New York, NY|Closed🔒|09/16/2024|||
 |Noah Medical|Software Engineer Intern|24 - 31|San Carlos, CA|Closed🔒|09/16/2024|||
-|Citizens|Software Engineer Intern, Enterprise Technology & Security||<details><summary>4 locations<br><br><b></summary>Johnson, RI<br>Iselin, NJ<br>Phoenix, AZ<br>Westwood, MA</details><b>|Closed🔒|09/16/2024|||
 |Best Buy|Associate Software Engineering Intern||Richfield, MN|Closed🔒|09/16/2024|||
 |Johns Hopkins University Applied Physics Laboratory|Algorithm Developer Intern, Artificial Intelligence, Machine Learning, and Information Fusion||Laurel, MD|Closed🔒|09/15/2024|||
 |↳|Cyber Security Intern, Cyber Dominance||Laurel, MD|Closed🔒|09/15/2024|||
